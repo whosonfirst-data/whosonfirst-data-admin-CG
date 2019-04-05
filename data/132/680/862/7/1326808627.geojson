@@ -1,0 +1,72 @@
+{
+  "id": 1326808627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87806,-4.42028,14.87806,-4.42028",
+    "geom:latitude":-4.42028,
+    "geom:longitude":14.87806,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Menanguela",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257282,
+    "gn:latitude":-4.42028,
+    "gn:longitude":14.87806,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"M\u00e9nangu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menang\u00e9la",
+        "M\u00e9nangu\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257282
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"75e378c002f84c8c2d7d94b494f66793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1326808627,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1326808627,
+    "wof:lastmodified":1537590675,
+    "wof:name":"Menanguela",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87806,
+    -4.42028,
+    14.87806,
+    -4.42028
+],
+  "geometry": {"coordinates":[14.87806,-4.42028],"type":"Point"}
+}

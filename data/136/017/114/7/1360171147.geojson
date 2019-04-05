@@ -1,0 +1,67 @@
+{
+  "id": 1360171147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82278,-1.60722,14.82278,-1.60722",
+    "geom:latitude":-1.60722,
+    "geom:longitude":14.82278,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ayina",
+    "gn:country_code":"CG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261182,
+    "gn:latitude":-1.60722,
+    "gn:longitude":14.82278,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ayina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261182
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f19cc8e5b9dddc94e9e2d446d7562d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1360171147,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1360171147,
+    "wof:lastmodified":1536820675,
+    "wof:name":"Ayina",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82278,
+    -1.60722,
+    14.82278,
+    -1.60722
+],
+  "geometry": {"coordinates":[14.82278,-1.60722],"type":"Point"}
+}

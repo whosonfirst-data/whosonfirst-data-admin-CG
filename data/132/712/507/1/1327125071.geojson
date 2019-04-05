@@ -1,0 +1,67 @@
+{
+  "id": 1327125071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17389,-2.01861,16.17389,-2.01861",
+    "geom:latitude":-2.01861,
+    "geom:longitude":16.17389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Etolo",
+    "gn:country_code":"CG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260019,
+    "gn:latitude":-2.01861,
+    "gn:longitude":16.17389,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Etolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260019
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fa5f396fe8333abb5d4bab377d6763bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1327125071,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1327125071,
+    "wof:lastmodified":1536624746,
+    "wof:name":"Etolo",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17389,
+    -2.01861,
+    16.17389,
+    -2.01861
+],
+  "geometry": {"coordinates":[16.17389,-2.01861],"type":"Point"}
+}

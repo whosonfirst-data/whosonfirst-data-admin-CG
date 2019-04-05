@@ -1,0 +1,72 @@
+{
+  "id": 1360204739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96278,-1.44222,15.96278,-1.44222",
+    "geom:latitude":-1.44222,
+    "geom:longitude":15.96278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Elonga II",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569614,
+    "gn:latitude":-1.44222,
+    "gn:longitude":15.96278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Elonga II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Elonga",
+        "Elonga II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569614
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"72fc1e2ad29ec333bf3435210a3ee5cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1360204739,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1360204739,
+    "wof:lastmodified":1537590733,
+    "wof:name":"Elonga II",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96278,
+    -1.44222,
+    15.96278,
+    -1.44222
+],
+  "geometry": {"coordinates":[15.96278,-1.44222],"type":"Point"}
+}

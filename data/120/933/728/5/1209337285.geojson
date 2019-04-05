@@ -1,0 +1,61 @@
+{
+  "id": 1209337285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25611,-2.93889,13.25611,-2.93889",
+    "geom:latitude":-2.93889,
+    "geom:longitude":13.25611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Midzaka",
+    "gn:country_code":"CG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257234,
+    "gn:latitude":-2.93889,
+    "gn:longitude":13.25611,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Midzaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257234
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fbb87bbf21ea279b2bc7e17747e4eb20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209337285
+        }
+    ],
+    "wof:id":1209337285,
+    "wof:lastmodified":1536290178,
+    "wof:name":"Midzaka",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25611,
+    -2.93889,
+    13.25611,
+    -2.93889
+],
+  "geometry": {"coordinates":[13.25611,-2.93889],"type":"Point"}
+}

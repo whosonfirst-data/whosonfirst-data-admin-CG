@@ -1,0 +1,67 @@
+{
+  "id": 1310299149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.44167,0.83111,15.44167,0.83111",
+    "geom:latitude":0.83111,
+    "geom:longitude":15.44167,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mokouangounda",
+    "gn:country_code":"CG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256987,
+    "gn:latitude":0.83111,
+    "gn:longitude":15.44167,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Mokouangounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256987
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c5f5a711cc8478c2e81b406467e8b8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1310299149,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1310299149,
+    "wof:lastmodified":1536717427,
+    "wof:name":"Mokouangounda",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.44167,
+    0.83111,
+    15.44167,
+    0.83111
+],
+  "geometry": {"coordinates":[15.44167,0.83111],"type":"Point"}
+}

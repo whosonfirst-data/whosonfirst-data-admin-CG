@@ -1,0 +1,67 @@
+{
+  "id": 1243251493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47889,-4.33389,14.47889,-4.33389",
+    "geom:latitude":-4.33389,
+    "geom:longitude":14.47889,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mibouba",
+    "gn:country_code":"CG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257247,
+    "gn:latitude":-4.33389,
+    "gn:longitude":14.47889,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mibouba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257247
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"02cabecb30bb7bdb8e008f1d27a61b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1243251493,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1243251493,
+    "wof:lastmodified":1537083398,
+    "wof:name":"Mibouba",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47889,
+    -4.33389,
+    14.47889,
+    -4.33389
+],
+  "geometry": {"coordinates":[14.47889,-4.33389],"type":"Point"}
+}

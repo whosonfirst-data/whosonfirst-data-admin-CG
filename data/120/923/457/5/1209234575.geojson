@@ -1,0 +1,61 @@
+{
+  "id": 1209234575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7525,-1.595,15.7525,-1.595",
+    "geom:latitude":-1.595,
+    "geom:longitude":15.7525,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Obili",
+    "gn:country_code":"CG",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569607,
+    "gn:latitude":-1.595,
+    "gn:longitude":15.7525,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Obili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569607
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3a879293b8e1b6986b74a699ca96002f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209234575
+        }
+    ],
+    "wof:id":1209234575,
+    "wof:lastmodified":1536293529,
+    "wof:name":"Obili",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7525,
+    -1.595,
+    15.7525,
+    -1.595
+],
+  "geometry": {"coordinates":[15.7525,-1.595],"type":"Point"}
+}

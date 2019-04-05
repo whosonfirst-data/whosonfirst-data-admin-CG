@@ -1,0 +1,67 @@
+{
+  "id": 1242772397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.28583,-4.64222,13.28583,-4.64222",
+    "geom:latitude":-4.64222,
+    "geom:longitude":13.28583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Diambala",
+    "gn:country_code":"CG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260469,
+    "gn:latitude":-4.64222,
+    "gn:longitude":13.28583,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Diambala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260469
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f4125d6d6ce3a66a85948c861534da03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1242772397,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1242772397,
+    "wof:lastmodified":1536783626,
+    "wof:name":"Diambala",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.28583,
+    -4.64222,
+    13.28583,
+    -4.64222
+],
+  "geometry": {"coordinates":[13.28583,-4.64222],"type":"Point"}
+}

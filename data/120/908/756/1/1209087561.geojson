@@ -1,0 +1,61 @@
+{
+  "id": 1209087561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33917,-3.66167,14.33917,-3.66167",
+    "geom:latitude":-3.66167,
+    "geom:longitude":14.33917,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Louo",
+    "gn:country_code":"CG",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258104,
+    "gn:latitude":-3.66167,
+    "gn:longitude":14.33917,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Louo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258104
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"91c078b276d4b5d7c52856fad72f028e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209087561
+        }
+    ],
+    "wof:id":1209087561,
+    "wof:lastmodified":1536298138,
+    "wof:name":"Louo",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33917,
+    -3.66167,
+    14.33917,
+    -3.66167
+],
+  "geometry": {"coordinates":[14.33917,-3.66167],"type":"Point"}
+}

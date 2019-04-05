@@ -1,0 +1,67 @@
+{
+  "id": 1343383529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02472,-1.37417,16.02472,-1.37417",
+    "geom:latitude":-1.37417,
+    "geom:longitude":16.02472,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Epinge",
+    "gn:country_code":"CG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568352,
+    "gn:latitude":-1.37417,
+    "gn:longitude":16.02472,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Eping\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568352
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7585f5bf33446ce629570640c5193907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1343383529,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1343383529,
+    "wof:lastmodified":1536856042,
+    "wof:name":"Epinge",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02472,
+    -1.37417,
+    16.02472,
+    -1.37417
+],
+  "geometry": {"coordinates":[16.02472,-1.37417],"type":"Point"}
+}

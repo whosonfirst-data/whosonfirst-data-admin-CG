@@ -1,0 +1,67 @@
+{
+  "id": 1327330499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.58333,-3.85,12.58333,-3.85",
+    "geom:latitude":-3.85,
+    "geom:longitude":12.58333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dinga Ndoki",
+    "gn:country_code":"CG",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260429,
+    "gn:latitude":-3.85,
+    "gn:longitude":12.58333,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Dinga Ndoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        421204287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260429
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4b9eba066303cf36fdd4f3fe201ffb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421204287,
+            "locality_id":1327330499,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327330499,
+    "wof:lastmodified":1536827058,
+    "wof:name":"Dinga Ndoki",
+    "wof:parent_id":421204287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.58333,
+    -3.85,
+    12.58333,
+    -3.85
+],
+  "geometry": {"coordinates":[12.58333,-3.85],"type":"Point"}
+}

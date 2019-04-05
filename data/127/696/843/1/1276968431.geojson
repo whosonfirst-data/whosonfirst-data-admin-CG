@@ -1,0 +1,67 @@
+{
+  "id": 1276968431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.08333,1.6,16.08333,1.6",
+    "geom:latitude":1.6,
+    "geom:longitude":16.08333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Binzou",
+    "gn:country_code":"CG",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260855,
+    "gn:latitude":1.6,
+    "gn:longitude":16.08333,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Binzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260855
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"40482cc3bb77da02f5b74ada8f72ff66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1276968431,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276968431,
+    "wof:lastmodified":1536923325,
+    "wof:name":"Binzou",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.08333,
+    1.6,
+    16.08333,
+    1.6
+],
+  "geometry": {"coordinates":[16.08333,1.6],"type":"Point"}
+}

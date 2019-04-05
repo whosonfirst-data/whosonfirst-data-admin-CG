@@ -1,0 +1,67 @@
+{
+  "id": 1293594157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.36194,-3.69778,13.36194,-3.69778",
+    "geom:latitude":-3.69778,
+    "geom:longitude":13.36194,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mapangoy",
+    "gn:country_code":"CG",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568711,
+    "gn:latitude":-3.69778,
+    "gn:longitude":13.36194,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Mapangoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568711
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1f65975892ecc92dc746d167fc38db25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1293594157,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1293594157,
+    "wof:lastmodified":1536631790,
+    "wof:name":"Mapangoy",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.36194,
+    -3.69778,
+    13.36194,
+    -3.69778
+],
+  "geometry": {"coordinates":[13.36194,-3.69778],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209247769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.00111,-4.95194,12.00111,-4.95194",
+    "geom:latitude":-4.95194,
+    "geom:longitude":12.00111,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sanza",
+    "gn:country_code":"CG",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567375,
+    "gn:latitude":-4.95194,
+    "gn:longitude":12.00111,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Sanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567375
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9d65babc56a6b7d85ff4f3d3d1567f3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209247769
+        }
+    ],
+    "wof:id":1209247769,
+    "wof:lastmodified":1536293104,
+    "wof:name":"Sanza",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.00111,
+    -4.9519400000000005,
+    12.00111,
+    -4.9519400000000005
+],
+  "geometry": {"coordinates":[12.00111,-4.95194],"type":"Point"}
+}

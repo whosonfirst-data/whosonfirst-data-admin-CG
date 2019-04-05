@@ -1,0 +1,72 @@
+{
+  "id": 1276319809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85306,-0.47389,15.85306,-0.47389",
+    "geom:latitude":-0.47389,
+    "geom:longitude":15.85306,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Okouma",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257875,
+    "gn:latitude":-0.47389,
+    "gn:longitude":15.85306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Okouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makouma",
+        "Okouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257875
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6065ca948b6fd48bc70f2e75a5276848",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1276319809,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276319809,
+    "wof:lastmodified":1537590682,
+    "wof:name":"Okouma",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85306,
+    -0.47389,
+    15.85306,
+    -0.47389
+],
+  "geometry": {"coordinates":[15.85306,-0.47389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209027725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.23972,-2.7875,12.23972,-2.7875",
+    "geom:latitude":-2.7875,
+    "geom:longitude":12.23972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Souangi",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255246,
+    "gn:latitude":-2.7875,
+    "gn:longitude":12.23972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Souangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Souangui",
+        "Soungui",
+        "Souangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255246
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b2d0a4ef1ed1fa67d8ffe6d2a788f09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209027725
+        }
+    ],
+    "wof:id":1209027725,
+    "wof:lastmodified":1537590648,
+    "wof:name":"Souangi",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.23972,
+    -2.7875,
+    12.23972,
+    -2.7875
+],
+  "geometry": {"coordinates":[12.23972,-2.7875],"type":"Point"}
+}

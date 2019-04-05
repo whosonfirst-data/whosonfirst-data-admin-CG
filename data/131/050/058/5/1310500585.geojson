@@ -1,0 +1,67 @@
+{
+  "id": 1310500585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60194,-2.655,13.60194,-2.655",
+    "geom:latitude":-2.655,
+    "geom:longitude":13.60194,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matzili",
+    "gn:country_code":"CG",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569342,
+    "gn:latitude":-2.655,
+    "gn:longitude":13.60194,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Matzili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569342
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0dce52b41405c4460b3ff7a33397a648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1310500585,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310500585,
+    "wof:lastmodified":1536924732,
+    "wof:name":"Matzili",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60194,
+    -2.655,
+    13.60194,
+    -2.655
+],
+  "geometry": {"coordinates":[13.60194,-2.655],"type":"Point"}
+}

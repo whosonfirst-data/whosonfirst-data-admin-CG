@@ -1,0 +1,67 @@
+{
+  "id": 1293079191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48389,-4.19333,14.48389,-4.19333",
+    "geom:latitude":-4.19333,
+    "geom:longitude":14.48389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Abankima",
+    "gn:country_code":"CG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566337,
+    "gn:latitude":-4.19333,
+    "gn:longitude":14.48389,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Abankima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566337
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a33f8a19c6ea4da19deae6d75e06fd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1293079191,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293079191,
+    "wof:lastmodified":1536877979,
+    "wof:name":"Abankima",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48389,
+    -4.19333,
+    14.48389,
+    -4.19333
+],
+  "geometry": {"coordinates":[14.48389,-4.19333],"type":"Point"}
+}

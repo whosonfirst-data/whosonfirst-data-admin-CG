@@ -1,0 +1,67 @@
+{
+  "id": 1309982541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81389,-1.59667,14.81389,-1.59667",
+    "geom:latitude":-1.59667,
+    "geom:longitude":14.81389,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ambomo",
+    "gn:country_code":"CG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261307,
+    "gn:latitude":-1.59667,
+    "gn:longitude":14.81389,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ambomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261307
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"433709f100bb65a036e893f6d7887a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1309982541,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1309982541,
+    "wof:lastmodified":1536676473,
+    "wof:name":"Ambomo",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81389,
+    -1.59667,
+    14.81389,
+    -1.59667
+],
+  "geometry": {"coordinates":[14.81389,-1.59667],"type":"Point"}
+}

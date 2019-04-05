@@ -1,0 +1,67 @@
+{
+  "id": 1360165967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.94861,-4.21833,14.94861,-4.21833",
+    "geom:latitude":-4.21833,
+    "geom:longitude":14.94861,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Karikari",
+    "gn:country_code":"CG",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259395,
+    "gn:latitude":-4.21833,
+    "gn:longitude":14.94861,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Karikari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259395
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0b879550b25ad117c0c4cc410c630c47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1360165967,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1360165967,
+    "wof:lastmodified":1536828065,
+    "wof:name":"Karikari",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.94861,
+    -4.21833,
+    14.94861,
+    -4.21833
+],
+  "geometry": {"coordinates":[14.94861,-4.21833],"type":"Point"}
+}

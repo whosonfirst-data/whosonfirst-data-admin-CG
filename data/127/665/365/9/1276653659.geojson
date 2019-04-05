@@ -1,0 +1,67 @@
+{
+  "id": 1276653659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.92111,-2.58056,11.92111,-2.58056",
+    "geom:latitude":-2.58056,
+    "geom:longitude":11.92111,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mouloundou",
+    "gn:country_code":"CG",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256744,
+    "gn:latitude":-2.58056,
+    "gn:longitude":11.92111,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mouloundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256744
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e596be99c58440a0ba4253fe008988ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1276653659,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1276653659,
+    "wof:lastmodified":1536845520,
+    "wof:name":"Mouloundou",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.92111,
+    -2.58056,
+    11.92111,
+    -2.58056
+],
+  "geometry": {"coordinates":[11.92111,-2.58056],"type":"Point"}
+}

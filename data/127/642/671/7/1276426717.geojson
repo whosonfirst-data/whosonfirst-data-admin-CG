@@ -1,0 +1,67 @@
+{
+  "id": 1276426717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.035,-2.20278,15.035,-2.20278",
+    "geom:latitude":-2.20278,
+    "geom:longitude":15.035,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ango",
+    "gn:country_code":"CG",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261254,
+    "gn:latitude":-2.20278,
+    "gn:longitude":15.035,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Ango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261254
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"08edab0593cbfe3052b694195e34f069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1276426717,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1276426717,
+    "wof:lastmodified":1536653496,
+    "wof:name":"Ango",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.035,
+    -2.20278,
+    15.035,
+    -2.20278
+],
+  "geometry": {"coordinates":[15.035,-2.20278],"type":"Point"}
+}

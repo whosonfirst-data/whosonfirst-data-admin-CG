@@ -1,0 +1,67 @@
+{
+  "id": 1293781637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13278,-0.34306,17.13278,-0.34306",
+    "geom:latitude":-0.34306,
+    "geom:longitude":17.13278,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Likaya",
+    "gn:country_code":"CG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567748,
+    "gn:latitude":-0.34306,
+    "gn:longitude":17.13278,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Likaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567748
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ba5524f9425e713205abe20faed55f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1293781637,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293781637,
+    "wof:lastmodified":1536858804,
+    "wof:name":"Likaya",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13278,
+    -0.34306,
+    17.13278,
+    -0.34306
+],
+  "geometry": {"coordinates":[17.13278,-0.34306],"type":"Point"}
+}

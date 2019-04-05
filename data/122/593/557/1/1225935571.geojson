@@ -1,0 +1,67 @@
+{
+  "id": 1225935571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88861,-3.13722,12.88861,-3.13722",
+    "geom:latitude":-3.13722,
+    "geom:longitude":12.88861,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Makaga",
+    "gn:country_code":"CG",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569026,
+    "gn:latitude":-3.13722,
+    "gn:longitude":12.88861,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Makaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569026
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bea1475f4ca4b1f37fb132a951445c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1225935571,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1225935571,
+    "wof:lastmodified":1536883541,
+    "wof:name":"Makaga",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88861,
+    -3.13722,
+    12.88861,
+    -3.13722
+],
+  "geometry": {"coordinates":[12.88861,-3.13722],"type":"Point"}
+}

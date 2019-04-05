@@ -1,0 +1,66 @@
+{
+  "id": 1209106407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.8275,-4.67667,11.8275,-4.67667",
+    "geom:latitude":-4.67667,
+    "geom:longitude":11.8275,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Vilikagni",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254962,
+    "gn:latitude":-4.67667,
+    "gn:longitude":11.8275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vilikagni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vilitagni",
+        "Vilikagni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254962
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2e37ffd1bdb2b5cef342032532ddb4fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209106407
+        }
+    ],
+    "wof:id":1209106407,
+    "wof:lastmodified":1537590644,
+    "wof:name":"Vilikagni",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.8275,
+    -4.67667,
+    11.8275,
+    -4.67667
+],
+  "geometry": {"coordinates":[11.8275,-4.67667],"type":"Point"}
+}

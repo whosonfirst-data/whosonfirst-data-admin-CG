@@ -1,0 +1,67 @@
+{
+  "id": 1293093633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.83222,2.90722,17.83222,2.90722",
+    "geom:latitude":2.90722,
+    "geom:longitude":17.83222,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nkoua",
+    "gn:country_code":"CG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569896,
+    "gn:latitude":2.90722,
+    "gn:longitude":17.83222,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Nkoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569896
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f71592cebb0b4cd89caba073a0319dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1293093633,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293093633,
+    "wof:lastmodified":1536856649,
+    "wof:name":"Nkoua",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.83222,
+    2.90722,
+    17.83222,
+    2.90722
+],
+  "geometry": {"coordinates":[17.83222,2.90722],"type":"Point"}
+}

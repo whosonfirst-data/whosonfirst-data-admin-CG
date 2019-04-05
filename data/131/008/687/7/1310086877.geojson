@@ -1,0 +1,67 @@
+{
+  "id": 1310086877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57111,-3.71472,14.57111,-3.71472",
+    "geom:latitude":-3.71472,
+    "geom:longitude":14.57111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Matzouele",
+    "gn:country_code":"CG",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257554,
+    "gn:latitude":-3.71472,
+    "gn:longitude":14.57111,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Matzou\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257554
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b30c771d729efca62355327804a96646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1310086877,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310086877,
+    "wof:lastmodified":1537022401,
+    "wof:name":"Matzouele",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57111,
+    -3.71472,
+    14.57111,
+    -3.71472
+],
+  "geometry": {"coordinates":[14.57111,-3.71472],"type":"Point"}
+}

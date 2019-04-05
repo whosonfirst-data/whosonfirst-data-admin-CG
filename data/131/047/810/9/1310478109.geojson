@@ -1,0 +1,67 @@
+{
+  "id": 1310478109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06083,-1.195,16.06083,-1.195",
+    "geom:latitude":-1.195,
+    "geom:longitude":16.06083,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Aboko II",
+    "gn:country_code":"CG",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568412,
+    "gn:latitude":-1.195,
+    "gn:longitude":16.06083,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Aboko II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568412
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9c128ad873a437e847f078ac1e64cef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1310478109,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1310478109,
+    "wof:lastmodified":1536956497,
+    "wof:name":"Aboko II",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06083,
+    -1.195,
+    16.06083,
+    -1.195
+],
+  "geometry": {"coordinates":[16.06083,-1.195],"type":"Point"}
+}

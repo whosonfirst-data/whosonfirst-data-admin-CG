@@ -1,0 +1,67 @@
+{
+  "id": 1277069305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.17528,2.47778,18.17528,2.47778",
+    "geom:latitude":2.47778,
+    "geom:longitude":18.17528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Koka",
+    "gn:country_code":"CG",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569910,
+    "gn:latitude":2.47778,
+    "gn:longitude":18.17528,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Koka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569910
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"18c27584a471b3d1b41b88fb8f0d7023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1277069305,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1277069305,
+    "wof:lastmodified":1536787464,
+    "wof:name":"Koka",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.17528,
+    2.47778,
+    18.17528,
+    2.47778
+],
+  "geometry": {"coordinates":[18.17528,2.47778],"type":"Point"}
+}

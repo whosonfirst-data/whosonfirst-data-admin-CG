@@ -1,0 +1,67 @@
+{
+  "id": 1242591877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82583,-4.43056,13.82583,-4.43056",
+    "geom:latitude":-4.43056,
+    "geom:longitude":13.82583,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bikoumbi",
+    "gn:country_code":"CG",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566771,
+    "gn:latitude":-4.43056,
+    "gn:longitude":13.82583,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Bikoumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566771
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"84cb26880f3c28604f85ac292a87e596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012477,
+            "locality_id":1242591877,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1242591877,
+    "wof:lastmodified":1537041250,
+    "wof:name":"Bikoumbi",
+    "wof:parent_id":1092012477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82583,
+    -4.43056,
+    13.82583,
+    -4.43056
+],
+  "geometry": {"coordinates":[13.82583,-4.43056],"type":"Point"}
+}

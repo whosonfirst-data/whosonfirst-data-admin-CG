@@ -1,0 +1,67 @@
+{
+  "id": 1326854369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.25,-4.46667,12.25,-4.46667",
+    "geom:latitude":-4.46667,
+    "geom:longitude":12.25,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ntete",
+    "gn:country_code":"CG",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256036,
+    "gn:latitude":-4.46667,
+    "gn:longitude":12.25,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Nt\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256036
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"86f0e7bd6dc04838787023b332308681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1326854369,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1326854369,
+    "wof:lastmodified":1537016151,
+    "wof:name":"Ntete",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.25,
+    -4.46667,
+    12.25,
+    -4.46667
+],
+  "geometry": {"coordinates":[12.25,-4.46667],"type":"Point"}
+}

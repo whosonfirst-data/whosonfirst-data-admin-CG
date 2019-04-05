@@ -1,0 +1,67 @@
+{
+  "id": 1259661837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4325,-3.52278,14.4325,-3.52278",
+    "geom:latitude":-3.52278,
+    "geom:longitude":14.4325,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kingonongo",
+    "gn:country_code":"CG",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259021,
+    "gn:latitude":-3.52278,
+    "gn:longitude":14.4325,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kingonongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259021
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7b53f1e2139e3692242d4606f1c08cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1259661837,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259661837,
+    "wof:lastmodified":1537094970,
+    "wof:name":"Kingonongo",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4325,
+    -3.52278,
+    14.4325,
+    -3.52278
+],
+  "geometry": {"coordinates":[14.4325,-3.52278],"type":"Point"}
+}

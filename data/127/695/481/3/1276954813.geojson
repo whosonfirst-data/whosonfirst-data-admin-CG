@@ -1,0 +1,67 @@
+{
+  "id": 1276954813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.13444,-0.99778,16.13444,-0.99778",
+    "geom:latitude":-0.99778,
+    "geom:longitude":16.13444,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kali Otoko",
+    "gn:country_code":"CG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259457,
+    "gn:latitude":-0.99778,
+    "gn:longitude":16.13444,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Kali Otoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259457
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ed726ea2db06bae5eabf919a12f7cac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1276954813,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276954813,
+    "wof:lastmodified":1536941546,
+    "wof:name":"Kali Otoko",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.13444,
+    -0.99778,
+    16.13444,
+    -0.99778
+],
+  "geometry": {"coordinates":[16.13444,-0.99778],"type":"Point"}
+}

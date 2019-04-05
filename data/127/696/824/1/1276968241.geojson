@@ -1,0 +1,67 @@
+{
+  "id": 1276968241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97639,1.57806,15.97639,1.57806",
+    "geom:latitude":1.57806,
+    "geom:longitude":15.97639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Beabea",
+    "gn:country_code":"CG",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565606,
+    "gn:latitude":1.57806,
+    "gn:longitude":15.97639,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"B\u00e9ab\u00e9a",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565606
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4964192bd665d8ff5ba4dee714814937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1276968241,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276968241,
+    "wof:lastmodified":1536923579,
+    "wof:name":"Beabea",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97639,
+    1.57806,
+    15.97639,
+    1.57806
+],
+  "geometry": {"coordinates":[15.97639,1.57806],"type":"Point"}
+}

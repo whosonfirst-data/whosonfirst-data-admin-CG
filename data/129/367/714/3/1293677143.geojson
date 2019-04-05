@@ -1,0 +1,67 @@
+{
+  "id": 1293677143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3875,-4.03861,14.3875,-4.03861",
+    "geom:latitude":-4.03861,
+    "geom:longitude":14.3875,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ntari",
+    "gn:country_code":"CG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256046,
+    "gn:latitude":-4.03861,
+    "gn:longitude":14.3875,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Ntari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256046
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e5652f0615824744068478f2cedd24e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1293677143,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293677143,
+    "wof:lastmodified":1537010242,
+    "wof:name":"Ntari",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3875,
+    -4.03861,
+    14.3875,
+    -4.03861
+],
+  "geometry": {"coordinates":[14.3875,-4.03861],"type":"Point"}
+}

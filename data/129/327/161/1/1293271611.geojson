@@ -1,0 +1,72 @@
+{
+  "id": 1293271611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53056,-0.58306,15.53056,-0.58306",
+    "geom:latitude":-0.58306,
+    "geom:longitude":15.53056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ollende",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255760,
+    "gn:latitude":-0.58306,
+    "gn:longitude":15.53056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oll\u00e8nd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ollende-Bouma",
+        "Oll\u00e8nd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255760
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"663c387b54b08f9012cae2cab89afb12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1293271611,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293271611,
+    "wof:lastmodified":1537590656,
+    "wof:name":"Ollende",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53056,
+    -0.58306,
+    15.53056,
+    -0.58306
+],
+  "geometry": {"coordinates":[15.53056,-0.58306],"type":"Point"}
+}

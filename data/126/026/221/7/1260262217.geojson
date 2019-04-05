@@ -1,0 +1,72 @@
+{
+  "id": 1260262217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.46417,-0.44889,15.46417,-0.44889",
+    "geom:latitude":-0.44889,
+    "geom:longitude":15.46417,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ngoko",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256164,
+    "gn:latitude":-0.44889,
+    "gn:longitude":15.46417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niongo",
+        "Ngoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256164
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"91aa21fba646731435391ea3752de67a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1260262217,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1260262217,
+    "wof:lastmodified":1537590662,
+    "wof:name":"Ngoko",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.46417,
+    -0.44889,
+    15.46417,
+    -0.44889
+],
+  "geometry": {"coordinates":[15.46417,-0.44889],"type":"Point"}
+}

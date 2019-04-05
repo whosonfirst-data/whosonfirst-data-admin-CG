@@ -1,0 +1,67 @@
+{
+  "id": 1259396569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71972,-4.42167,13.71972,-4.42167",
+    "geom:latitude":-4.42167,
+    "geom:longitude":13.71972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kinanga-Kenge",
+    "gn:country_code":"CG",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259091,
+    "gn:latitude":-4.42167,
+    "gn:longitude":13.71972,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kinanga-Kenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259091
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0626d13164dd2cb1e1cc76cb8b2c7c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012377,
+            "locality_id":1259396569,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1259396569,
+    "wof:lastmodified":1536982679,
+    "wof:name":"Kinanga-Kenge",
+    "wof:parent_id":1092012377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71972,
+    -4.42167,
+    13.71972,
+    -4.42167
+],
+  "geometry": {"coordinates":[13.71972,-4.42167],"type":"Point"}
+}

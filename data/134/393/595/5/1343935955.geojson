@@ -1,0 +1,67 @@
+{
+  "id": 1343935955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44278,-4.00111,14.44278,-4.00111",
+    "geom:latitude":-4.00111,
+    "geom:longitude":14.44278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Poukoulou",
+    "gn:country_code":"CG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566344,
+    "gn:latitude":-4.00111,
+    "gn:longitude":14.44278,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Poukoulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566344
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2d44f3f65559a5f89bc30cb26553a92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1343935955,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343935955,
+    "wof:lastmodified":1537053140,
+    "wof:name":"Poukoulou",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44278,
+    -4.00111,
+    14.44278,
+    -4.00111
+],
+  "geometry": {"coordinates":[14.44278,-4.00111],"type":"Point"}
+}

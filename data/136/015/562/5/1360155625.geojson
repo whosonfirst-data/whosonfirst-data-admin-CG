@@ -1,0 +1,71 @@
+{
+  "id": 1360155625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69361,-1.03083,14.69361,-1.03083",
+    "geom:latitude":-1.03083,
+    "geom:longitude":14.69361,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ilokoyo",
+    "gn:country_code":"CG",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254837,
+    "gn:latitude":-1.03083,
+    "gn:longitude":14.69361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ilokoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Youlokoyo",
+        "Ilokoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254837
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5ae13134dfca82b84307b8b59609be0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1360155625,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1360155625,
+    "wof:lastmodified":1537590642,
+    "wof:name":"Ilokoyo",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69361,
+    -1.03083,
+    14.69361,
+    -1.03083
+],
+  "geometry": {"coordinates":[14.69361,-1.03083],"type":"Point"}
+}

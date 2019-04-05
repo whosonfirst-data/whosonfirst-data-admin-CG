@@ -1,0 +1,74 @@
+{
+  "id": 1260259127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75889,-0.28056,15.75889,-0.28056",
+    "geom:latitude":-0.28056,
+    "geom:longitude":15.75889,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ikoumou-Okohoko",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255813,
+    "gn:latitude":-0.28056,
+    "gn:longitude":15.75889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ikoumou-Okohoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okokoko",
+        "Ikoumou",
+        "Oko-Oko",
+        "Ikoumou-Okohoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255813
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"56f0e7d661a2e07604246c92c6cbf60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1260259127,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1260259127,
+    "wof:lastmodified":1537590657,
+    "wof:name":"Ikoumou-Okohoko",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75889,
+    -0.28056,
+    15.75889,
+    -0.28056
+],
+  "geometry": {"coordinates":[15.75889,-0.28056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293889655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.91667,-4.83333,11.91667,-4.83333",
+    "geom:latitude":-4.83333,
+    "geom:longitude":11.91667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchimbanmbouka",
+    "gn:country_code":"CG",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255146,
+    "gn:latitude":-4.83333,
+    "gn:longitude":11.91667,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Tchimbanmbouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255146
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ed29772706557bb1111fe14eeef33df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1293889655,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1293889655,
+    "wof:lastmodified":1536704715,
+    "wof:name":"Tchimbanmbouka",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.91667,
+    -4.83333,
+    11.91667,
+    -4.83333
+],
+  "geometry": {"coordinates":[11.91667,-4.83333],"type":"Point"}
+}

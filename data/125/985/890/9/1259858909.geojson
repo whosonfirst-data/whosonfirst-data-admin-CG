@@ -1,0 +1,67 @@
+{
+  "id": 1259858909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.3175,-1.03667,16.3175,-1.03667",
+    "geom:latitude":-1.03667,
+    "geom:longitude":16.3175,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bokwele",
+    "gn:country_code":"CG",
+    "gn:dem":307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568388,
+    "gn:latitude":-1.03667,
+    "gn:longitude":16.3175,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Bokw\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568388
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d358f4b1cebf979db40b7810e58b93d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012807,
+            "locality_id":1259858909,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1259858909,
+    "wof:lastmodified":1536813936,
+    "wof:name":"Bokwele",
+    "wof:parent_id":1092012807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.3175,
+    -1.03667,
+    16.3175,
+    -1.03667
+],
+  "geometry": {"coordinates":[16.3175,-1.03667],"type":"Point"}
+}

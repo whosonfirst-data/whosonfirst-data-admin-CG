@@ -1,0 +1,67 @@
+{
+  "id": 1343756327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.6625,-4.14472,12.6625,-4.14472",
+    "geom:latitude":-4.14472,
+    "geom:longitude":12.6625,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kibambatetsi",
+    "gn:country_code":"CG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566972,
+    "gn:latitude":-4.14472,
+    "gn:longitude":12.6625,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Kibambatetsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        421204287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566972
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7002abeaf9b4ee474e38440b341cdbc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421204287,
+            "locality_id":1343756327,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1343756327,
+    "wof:lastmodified":1536816153,
+    "wof:name":"Kibambatetsi",
+    "wof:parent_id":421204287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.6625,
+    -4.14472,
+    12.6625,
+    -4.14472
+],
+  "geometry": {"coordinates":[12.6625,-4.14472],"type":"Point"}
+}

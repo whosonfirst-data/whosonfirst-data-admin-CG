@@ -1,0 +1,67 @@
+{
+  "id": 1360280693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.765,0.12944,17.765,0.12944",
+    "geom:latitude":0.12944,
+    "geom:longitude":17.765,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Longo",
+    "gn:country_code":"CG",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258324,
+    "gn:latitude":0.12944,
+    "gn:longitude":17.765,
+    "gn:modification_date":"1995-08-01",
+    "gn:name":"Longo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258324
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c569bb9699c0a110c03a1e27ed1b05c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1360280693,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1360280693,
+    "wof:lastmodified":1536663523,
+    "wof:name":"Longo",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.765,
+    0.12944,
+    17.765,
+    0.12944
+],
+  "geometry": {"coordinates":[17.765,0.12944],"type":"Point"}
+}

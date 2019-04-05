@@ -1,0 +1,66 @@
+{
+  "id": 1209083397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93,-3.84083,15.93,-3.84083",
+    "geom:latitude":-3.84083,
+    "geom:longitude":15.93,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Lessia",
+    "gn:country_code":"CG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258603,
+    "gn:latitude":-3.84083,
+    "gn:longitude":15.93,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Lessia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leshia",
+        "L\u00e9chia",
+        "Lessia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258603
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8ea64d67b4cb95429aa45f7dd6a7ce43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209083397
+        }
+    ],
+    "wof:id":1209083397,
+    "wof:lastmodified":1537590687,
+    "wof:name":"Lessia",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93,
+    -3.84083,
+    15.93,
+    -3.84083
+],
+  "geometry": {"coordinates":[15.93,-3.84083],"type":"Point"}
+}

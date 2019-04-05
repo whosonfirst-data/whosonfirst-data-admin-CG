@@ -1,0 +1,67 @@
+{
+  "id": 1226164335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.1575,-2.57,12.1575,-2.57",
+    "geom:latitude":-2.57,
+    "geom:longitude":12.1575,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Isiengi",
+    "gn:country_code":"CG",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259528,
+    "gn:latitude":-2.57,
+    "gn:longitude":12.1575,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Isiengi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259528
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"939d8574563644c6490e694aa79225f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1226164335,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1226164335,
+    "wof:lastmodified":1537048898,
+    "wof:name":"Isiengi",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.1575,
+    -2.57,
+    12.1575,
+    -2.57
+],
+  "geometry": {"coordinates":[12.1575,-2.57],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209192551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24111,-4.23778,14.24111,-4.23778",
+    "geom:latitude":-4.23778,
+    "geom:longitude":14.24111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mantari",
+    "gn:country_code":"CG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257677,
+    "gn:latitude":-4.23778,
+    "gn:longitude":14.24111,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mantari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257677
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8e7d0b65053043c15fc2e3a9a0c2c689",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209192551
+        }
+    ],
+    "wof:id":1209192551,
+    "wof:lastmodified":1536294884,
+    "wof:name":"Mantari",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24111,
+    -4.23778,
+    14.24111,
+    -4.23778
+],
+  "geometry": {"coordinates":[14.24111,-4.23778],"type":"Point"}
+}

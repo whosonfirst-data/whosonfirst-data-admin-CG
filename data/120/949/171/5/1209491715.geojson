@@ -1,0 +1,61 @@
+{
+  "id": 1209491715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98333,-0.48333,15.98333,-0.48333",
+    "geom:latitude":-0.48333,
+    "geom:longitude":15.98333,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Otsende",
+    "gn:country_code":"CG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255597,
+    "gn:latitude":-0.48333,
+    "gn:longitude":15.98333,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Otsende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255597
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c93de36865689252b300f8d14e286bf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209491715
+        }
+    ],
+    "wof:id":1209491715,
+    "wof:lastmodified":1536285465,
+    "wof:name":"Otsende",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98333,
+    -0.48333,
+    15.98333,
+    -0.48333
+],
+  "geometry": {"coordinates":[15.98333,-0.48333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193020889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.21361,-2.98222,13.21361,-2.98222",
+    "geom:latitude":-2.98222,
+    "geom:longitude":13.21361,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Matsiene",
+    "gn:country_code":"CG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569362,
+    "gn:latitude":-2.98222,
+    "gn:longitude":13.21361,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Matsi\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569362
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"333af935fd67f1e11cc9d45c738b4abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1193020889,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1193020889,
+    "wof:lastmodified":1536373353,
+    "wof:name":"Matsiene",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.21361,
+    -2.98222,
+    13.21361,
+    -2.98222
+],
+  "geometry": {"coordinates":[13.21361,-2.98222],"type":"Point"}
+}

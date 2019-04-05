@@ -1,0 +1,72 @@
+{
+  "id": 1259575073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.64417,-3.33833,12.64417,-3.33833",
+    "geom:latitude":-3.33833,
+    "geom:longitude":12.64417,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256357,
+    "gn:latitude":-3.33833,
+    "gn:longitude":12.64417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngala",
+        "Gala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256357
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b77eb273cea4995dc8dfff76ee60740d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1259575073,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259575073,
+    "wof:lastmodified":1537590665,
+    "wof:name":"Gala",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.64417,
+    -3.33833,
+    12.64417,
+    -3.33833
+],
+  "geometry": {"coordinates":[12.64417,-3.33833],"type":"Point"}
+}

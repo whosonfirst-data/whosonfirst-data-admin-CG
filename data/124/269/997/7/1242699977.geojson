@@ -1,0 +1,67 @@
+{
+  "id": 1242699977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.06056,1.68139,17.06056,1.68139",
+    "geom:latitude":1.68139,
+    "geom:longitude":17.06056,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Toukoulaka",
+    "gn:country_code":"CG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255044,
+    "gn:latitude":1.68139,
+    "gn:longitude":17.06056,
+    "gn:modification_date":"1995-06-16",
+    "gn:name":"Toukoulaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255044
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"10a10122386f9fb685ed1657f895d58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1242699977,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1242699977,
+    "wof:lastmodified":1536887091,
+    "wof:name":"Toukoulaka",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.06056,
+    1.68139,
+    17.06056,
+    1.68139
+],
+  "geometry": {"coordinates":[17.06056,1.68139],"type":"Point"}
+}

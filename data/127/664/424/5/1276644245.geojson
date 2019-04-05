@@ -1,0 +1,67 @@
+{
+  "id": 1276644245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31361,-4.05056,14.31361,-4.05056",
+    "geom:latitude":-4.05056,
+    "geom:longitude":14.31361,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moupou",
+    "gn:country_code":"CG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566347,
+    "gn:latitude":-4.05056,
+    "gn:longitude":14.31361,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Moupou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566347
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bdb9cf1b05266f6e01b7fe968070dc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1276644245,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276644245,
+    "wof:lastmodified":1536857960,
+    "wof:name":"Moupou",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31361,
+    -4.05056,
+    14.31361,
+    -4.05056
+],
+  "geometry": {"coordinates":[14.31361,-4.05056],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209614423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.6075,-3.38611,13.6075,-3.38611",
+    "geom:latitude":-3.38611,
+    "geom:longitude":13.6075,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ingolo I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259607,
+    "gn:latitude":-3.38611,
+    "gn:longitude":13.6075,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ingolo I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ingolo",
+        "Ingolo I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259607
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"042e91f26c782b18ae85dcb50cbc36f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209614423
+        }
+    ],
+    "wof:id":1209614423,
+    "wof:lastmodified":1537590700,
+    "wof:name":"Ingolo I",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.6075,
+    -3.38611,
+    13.6075,
+    -3.38611
+],
+  "geometry": {"coordinates":[13.6075,-3.38611],"type":"Point"}
+}

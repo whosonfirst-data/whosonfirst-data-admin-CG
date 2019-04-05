@@ -1,0 +1,67 @@
+{
+  "id": 1293291799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.51861,-3.96083,13.51861,-3.96083",
+    "geom:latitude":-3.96083,
+    "geom:longitude":13.51861,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Manenge",
+    "gn:country_code":"CG",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568622,
+    "gn:latitude":-3.96083,
+    "gn:longitude":13.51861,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Maneng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568622
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3a7df6d749982b4e987e3257f8d60872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1293291799,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1293291799,
+    "wof:lastmodified":1537066222,
+    "wof:name":"Manenge",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.51861,
+    -3.96083,
+    13.51861,
+    -3.96083
+],
+  "geometry": {"coordinates":[13.51861,-3.96083],"type":"Point"}
+}

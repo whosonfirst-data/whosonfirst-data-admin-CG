@@ -1,0 +1,67 @@
+{
+  "id": 1293186329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47167,-2.34583,14.47167,-2.34583",
+    "geom:latitude":-2.34583,
+    "geom:longitude":14.47167,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lefourou",
+    "gn:country_code":"CG",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258587,
+    "gn:latitude":-2.34583,
+    "gn:longitude":14.47167,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"L\u00e9fourou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258587
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"58d89f09fc508e6f103350cfcea7e750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1293186329,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1293186329,
+    "wof:lastmodified":1536724675,
+    "wof:name":"Lefourou",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47167,
+    -2.34583,
+    14.47167,
+    -2.34583
+],
+  "geometry": {"coordinates":[14.47167,-2.34583],"type":"Point"}
+}

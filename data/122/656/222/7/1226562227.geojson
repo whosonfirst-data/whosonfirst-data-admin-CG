@@ -1,0 +1,67 @@
+{
+  "id": 1226562227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53806,-2.37944,14.53806,-2.37944",
+    "geom:latitude":-2.37944,
+    "geom:longitude":14.53806,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ntchoumou",
+    "gn:country_code":"CG",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256041,
+    "gn:latitude":-2.37944,
+    "gn:longitude":14.53806,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Ntchoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256041
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7280fba647b516ce3f2e20d0eebd8ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1226562227,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226562227,
+    "wof:lastmodified":1536973923,
+    "wof:name":"Ntchoumou",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53806,
+    -2.37944,
+    14.53806,
+    -2.37944
+],
+  "geometry": {"coordinates":[14.53806,-2.37944],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259392237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63056,-4.00611,13.63056,-4.00611",
+    "geom:latitude":-4.00611,
+    "geom:longitude":13.63056,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tseke-Mpembe",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255016,
+    "gn:latitude":-4.00611,
+    "gn:longitude":13.63056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ts\u00e9k\u00e9-Mpemb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00e9k\u00e9-Pemb\u00e9",
+        "Ts\u00e9k\u00e9-Mpemb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255016
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"16f69a238bda2e10f8032056fe689b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1259392237,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1259392237,
+    "wof:lastmodified":1537590645,
+    "wof:name":"Tseke-Mpembe",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63056,
+    -4.00611,
+    13.63056,
+    -4.00611
+],
+  "geometry": {"coordinates":[13.63056,-4.00611],"type":"Point"}
+}

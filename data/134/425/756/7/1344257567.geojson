@@ -1,0 +1,67 @@
+{
+  "id": 1344257567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.98528,-4.09667,11.98528,-4.09667",
+    "geom:latitude":-4.09667,
+    "geom:longitude":11.98528,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Midoumba",
+    "gn:country_code":"CG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567436,
+    "gn:latitude":-4.09667,
+    "gn:longitude":11.98528,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Midoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567436
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3456eca4a6275e5415118034f01c4196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012875,
+            "locality_id":1344257567,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1344257567,
+    "wof:lastmodified":1537085181,
+    "wof:name":"Midoumba",
+    "wof:parent_id":1092012875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.98528,
+    -4.09667,
+    11.98528,
+    -4.09667
+],
+  "geometry": {"coordinates":[11.98528,-4.09667],"type":"Point"}
+}

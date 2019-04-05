@@ -1,0 +1,61 @@
+{
+  "id": 1209213857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60194,-2.81917,13.60194,-2.81917",
+    "geom:latitude":-2.81917,
+    "geom:longitude":13.60194,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lefoutou",
+    "gn:country_code":"CG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569359,
+    "gn:latitude":-2.81917,
+    "gn:longitude":13.60194,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"L\u00e9foutou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569359
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1500a44b117297f0309b1b9d2600e55f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209213857
+        }
+    ],
+    "wof:id":1209213857,
+    "wof:lastmodified":1536294199,
+    "wof:name":"Lefoutou",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60194,
+    -2.81917,
+    13.60194,
+    -2.81917
+],
+  "geometry": {"coordinates":[13.60194,-2.81917],"type":"Point"}
+}

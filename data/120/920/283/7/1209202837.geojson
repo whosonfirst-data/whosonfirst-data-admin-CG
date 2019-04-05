@@ -1,0 +1,66 @@
+{
+  "id": 1209202837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58667,-4.8025,14.58667,-4.8025",
+    "geom:latitude":-4.8025,
+    "geom:longitude":14.58667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kioua",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258902,
+    "gn:latitude":-4.8025,
+    "gn:longitude":14.58667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kioua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiowa",
+        "Kioua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258902
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4509acf3661aad10966f5bd7b57f4807",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209202837
+        }
+    ],
+    "wof:id":1209202837,
+    "wof:lastmodified":1537590691,
+    "wof:name":"Kioua",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58667,
+    -4.8025,
+    14.58667,
+    -4.8025
+],
+  "geometry": {"coordinates":[14.58667,-4.8025],"type":"Point"}
+}

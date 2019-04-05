@@ -1,0 +1,67 @@
+{
+  "id": 1343575211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63444,-4.175,13.63444,-4.175",
+    "geom:latitude":-4.175,
+    "geom:longitude":13.63444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nkoyi",
+    "gn:country_code":"CG",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256085,
+    "gn:latitude":-4.175,
+    "gn:longitude":13.63444,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Nkoyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256085
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5c5529001f49e19ea944bdf9de1be32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012433,
+            "locality_id":1343575211,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1343575211,
+    "wof:lastmodified":1537075012,
+    "wof:name":"Nkoyi",
+    "wof:parent_id":1092012433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63444,
+    -4.175,
+    13.63444,
+    -4.175
+],
+  "geometry": {"coordinates":[13.63444,-4.175],"type":"Point"}
+}

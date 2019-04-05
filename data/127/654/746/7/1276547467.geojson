@@ -1,0 +1,67 @@
+{
+  "id": 1276547467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.48306,-4.22611,11.48306,-4.22611",
+    "geom:latitude":-4.22611,
+    "geom:longitude":11.48306,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchibota",
+    "gn:country_code":"CG",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255177,
+    "gn:latitude":-4.22611,
+    "gn:longitude":11.48306,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Tchibota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255177
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"741a85ddd1bebfc9008a670e06070f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012923,
+            "locality_id":1276547467,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1276547467,
+    "wof:lastmodified":1536988266,
+    "wof:name":"Tchibota",
+    "wof:parent_id":1092012923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.48306,
+    -4.22611,
+    11.48306,
+    -4.22611
+],
+  "geometry": {"coordinates":[11.48306,-4.22611],"type":"Point"}
+}

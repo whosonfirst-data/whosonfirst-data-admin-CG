@@ -1,0 +1,67 @@
+{
+  "id": 1327013409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89278,-0.58472,14.89278,-0.58472",
+    "geom:latitude":-0.58472,
+    "geom:longitude":14.89278,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Akoua",
+    "gn:country_code":"CG",
+    "gn:dem":394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261340,
+    "gn:latitude":-0.58472,
+    "gn:longitude":14.89278,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Akoua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261340
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a25a9c27cb5be801b5cb8ffcc8fd15d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1327013409,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1327013409,
+    "wof:lastmodified":1536788376,
+    "wof:name":"Akoua",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89278,
+    -0.58472,
+    14.89278,
+    -0.58472
+],
+  "geometry": {"coordinates":[14.89278,-0.58472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327228417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.63667,-2.42333,11.63667,-2.42333",
+    "geom:latitude":-2.42333,
+    "geom:longitude":11.63667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mavindza",
+    "gn:country_code":"CG",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257550,
+    "gn:latitude":-2.42333,
+    "gn:longitude":11.63667,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mavindza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257550
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1176b3fc3f91baf9b10ab99d67c416a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1327228417,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1327228417,
+    "wof:lastmodified":1536974890,
+    "wof:name":"Mavindza",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.63667,
+    -2.42333,
+    11.63667,
+    -2.42333
+],
+  "geometry": {"coordinates":[11.63667,-2.42333],"type":"Point"}
+}

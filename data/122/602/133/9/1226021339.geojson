@@ -1,0 +1,72 @@
+{
+  "id": 1226021339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.95611,-0.52194,15.95611,-0.52194",
+    "geom:latitude":-0.52194,
+    "geom:longitude":15.95611,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lingue-Ongoyo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258412,
+    "gn:latitude":-0.52194,
+    "gn:longitude":15.95611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Lingu\u00e9-Ongoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lingu\u00e9-Ongoye",
+        "Lingu\u00e9-Ongoyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258412
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dcefee9fd0ee2ce8b2082080db6995dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1226021339,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1226021339,
+    "wof:lastmodified":1537590686,
+    "wof:name":"Lingue-Ongoyo",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.95611,
+    -0.52194,
+    15.95611,
+    -0.52194
+],
+  "geometry": {"coordinates":[15.95611,-0.52194],"type":"Point"}
+}

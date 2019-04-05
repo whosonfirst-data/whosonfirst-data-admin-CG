@@ -1,0 +1,67 @@
+{
+  "id": 1276463865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.04972,-1.765,16.04972,-1.765",
+    "geom:latitude":-1.765,
+    "geom:longitude":16.04972,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Onsi",
+    "gn:country_code":"CG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255672,
+    "gn:latitude":-1.765,
+    "gn:longitude":16.04972,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Onsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255672
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c7cf6fbc4fd5181b8a11e6df36a630c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1276463865,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1276463865,
+    "wof:lastmodified":1536600688,
+    "wof:name":"Onsi",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.04972,
+    -1.765,
+    16.04972,
+    -1.765
+],
+  "geometry": {"coordinates":[16.04972,-1.765],"type":"Point"}
+}

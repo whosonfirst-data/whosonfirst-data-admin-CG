@@ -1,0 +1,67 @@
+{
+  "id": 1343979313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67472,-2.67028,11.67472,-2.67028",
+    "geom:latitude":-2.67028,
+    "geom:longitude":11.67472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dissandou",
+    "gn:country_code":"CG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260415,
+    "gn:latitude":-2.67028,
+    "gn:longitude":11.67472,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Dissandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260415
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d6ab67be461ca1fed9db569ddf456bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1343979313,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1343979313,
+    "wof:lastmodified":1536992046,
+    "wof:name":"Dissandou",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67472,
+    -2.67028,
+    11.67472,
+    -2.67028
+],
+  "geometry": {"coordinates":[11.67472,-2.67028],"type":"Point"}
+}

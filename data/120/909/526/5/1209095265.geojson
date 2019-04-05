@@ -1,0 +1,61 @@
+{
+  "id": 1209095265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5,1.65,13.5,1.65",
+    "geom:latitude":1.65,
+    "geom:longitude":13.5,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zoul",
+    "gn:country_code":"CG",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254782,
+    "gn:latitude":1.65,
+    "gn:longitude":13.5,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Zoul",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254782
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a8244f75f661ff7053c58b2e3246c678",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209095265
+        }
+    ],
+    "wof:id":1209095265,
+    "wof:lastmodified":1536297907,
+    "wof:name":"Zoul",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5,
+    1.65,
+    13.5,
+    1.65
+],
+  "geometry": {"coordinates":[13.5,1.65],"type":"Point"}
+}

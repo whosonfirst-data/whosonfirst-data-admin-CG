@@ -1,0 +1,67 @@
+{
+  "id": 1293801733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.47389,-4.20083,13.47389,-4.20083",
+    "geom:latitude":-4.20083,
+    "geom:longitude":13.47389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kimbaoka",
+    "gn:country_code":"CG",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259192,
+    "gn:latitude":-4.20083,
+    "gn:longitude":13.47389,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Kimbaoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259192
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6724e8dd57ef6564c15ce37e3279e94a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012433,
+            "locality_id":1293801733,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1293801733,
+    "wof:lastmodified":1536830148,
+    "wof:name":"Kimbaoka",
+    "wof:parent_id":1092012433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.47389,
+    -4.20083,
+    13.47389,
+    -4.20083
+],
+  "geometry": {"coordinates":[13.47389,-4.20083],"type":"Point"}
+}

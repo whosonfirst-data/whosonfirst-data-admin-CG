@@ -1,0 +1,67 @@
+{
+  "id": 1310193193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.47833,-4.47389,14.47833,-4.47389",
+    "geom:latitude":-4.47389,
+    "geom:longitude":14.47833,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kimbeti",
+    "gn:country_code":"CG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566153,
+    "gn:latitude":-4.47389,
+    "gn:longitude":14.47833,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kimb\u00e9ti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566153
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"cf7d51e6c31fd822c06bbe86a4dbbe00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1310193193,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310193193,
+    "wof:lastmodified":1536868906,
+    "wof:name":"Kimbeti",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.47833,
+    -4.47389,
+    14.47833,
+    -4.47389
+],
+  "geometry": {"coordinates":[14.47833,-4.47389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344254575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05,1.81667,18.05,1.81667",
+    "geom:latitude":1.81667,
+    "geom:longitude":18.05,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Botanga",
+    "gn:country_code":"CG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260713,
+    "gn:latitude":1.81667,
+    "gn:longitude":18.05,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Botanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260713
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"456695fea096f5cc6a99a8a56b9b54c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1344254575,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1344254575,
+    "wof:lastmodified":1537089541,
+    "wof:name":"Botanga",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05,
+    1.81667,
+    18.05,
+    1.81667
+],
+  "geometry": {"coordinates":[18.05,1.81667],"type":"Point"}
+}

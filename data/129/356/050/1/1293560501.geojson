@@ -1,0 +1,72 @@
+{
+  "id": 1293560501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4925,0.25583,15.4925,0.25583",
+    "geom:latitude":0.25583,
+    "geom:longitude":15.4925,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Epete",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260062,
+    "gn:latitude":0.25583,
+    "gn:longitude":15.4925,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ep\u00e9t\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ep\u00e9d\u00e9",
+        "Ep\u00e9t\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260062
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"973d1802133f5f7ad3dec4ff71be542a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1293560501,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293560501,
+    "wof:lastmodified":1537590708,
+    "wof:name":"Epete",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4925,
+    0.25583,
+    15.4925,
+    0.25583
+],
+  "geometry": {"coordinates":[15.4925,0.25583],"type":"Point"}
+}

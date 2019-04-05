@@ -1,0 +1,67 @@
+{
+  "id": 1344137951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.51806,-3.53917,14.51806,-3.53917",
+    "geom:latitude":-3.53917,
+    "geom:longitude":14.51806,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kiyndou",
+    "gn:country_code":"CG",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258837,
+    "gn:latitude":-3.53917,
+    "gn:longitude":14.51806,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kiyndou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258837
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"43de051157b5083fd36a7aaefc6fb7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1344137951,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1344137951,
+    "wof:lastmodified":1536764134,
+    "wof:name":"Kiyndou",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.51806,
+    -3.53917,
+    14.51806,
+    -3.53917
+],
+  "geometry": {"coordinates":[14.51806,-3.53917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343233137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16694,0.15389,14.16694,0.15389",
+    "geom:latitude":0.15389,
+    "geom:longitude":14.16694,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yembelangoy",
+    "gn:country_code":"CG",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2565903,
+    "gn:latitude":0.15389,
+    "gn:longitude":14.16694,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Yemb\u00e9langoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Yembelangoye",
+        "Yemb\u00e9langoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565903
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bc170e276a7b36e069962566330bff23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1343233137,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1343233137,
+    "wof:lastmodified":1537590729,
+    "wof:name":"Yembelangoy",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16694,
+    0.15389,
+    14.16694,
+    0.15389
+],
+  "geometry": {"coordinates":[14.16694,0.15389],"type":"Point"}
+}

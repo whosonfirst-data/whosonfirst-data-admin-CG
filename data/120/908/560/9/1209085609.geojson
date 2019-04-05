@@ -1,0 +1,66 @@
+{
+  "id": 1209085609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63611,-0.02528,15.63611,-0.02528",
+    "geom:latitude":-0.02528,
+    "geom:longitude":15.63611,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lengui",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258505,
+    "gn:latitude":-0.02528,
+    "gn:longitude":15.63611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00e8ngui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lingu\u00e9",
+        "L\u00e8ngui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258505
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2e822c13b5c2291cec0dbdb5edc7daf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209085609
+        }
+    ],
+    "wof:id":1209085609,
+    "wof:lastmodified":1537590687,
+    "wof:name":"Lengui",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63611,
+    -0.02528,
+    15.63611,
+    -0.02528
+],
+  "geometry": {"coordinates":[15.63611,-0.02528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343938883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.87583,-4.44556,14.87583,-4.44556",
+    "geom:latitude":-4.44556,
+    "geom:longitude":14.87583,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Maoutani",
+    "gn:country_code":"CG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257666,
+    "gn:latitude":-4.44556,
+    "gn:longitude":14.87583,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Maoutani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257666
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"69a1a6a561e02fd2c677bf52b2b0834b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1343938883,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343938883,
+    "wof:lastmodified":1537049131,
+    "wof:name":"Maoutani",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.87583,
+    -4.44556,
+    14.87583,
+    -4.44556
+],
+  "geometry": {"coordinates":[14.87583,-4.44556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242568457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93139,-1.75222,15.93139,-1.75222",
+    "geom:latitude":-1.75222,
+    "geom:longitude":15.93139,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ntsou",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256003,
+    "gn:latitude":-1.75222,
+    "gn:longitude":15.93139,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ntsou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsou",
+        "Ntsou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256003
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"35fa0f75abbe2fabd39e527fe9317197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1242568457,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1242568457,
+    "wof:lastmodified":1537590661,
+    "wof:name":"Ntsou",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93139,
+    -1.75222,
+    15.93139,
+    -1.75222
+],
+  "geometry": {"coordinates":[15.93139,-1.75222],"type":"Point"}
+}

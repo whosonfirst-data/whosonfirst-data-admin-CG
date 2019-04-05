@@ -1,0 +1,67 @@
+{
+  "id": 1226220487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41361,-4.72806,14.41361,-4.72806",
+    "geom:latitude":-4.72806,
+    "geom:longitude":14.41361,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbanza Bembe",
+    "gn:country_code":"CG",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257448,
+    "gn:latitude":-4.72806,
+    "gn:longitude":14.41361,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mbanza Bemb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257448
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0548f76e55efa233e0864751434512aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1226220487,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226220487,
+    "wof:lastmodified":1536969790,
+    "wof:name":"Mbanza Bembe",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41361,
+    -4.72806,
+    14.41361,
+    -4.72806
+],
+  "geometry": {"coordinates":[14.41361,-4.72806],"type":"Point"}
+}

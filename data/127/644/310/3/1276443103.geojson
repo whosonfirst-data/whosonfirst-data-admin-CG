@@ -1,0 +1,72 @@
+{
+  "id": 1276443103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.3525,-4.35944,12.3525,-4.35944",
+    "geom:latitude":-4.35944,
+    "geom:longitude":12.3525,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mboulou",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258489,
+    "gn:latitude":-4.35944,
+    "gn:longitude":12.3525,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mboulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Les Saras",
+        "Mboulou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258489
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"21119f85ec7f079f16c41ec3bd57b160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1276443103,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1276443103,
+    "wof:lastmodified":1537590687,
+    "wof:name":"Mboulou",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.3525,
+    -4.35944,
+    12.3525,
+    -4.35944
+],
+  "geometry": {"coordinates":[12.3525,-4.35944],"type":"Point"}
+}

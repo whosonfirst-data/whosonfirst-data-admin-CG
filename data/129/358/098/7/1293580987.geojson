@@ -1,0 +1,67 @@
+{
+  "id": 1293580987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.37833,-2.7125,12.37833,-2.7125",
+    "geom:latitude":-2.7125,
+    "geom:longitude":12.37833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Diousala",
+    "gn:country_code":"CG",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260420,
+    "gn:latitude":-2.7125,
+    "gn:longitude":12.37833,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Diousala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260420
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3a1d9789928ebbae5601a82448a0f257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1293580987,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1293580987,
+    "wof:lastmodified":1536652246,
+    "wof:name":"Diousala",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.37833,
+    -2.7125,
+    12.37833,
+    -2.7125
+],
+  "geometry": {"coordinates":[12.37833,-2.7125],"type":"Point"}
+}

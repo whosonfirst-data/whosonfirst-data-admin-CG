@@ -1,0 +1,67 @@
+{
+  "id": 1276155071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.74028,-3.26167,13.74028,-3.26167",
+    "geom:latitude":-3.26167,
+    "geom:longitude":13.74028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Salambama",
+    "gn:country_code":"CG",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568602,
+    "gn:latitude":-3.26167,
+    "gn:longitude":13.74028,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Salambama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568602
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"79b0ddc7ff87fb148a15cf39495f54a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1276155071,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1276155071,
+    "wof:lastmodified":1537016915,
+    "wof:name":"Salambama",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.74028,
+    -3.26167,
+    13.74028,
+    -3.26167
+],
+  "geometry": {"coordinates":[13.74028,-3.26167],"type":"Point"}
+}

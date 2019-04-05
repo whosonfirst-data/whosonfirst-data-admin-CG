@@ -1,0 +1,67 @@
+{
+  "id": 1259361359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83778,-4.37972,14.83778,-4.37972",
+    "geom:latitude":-4.37972,
+    "geom:longitude":14.83778,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gamissiba",
+    "gn:country_code":"CG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566199,
+    "gn:latitude":-4.37972,
+    "gn:longitude":14.83778,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Gamissiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566199
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9b3c2c3f708870f9395bb1244658e8f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1259361359,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259361359,
+    "wof:lastmodified":1537032739,
+    "wof:name":"Gamissiba",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83778,
+    -4.37972,
+    14.83778,
+    -4.37972
+],
+  "geometry": {"coordinates":[14.83778,-4.37972],"type":"Point"}
+}

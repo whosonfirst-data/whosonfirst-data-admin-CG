@@ -1,0 +1,67 @@
+{
+  "id": 1309828313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08528,2.18083,18.08528,2.18083",
+    "geom:latitude":2.18083,
+    "geom:longitude":18.08528,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tala-Ngai",
+    "gn:country_code":"CG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569905,
+    "gn:latitude":2.18083,
+    "gn:longitude":18.08528,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Tala-Ngai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569905
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3d9603716c45a64ec69faa25956482b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1309828313,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1309828313,
+    "wof:lastmodified":1536898646,
+    "wof:name":"Tala-Ngai",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08528,
+    2.18083,
+    18.08528,
+    2.18083
+],
+  "geometry": {"coordinates":[18.08528,2.18083],"type":"Point"}
+}

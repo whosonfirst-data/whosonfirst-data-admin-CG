@@ -1,0 +1,67 @@
+{
+  "id": 1276757043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.05111,2.13972,18.05111,2.13972",
+    "geom:latitude":2.13972,
+    "geom:longitude":18.05111,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kouaka",
+    "gn:country_code":"CG",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569903,
+    "gn:latitude":2.13972,
+    "gn:longitude":18.05111,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Kouaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569903
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"de7374b9e670ce277640c9302e5afb3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1276757043,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1276757043,
+    "wof:lastmodified":1536708438,
+    "wof:name":"Kouaka",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.05111,
+    2.13972,
+    18.05111,
+    2.13972
+],
+  "geometry": {"coordinates":[18.05111,2.13972],"type":"Point"}
+}

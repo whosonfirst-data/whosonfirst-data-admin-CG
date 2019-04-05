@@ -1,0 +1,67 @@
+{
+  "id": 1343347073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78306,-1.57611,15.78306,-1.57611",
+    "geom:latitude":-1.57611,
+    "geom:longitude":15.78306,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mbaeso",
+    "gn:country_code":"CG",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569610,
+    "gn:latitude":-1.57611,
+    "gn:longitude":15.78306,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Mba\u00e9so",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569610
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2bc40b54aebd93abb5c6fdd5b2d2a436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1343347073,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1343347073,
+    "wof:lastmodified":1536910273,
+    "wof:name":"Mbaeso",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78306,
+    -1.57611,
+    15.78306,
+    -1.57611
+],
+  "geometry": {"coordinates":[15.78306,-1.57611],"type":"Point"}
+}

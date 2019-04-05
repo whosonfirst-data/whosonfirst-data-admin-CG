@@ -1,0 +1,67 @@
+{
+  "id": 1309994947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.55889,1.62778,14.55889,1.62778",
+    "geom:latitude":1.62778,
+    "geom:longitude":14.55889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yanebout",
+    "gn:country_code":"CG",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254900,
+    "gn:latitude":1.62778,
+    "gn:longitude":14.55889,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Yan\u00e9bout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254900
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"85b5b30a48f96fd9cb095c00a7501f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1309994947,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1309994947,
+    "wof:lastmodified":1536658632,
+    "wof:name":"Yanebout",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.55889,
+    1.62778,
+    14.55889,
+    1.62778
+],
+  "geometry": {"coordinates":[14.55889,1.62778],"type":"Point"}
+}

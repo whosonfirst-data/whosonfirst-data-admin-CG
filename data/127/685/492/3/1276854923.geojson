@@ -1,0 +1,67 @@
+{
+  "id": 1276854923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.48333,1.63333,13.48333,1.63333",
+    "geom:latitude":1.63333,
+    "geom:longitude":13.48333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kou",
+    "gn:country_code":"CG",
+    "gn:dem":493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258777,
+    "gn:latitude":1.63333,
+    "gn:longitude":13.48333,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Kou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258777
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"cd73d9e82ab9578ea712b568de105941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1276854923,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276854923,
+    "wof:lastmodified":1537071480,
+    "wof:name":"Kou",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.48333,
+    1.63333,
+    13.48333,
+    1.63333
+],
+  "geometry": {"coordinates":[13.48333,1.63333],"type":"Point"}
+}

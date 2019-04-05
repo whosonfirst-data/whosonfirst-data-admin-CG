@@ -1,0 +1,72 @@
+{
+  "id": 1344043075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10333,-1.82472,16.10333,-1.82472",
+    "geom:latitude":-1.82472,
+    "geom:longitude":16.10333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Anbala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261314,
+    "gn:latitude":-1.82472,
+    "gn:longitude":16.10333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Anbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambali",
+        "Anbala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261314
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"62698d70ed5f553ffd511cf83c39d7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1344043075,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1344043075,
+    "wof:lastmodified":1537590727,
+    "wof:name":"Anbala",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10333,
+    -1.82472,
+    16.10333,
+    -1.82472
+],
+  "geometry": {"coordinates":[16.10333,-1.82472],"type":"Point"}
+}

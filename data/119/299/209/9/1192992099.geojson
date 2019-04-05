@@ -1,0 +1,67 @@
+{
+  "id": 1192992099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18528,-0.33806,14.18528,-0.33806",
+    "geom:latitude":-0.33806,
+    "geom:longitude":14.18528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ossele",
+    "gn:country_code":"CG",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568195,
+    "gn:latitude":-0.33806,
+    "gn:longitude":14.18528,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Oss\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568195
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"750720a138373629064bee5c8b0b2fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1192992099,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1192992099,
+    "wof:lastmodified":1536379776,
+    "wof:name":"Ossele",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18528,
+    -0.33806,
+    14.18528,
+    -0.33806
+],
+  "geometry": {"coordinates":[14.18528,-0.33806],"type":"Point"}
+}

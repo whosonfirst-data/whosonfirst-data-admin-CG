@@ -1,0 +1,72 @@
+{
+  "id": 1310585003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94778,2.14833,13.94778,2.14833",
+    "geom:latitude":2.14833,
+    "geom:longitude":13.94778,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Cabosse",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259470,
+    "gn:latitude":2.14833,
+    "gn:longitude":13.94778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Cabosse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabos",
+        "Cabosse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259470
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b13e7d96434b9b1c603ad9c788966f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1310585003,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1310585003,
+    "wof:lastmodified":1537590699,
+    "wof:name":"Cabosse",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94778,
+    2.14833,
+    13.94778,
+    2.14833
+],
+  "geometry": {"coordinates":[13.94778,2.14833],"type":"Point"}
+}

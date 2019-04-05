@@ -1,0 +1,67 @@
+{
+  "id": 1360207379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75417,-2.86806,13.75417,-2.86806",
+    "geom:latitude":-2.86806,
+    "geom:longitude":13.75417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kingolo",
+    "gn:country_code":"CG",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259030,
+    "gn:latitude":-2.86806,
+    "gn:longitude":13.75417,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Kingolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259030
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"aea5a34af62b5964ed1cfcf6617b5b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1360207379,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1360207379,
+    "wof:lastmodified":1536769806,
+    "wof:name":"Kingolo",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75417,
+    -2.86806,
+    13.75417,
+    -2.86806
+],
+  "geometry": {"coordinates":[13.75417,-2.86806],"type":"Point"}
+}

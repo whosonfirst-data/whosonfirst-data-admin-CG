@@ -1,0 +1,62 @@
+{
+  "id": 1209400411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.56944,-0.99028,15.56944,-0.99028",
+    "geom:latitude":-0.99028,
+    "geom:longitude":15.56944,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ekosso",
+    "gn:country_code":"CG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568021,
+    "gn:latitude":-0.99028,
+    "gn:longitude":15.56944,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ekosso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568021,
+        "wk:page":"Ekosso"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5e011c476506a0029cbb33eb8b8f38a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209400411
+        }
+    ],
+    "wof:id":1209400411,
+    "wof:lastmodified":1537489261,
+    "wof:name":"Ekosso",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.56944,
+    -0.99028,
+    15.56944,
+    -0.99028
+],
+  "geometry": {"coordinates":[15.56944,-0.99028],"type":"Point"}
+}

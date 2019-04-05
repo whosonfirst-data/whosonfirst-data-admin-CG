@@ -1,0 +1,67 @@
+{
+  "id": 1309992305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.68139,-0.30222,15.68139,-0.30222",
+    "geom:latitude":-0.30222,
+    "geom:longitude":15.68139,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mouengue",
+    "gn:country_code":"CG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567875,
+    "gn:latitude":-0.30222,
+    "gn:longitude":15.68139,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Mou\u00e8ngu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567875
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"72e913474aecb16d37d0140f3dbf2687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1309992305,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1309992305,
+    "wof:lastmodified":1536662379,
+    "wof:name":"Mouengue",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.68139,
+    -0.30222,
+    15.68139,
+    -0.30222
+],
+  "geometry": {"coordinates":[15.68139,-0.30222],"type":"Point"}
+}

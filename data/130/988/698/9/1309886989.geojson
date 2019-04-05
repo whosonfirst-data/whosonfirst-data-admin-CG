@@ -1,0 +1,67 @@
+{
+  "id": 1309886989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43222,-3.82778,14.43222,-3.82778",
+    "geom:latitude":-3.82778,
+    "geom:longitude":14.43222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Emanika",
+    "gn:country_code":"CG",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260099,
+    "gn:latitude":-3.82778,
+    "gn:longitude":14.43222,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Emanika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260099
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"62b239f41363f0933e2e7bc2abb94ab6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1309886989,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1309886989,
+    "wof:lastmodified":1536813481,
+    "wof:name":"Emanika",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43222,
+    -3.82778,
+    14.43222,
+    -3.82778
+],
+  "geometry": {"coordinates":[14.43222,-3.82778],"type":"Point"}
+}

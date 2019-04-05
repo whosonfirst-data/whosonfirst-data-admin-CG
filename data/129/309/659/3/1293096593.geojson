@@ -1,0 +1,67 @@
+{
+  "id": 1293096593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.03333,1.7,18.03333,1.7",
+    "geom:latitude":1.7,
+    "geom:longitude":18.03333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Modzaka",
+    "gn:country_code":"CG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257019,
+    "gn:latitude":1.7,
+    "gn:longitude":18.03333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Modzaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257019
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c566bbb8f1454fa59a7fc729d591f9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1293096593,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293096593,
+    "wof:lastmodified":1536852544,
+    "wof:name":"Modzaka",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.03333,
+    1.7,
+    18.03333,
+    1.7
+],
+  "geometry": {"coordinates":[18.03333,1.7],"type":"Point"}
+}

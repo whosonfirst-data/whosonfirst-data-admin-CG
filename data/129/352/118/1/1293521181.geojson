@@ -1,0 +1,72 @@
+{
+  "id": 1293521181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.84528,-2.82639,13.84528,-2.82639",
+    "geom:latitude":-2.82639,
+    "geom:longitude":13.84528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ondama I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255716,
+    "gn:latitude":-2.82639,
+    "gn:longitude":13.84528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ondama I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ondama",
+        "Ondama I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255716
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"26e9afb3363cff10292a9ce531de6557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1293521181,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1293521181,
+    "wof:lastmodified":1537590655,
+    "wof:name":"Ondama I",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.84528,
+    -2.82639,
+    13.84528,
+    -2.82639
+],
+  "geometry": {"coordinates":[13.84528,-2.82639],"type":"Point"}
+}

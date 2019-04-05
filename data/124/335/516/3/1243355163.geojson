@@ -1,0 +1,67 @@
+{
+  "id": 1243355163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.91667,-4.44861,12.91667,-4.44861",
+    "geom:latitude":-4.44861,
+    "geom:longitude":12.91667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Dikota",
+    "gn:country_code":"CG",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260442,
+    "gn:latitude":-4.44861,
+    "gn:longitude":12.91667,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Dikota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260442
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1da4723eef8ea0552e05c98c9760fedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1243355163,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1243355163,
+    "wof:lastmodified":1536937969,
+    "wof:name":"Dikota",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.91667,
+    -4.44861,
+    12.91667,
+    -4.44861
+],
+  "geometry": {"coordinates":[12.91667,-4.44861],"type":"Point"}
+}

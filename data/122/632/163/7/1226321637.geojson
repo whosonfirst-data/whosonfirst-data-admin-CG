@@ -1,0 +1,71 @@
+{
+  "id": 1226321637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.89111,-1.06917,14.89111,-1.06917",
+    "geom:latitude":-1.06917,
+    "geom:longitude":14.89111,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Liboko",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258615,
+    "gn:latitude":-1.06917,
+    "gn:longitude":14.89111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Liboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leboko",
+        "Liboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258615
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"27431d00252fc8092448639062ea03d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1226321637,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226321637,
+    "wof:lastmodified":1537590688,
+    "wof:name":"Liboko",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.89111,
+    -1.06917,
+    14.89111,
+    -1.06917
+],
+  "geometry": {"coordinates":[14.89111,-1.06917],"type":"Point"}
+}

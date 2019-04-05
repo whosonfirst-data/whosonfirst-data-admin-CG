@@ -1,0 +1,67 @@
+{
+  "id": 1225931991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47472,-3.54639,15.47472,-3.54639",
+    "geom:latitude":-3.54639,
+    "geom:longitude":15.47472,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Indouna",
+    "gn:country_code":"CG",
+    "gn:dem":699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259631,
+    "gn:latitude":-3.54639,
+    "gn:longitude":15.47472,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Indouna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259631
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"605a67b3130964266491d9ce7d3f7fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013867,
+            "locality_id":1225931991,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1225931991,
+    "wof:lastmodified":1536888887,
+    "wof:name":"Indouna",
+    "wof:parent_id":1092013867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47472,
+    -3.54639,
+    15.47472,
+    -3.54639
+],
+  "geometry": {"coordinates":[15.47472,-3.54639],"type":"Point"}
+}

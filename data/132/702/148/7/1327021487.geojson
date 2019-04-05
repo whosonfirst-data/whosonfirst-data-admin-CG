@@ -1,0 +1,67 @@
+{
+  "id": 1327021487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59528,-2.95917,12.59528,-2.95917",
+    "geom:latitude":-2.95917,
+    "geom:longitude":12.59528,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mangandza",
+    "gn:country_code":"CG",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257744,
+    "gn:latitude":-2.95917,
+    "gn:longitude":12.59528,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mangandza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257744
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dee0447b9c07630c6863800714a49a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1327021487,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327021487,
+    "wof:lastmodified":1536776839,
+    "wof:name":"Mangandza",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59528,
+    -2.95917,
+    12.59528,
+    -2.95917
+],
+  "geometry": {"coordinates":[12.59528,-2.95917],"type":"Point"}
+}

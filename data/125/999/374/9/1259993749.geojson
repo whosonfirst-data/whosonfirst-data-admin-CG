@@ -1,0 +1,67 @@
+{
+  "id": 1259993749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.88944,-4.31444,13.88944,-4.31444",
+    "geom:latitude":-4.31444,
+    "geom:longitude":13.88944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ngoloubondo",
+    "gn:country_code":"CG",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256277,
+    "gn:latitude":-4.31444,
+    "gn:longitude":13.88944,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Ngoloubondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256277
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b1467663af0ac671292a7ef65b635f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1259993749,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1259993749,
+    "wof:lastmodified":1536618098,
+    "wof:name":"Ngoloubondo",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.88944,
+    -4.31444,
+    13.88944,
+    -4.31444
+],
+  "geometry": {"coordinates":[13.88944,-4.31444],"type":"Point"}
+}

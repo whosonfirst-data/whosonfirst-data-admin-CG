@@ -1,0 +1,72 @@
+{
+  "id": 1293276035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33306,1.77667,14.33306,1.77667",
+    "geom:latitude":1.77667,
+    "geom:longitude":14.33306,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Minguelakoum",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257149,
+    "gn:latitude":1.77667,
+    "gn:longitude":14.33306,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mingu\u00e9lakoum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minguilakoum",
+        "Mingu\u00e9lakoum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257149
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a81119ee29baa121e3a88deb2e902ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1293276035,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1293276035,
+    "wof:lastmodified":1537590674,
+    "wof:name":"Minguelakoum",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33306,
+    1.77667,
+    14.33306,
+    1.77667
+],
+  "geometry": {"coordinates":[14.33306,1.77667],"type":"Point"}
+}

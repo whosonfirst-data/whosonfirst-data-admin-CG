@@ -1,0 +1,67 @@
+{
+  "id": 1260188471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.21639,-4.63861,12.21639,-4.63861",
+    "geom:latitude":-4.63861,
+    "geom:longitude":12.21639,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Youngou-Zassi",
+    "gn:country_code":"CG",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254826,
+    "gn:latitude":-4.63861,
+    "gn:longitude":12.21639,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Youngou-Zassi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254826
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c4a9a9d0e1e42150ed9a30ca36ca3c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1260188471,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1260188471,
+    "wof:lastmodified":1536840061,
+    "wof:name":"Youngou-Zassi",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.21639,
+    -4.63861,
+    12.21639,
+    -4.63861
+],
+  "geometry": {"coordinates":[12.21639,-4.63861],"type":"Point"}
+}

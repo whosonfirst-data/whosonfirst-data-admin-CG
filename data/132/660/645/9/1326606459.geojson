@@ -1,0 +1,72 @@
+{
+  "id": 1326606459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82,-0.27833,15.82,-0.27833",
+    "geom:latitude":-0.27833,
+    "geom:longitude":15.82,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Pamba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255491,
+    "gn:latitude":-0.27833,
+    "gn:longitude":15.82,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pambo",
+        "Pamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255491
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dd13c28615f21d14e309aec828c7e75f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1326606459,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1326606459,
+    "wof:lastmodified":1537590650,
+    "wof:name":"Pamba",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82,
+    -0.27833,
+    15.82,
+    -0.27833
+],
+  "geometry": {"coordinates":[15.82,-0.27833],"type":"Point"}
+}

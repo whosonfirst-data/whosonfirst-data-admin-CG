@@ -1,0 +1,67 @@
+{
+  "id": 1259506159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.54222,-2.49111,13.54222,-2.49111",
+    "geom:latitude":-2.49111,
+    "geom:longitude":13.54222,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Inga",
+    "gn:country_code":"CG",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259624,
+    "gn:latitude":-2.49111,
+    "gn:longitude":13.54222,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Inga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259624
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"696b73939cace8567331542405ab24e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1259506159,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1259506159,
+    "wof:lastmodified":1536825303,
+    "wof:name":"Inga",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.54222,
+    -2.49111,
+    13.54222,
+    -2.49111
+],
+  "geometry": {"coordinates":[13.54222,-2.49111],"type":"Point"}
+}

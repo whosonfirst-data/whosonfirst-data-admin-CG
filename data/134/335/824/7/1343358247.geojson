@@ -1,0 +1,67 @@
+{
+  "id": 1343358247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5925,-2.67444,13.5925,-2.67444",
+    "geom:latitude":-2.67444,
+    "geom:longitude":13.5925,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moutiene",
+    "gn:country_code":"CG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256627,
+    "gn:latitude":-2.67444,
+    "gn:longitude":13.5925,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Mouti\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256627
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f7a084d3501b9e5365193beba0f5ef3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1343358247,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1343358247,
+    "wof:lastmodified":1536893454,
+    "wof:name":"Moutiene",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5925,
+    -2.67444,
+    13.5925,
+    -2.67444
+],
+  "geometry": {"coordinates":[13.5925,-2.67444],"type":"Point"}
+}

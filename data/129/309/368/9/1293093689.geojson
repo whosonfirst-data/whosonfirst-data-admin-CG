@@ -1,0 +1,72 @@
+{
+  "id": 1293093689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.56667,3.68333,17.56667,3.68333",
+    "geom:latitude":3.68333,
+    "geom:longitude":17.56667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ancien Sandjala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261274,
+    "gn:latitude":3.68333,
+    "gn:longitude":17.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ancien Sandjala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandjala",
+        "Ancien Sandjala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632391,
+        85669667,
+        1108759623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261274
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9d9954ed1fb929cceadf9845cc2d0c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632391,
+            "county_id":1108759623,
+            "locality_id":1293093689,
+            "region_id":85669667
+        }
+    ],
+    "wof:id":1293093689,
+    "wof:lastmodified":1537590726,
+    "wof:name":"Ancien Sandjala",
+    "wof:parent_id":1108759623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.56667,
+    3.68333,
+    17.56667,
+    3.68333
+],
+  "geometry": {"coordinates":[17.56667,3.68333],"type":"Point"}
+}

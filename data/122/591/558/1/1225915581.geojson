@@ -1,0 +1,67 @@
+{
+  "id": 1225915581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98,-0.22389,15.98,-0.22389",
+    "geom:latitude":-0.22389,
+    "geom:longitude":15.98,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mo",
+    "gn:country_code":"CG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567888,
+    "gn:latitude":-0.22389,
+    "gn:longitude":15.98,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Mo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567888
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"cb5dd216d0643963140f1ff154216d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1225915581,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1225915581,
+    "wof:lastmodified":1536913515,
+    "wof:name":"Mo",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98,
+    -0.22389,
+    15.98,
+    -0.22389
+],
+  "geometry": {"coordinates":[15.98,-0.22389],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327015427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.99111,-1.50056,15.99111,-1.50056",
+    "geom:latitude":-1.50056,
+    "geom:longitude":15.99111,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Okaye",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255852,
+    "gn:latitude":-1.50056,
+    "gn:longitude":15.99111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Okaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oka\u00ef",
+        "Okaye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255852
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"247698b64975a0ae444587deb2e612a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1327015427,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1327015427,
+    "wof:lastmodified":1537590658,
+    "wof:name":"Okaye",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.99111,
+    -1.50056,
+    15.99111,
+    -1.50056
+],
+  "geometry": {"coordinates":[15.99111,-1.50056],"type":"Point"}
+}

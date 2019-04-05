@@ -1,0 +1,72 @@
+{
+  "id": 1243442375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3425,-4.24722,14.3425,-4.24722",
+    "geom:latitude":-4.24722,
+    "geom:longitude":14.3425,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Youlou Biengue",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254836,
+    "gn:latitude":-4.24722,
+    "gn:longitude":14.3425,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Youlou Bi\u00e8ngu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Youlou Bienge",
+        "Youlou Bi\u00e8ngu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254836
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"54b39f1eff2c4013b9506018bda2ad11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1243442375,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1243442375,
+    "wof:lastmodified":1537590642,
+    "wof:name":"Youlou Biengue",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3425,
+    -4.24722,
+    14.3425,
+    -4.24722
+],
+  "geometry": {"coordinates":[14.3425,-4.24722],"type":"Point"}
+}

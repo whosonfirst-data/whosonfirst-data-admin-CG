@@ -1,0 +1,67 @@
+{
+  "id": 1310303985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59056,-3.74361,13.59056,-3.74361",
+    "geom:latitude":-3.74361,
+    "geom:longitude":13.59056,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ouaka",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568550,
+    "gn:latitude":-3.74361,
+    "gn:longitude":13.59056,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ouaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568550
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5b3dd17b9c339493ebb66403adc86fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1310303985,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310303985,
+    "wof:lastmodified":1536710430,
+    "wof:name":"Ouaka",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59056,
+    -3.74361,
+    13.59056,
+    -3.74361
+],
+  "geometry": {"coordinates":[13.59056,-3.74361],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343837365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.37222,-0.8975,17.37222,-0.8975",
+    "geom:latitude":-0.8975,
+    "geom:longitude":17.37222,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Botonou",
+    "gn:country_code":"CG",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567765,
+    "gn:latitude":-0.8975,
+    "gn:longitude":17.37222,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Botonou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567765
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fbfc535263624fff17ae6017e3ed8583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012757,
+            "locality_id":1343837365,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1343837365,
+    "wof:lastmodified":1536700232,
+    "wof:name":"Botonou",
+    "wof:parent_id":1092012757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.37222,
+    -0.8975,
+    17.37222,
+    -0.8975
+],
+  "geometry": {"coordinates":[17.37222,-0.8975],"type":"Point"}
+}

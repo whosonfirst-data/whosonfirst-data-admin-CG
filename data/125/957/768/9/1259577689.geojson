@@ -1,0 +1,67 @@
+{
+  "id": 1259577689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.61528,-2.68472,12.61528,-2.68472",
+    "geom:latitude":-2.68472,
+    "geom:longitude":12.61528,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bangadi",
+    "gn:country_code":"CG",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261054,
+    "gn:latitude":-2.68472,
+    "gn:longitude":12.61528,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Bangadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261054
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7958c5e19bc13650c07c4344614fb51d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1259577689,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259577689,
+    "wof:lastmodified":1536723573,
+    "wof:name":"Bangadi",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.61528,
+    -2.68472,
+    12.61528,
+    -2.68472
+],
+  "geometry": {"coordinates":[12.61528,-2.68472],"type":"Point"}
+}

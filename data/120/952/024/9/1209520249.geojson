@@ -1,0 +1,61 @@
+{
+  "id": 1209520249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.60944,-2.91417,13.60944,-2.91417",
+    "geom:latitude":-2.91417,
+    "geom:longitude":13.60944,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nzieke",
+    "gn:country_code":"CG",
+    "gn:dem":637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255973,
+    "gn:latitude":-2.91417,
+    "gn:longitude":13.60944,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Nzi\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255973
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"28f8f98632892b0eb1bce46edc612f4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209520249
+        }
+    ],
+    "wof:id":1209520249,
+    "wof:lastmodified":1536284603,
+    "wof:name":"Nzieke",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.60944,
+    -2.91417,
+    13.60944,
+    -2.91417
+],
+  "geometry": {"coordinates":[13.60944,-2.91417],"type":"Point"}
+}

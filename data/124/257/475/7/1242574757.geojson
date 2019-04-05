@@ -1,0 +1,67 @@
+{
+  "id": 1242574757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14861,-1.80389,16.14861,-1.80389",
+    "geom:latitude":-1.80389,
+    "geom:longitude":16.14861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ondzala",
+    "gn:country_code":"CG",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255709,
+    "gn:latitude":-1.80389,
+    "gn:longitude":16.14861,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ondzala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255709
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1245c442c325b967ddb4d12a57720d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1242574757,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1242574757,
+    "wof:lastmodified":1537064910,
+    "wof:name":"Ondzala",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14861,
+    -1.80389,
+    16.14861,
+    -1.80389
+],
+  "geometry": {"coordinates":[16.14861,-1.80389],"type":"Point"}
+}

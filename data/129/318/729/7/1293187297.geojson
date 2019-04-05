@@ -1,0 +1,67 @@
+{
+  "id": 1293187297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49722,0.23778,15.49722,0.23778",
+    "geom:latitude":0.23778,
+    "geom:longitude":15.49722,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Assaki",
+    "gn:country_code":"CG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261220,
+    "gn:latitude":0.23778,
+    "gn:longitude":15.49722,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Assaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261220
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7d311ce44039dc9338ef60b1cae1bdcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1293187297,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293187297,
+    "wof:lastmodified":1536723261,
+    "wof:name":"Assaki",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49722,
+    0.23778,
+    15.49722,
+    0.23778
+],
+  "geometry": {"coordinates":[15.49722,0.23778],"type":"Point"}
+}

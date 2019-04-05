@@ -1,0 +1,67 @@
+{
+  "id": 1343938907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08667,-4.31083,14.08667,-4.31083",
+    "geom:latitude":-4.31083,
+    "geom:longitude":14.08667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbamba",
+    "gn:country_code":"CG",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566744,
+    "gn:latitude":-4.31083,
+    "gn:longitude":14.08667,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mbamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566744
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f8d542c217acc0fed305b1194c797327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1343938907,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343938907,
+    "wof:lastmodified":1537049097,
+    "wof:name":"Mbamba",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08667,
+    -4.31083,
+    14.08667,
+    -4.31083
+],
+  "geometry": {"coordinates":[14.08667,-4.31083],"type":"Point"}
+}

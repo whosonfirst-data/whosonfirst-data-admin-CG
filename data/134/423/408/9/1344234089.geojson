@@ -1,0 +1,71 @@
+{
+  "id": 1344234089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.85972,-3.95722,15.85972,-3.95722",
+    "geom:latitude":-3.95722,
+    "geom:longitude":15.85972,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Longoli",
+    "gn:country_code":"CG",
+    "gn:dem":276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258321,
+    "gn:latitude":-3.95722,
+    "gn:longitude":15.85972,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Longoli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liongoli",
+        "Longoli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258321
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9b23e2a6e8c13ceb1855bba90ee07e07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1344234089,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1344234089,
+    "wof:lastmodified":1537590685,
+    "wof:name":"Longoli",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.85972,
+    -3.95722,
+    15.85972,
+    -3.95722
+],
+  "geometry": {"coordinates":[15.85972,-3.95722],"type":"Point"}
+}

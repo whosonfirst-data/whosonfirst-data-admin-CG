@@ -1,0 +1,73 @@
+{
+  "id": 1242670277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.07889,0.99528,17.07889,0.99528",
+    "geom:latitude":0.99528,
+    "geom:longitude":17.07889,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mongouma Bali",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256930,
+    "gn:latitude":0.99528,
+    "gn:longitude":17.07889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mongouma Bali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongouma Baye",
+        "Mogouma",
+        "Mongouma Bali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256930
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a6901749392cb215392a24554844c819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1242670277,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1242670277,
+    "wof:lastmodified":1537590671,
+    "wof:name":"Mongouma Bali",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.07889,
+    0.99528,
+    17.07889,
+    0.99528
+],
+  "geometry": {"coordinates":[17.07889,0.99528],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1242778105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.4275,-4.19556,11.4275,-4.19556",
+    "geom:latitude":-4.19556,
+    "geom:longitude":11.4275,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchissamanou",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255128,
+    "gn:latitude":-4.19556,
+    "gn:longitude":11.4275,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Tchissamanou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tchisamanou",
+        "Tchissamanou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255128
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e7646cef6c5826e4b0aa65662fd5d781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012923,
+            "locality_id":1242778105,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1242778105,
+    "wof:lastmodified":1537590646,
+    "wof:name":"Tchissamanou",
+    "wof:parent_id":1092012923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.4275,
+    -4.19556,
+    11.4275,
+    -4.19556
+],
+  "geometry": {"coordinates":[11.4275,-4.19556],"type":"Point"}
+}

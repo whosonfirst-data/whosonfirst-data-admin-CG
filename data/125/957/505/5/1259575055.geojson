@@ -1,0 +1,67 @@
+{
+  "id": 1259575055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65194,-2.95972,12.65194,-2.95972",
+    "geom:latitude":-2.95972,
+    "geom:longitude":12.65194,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Doungila",
+    "gn:country_code":"CG",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260298,
+    "gn:latitude":-2.95972,
+    "gn:longitude":12.65194,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Doungila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260298
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"38825d48f9ba20237cff3156dff61dd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1259575055,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259575055,
+    "wof:lastmodified":1536727407,
+    "wof:name":"Doungila",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65194,
+    -2.95972,
+    12.65194,
+    -2.95972
+],
+  "geometry": {"coordinates":[12.65194,-2.95972],"type":"Point"}
+}

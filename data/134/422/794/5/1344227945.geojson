@@ -1,0 +1,71 @@
+{
+  "id": 1344227945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1425,-0.18556,14.1425,-0.18556",
+    "geom:latitude":-0.18556,
+    "geom:longitude":14.1425,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ngoyboma",
+    "gn:country_code":"CG",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568199,
+    "gn:latitude":-0.18556,
+    "gn:longitude":14.1425,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Ngoyboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u2019Goemouma",
+        "Ngoyboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568199
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6d28df294623fd8e934817ae0c5313b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1344227945,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1344227945,
+    "wof:lastmodified":1537590731,
+    "wof:name":"Ngoyboma",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1425,
+    -0.18556,
+    14.1425,
+    -0.18556
+],
+  "geometry": {"coordinates":[14.1425,-0.18556],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1259403979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93167,-3.165,12.93167,-3.165",
+    "geom:latitude":-3.165,
+    "geom:longitude":12.93167,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boudzouka I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260584,
+    "gn:latitude":-3.165,
+    "gn:longitude":12.93167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boudzouka I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boundzoukou",
+        "Boudzouka I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260584
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"77495f3a9107f633bded6cdb5816f53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1259403979,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259403979,
+    "wof:lastmodified":1537590716,
+    "wof:name":"Boudzouka I",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93167,
+    -3.165,
+    12.93167,
+    -3.165
+],
+  "geometry": {"coordinates":[12.93167,-3.165],"type":"Point"}
+}

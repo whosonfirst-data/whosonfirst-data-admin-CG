@@ -1,0 +1,67 @@
+{
+  "id": 1259860559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22194,-3.4275,15.22194,-3.4275",
+    "geom:latitude":-3.4275,
+    "geom:longitude":15.22194,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nzaon",
+    "gn:country_code":"CG",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255983,
+    "gn:latitude":-3.4275,
+    "gn:longitude":15.22194,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Nzaon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255983
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"55a48667e0c9208f8af6850188ffb9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013787,
+            "locality_id":1259860559,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259860559,
+    "wof:lastmodified":1536811690,
+    "wof:name":"Nzaon",
+    "wof:parent_id":1092013787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22194,
+    -3.4275,
+    15.22194,
+    -3.4275
+],
+  "geometry": {"coordinates":[15.22194,-3.4275],"type":"Point"}
+}

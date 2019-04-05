@@ -1,0 +1,67 @@
+{
+  "id": 1310521501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9075,-1.31,15.9075,-1.31",
+    "geom:latitude":-1.31,
+    "geom:longitude":15.9075,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Abatsambi",
+    "gn:country_code":"CG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261414,
+    "gn:latitude":-1.31,
+    "gn:longitude":15.9075,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Abatsambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261414
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ac6ac32e12fdbdf9d42c58184b884692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1310521501,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1310521501,
+    "wof:lastmodified":1536893582,
+    "wof:name":"Abatsambi",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9075,
+    -1.31,
+    15.9075,
+    -1.31
+],
+  "geometry": {"coordinates":[15.9075,-1.31],"type":"Point"}
+}

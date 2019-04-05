@@ -1,0 +1,72 @@
+{
+  "id": 1293771801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.73889,-4.1425,14.73889,-4.1425",
+    "geom:latitude":-4.1425,
+    "geom:longitude":14.73889,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moutenbissa",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256629,
+    "gn:latitude":-4.1425,
+    "gn:longitude":14.73889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mout\u00e8nbissa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moutenbisa",
+        "Mout\u00e8nbissa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256629
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"53384584ce9ee02b4fca023a67725645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1293771801,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293771801,
+    "wof:lastmodified":1537590667,
+    "wof:name":"Moutenbissa",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.73889,
+    -4.1425,
+    14.73889,
+    -4.1425
+],
+  "geometry": {"coordinates":[14.73889,-4.1425],"type":"Point"}
+}

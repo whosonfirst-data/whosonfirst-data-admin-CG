@@ -1,0 +1,67 @@
+{
+  "id": 1327255003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.94556,-2.86944,11.94556,-2.86944",
+    "geom:latitude":-2.86944,
+    "geom:longitude":11.94556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mouyamba Dakar",
+    "gn:country_code":"CG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569457,
+    "gn:latitude":-2.86944,
+    "gn:longitude":11.94556,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mouyamba Dakar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569457
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4479112376efc540e1af514a0372e1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1327255003,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327255003,
+    "wof:lastmodified":1536937763,
+    "wof:name":"Mouyamba Dakar",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.94556,
+    -2.86944,
+    11.94556,
+    -2.86944
+],
+  "geometry": {"coordinates":[11.94556,-2.86944],"type":"Point"}
+}

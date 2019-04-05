@@ -1,0 +1,67 @@
+{
+  "id": 1293862029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.5225,-4.70056,14.5225,-4.70056",
+    "geom:latitude":-4.70056,
+    "geom:longitude":14.5225,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbanza Kolo",
+    "gn:country_code":"CG",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566113,
+    "gn:latitude":-4.70056,
+    "gn:longitude":14.5225,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mbanza Kolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566113
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3fe4e07b5ad68a8192b8205739ccdea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1293862029,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293862029,
+    "wof:lastmodified":1536744015,
+    "wof:name":"Mbanza Kolo",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.5225,
+    -4.70056,
+    14.5225,
+    -4.70056
+],
+  "geometry": {"coordinates":[14.5225,-4.70056],"type":"Point"}
+}

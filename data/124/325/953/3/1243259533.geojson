@@ -1,0 +1,67 @@
+{
+  "id": 1243259533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48861,-2.35944,14.48861,-2.35944",
+    "geom:latitude":-2.35944,
+    "geom:longitude":14.48861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mpoukou",
+    "gn:country_code":"CG",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256518,
+    "gn:latitude":-2.35944,
+    "gn:longitude":14.48861,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Mpoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256518
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5844785cc5d3b18598be33f8e19ddd5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1243259533,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243259533,
+    "wof:lastmodified":1537071907,
+    "wof:name":"Mpoukou",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48861,
+    -2.35944,
+    14.48861,
+    -2.35944
+],
+  "geometry": {"coordinates":[14.48861,-2.35944],"type":"Point"}
+}

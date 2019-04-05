@@ -1,0 +1,78 @@
+{
+  "id": 1259681567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.59694,3.43111,18.59694,3.43111",
+    "geom:latitude":3.43111,
+    "geom:longitude":18.59694,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Betoukoumba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257324,
+    "gn:latitude":3.43111,
+    "gn:longitude":18.59694,
+    "gn:modification_date":"2014-07-08",
+    "gn:name":"B\u00e9toukoumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbetou-d\u2019Ikoumba",
+        "Ikoumba",
+        "Mboulou",
+        "Betou d\u2019Ikoumba",
+        "B\u00e9tikoumba",
+        "B\u00e9tou",
+        "B\u00e9toukoumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257324,
+        "wk:page":"Betoukoumba"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d6a8708b8cda36af0a5372ccfcf70f7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1259681567,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1259681567,
+    "wof:lastmodified":1537590676,
+    "wof:name":"Betoukoumba",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.59694,
+    3.43111,
+    18.59694,
+    3.43111
+],
+  "geometry": {"coordinates":[18.59694,3.43111],"type":"Point"}
+}

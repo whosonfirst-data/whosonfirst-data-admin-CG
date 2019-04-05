@@ -1,0 +1,67 @@
+{
+  "id": 1326917515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12944,-4.38111,15.12944,-4.38111",
+    "geom:latitude":-4.38111,
+    "geom:longitude":15.12944,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Massissia",
+    "gn:country_code":"CG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257612,
+    "gn:latitude":-4.38111,
+    "gn:longitude":15.12944,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Massissia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257612
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1aee5e54503246d91c1cbbd263404d4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1326917515,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1326917515,
+    "wof:lastmodified":1536926731,
+    "wof:name":"Massissia",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12944,
+    -4.38111,
+    15.12944,
+    -4.38111
+],
+  "geometry": {"coordinates":[15.12944,-4.38111],"type":"Point"}
+}

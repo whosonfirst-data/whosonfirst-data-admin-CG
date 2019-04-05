@@ -1,0 +1,73 @@
+{
+  "id": 1309797717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88417,-3.10944,12.88417,-3.10944",
+    "geom:latitude":-3.10944,
+    "geom:longitude":12.88417,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Motaniba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256644,
+    "gn:latitude":-3.10944,
+    "gn:longitude":12.88417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Motaniba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moutamba",
+        "Moutomba",
+        "Motaniba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256644
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"765472202fa5fde346ddd0d45f0f6eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1309797717,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1309797717,
+    "wof:lastmodified":1537590667,
+    "wof:name":"Motaniba",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88417,
+    -3.10944,
+    12.88417,
+    -3.10944
+],
+  "geometry": {"coordinates":[12.88417,-3.10944],"type":"Point"}
+}

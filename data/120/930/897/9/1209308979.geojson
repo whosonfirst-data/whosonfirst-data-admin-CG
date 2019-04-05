@@ -1,0 +1,61 @@
+{
+  "id": 1209308979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13333,-3.4,12.13333,-3.4",
+    "geom:latitude":-3.4,
+    "geom:longitude":12.13333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gouanga",
+    "gn:country_code":"CG",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259833,
+    "gn:latitude":-3.4,
+    "gn:longitude":12.13333,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Gouanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259833
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e3bf890da6a9844888a563ab01efcd02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209308979
+        }
+    ],
+    "wof:id":1209308979,
+    "wof:lastmodified":1536291096,
+    "wof:name":"Gouanga",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13333,
+    -3.4,
+    12.13333,
+    -3.4
+],
+  "geometry": {"coordinates":[12.13333,-3.4],"type":"Point"}
+}

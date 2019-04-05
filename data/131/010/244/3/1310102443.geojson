@@ -1,0 +1,67 @@
+{
+  "id": 1310102443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67028,-1.93,12.67028,-1.93",
+    "geom:latitude":-1.93,
+    "geom:longitude":12.67028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mabinda",
+    "gn:country_code":"CG",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569851,
+    "gn:latitude":-1.93,
+    "gn:longitude":12.67028,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Mabinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569851
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"976e97e67e5f1d79db1f4039cf34bf9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013401,
+            "locality_id":1310102443,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1310102443,
+    "wof:lastmodified":1537000187,
+    "wof:name":"Mabinda",
+    "wof:parent_id":1092013401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67028,
+    -1.93,
+    12.67028,
+    -1.93
+],
+  "geometry": {"coordinates":[12.67028,-1.93],"type":"Point"}
+}

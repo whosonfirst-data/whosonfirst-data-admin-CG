@@ -1,0 +1,67 @@
+{
+  "id": 1343261065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59778,-2.58278,13.59778,-2.58278",
+    "geom:latitude":-2.58278,
+    "geom:longitude":13.59778,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Voule",
+    "gn:country_code":"CG",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569346,
+    "gn:latitude":-2.58278,
+    "gn:longitude":13.59778,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Voule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569346
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6e4203b29fd5d43bd5d5c3b72a524d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1343261065,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1343261065,
+    "wof:lastmodified":1537032605,
+    "wof:name":"Voule",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59778,
+    -2.58278,
+    13.59778,
+    -2.58278
+],
+  "geometry": {"coordinates":[13.59778,-2.58278],"type":"Point"}
+}

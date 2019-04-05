@@ -1,0 +1,67 @@
+{
+  "id": 1293104993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.74667,-4.25667,11.74667,-4.25667",
+    "geom:latitude":-4.25667,
+    "geom:longitude":11.74667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Zatchi",
+    "gn:country_code":"CG",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254812,
+    "gn:latitude":-4.25667,
+    "gn:longitude":11.74667,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Zatchi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254812
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5c13d5335fe314a345eb07087de62f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012923,
+            "locality_id":1293104993,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1293104993,
+    "wof:lastmodified":1536840417,
+    "wof:name":"Zatchi",
+    "wof:parent_id":1092012923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.74667,
+    -4.25667,
+    11.74667,
+    -4.25667
+],
+  "geometry": {"coordinates":[11.74667,-4.25667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343550207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.08833,1.37639,14.08833,1.37639",
+    "geom:latitude":1.37639,
+    "geom:longitude":14.08833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Madjingo",
+    "gn:country_code":"CG",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257986,
+    "gn:latitude":1.37639,
+    "gn:longitude":14.08833,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Madjingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671237,
+        1091910219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257986
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"28652249370f1df165eb085b61e5a708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091910219,
+            "locality_id":1343550207,
+            "region_id":85671237
+        }
+    ],
+    "wof:id":1343550207,
+    "wof:lastmodified":1536614376,
+    "wof:name":"Madjingo",
+    "wof:parent_id":1091910219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.08833,
+    1.37639,
+    14.08833,
+    1.37639
+],
+  "geometry": {"coordinates":[14.08833,1.37639],"type":"Point"}
+}

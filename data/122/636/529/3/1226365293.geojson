@@ -1,0 +1,67 @@
+{
+  "id": 1226365293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58,-2.57583,13.58,-2.57583",
+    "geom:latitude":-2.57583,
+    "geom:longitude":13.58,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nzali",
+    "gn:country_code":"CG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255990,
+    "gn:latitude":-2.57583,
+    "gn:longitude":13.58,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Nzali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255990
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"706b10437757ba8924e36361a389941e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1226365293,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1226365293,
+    "wof:lastmodified":1536761626,
+    "wof:name":"Nzali",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58,
+    -2.57583,
+    13.58,
+    -2.57583
+],
+  "geometry": {"coordinates":[13.58,-2.57583],"type":"Point"}
+}

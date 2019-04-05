@@ -1,0 +1,67 @@
+{
+  "id": 1326826969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.62611,-1.08722,15.62611,-1.08722",
+    "geom:latitude":-1.08722,
+    "geom:longitude":15.62611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ekolo",
+    "gn:country_code":"CG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569689,
+    "gn:latitude":-1.08722,
+    "gn:longitude":15.62611,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ekolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569689
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"374026b7fcad9b25e2af9604c7a0c4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1326826969,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1326826969,
+    "wof:lastmodified":1537054072,
+    "wof:name":"Ekolo",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.62611,
+    -1.08722,
+    15.62611,
+    -1.08722
+],
+  "geometry": {"coordinates":[15.62611,-1.08722],"type":"Point"}
+}

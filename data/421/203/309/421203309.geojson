@@ -1,0 +1,77 @@
+{
+  "id": 421203309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83222,-4.79611,11.83222,-4.79611",
+    "geom:latitude":-4.79611,
+    "geom:longitude":11.83222,
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"CG",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2260384,
+    "qs:gn_pop":0,
+    "qs:name":"Djinji",
+    "qs:name_adm0":"R\u00e9publique du Congo",
+    "qs:name_adm1":"Kouilou",
+    "qs:photos":8,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":8,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58800,
+    "qs:woe_adm0":23424779,
+    "qs:woe_id":1279757,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        1092013649,
+        85670071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260384,
+        "gp:id":1279757,
+        "qs:id":58800
+    },
+    "wof:country":"CG",
+    "wof:created":1459010146,
+    "wof:geomhash":"07dbfe8f2705e7b25ffd22d5eb38e015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013649,
+            "locality_id":-1,
+            "neighbourhood_id":421203309,
+            "region_id":85670071
+        }
+    ],
+    "wof:id":421203309,
+    "wof:lastmodified":1531858818,
+    "wof:name":"Djinji",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83222,
+    -4.79611,
+    11.83222,
+    -4.79611
+],
+  "geometry": {"coordinates":[11.83222,-4.79611],"type":"Point"}
+}

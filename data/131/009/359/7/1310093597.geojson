@@ -1,0 +1,67 @@
+{
+  "id": 1310093597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38167,-3.84778,14.38167,-3.84778",
+    "geom:latitude":-3.84778,
+    "geom:longitude":14.38167,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Touo",
+    "gn:country_code":"CG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255036,
+    "gn:latitude":-3.84778,
+    "gn:longitude":14.38167,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Touo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255036
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bd999cb3530d8e679b00e26e082d3f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1310093597,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310093597,
+    "wof:lastmodified":1537013002,
+    "wof:name":"Touo",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38167,
+    -3.84778,
+    14.38167,
+    -3.84778
+],
+  "geometry": {"coordinates":[14.38167,-3.84778],"type":"Point"}
+}

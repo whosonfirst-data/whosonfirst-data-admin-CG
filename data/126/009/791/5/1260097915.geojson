@@ -1,0 +1,72 @@
+{
+  "id": 1260097915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.92719,-3.99437,13.92719,-3.99437",
+    "geom:latitude":-3.99437,
+    "geom:longitude":13.92719,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mouyondzi",
+    "gn:country_code":"CG",
+    "gn:dem":510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257329,
+    "gn:latitude":-3.99437,
+    "gn:longitude":13.92719,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Mouyondzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mouionzi",
+        "Mouyondzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257329,
+        "wk:page":"Mouyondzi"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b31100c0238d003d4ad09d7e74d02fe6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1260097915,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1260097915,
+    "wof:lastmodified":1537590676,
+    "wof:name":"Mouyondzi",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.92719,
+    -3.99437,
+    13.92719,
+    -3.99437
+],
+  "geometry": {"coordinates":[13.92719,-3.99437],"type":"Point"}
+}

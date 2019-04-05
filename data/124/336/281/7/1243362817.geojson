@@ -1,0 +1,67 @@
+{
+  "id": 1243362817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.58139,-2.45417,13.58139,-2.45417",
+    "geom:latitude":-2.45417,
+    "geom:longitude":13.58139,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mobanga",
+    "gn:country_code":"CG",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257048,
+    "gn:latitude":-2.45417,
+    "gn:longitude":13.58139,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Mobanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257048
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"90c368debfc6d6f1e53202532b3f2523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1243362817,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1243362817,
+    "wof:lastmodified":1536926867,
+    "wof:name":"Mobanga",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.58139,
+    -2.45417,
+    13.58139,
+    -2.45417
+],
+  "geometry": {"coordinates":[13.58139,-2.45417],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327118187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.08056,1.59639,15.08056,1.59639",
+    "geom:latitude":1.59639,
+    "geom:longitude":15.08056,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Douodjina",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260343,
+    "gn:latitude":1.59639,
+    "gn:longitude":15.08056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Douodjina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dodjima",
+        "Douodjina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260343
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"97ec7d748dab28f5350101a3c15d74d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1327118187,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1327118187,
+    "wof:lastmodified":1537590713,
+    "wof:name":"Douodjina",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.08056,
+    1.59639,
+    15.08056,
+    1.59639
+],
+  "geometry": {"coordinates":[15.08056,1.59639],"type":"Point"}
+}

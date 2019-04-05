@@ -1,0 +1,67 @@
+{
+  "id": 1276528109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.30139,-4.24,15.30139,-4.24",
+    "geom:latitude":-4.24,
+    "geom:longitude":15.30139,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Poto Poto",
+    "gn:country_code":"CG",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255396,
+    "gn:latitude":-4.24,
+    "gn:longitude":15.30139,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Poto Poto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670067,
+        1092012549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255396
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f33b51c01986f82e0f4f42a5b5a60ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012549,
+            "locality_id":1276528109,
+            "region_id":85670067
+        }
+    ],
+    "wof:id":1276528109,
+    "wof:lastmodified":1537014324,
+    "wof:name":"Poto Poto",
+    "wof:parent_id":1092012549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.30139,
+    -4.24,
+    15.30139,
+    -4.24
+],
+  "geometry": {"coordinates":[15.30139,-4.24],"type":"Point"}
+}

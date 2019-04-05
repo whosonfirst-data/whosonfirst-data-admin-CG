@@ -1,0 +1,72 @@
+{
+  "id": 1209701969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.36278,-1.04083,15.36278,-1.04083",
+    "geom:latitude":-1.04083,
+    "geom:longitude":15.36278,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Saint-Francois",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569734,
+    "gn:latitude":-1.04083,
+    "gn:longitude":15.36278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Saint-Fran\u00e7ois",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saint-Fran\u00e7ois de Boundji",
+        "Saint-Fran\u00e7ois"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569734
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3362f03b943492aaf5f2c21936313c78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012715,
+            "locality_id":1209701969,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1209701969,
+    "wof:lastmodified":1537590733,
+    "wof:name":"Saint-Francois",
+    "wof:parent_id":1092012715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.36278,
+    -1.04083,
+    15.36278,
+    -1.04083
+],
+  "geometry": {"coordinates":[15.36278,-1.04083],"type":"Point"}
+}

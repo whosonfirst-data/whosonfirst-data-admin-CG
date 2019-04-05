@@ -1,0 +1,72 @@
+{
+  "id": 1260063933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.50833,0.36639,16.50833,0.36639",
+    "geom:latitude":0.36639,
+    "geom:longitude":16.50833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Molinge-Nzalatoa",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256978,
+    "gn:latitude":0.36639,
+    "gn:longitude":16.50833,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Moling\u00e9-Nzalatoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molangui-Zalatoi",
+        "Moling\u00e9-Nzalatoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256978
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ae3c6860edd37526d24fc66fd48f29c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1260063933,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1260063933,
+    "wof:lastmodified":1537590672,
+    "wof:name":"Molinge-Nzalatoa",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.50832999999999,
+    0.36639,
+    16.50832999999999,
+    0.36639
+],
+  "geometry": {"coordinates":[16.50832999999999,0.36639],"type":"Point"}
+}

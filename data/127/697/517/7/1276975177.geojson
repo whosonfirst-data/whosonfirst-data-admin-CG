@@ -1,0 +1,67 @@
+{
+  "id": 1276975177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.86833,1.38917,15.86833,1.38917",
+    "geom:latitude":1.38917,
+    "geom:longitude":15.86833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mahounda",
+    "gn:country_code":"CG",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257938,
+    "gn:latitude":1.38917,
+    "gn:longitude":15.86833,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Mahounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257938
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1e67ce61fc58d29a48b0a96abdaf99fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1276975177,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276975177,
+    "wof:lastmodified":1536913945,
+    "wof:name":"Mahounda",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.86833,
+    1.38917,
+    15.86833,
+    1.38917
+],
+  "geometry": {"coordinates":[15.86833,1.38917],"type":"Point"}
+}

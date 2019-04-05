@@ -1,0 +1,71 @@
+{
+  "id": 1360164115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.92222,-1.11806,14.92222,-1.11806",
+    "geom:latitude":-1.11806,
+    "geom:longitude":14.92222,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ambimi",
+    "gn:country_code":"CG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259674,
+    "gn:latitude":-1.11806,
+    "gn:longitude":14.92222,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ambimi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Imbimi",
+        "Ambimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259674
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"87ad42a9f87b17b23ed8fa0a046b48dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1360164115,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1360164115,
+    "wof:lastmodified":1537590701,
+    "wof:name":"Ambimi",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.92222,
+    -1.11806,
+    14.92222,
+    -1.11806
+],
+  "geometry": {"coordinates":[14.92222,-1.11806],"type":"Point"}
+}

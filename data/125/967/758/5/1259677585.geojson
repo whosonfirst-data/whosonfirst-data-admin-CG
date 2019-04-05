@@ -1,0 +1,67 @@
+{
+  "id": 1259677585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1825,1.9975,14.1825,1.9975",
+    "geom:latitude":1.9975,
+    "geom:longitude":14.1825,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mediao",
+    "gn:country_code":"CG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257297,
+    "gn:latitude":1.9975,
+    "gn:longitude":14.1825,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"M\u00e9diao",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257297
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f32b29dfd39a28c1bf11a6e14750161e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1259677585,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1259677585,
+    "wof:lastmodified":1537072441,
+    "wof:name":"Mediao",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1825,
+    1.9975,
+    14.1825,
+    1.9975
+],
+  "geometry": {"coordinates":[14.1825,1.9975],"type":"Point"}
+}

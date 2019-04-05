@@ -1,0 +1,67 @@
+{
+  "id": 1343583939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.83333,-2.75694,13.83333,-2.75694",
+    "geom:latitude":-2.75694,
+    "geom:longitude":13.83333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Voula",
+    "gn:country_code":"CG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254946,
+    "gn:latitude":-2.75694,
+    "gn:longitude":13.83333,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Voula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254946
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e9cf7e84f2b0ea18b1c636183ef5b36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1343583939,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1343583939,
+    "wof:lastmodified":1537062816,
+    "wof:name":"Voula",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.83333,
+    -2.75694,
+    13.83333,
+    -2.75694
+],
+  "geometry": {"coordinates":[13.83333,-2.75694],"type":"Point"}
+}

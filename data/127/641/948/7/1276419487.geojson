@@ -1,0 +1,67 @@
+{
+  "id": 1276419487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95,-0.05,13.95,-0.05",
+    "geom:latitude":-0.05,
+    "geom:longitude":13.95,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mbomobakota",
+    "gn:country_code":"CG",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257356,
+    "gn:latitude":-0.05,
+    "gn:longitude":13.95,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Mbomobakota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257356
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"99df79bbce055a6e6728d5703e633bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1276419487,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276419487,
+    "wof:lastmodified":1536663274,
+    "wof:name":"Mbomobakota",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95,
+    -0.05,
+    13.95,
+    -0.05
+],
+  "geometry": {"coordinates":[13.95,-0.05],"type":"Point"}
+}

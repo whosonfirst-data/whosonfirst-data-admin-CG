@@ -1,0 +1,67 @@
+{
+  "id": 1259464161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.24556,-4.33444,14.24556,-4.33444",
+    "geom:latitude":-4.33444,
+    "geom:longitude":14.24556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Matakani",
+    "gn:country_code":"CG",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257599,
+    "gn:latitude":-4.33444,
+    "gn:longitude":14.24556,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Matakani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257599
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b69beaa1c1daaae219611c5330d041f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1259464161,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259464161,
+    "wof:lastmodified":1536886098,
+    "wof:name":"Matakani",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.24556,
+    -4.33444,
+    14.24556,
+    -4.33444
+],
+  "geometry": {"coordinates":[14.24556,-4.33444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242813917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.88972,-4.78139,11.88972,-4.78139",
+    "geom:latitude":-4.78139,
+    "geom:longitude":11.88972,
+    "gn:admin1_code":"7280295",
+    "gn:asciiname":"Bissongo",
+    "gn:country_code":"CG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260841,
+    "gn:latitude":-4.78139,
+    "gn:longitude":11.88972,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Bissongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bisongo",
+        "Bissongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670071,
+        1092013649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260841
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9474a268350381848e892f59541dd1c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013649,
+            "locality_id":1242813917,
+            "region_id":85670071
+        }
+    ],
+    "wof:id":1242813917,
+    "wof:lastmodified":1537590721,
+    "wof:name":"Bissongo",
+    "wof:parent_id":1092013649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.88972,
+    -4.78139,
+    11.88972,
+    -4.78139
+],
+  "geometry": {"coordinates":[11.88972,-4.78139],"type":"Point"}
+}

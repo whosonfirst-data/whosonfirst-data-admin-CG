@@ -1,0 +1,67 @@
+{
+  "id": 1209612173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.27611,-1.35861,16.27611,-1.35861",
+    "geom:latitude":-1.35861,
+    "geom:longitude":16.27611,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ponbo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255407,
+    "gn:latitude":-1.35861,
+    "gn:longitude":16.27611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ponbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pombo-Bouendza",
+        "Pombo",
+        "Ponbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255407
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e68667559b9d6265c63c41b0d7cfae02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209612173
+        }
+    ],
+    "wof:id":1209612173,
+    "wof:lastmodified":1537590649,
+    "wof:name":"Ponbo",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.27611,
+    -1.35861,
+    16.27611,
+    -1.35861
+],
+  "geometry": {"coordinates":[16.27611,-1.35861],"type":"Point"}
+}

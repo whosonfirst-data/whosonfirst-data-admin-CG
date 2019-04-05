@@ -1,0 +1,67 @@
+{
+  "id": 1193157143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10722,-2.36556,16.10722,-2.36556",
+    "geom:latitude":-2.36556,
+    "geom:longitude":16.10722,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Melibou",
+    "gn:country_code":"CG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569148,
+    "gn:latitude":-2.36556,
+    "gn:longitude":16.10722,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"M\u00e9libou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569148
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"179abfbd13da9abc90c9c482c637c5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1193157143,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1193157143,
+    "wof:lastmodified":1536372029,
+    "wof:name":"Melibou",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10722,
+    -2.36556,
+    16.10722,
+    -2.36556
+],
+  "geometry": {"coordinates":[16.10722,-2.36556],"type":"Point"}
+}

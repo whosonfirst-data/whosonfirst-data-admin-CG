@@ -1,0 +1,67 @@
+{
+  "id": 1209936577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52917,-2.28139,14.52917,-2.28139",
+    "geom:latitude":-2.28139,
+    "geom:longitude":14.52917,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Antsui",
+    "gn:country_code":"CG",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261226,
+    "gn:latitude":-2.28139,
+    "gn:longitude":14.52917,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Antsui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261226
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8fbb640477d5aa5d4c01cf75f38bab8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1209936577,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1209936577,
+    "wof:lastmodified":1536390373,
+    "wof:name":"Antsui",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52917,
+    -2.28139,
+    14.52917,
+    -2.28139
+],
+  "geometry": {"coordinates":[14.52917,-2.28139],"type":"Point"}
+}

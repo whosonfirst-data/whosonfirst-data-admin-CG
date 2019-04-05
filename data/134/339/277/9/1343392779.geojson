@@ -1,0 +1,67 @@
+{
+  "id": 1343392779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.27028,-3.50333,13.27028,-3.50333",
+    "geom:latitude":-3.50333,
+    "geom:longitude":13.27028,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sandzou",
+    "gn:country_code":"CG",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568767,
+    "gn:latitude":-3.50333,
+    "gn:longitude":13.27028,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Sandzou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568767
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f371007bd3db9f2c82608e5d76babd3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1343392779,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1343392779,
+    "wof:lastmodified":1536842914,
+    "wof:name":"Sandzou",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.27028,
+    -3.50333,
+    13.27028,
+    -3.50333
+],
+  "geometry": {"coordinates":[13.27028,-3.50333],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243064775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.06083,-1.69194,16.06083,-1.69194",
+    "geom:latitude":-1.69194,
+    "geom:longitude":16.06083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ebiese",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259767,
+    "gn:latitude":-1.69194,
+    "gn:longitude":16.06083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ebi\u00e9s\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ibiesse",
+        "Ebi\u00e9s\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259767
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"672057f6095a377ae4913d9a66db457a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1243064775,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243064775,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Ebiese",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.06083,
+    -1.69194,
+    16.06083,
+    -1.69194
+],
+  "geometry": {"coordinates":[16.06083,-1.69194],"type":"Point"}
+}

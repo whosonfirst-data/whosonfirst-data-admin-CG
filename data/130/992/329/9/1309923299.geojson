@@ -1,0 +1,67 @@
+{
+  "id": 1309923299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.77944,-3.97972,12.77944,-3.97972",
+    "geom:latitude":-3.97972,
+    "geom:longitude":12.77944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bembike",
+    "gn:country_code":"CG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568905,
+    "gn:latitude":-3.97972,
+    "gn:longitude":12.77944,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bembik\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568905
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"792e2d06f76ec2644f8a5cfbc07416fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012419,
+            "locality_id":1309923299,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1309923299,
+    "wof:lastmodified":1536761996,
+    "wof:name":"Bembike",
+    "wof:parent_id":1092012419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.77944,
+    -3.97972,
+    12.77944,
+    -3.97972
+],
+  "geometry": {"coordinates":[12.77944,-3.97972],"type":"Point"}
+}

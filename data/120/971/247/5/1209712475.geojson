@@ -1,0 +1,67 @@
+{
+  "id": 1209712475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.70028,-3.07833,12.70028,-3.07833",
+    "geom:latitude":-3.07833,
+    "geom:longitude":12.70028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mayinga",
+    "gn:country_code":"CG",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569017,
+    "gn:latitude":-3.07833,
+    "gn:longitude":12.70028,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Mayinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569017
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c4ec4220cc028b7ea261eb2bbec97f66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1209712475,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1209712475,
+    "wof:lastmodified":1536390074,
+    "wof:name":"Mayinga",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.70028,
+    -3.07833,
+    12.70028,
+    -3.07833
+],
+  "geometry": {"coordinates":[12.70028,-3.07833],"type":"Point"}
+}

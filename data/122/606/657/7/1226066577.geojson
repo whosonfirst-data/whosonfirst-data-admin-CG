@@ -1,0 +1,67 @@
+{
+  "id": 1226066577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.45361,-4.81556,13.45361,-4.81556",
+    "geom:latitude":-4.81556,
+    "geom:longitude":13.45361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsanda",
+    "gn:country_code":"CG",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566796,
+    "gn:latitude":-4.81556,
+    "gn:longitude":13.45361,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Tsanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566796
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"de79911fdf283f5f1f8b4a726be13bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1226066577,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1226066577,
+    "wof:lastmodified":1536695421,
+    "wof:name":"Tsanda",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.45361,
+    -4.81556,
+    13.45361,
+    -4.81556
+],
+  "geometry": {"coordinates":[13.45361,-4.81556],"type":"Point"}
+}

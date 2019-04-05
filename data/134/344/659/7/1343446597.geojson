@@ -1,0 +1,72 @@
+{
+  "id": 1343446597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.7925,-1.70694,15.7925,-1.70694",
+    "geom:latitude":-1.70694,
+    "geom:longitude":15.7925,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Yaba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254920,
+    "gn:latitude":-1.70694,
+    "gn:longitude":15.7925,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaba I",
+        "Yaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254920
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e077f867a30d90707c12974c04d0467a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1343446597,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1343446597,
+    "wof:lastmodified":1537590643,
+    "wof:name":"Yaba",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.7925,
+    -1.70694,
+    15.7925,
+    -1.70694
+],
+  "geometry": {"coordinates":[15.7925,-1.70694],"type":"Point"}
+}

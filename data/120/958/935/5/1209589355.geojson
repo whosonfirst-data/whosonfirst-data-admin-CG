@@ -1,0 +1,61 @@
+{
+  "id": 1209589355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.96639,-0.87972,14.96639,-0.87972",
+    "geom:latitude":-0.87972,
+    "geom:longitude":14.96639,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ayandza",
+    "gn:country_code":"CG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261185,
+    "gn:latitude":-0.87972,
+    "gn:longitude":14.96639,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Ayandza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261185
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ac2d67bb3c40cf8e64f8fa8af583d5d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209589355
+        }
+    ],
+    "wof:id":1209589355,
+    "wof:lastmodified":1536282530,
+    "wof:name":"Ayandza",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.96639,
+    -0.8797200000000001,
+    14.96639,
+    -0.8797200000000001
+],
+  "geometry": {"coordinates":[14.96639,-0.87972],"type":"Point"}
+}

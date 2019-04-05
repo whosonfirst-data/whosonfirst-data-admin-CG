@@ -1,0 +1,73 @@
+{
+  "id": 1276322865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5,1.63333,13.5,1.63333",
+    "geom:latitude":1.63333,
+    "geom:longitude":13.5,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Garabinzam",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259896,
+    "gn:latitude":1.63333,
+    "gn:longitude":13.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Garabinzam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngara-Binsam",
+        "N\u2019Gara-Binzam",
+        "Garabinzam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259896
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ac238e6d7a031d36900be5be550a750a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1276322865,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276322865,
+    "wof:lastmodified":1537590705,
+    "wof:name":"Garabinzam",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5,
+    1.63333,
+    13.5,
+    1.63333
+],
+  "geometry": {"coordinates":[13.5,1.63333],"type":"Point"}
+}

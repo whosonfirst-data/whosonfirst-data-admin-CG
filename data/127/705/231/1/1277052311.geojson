@@ -1,0 +1,67 @@
+{
+  "id": 1277052311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.02361,-1.08639,16.02361,-1.08639",
+    "geom:latitude":-1.08639,
+    "geom:longitude":16.02361,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Eloundji",
+    "gn:country_code":"CG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568366,
+    "gn:latitude":-1.08639,
+    "gn:longitude":16.02361,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Eloundji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568366
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a7589ab3c1586da6eb297512bf1a8706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1277052311,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1277052311,
+    "wof:lastmodified":1536809582,
+    "wof:name":"Eloundji",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.02361,
+    -1.08639,
+    16.02361,
+    -1.08639
+],
+  "geometry": {"coordinates":[16.02361,-1.08639],"type":"Point"}
+}

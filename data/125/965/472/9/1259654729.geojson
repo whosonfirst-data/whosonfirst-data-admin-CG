@@ -1,0 +1,71 @@
+{
+  "id": 1259654729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.85056,-0.89611,14.85056,-0.89611",
+    "geom:latitude":-0.89611,
+    "geom:longitude":14.85056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kenvouani",
+    "gn:country_code":"CG",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259344,
+    "gn:latitude":-0.89611,
+    "gn:longitude":14.85056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kenvouani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kenvani",
+        "Kenvouani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259344
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"68c60cf27eba537c92ca9c961b87d1fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1259654729,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1259654729,
+    "wof:lastmodified":1537590697,
+    "wof:name":"Kenvouani",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.85056,
+    -0.89611,
+    14.85056,
+    -0.89611
+],
+  "geometry": {"coordinates":[14.85056,-0.89611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226738965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.46639,1.30722,16.46639,1.30722",
+    "geom:latitude":1.30722,
+    "geom:longitude":16.46639,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Djona Wele",
+    "gn:country_code":"CG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565572,
+    "gn:latitude":1.30722,
+    "gn:longitude":16.46639,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Djona W\u00e9le",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565572
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"51e6117c9b4a8e2765fb67bdf657bdc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1226738965,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1226738965,
+    "wof:lastmodified":1536725680,
+    "wof:name":"Djona Wele",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.46639,
+    1.30722,
+    16.46639,
+    1.30722
+],
+  "geometry": {"coordinates":[16.46639,1.30722],"type":"Point"}
+}

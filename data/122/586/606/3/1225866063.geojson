@@ -1,0 +1,67 @@
+{
+  "id": 1225866063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.09944,-3.15111,12.09944,-3.15111",
+    "geom:latitude":-3.15111,
+    "geom:longitude":12.09944,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Zilala",
+    "gn:country_code":"CG",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568974,
+    "gn:latitude":-3.15111,
+    "gn:longitude":12.09944,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Zilala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568974
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"470affd591a64e9296288e70f3dd444f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013319,
+            "locality_id":1225866063,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1225866063,
+    "wof:lastmodified":1536983688,
+    "wof:name":"Zilala",
+    "wof:parent_id":1092013319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.09944,
+    -3.15111,
+    12.09944,
+    -3.15111
+],
+  "geometry": {"coordinates":[12.09944,-3.15111],"type":"Point"}
+}

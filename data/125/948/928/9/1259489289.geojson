@@ -1,0 +1,74 @@
+{
+  "id": 1259489289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.48889,-4.24639,12.48889,-4.24639",
+    "geom:latitude":-4.24639,
+    "geom:longitude":12.48889,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mvouti",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256481,
+    "gn:latitude":-4.24639,
+    "gn:longitude":12.48889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mvouti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vouti",
+        "Mvuti",
+        "Mvouti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256481,
+        "wk:page":"Mvouti"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"03cf5b2e237ff40af3954cd8b8613ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1259489289,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1259489289,
+    "wof:lastmodified":1537590666,
+    "wof:name":"Mvouti",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.48889,
+    -4.24639,
+    12.48889,
+    -4.24639
+],
+  "geometry": {"coordinates":[12.48889,-4.24639],"type":"Point"}
+}

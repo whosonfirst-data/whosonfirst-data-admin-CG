@@ -1,0 +1,61 @@
+{
+  "id": 1209636571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.65,-3.23333,12.65,-3.23333",
+    "geom:latitude":-3.23333,
+    "geom:longitude":12.65,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Likome",
+    "gn:country_code":"CG",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258434,
+    "gn:latitude":-3.23333,
+    "gn:longitude":12.65,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Likome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258434
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"40d4dbb09f5b66425945927449bd8576",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209636571
+        }
+    ],
+    "wof:id":1209636571,
+    "wof:lastmodified":1536281025,
+    "wof:name":"Likome",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.65,
+    -3.23333,
+    12.65,
+    -3.23333
+],
+  "geometry": {"coordinates":[12.65,-3.23333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327131197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32472,-4.76111,13.32472,-4.76111",
+    "geom:latitude":-4.76111,
+    "geom:longitude":13.32472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kindiangou",
+    "gn:country_code":"CG",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259069,
+    "gn:latitude":-4.76111,
+    "gn:longitude":13.32472,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Kindiangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259069
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"798bdd1b17d8e8b3c1b7b37ea7be3386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1327131197,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327131197,
+    "wof:lastmodified":1536615537,
+    "wof:name":"Kindiangou",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32472,
+    -4.76111,
+    13.32472,
+    -4.76111
+],
+  "geometry": {"coordinates":[13.32472,-4.76111],"type":"Point"}
+}

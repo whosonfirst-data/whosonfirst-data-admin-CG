@@ -1,0 +1,67 @@
+{
+  "id": 1259701577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71389,-4.52667,13.71389,-4.52667",
+    "geom:latitude":-4.52667,
+    "geom:longitude":13.71389,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kimbinda",
+    "gn:country_code":"CG",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259167,
+    "gn:latitude":-4.52667,
+    "gn:longitude":13.71389,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kimbinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259167
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4a15b3d81bda49580c20bf3020745a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012377,
+            "locality_id":1259701577,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1259701577,
+    "wof:lastmodified":1537039294,
+    "wof:name":"Kimbinda",
+    "wof:parent_id":1092012377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71389,
+    -4.52667,
+    13.71389,
+    -4.52667
+],
+  "geometry": {"coordinates":[13.71389,-4.52667],"type":"Point"}
+}

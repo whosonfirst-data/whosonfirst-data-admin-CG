@@ -1,0 +1,61 @@
+{
+  "id": 1209313547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5275,-3.10444,13.5275,-3.10444",
+    "geom:latitude":-3.10444,
+    "geom:longitude":13.5275,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vouka",
+    "gn:country_code":"CG",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568843,
+    "gn:latitude":-3.10444,
+    "gn:longitude":13.5275,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Vouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568843
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a046eb3542e8bc551426c14d7eeae2b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209313547
+        }
+    ],
+    "wof:id":1209313547,
+    "wof:lastmodified":1536290943,
+    "wof:name":"Vouka",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5275,
+    -3.1044400000000003,
+    13.5275,
+    -3.1044400000000003
+],
+  "geometry": {"coordinates":[13.5275,-3.10444],"type":"Point"}
+}

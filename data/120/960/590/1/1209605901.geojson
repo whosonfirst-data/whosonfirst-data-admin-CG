@@ -1,0 +1,61 @@
+{
+  "id": 1209605901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.97694,-1.72694,15.97694,-1.72694",
+    "geom:latitude":-1.72694,
+    "geom:longitude":15.97694,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oban",
+    "gn:country_code":"CG",
+    "gn:dem":371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255943,
+    "gn:latitude":-1.72694,
+    "gn:longitude":15.97694,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Oban",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255943
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"42a1a0e9e1d4531eb5bb5caa651c0d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209605901
+        }
+    ],
+    "wof:id":1209605901,
+    "wof:lastmodified":1536282012,
+    "wof:name":"Oban",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.97694,
+    -1.72694,
+    15.97694,
+    -1.72694
+],
+  "geometry": {"coordinates":[15.97694,-1.72694],"type":"Point"}
+}

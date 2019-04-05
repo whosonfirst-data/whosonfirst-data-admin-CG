@@ -1,0 +1,61 @@
+{
+  "id": 1209285429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.83694,-0.80417,14.83694,-0.80417",
+    "geom:latitude":-0.80417,
+    "geom:longitude":14.83694,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Letoumbou",
+    "gn:country_code":"CG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258475,
+    "gn:latitude":-0.80417,
+    "gn:longitude":14.83694,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Letoumbou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258475
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ad946e86f0d9f1c12f42421c2186811b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209285429
+        }
+    ],
+    "wof:id":1209285429,
+    "wof:lastmodified":1536291877,
+    "wof:name":"Letoumbou",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.83694,
+    -0.8041699999999999,
+    14.83694,
+    -0.8041699999999999
+],
+  "geometry": {"coordinates":[14.83694,-0.80417],"type":"Point"}
+}

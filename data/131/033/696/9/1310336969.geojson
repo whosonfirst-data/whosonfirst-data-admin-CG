@@ -1,0 +1,67 @@
+{
+  "id": 1310336969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.93778,-2.91167,13.93778,-2.91167",
+    "geom:latitude":-2.91167,
+    "geom:longitude":13.93778,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Vouga Itounou",
+    "gn:country_code":"CG",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254948,
+    "gn:latitude":-2.91167,
+    "gn:longitude":13.93778,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Vouga Itounou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254948
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"831a8bb9a610b5f21de13338a4f2f6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1310336969,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310336969,
+    "wof:lastmodified":1536662651,
+    "wof:name":"Vouga Itounou",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.93778,
+    -2.91167,
+    13.93778,
+    -2.91167
+],
+  "geometry": {"coordinates":[13.93778,-2.91167],"type":"Point"}
+}

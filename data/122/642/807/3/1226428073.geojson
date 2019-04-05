@@ -1,0 +1,74 @@
+{
+  "id": 1226428073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.75556,-2.48722,15.75556,-2.48722",
+    "geom:latitude":-2.48722,
+    "geom:longitude":15.75556,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ngo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256294,
+    "gn:latitude":-2.48722,
+    "gn:longitude":15.75556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bossala",
+        "N\u2019Gao",
+        "Bessala",
+        "Ngo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256294
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"de06aced434f034601545a281c37092d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1226428073,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226428073,
+    "wof:lastmodified":1537590664,
+    "wof:name":"Ngo",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.75556,
+    -2.48722,
+    15.75556,
+    -2.48722
+],
+  "geometry": {"coordinates":[15.75556,-2.48722],"type":"Point"}
+}

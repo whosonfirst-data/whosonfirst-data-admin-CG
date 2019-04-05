@@ -1,0 +1,67 @@
+{
+  "id": 1209796601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71556,-3.26361,14.71556,-3.26361",
+    "geom:latitude":-3.26361,
+    "geom:longitude":14.71556,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lerepanda",
+    "gn:country_code":"CG",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258497,
+    "gn:latitude":-3.26361,
+    "gn:longitude":14.71556,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"L\u00e9r\u00e9panda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258497
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fc9adf6d094685730903ab113bc32890",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1209796601,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1209796601,
+    "wof:lastmodified":1536392604,
+    "wof:name":"Lerepanda",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71556,
+    -3.26361,
+    14.71556,
+    -3.26361
+],
+  "geometry": {"coordinates":[14.71556,-3.26361],"type":"Point"}
+}

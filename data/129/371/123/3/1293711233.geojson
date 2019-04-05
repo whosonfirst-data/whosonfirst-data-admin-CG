@@ -1,0 +1,67 @@
+{
+  "id": 1293711233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.46611,-0.73667,17.46611,-0.73667",
+    "geom:latitude":-0.73667,
+    "geom:longitude":17.46611,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mambangue",
+    "gn:country_code":"CG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567763,
+    "gn:latitude":-0.73667,
+    "gn:longitude":17.46611,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Mambangu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567763
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"849300f910b6f23ad61351c37a6eb990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1293711233,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293711233,
+    "wof:lastmodified":1536961790,
+    "wof:name":"Mambangue",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.46611,
+    -0.73667,
+    17.46611,
+    -0.73667
+],
+  "geometry": {"coordinates":[17.46611,-0.73667],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209087451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53194,-4.42972,14.53194,-4.42972",
+    "geom:latitude":-4.42972,
+    "geom:longitude":14.53194,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gombe",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259855,
+    "gn:latitude":-4.42972,
+    "gn:longitude":14.53194,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Gomb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259855
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7ce2e90835184b794ae533307bd71f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209087451
+        }
+    ],
+    "wof:id":1209087451,
+    "wof:lastmodified":1536298141,
+    "wof:name":"Gombe",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53194,
+    -4.42972,
+    14.53194,
+    -4.42972
+],
+  "geometry": {"coordinates":[14.53194,-4.42972],"type":"Point"}
+}

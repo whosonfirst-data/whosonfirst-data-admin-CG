@@ -1,0 +1,61 @@
+{
+  "id": 1209206343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.12139,-2.64722,12.12139,-2.64722",
+    "geom:latitude":-2.64722,
+    "geom:longitude":12.12139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mateba",
+    "gn:country_code":"CG",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257587,
+    "gn:latitude":-2.64722,
+    "gn:longitude":12.12139,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mateba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257587
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e72b957419b8659f65a059fe788116b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209206343
+        }
+    ],
+    "wof:id":1209206343,
+    "wof:lastmodified":1536294442,
+    "wof:name":"Mateba",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.12139,
+    -2.64722,
+    12.12139,
+    -2.64722
+],
+  "geometry": {"coordinates":[12.12139,-2.64722],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243546199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.96694,-4.49444,12.96694,-4.49444",
+    "geom:latitude":-4.49444,
+    "geom:longitude":12.96694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kimbouandi",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259294,
+    "gn:latitude":-4.49444,
+    "gn:longitude":12.96694,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kimbouandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibouandi",
+        "Kimbouandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259294
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6c4dc9612158fa6230620359ceb71806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1243546199,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1243546199,
+    "wof:lastmodified":1537590696,
+    "wof:name":"Kimbouandi",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.96694,
+    -4.49444,
+    12.96694,
+    -4.49444
+],
+  "geometry": {"coordinates":[12.96694,-4.49444],"type":"Point"}
+}

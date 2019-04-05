@@ -1,0 +1,72 @@
+{
+  "id": 1360066447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80778,-4.18944,14.80778,-4.18944",
+    "geom:latitude":-4.18944,
+    "geom:longitude":14.80778,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Hamon",
+    "gn:country_code":"CG",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259792,
+    "gn:latitude":-4.18944,
+    "gn:longitude":14.80778,
+    "gn:modification_date":"2013-05-07",
+    "gn:name":"Hamon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haute Madzia",
+        "Hamon",
+        "Madzia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259792
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"457e08aab6d42cc5d8a5528356bd3532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1360066447,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1360066447,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Hamon",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80778,
+    -4.18944,
+    14.80778,
+    -4.18944
+],
+  "geometry": {"coordinates":[14.80778,-4.18944],"type":"Point"}
+}

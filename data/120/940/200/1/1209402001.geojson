@@ -1,0 +1,65 @@
+{
+  "id": 1209402001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24972,-3.97694,15.24972,-3.97694",
+    "geom:latitude":-3.97694,
+    "geom:longitude":15.24972,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mikouimba",
+    "gn:country_code":"CG",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257198,
+    "gn:latitude":-3.97694,
+    "gn:longitude":15.24972,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mikouimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikouimba",
+        "Mikouimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257198
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0e055fb551cfc2c5207ce72cc096179e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209402001
+        }
+    ],
+    "wof:id":1209402001,
+    "wof:lastmodified":1537590674,
+    "wof:name":"Mikouimba",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24972,
+    -3.97694,
+    15.24972,
+    -3.97694
+],
+  "geometry": {"coordinates":[15.24972,-3.97694],"type":"Point"}
+}

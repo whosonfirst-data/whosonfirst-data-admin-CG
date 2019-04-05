@@ -1,0 +1,67 @@
+{
+  "id": 1226331239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.16861,1.45333,14.16861,1.45333",
+    "geom:latitude":1.45333,
+    "geom:longitude":14.16861,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mekam",
+    "gn:country_code":"CG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565665,
+    "gn:latitude":1.45333,
+    "gn:longitude":14.16861,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"M\u00e9kam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565665
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a3a196c5a2d65f743ab375f73f72d5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1226331239,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1226331239,
+    "wof:lastmodified":1536809964,
+    "wof:name":"Mekam",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.16861,
+    1.45333,
+    14.16861,
+    1.45333
+],
+  "geometry": {"coordinates":[14.16861,1.45333],"type":"Point"}
+}

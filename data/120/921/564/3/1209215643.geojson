@@ -1,0 +1,61 @@
+{
+  "id": 1209215643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.06667,-4.23333,12.06667,-4.23333",
+    "geom:latitude":-4.23333,
+    "geom:longitude":12.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sikama-Kamba",
+    "gn:country_code":"CG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255281,
+    "gn:latitude":-4.23333,
+    "gn:longitude":12.06667,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Sikama-Kamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255281
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"779b2aadec9f343b5368d4776b1cd492",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209215643
+        }
+    ],
+    "wof:id":1209215643,
+    "wof:lastmodified":1536294141,
+    "wof:name":"Sikama-Kamba",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.06667,
+    -4.2333300000000005,
+    12.06667,
+    -4.2333300000000005
+],
+  "geometry": {"coordinates":[12.06667,-4.23333],"type":"Point"}
+}

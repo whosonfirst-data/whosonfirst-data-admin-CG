@@ -1,0 +1,67 @@
+{
+  "id": 1343283231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.72389,-2.43444,12.72389,-2.43444",
+    "geom:latitude":-2.43444,
+    "geom:longitude":12.72389,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lebiga",
+    "gn:country_code":"CG",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258620,
+    "gn:latitude":-2.43444,
+    "gn:longitude":12.72389,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"L\u00e9biga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258620
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1cf26fdd98517873c0a679bf1e7e87e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013401,
+            "locality_id":1343283231,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1343283231,
+    "wof:lastmodified":1537001345,
+    "wof:name":"Lebiga",
+    "wof:parent_id":1092013401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.72389,
+    -2.43444,
+    12.72389,
+    -2.43444
+],
+  "geometry": {"coordinates":[12.72389,-2.43444],"type":"Point"}
+}

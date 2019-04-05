@@ -1,0 +1,72 @@
+{
+  "id": 1276852201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75722,-4.41694,14.75722,-4.41694",
+    "geom:latitude":-4.41694,
+    "geom:longitude":14.75722,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Yalavounga",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254915,
+    "gn:latitude":-4.41694,
+    "gn:longitude":14.75722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Yalavounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yala Vounga",
+        "Yalavounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254915
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9eda07d23cf09a8d9d4288b0b9913c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1276852201,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276852201,
+    "wof:lastmodified":1537590643,
+    "wof:name":"Yalavounga",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75722,
+    -4.41694,
+    14.75722,
+    -4.41694
+],
+  "geometry": {"coordinates":[14.75722,-4.41694],"type":"Point"}
+}

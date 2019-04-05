@@ -1,0 +1,67 @@
+{
+  "id": 1226728047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.86389,-4.4775,14.86389,-4.4775",
+    "geom:latitude":-4.4775,
+    "geom:longitude":14.86389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gouma",
+    "gn:country_code":"CG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259819,
+    "gn:latitude":-4.4775,
+    "gn:longitude":14.86389,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Gouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259819
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4c572e0cf7dd4cca63fafc5bc71df48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1226728047,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226728047,
+    "wof:lastmodified":1536740863,
+    "wof:name":"Gouma",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.86389,
+    -4.4775,
+    14.86389,
+    -4.4775
+],
+  "geometry": {"coordinates":[14.86389,-4.4775],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276416861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.48306,0.0375,15.48306,0.0375",
+    "geom:latitude":0.0375,
+    "geom:longitude":15.48306,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oyoue",
+    "gn:country_code":"CG",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255509,
+    "gn:latitude":0.0375,
+    "gn:longitude":15.48306,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Oyou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255509
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e7175fa87f604da975285c638cb2fb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1276416861,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276416861,
+    "wof:lastmodified":1536666820,
+    "wof:name":"Oyoue",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.48306,
+    0.0375,
+    15.48306,
+    0.0375
+],
+  "geometry": {"coordinates":[15.48306,0.0375],"type":"Point"}
+}

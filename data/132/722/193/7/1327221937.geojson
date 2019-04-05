@@ -1,0 +1,72 @@
+{
+  "id": 1327221937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91111,-4.34667,14.91111,-4.34667",
+    "geom:latitude":-4.34667,
+    "geom:longitude":14.91111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Guela",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256303,
+    "gn:latitude":-4.34667,
+    "gn:longitude":14.91111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gu\u00e9la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ng\u00e9la",
+        "Gu\u00e9la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256303
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a09a65529c411739c6e0851eea20ddfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1327221937,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1327221937,
+    "wof:lastmodified":1537590664,
+    "wof:name":"Guela",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91111,
+    -4.34667,
+    14.91111,
+    -4.34667
+],
+  "geometry": {"coordinates":[14.91111,-4.34667],"type":"Point"}
+}

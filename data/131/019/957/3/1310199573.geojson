@@ -1,0 +1,67 @@
+{
+  "id": 1310199573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.12,-3.22861,12.12,-3.22861",
+    "geom:latitude":-3.22861,
+    "geom:longitude":12.12,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kousou",
+    "gn:country_code":"CG",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568975,
+    "gn:latitude":-3.22861,
+    "gn:longitude":12.12,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Kousou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568975
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d5d16fea8d4a5716cf4f918d23d3ac6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013319,
+            "locality_id":1310199573,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1310199573,
+    "wof:lastmodified":1536859499,
+    "wof:name":"Kousou",
+    "wof:parent_id":1092013319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.12,
+    -3.22861,
+    12.12,
+    -3.22861
+],
+  "geometry": {"coordinates":[12.12,-3.22861],"type":"Point"}
+}

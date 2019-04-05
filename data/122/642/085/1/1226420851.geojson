@@ -1,0 +1,67 @@
+{
+  "id": 1226420851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.07111,-3.96194,15.07111,-3.96194",
+    "geom:latitude":-3.96194,
+    "geom:longitude":15.07111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lingo",
+    "gn:country_code":"CG",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258415,
+    "gn:latitude":-3.96194,
+    "gn:longitude":15.07111,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Lingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258415
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"72fade89ed81d2da7c79684f2c2ab9e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013787,
+            "locality_id":1226420851,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226420851,
+    "wof:lastmodified":1536681365,
+    "wof:name":"Lingo",
+    "wof:parent_id":1092013787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.07111,
+    -3.96194,
+    15.07111,
+    -3.96194
+],
+  "geometry": {"coordinates":[15.07111,-3.96194],"type":"Point"}
+}

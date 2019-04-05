@@ -1,0 +1,67 @@
+{
+  "id": 1293284879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.13889,-0.36278,17.13889,-0.36278",
+    "geom:latitude":-0.36278,
+    "geom:longitude":17.13889,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mobaka",
+    "gn:country_code":"CG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567749,
+    "gn:latitude":-0.36278,
+    "gn:longitude":17.13889,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Mobaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567749
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"684fe376b262865dccfa7c50aba518d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012757,
+            "locality_id":1293284879,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293284879,
+    "wof:lastmodified":1537076006,
+    "wof:name":"Mobaka",
+    "wof:parent_id":1092012757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.13889,
+    -0.36278,
+    17.13889,
+    -0.36278
+],
+  "geometry": {"coordinates":[17.13889,-0.36278],"type":"Point"}
+}

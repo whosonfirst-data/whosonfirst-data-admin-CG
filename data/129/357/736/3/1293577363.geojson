@@ -1,0 +1,67 @@
+{
+  "id": 1293577363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91083,-4.08944,14.91083,-4.08944",
+    "geom:latitude":-4.08944,
+    "geom:longitude":14.91083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kinnsassa",
+    "gn:country_code":"CG",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566299,
+    "gn:latitude":-4.08944,
+    "gn:longitude":14.91083,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kinnsassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566299
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2c3f5cfdde5d00e0bee79e437722d56e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1293577363,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293577363,
+    "wof:lastmodified":1536657682,
+    "wof:name":"Kinnsassa",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91083,
+    -4.08944,
+    14.91083,
+    -4.08944
+],
+  "geometry": {"coordinates":[14.91083,-4.08944],"type":"Point"}
+}

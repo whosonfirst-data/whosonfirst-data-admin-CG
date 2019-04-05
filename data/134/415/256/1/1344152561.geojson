@@ -1,0 +1,67 @@
+{
+  "id": 1344152561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.49194,1.97472,15.49194,1.97472",
+    "geom:latitude":1.97472,
+    "geom:longitude":15.49194,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ngouma",
+    "gn:country_code":"CG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256224,
+    "gn:latitude":1.97472,
+    "gn:longitude":15.49194,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Ngouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256224
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a4275d39375f89d28be6da519e41c1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1344152561,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1344152561,
+    "wof:lastmodified":1536742482,
+    "wof:name":"Ngouma",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.49194,
+    1.97472,
+    15.49194,
+    1.97472
+],
+  "geometry": {"coordinates":[15.49194,1.97472],"type":"Point"}
+}

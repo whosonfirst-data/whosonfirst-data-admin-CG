@@ -1,0 +1,67 @@
+{
+  "id": 1276948777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4975,-1.01528,14.4975,-1.01528",
+    "geom:latitude":-1.01528,
+    "geom:longitude":14.4975,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Okogo",
+    "gn:country_code":"CG",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569500,
+    "gn:latitude":-1.01528,
+    "gn:longitude":14.4975,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Okogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569500
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"da7563ccd209e8efaf0404db4b424b95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1276948777,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276948777,
+    "wof:lastmodified":1536949368,
+    "wof:name":"Okogo",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4975,
+    -1.01528,
+    14.4975,
+    -1.01528
+],
+  "geometry": {"coordinates":[14.4975,-1.01528],"type":"Point"}
+}

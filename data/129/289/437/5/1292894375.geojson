@@ -1,0 +1,67 @@
+{
+  "id": 1292894375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97583,-4.50556,14.97583,-4.50556",
+    "geom:latitude":-4.50556,
+    "geom:longitude":14.97583,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Loyakou",
+    "gn:country_code":"CG",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258052,
+    "gn:latitude":-4.50556,
+    "gn:longitude":14.97583,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Loyakou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258052
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0bdf66ea52739f692d0f236f6b73fa06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1292894375,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1292894375,
+    "wof:lastmodified":1536647701,
+    "wof:name":"Loyakou",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97583,
+    -4.50556,
+    14.97583,
+    -4.50556
+],
+  "geometry": {"coordinates":[14.97583,-4.50556],"type":"Point"}
+}

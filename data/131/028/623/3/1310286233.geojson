@@ -1,0 +1,67 @@
+{
+  "id": 1310286233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40944,-3.94139,14.40944,-3.94139",
+    "geom:latitude":-3.94139,
+    "geom:longitude":14.40944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bangou",
+    "gn:country_code":"CG",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261043,
+    "gn:latitude":-3.94139,
+    "gn:longitude":14.40944,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Bangou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261043
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0f6ba8a78fe24519d74ff4eaed7b0855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1310286233,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310286233,
+    "wof:lastmodified":1536735818,
+    "wof:name":"Bangou",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40944,
+    -3.94139,
+    14.40944,
+    -3.94139
+],
+  "geometry": {"coordinates":[14.40944,-3.94139],"type":"Point"}
+}

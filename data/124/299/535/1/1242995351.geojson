@@ -1,0 +1,67 @@
+{
+  "id": 1242995351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.23417,2.54556,18.23417,2.54556",
+    "geom:latitude":2.54556,
+    "geom:longitude":18.23417,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Lidouma",
+    "gn:country_code":"CG",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258451,
+    "gn:latitude":2.54556,
+    "gn:longitude":18.23417,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Lidouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258451
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f9229179977e733c481207f189e0273e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1242995351,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1242995351,
+    "wof:lastmodified":1536958909,
+    "wof:name":"Lidouma",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.23417,
+    2.54556,
+    18.23417,
+    2.54556
+],
+  "geometry": {"coordinates":[18.23417,2.54556],"type":"Point"}
+}

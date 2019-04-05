@@ -1,0 +1,61 @@
+{
+  "id": 1209405533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.175,-1.9425,16.175,-1.9425",
+    "geom:latitude":-1.9425,
+    "geom:longitude":16.175,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Inga",
+    "gn:country_code":"CG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259626,
+    "gn:latitude":-1.9425,
+    "gn:longitude":16.175,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Inga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259626
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1c55a6a672872bef7e468e73c5d6b133",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209405533
+        }
+    ],
+    "wof:id":1209405533,
+    "wof:lastmodified":1536288008,
+    "wof:name":"Inga",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.175,
+    -1.9425,
+    16.175,
+    -1.9425
+],
+  "geometry": {"coordinates":[16.175,-1.9425],"type":"Point"}
+}

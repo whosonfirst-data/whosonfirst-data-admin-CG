@@ -1,0 +1,72 @@
+{
+  "id": 1360173003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.44278,-3.85472,14.44278,-3.85472",
+    "geom:latitude":-3.85472,
+    "geom:longitude":14.44278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mpassa-Village",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256554,
+    "gn:latitude":-3.85472,
+    "gn:longitude":14.44278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mpassa-Village",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpasa",
+        "Mpassa-Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256554
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4681bdf088e469b726c345942d119a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1360173003,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1360173003,
+    "wof:lastmodified":1537590666,
+    "wof:name":"Mpassa-Village",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.44278,
+    -3.85472,
+    14.44278,
+    -3.85472
+],
+  "geometry": {"coordinates":[14.44278,-3.85472],"type":"Point"}
+}

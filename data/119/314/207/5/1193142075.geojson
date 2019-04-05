@@ -1,0 +1,67 @@
+{
+  "id": 1193142075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24722,-3.33583,13.24722,-3.33583",
+    "geom:latitude":-3.33583,
+    "geom:longitude":13.24722,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Makabala",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568772,
+    "gn:latitude":-3.33583,
+    "gn:longitude":13.24722,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Makabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568772
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9fa83ff75417e06541b947e36d0c2955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1193142075,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1193142075,
+    "wof:lastmodified":1536365234,
+    "wof:name":"Makabala",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24722,
+    -3.33583,
+    13.24722,
+    -3.33583
+],
+  "geometry": {"coordinates":[13.24722,-3.33583],"type":"Point"}
+}

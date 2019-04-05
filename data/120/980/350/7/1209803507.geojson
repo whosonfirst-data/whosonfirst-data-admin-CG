@@ -1,0 +1,67 @@
+{
+  "id": 1209803507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80944,-4.18861,14.80944,-4.18861",
+    "geom:latitude":-4.18861,
+    "geom:longitude":14.80944,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mana",
+    "gn:country_code":"CG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566263,
+    "gn:latitude":-4.18861,
+    "gn:longitude":14.80944,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566263
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d6e8ab0143dae5ebb6f2a6b4ffe10a36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1209803507,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1209803507,
+    "wof:lastmodified":1536389647,
+    "wof:name":"Mana",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80944,
+    -4.18861,
+    14.80944,
+    -4.18861
+],
+  "geometry": {"coordinates":[14.80944,-4.18861],"type":"Point"}
+}

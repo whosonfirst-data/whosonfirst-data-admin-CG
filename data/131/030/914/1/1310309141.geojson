@@ -1,0 +1,67 @@
+{
+  "id": 1310309141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.75417,-4.225,13.75417,-4.225",
+    "geom:latitude":-4.225,
+    "geom:longitude":13.75417,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mienge-Mienge",
+    "gn:country_code":"CG",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257225,
+    "gn:latitude":-4.225,
+    "gn:longitude":13.75417,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mieng\u00e9-Mieng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257225
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2b33c50abcc4ec0c2e18dd26d0612f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012433,
+            "locality_id":1310309141,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1310309141,
+    "wof:lastmodified":1536702906,
+    "wof:name":"Mienge-Mienge",
+    "wof:parent_id":1092012433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.75417,
+    -4.225,
+    13.75417,
+    -4.225
+],
+  "geometry": {"coordinates":[13.75417,-4.225],"type":"Point"}
+}

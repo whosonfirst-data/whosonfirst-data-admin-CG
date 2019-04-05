@@ -1,0 +1,67 @@
+{
+  "id": 1209904111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53222,-4.01722,14.53222,-4.01722",
+    "geom:latitude":-4.01722,
+    "geom:longitude":14.53222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Loukonga",
+    "gn:country_code":"CG",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258179,
+    "gn:latitude":-4.01722,
+    "gn:longitude":14.53222,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Loukonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258179
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bd9ebd05a93142d137cc54b9ecc6c819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1209904111,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1209904111,
+    "wof:lastmodified":1536385098,
+    "wof:name":"Loukonga",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53222,
+    -4.01722,
+    14.53222,
+    -4.01722
+],
+  "geometry": {"coordinates":[14.53222,-4.01722],"type":"Point"}
+}

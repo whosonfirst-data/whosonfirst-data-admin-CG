@@ -1,0 +1,67 @@
+{
+  "id": 1226016241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.98056,0.00306,15.98056,0.00306",
+    "geom:latitude":0.00306,
+    "geom:longitude":15.98056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ikou",
+    "gn:country_code":"CG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259715,
+    "gn:latitude":0.00306,
+    "gn:longitude":15.98056,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Ikou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259715
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"04b192a424ce26f46af461ce38b3a023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1226016241,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1226016241,
+    "wof:lastmodified":1536768284,
+    "wof:name":"Ikou",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.98056,
+    0.00306,
+    15.98056,
+    0.00306
+],
+  "geometry": {"coordinates":[15.98056,0.00306],"type":"Point"}
+}

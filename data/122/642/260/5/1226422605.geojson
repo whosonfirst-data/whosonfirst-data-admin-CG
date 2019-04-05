@@ -1,0 +1,71 @@
+{
+  "id": 1226422605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03333,-4.36556,15.03333,-4.36556",
+    "geom:latitude":-4.36556,
+    "geom:longitude":15.03333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Tingoy",
+    "gn:country_code":"CG",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259001,
+    "gn:latitude":-4.36556,
+    "gn:longitude":15.03333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Tingoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kingoy\u00e9",
+        "Tingoy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259001
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"85eee163deca13d0650808a6bba87ab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1226422605,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226422605,
+    "wof:lastmodified":1537590693,
+    "wof:name":"Tingoy",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03333,
+    -4.36556,
+    15.03333,
+    -4.36556
+],
+  "geometry": {"coordinates":[15.03333,-4.36556],"type":"Point"}
+}

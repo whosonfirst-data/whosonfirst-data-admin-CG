@@ -1,0 +1,72 @@
+{
+  "id": 1326951481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.82583,-4.36861,12.82583,-4.36861",
+    "geom:latitude":-4.36861,
+    "geom:longitude":12.82583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Manga Misou",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257745,
+    "gn:latitude":-4.36861,
+    "gn:longitude":12.82583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Manga Misou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manga-Missou",
+        "Manga Misou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257745
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3d7f1501ebca26882f5147d229473214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1326951481,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1326951481,
+    "wof:lastmodified":1537590681,
+    "wof:name":"Manga Misou",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.82583,
+    -4.36861,
+    12.82583,
+    -4.36861
+],
+  "geometry": {"coordinates":[12.82583,-4.36861],"type":"Point"}
+}

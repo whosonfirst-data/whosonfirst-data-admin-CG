@@ -1,0 +1,67 @@
+{
+  "id": 1327111819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.12611,-4.38778,15.12611,-4.38778",
+    "geom:latitude":-4.38778,
+    "geom:longitude":15.12611,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kintsembo",
+    "gn:country_code":"CG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258920,
+    "gn:latitude":-4.38778,
+    "gn:longitude":15.12611,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kintsembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258920
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1e496055fe00828c699ea6c601c3f9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1327111819,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1327111819,
+    "wof:lastmodified":1536645366,
+    "wof:name":"Kintsembo",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.12611,
+    -4.38778,
+    15.12611,
+    -4.38778
+],
+  "geometry": {"coordinates":[15.12611,-4.38778],"type":"Point"}
+}

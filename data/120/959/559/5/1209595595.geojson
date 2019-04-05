@@ -1,0 +1,66 @@
+{
+  "id": 1209595595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.13111,-4.22889,15.13111,-4.22889",
+    "geom:latitude":-4.22889,
+    "geom:longitude":15.13111,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ngoma Tse-Tse",
+    "gn:country_code":"CG",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259856,
+    "gn:latitude":-4.22889,
+    "gn:longitude":15.13111,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ngoma Ts\u00e9-Ts\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goma Ts\u00e9ts\u00e9",
+        "Gomatchitche",
+        "Ngoma Ts\u00e9-Ts\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259856
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"24f9fdbd40d501002da7ab525db4c6ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209595595
+        }
+    ],
+    "wof:id":1209595595,
+    "wof:lastmodified":1537590704,
+    "wof:name":"Ngoma Tse-Tse",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.13111,
+    -4.22889,
+    15.13111,
+    -4.22889
+],
+  "geometry": {"coordinates":[15.13111,-4.22889],"type":"Point"}
+}

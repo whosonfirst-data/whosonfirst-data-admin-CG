@@ -1,0 +1,61 @@
+{
+  "id": 1209290919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.41167,-0.95528,15.41167,-0.95528",
+    "geom:latitude":-0.95528,
+    "geom:longitude":15.41167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Olongone",
+    "gn:country_code":"CG",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255748,
+    "gn:latitude":-0.95528,
+    "gn:longitude":15.41167,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Olongon\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255748
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d0b27ce6b0790e761b55ef55d5a8603b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209290919
+        }
+    ],
+    "wof:id":1209290919,
+    "wof:lastmodified":1536291698,
+    "wof:name":"Olongone",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.41167,
+    -0.95528,
+    15.41167,
+    -0.95528
+],
+  "geometry": {"coordinates":[15.41167,-0.95528],"type":"Point"}
+}

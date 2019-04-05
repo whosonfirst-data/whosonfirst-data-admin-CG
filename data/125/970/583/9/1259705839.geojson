@@ -1,0 +1,67 @@
+{
+  "id": 1259705839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.91306,1.15528,17.91306,1.15528",
+    "geom:latitude":1.15528,
+    "geom:longitude":17.91306,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Faraka",
+    "gn:country_code":"CG",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565563,
+    "gn:latitude":1.15528,
+    "gn:longitude":17.91306,
+    "gn:modification_date":"1995-06-16",
+    "gn:name":"Faraka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565563
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5e9d5f7a29deec900171d59ea83b54d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1259705839,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1259705839,
+    "wof:lastmodified":1537033480,
+    "wof:name":"Faraka",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.91306,
+    1.15528,
+    17.91306,
+    1.15528
+],
+  "geometry": {"coordinates":[17.91306,1.15528],"type":"Point"}
+}

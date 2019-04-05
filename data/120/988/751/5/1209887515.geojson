@@ -1,0 +1,67 @@
+{
+  "id": 1209887515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10583,0.19417,17.10583,0.19417",
+    "geom:latitude":0.19417,
+    "geom:longitude":17.10583,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"lenge",
+    "gn:country_code":"CG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565742,
+    "gn:latitude":0.19417,
+    "gn:longitude":17.10583,
+    "gn:modification_date":"1995-08-01",
+    "gn:name":"leng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565742
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7cce50d4dd17e92d61b8d75daa767c89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012757,
+            "locality_id":1209887515,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1209887515,
+    "wof:lastmodified":1536392254,
+    "wof:name":"lenge",
+    "wof:parent_id":1092012757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10582999999999,
+    0.19417,
+    17.10582999999999,
+    0.19417
+],
+  "geometry": {"coordinates":[17.10582999999999,0.19417],"type":"Point"}
+}

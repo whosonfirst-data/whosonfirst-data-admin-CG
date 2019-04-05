@@ -1,0 +1,67 @@
+{
+  "id": 1293315263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,-3.33333,13.25,-3.33333",
+    "geom:latitude":-3.33333,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bandzoko",
+    "gn:country_code":"CG",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261063,
+    "gn:latitude":-3.33333,
+    "gn:longitude":13.25,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bandzoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261063
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"654d0f20d6f1929e0a46ce784df02552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1293315263,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1293315263,
+    "wof:lastmodified":1537033912,
+    "wof:name":"Bandzoko",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    -3.33333,
+    13.25,
+    -3.33333
+],
+  "geometry": {"coordinates":[13.25,-3.33333],"type":"Point"}
+}

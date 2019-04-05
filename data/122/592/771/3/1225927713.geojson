@@ -1,0 +1,67 @@
+{
+  "id": 1225927713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67,1.6425,14.67,1.6425",
+    "geom:latitude":1.6425,
+    "geom:longitude":14.67,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bessie",
+    "gn:country_code":"CG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565656,
+    "gn:latitude":1.6425,
+    "gn:longitude":14.67,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Bessi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565656
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1bdeb0d94391de4c99793829e6a4e4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1225927713,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1225927713,
+    "wof:lastmodified":1536895292,
+    "wof:name":"Bessie",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67,
+    1.6425,
+    14.67,
+    1.6425
+],
+  "geometry": {"coordinates":[14.67,1.6425],"type":"Point"}
+}

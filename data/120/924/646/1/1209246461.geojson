@@ -1,0 +1,61 @@
+{
+  "id": 1209246461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.06417,-3.195,14.06417,-3.195",
+    "geom:latitude":-3.195,
+    "geom:longitude":14.06417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kintari",
+    "gn:country_code":"CG",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258932,
+    "gn:latitude":-3.195,
+    "gn:longitude":14.06417,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kintari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258932
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4c957ea23be50fe8a74700b72a52053d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209246461
+        }
+    ],
+    "wof:id":1209246461,
+    "wof:lastmodified":1536293148,
+    "wof:name":"Kintari",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.06417,
+    -3.195,
+    14.06417,
+    -3.195
+],
+  "geometry": {"coordinates":[14.06417,-3.195],"type":"Point"}
+}

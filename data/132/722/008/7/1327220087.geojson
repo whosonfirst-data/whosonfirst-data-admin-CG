@@ -1,0 +1,72 @@
+{
+  "id": 1327220087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.04917,-1.34667,15.04917,-1.34667",
+    "geom:latitude":-1.34667,
+    "geom:longitude":15.04917,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kevou",
+    "gn:country_code":"CG",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259334,
+    "gn:latitude":-1.34667,
+    "gn:longitude":15.04917,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kevou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kevougou",
+        "Kents\u00e9l\u00e9",
+        "Kevou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259334
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f1f2d39cff68db3ae16d983c2b54ce77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1327220087,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1327220087,
+    "wof:lastmodified":1537590697,
+    "wof:name":"Kevou",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.04917,
+    -1.34667,
+    15.04917,
+    -1.34667
+],
+  "geometry": {"coordinates":[15.04917,-1.34667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327325521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.89639,-2.81444,11.89639,-2.81444",
+    "geom:latitude":-2.81444,
+    "geom:longitude":11.89639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kandi",
+    "gn:country_code":"CG",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259438,
+    "gn:latitude":-2.81444,
+    "gn:longitude":11.89639,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Kandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259438
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"cc5162d84edf109c0149a7c826264d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1327325521,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327325521,
+    "wof:lastmodified":1536834171,
+    "wof:name":"Kandi",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.89639,
+    -2.81444,
+    11.89639,
+    -2.81444
+],
+  "geometry": {"coordinates":[11.89639,-2.81444],"type":"Point"}
+}

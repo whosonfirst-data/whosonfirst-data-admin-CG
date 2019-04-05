@@ -1,0 +1,67 @@
+{
+  "id": 1327426513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.15556,1.01917,17.15556,1.01917",
+    "geom:latitude":1.01917,
+    "geom:longitude":17.15556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Edzama",
+    "gn:country_code":"CG",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260194,
+    "gn:latitude":1.01917,
+    "gn:longitude":17.15556,
+    "gn:modification_date":"1995-06-16",
+    "gn:name":"Edzama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260194
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"474fe6a46d575027e32a86512b9789a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1327426513,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1327426513,
+    "wof:lastmodified":1536689447,
+    "wof:name":"Edzama",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.15556,
+    1.01917,
+    17.15556,
+    1.01917
+],
+  "geometry": {"coordinates":[17.15556,1.01917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226213455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65,-0.25,14.65,-0.25",
+    "geom:latitude":-0.25,
+    "geom:longitude":14.65,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oloua",
+    "gn:country_code":"CG",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255746,
+    "gn:latitude":-0.25,
+    "gn:longitude":14.65,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Oloua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255746
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a0f90cd2b9e35034f4a46b42f17e1696",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1226213455,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226213455,
+    "wof:lastmodified":1536979627,
+    "wof:name":"Oloua",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65,
+    -0.25,
+    14.65,
+    -0.25
+],
+  "geometry": {"coordinates":[14.65,-0.25],"type":"Point"}
+}

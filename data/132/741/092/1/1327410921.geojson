@@ -1,0 +1,67 @@
+{
+  "id": 1327410921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.24917,-3.69528,15.24917,-3.69528",
+    "geom:latitude":-3.69528,
+    "geom:longitude":15.24917,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mingali",
+    "gn:country_code":"CG",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257165,
+    "gn:latitude":-3.69528,
+    "gn:longitude":15.24917,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mingali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257165
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ad8f4986a8e5bff6738a78976b36f7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1327410921,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1327410921,
+    "wof:lastmodified":1536712111,
+    "wof:name":"Mingali",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.24917,
+    -3.69528,
+    15.24917,
+    -3.69528
+],
+  "geometry": {"coordinates":[15.24917,-3.69528],"type":"Point"}
+}

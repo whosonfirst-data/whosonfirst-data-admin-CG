@@ -1,0 +1,61 @@
+{
+  "id": 1209097985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67556,-3.17306,12.67556,-3.17306",
+    "geom:latitude":-3.17306,
+    "geom:longitude":12.67556,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bandakoumou",
+    "gn:country_code":"CG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261086,
+    "gn:latitude":-3.17306,
+    "gn:longitude":12.67556,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bandakoumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261086
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ffe5a77d597eb7befa0c68ec22a6dd9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209097985
+        }
+    ],
+    "wof:id":1209097985,
+    "wof:lastmodified":1536297826,
+    "wof:name":"Bandakoumou",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67556,
+    -3.17306,
+    12.67556,
+    -3.17306
+],
+  "geometry": {"coordinates":[12.67556,-3.17306],"type":"Point"}
+}

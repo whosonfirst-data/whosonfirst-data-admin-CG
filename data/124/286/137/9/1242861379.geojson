@@ -1,0 +1,67 @@
+{
+  "id": 1242861379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.19917,-4.25778,15.19917,-4.25778",
+    "geom:latitude":-4.25778,
+    "geom:longitude":15.19917,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kibouende VIII",
+    "gn:country_code":"CG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566002,
+    "gn:latitude":-4.25778,
+    "gn:longitude":15.19917,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kibouend\u00e9 VIII",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566002
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8021c034199b45254dcc2ec22a0426c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1242861379,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1242861379,
+    "wof:lastmodified":1536654937,
+    "wof:name":"Kibouende VIII",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.19917,
+    -4.25778,
+    15.19917,
+    -4.25778
+],
+  "geometry": {"coordinates":[15.19917,-4.25778],"type":"Point"}
+}

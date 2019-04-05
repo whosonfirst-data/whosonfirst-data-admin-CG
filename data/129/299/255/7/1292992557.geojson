@@ -1,0 +1,67 @@
+{
+  "id": 1292992557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83194,-2.78222,11.83194,-2.78222",
+    "geom:latitude":-2.78222,
+    "geom:longitude":11.83194,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bihongo",
+    "gn:country_code":"CG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260913,
+    "gn:latitude":-2.78222,
+    "gn:longitude":11.83194,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Bihongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260913
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"847adda60f85b7dc5a8939fa62588651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1292992557,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1292992557,
+    "wof:lastmodified":1537002805,
+    "wof:name":"Bihongo",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83194,
+    -2.78222,
+    11.83194,
+    -2.78222
+],
+  "geometry": {"coordinates":[11.83194,-2.78222],"type":"Point"}
+}

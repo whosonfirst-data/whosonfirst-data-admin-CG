@@ -1,0 +1,67 @@
+{
+  "id": 1327228295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.85806,-4.16722,12.85806,-4.16722",
+    "geom:latitude":-4.16722,
+    "geom:longitude":12.85806,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsanga",
+    "gn:country_code":"CG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566951,
+    "gn:latitude":-4.16722,
+    "gn:longitude":12.85806,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Tsanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        421204287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566951
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ea0d6f0737051b4be94c83989aba9a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421204287,
+            "locality_id":1327228295,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327228295,
+    "wof:lastmodified":1536975058,
+    "wof:name":"Tsanga",
+    "wof:parent_id":421204287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.85806,
+    -4.16722,
+    12.85806,
+    -4.16722
+],
+  "geometry": {"coordinates":[12.85806,-4.16722],"type":"Point"}
+}

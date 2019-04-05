@@ -1,0 +1,61 @@
+{
+  "id": 1209303505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91667,1.43333,15.91667,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":15.91667,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Indouma I",
+    "gn:country_code":"CG",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259632,
+    "gn:latitude":1.43333,
+    "gn:longitude":15.91667,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Indouma I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259632
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0a7f20d063da445c43cdd86c7028c911",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209303505
+        }
+    ],
+    "wof:id":1209303505,
+    "wof:lastmodified":1536291274,
+    "wof:name":"Indouma I",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.916670000000002,
+    1.43333,
+    15.916670000000002,
+    1.43333
+],
+  "geometry": {"coordinates":[15.91667,1.43333],"type":"Point"}
+}

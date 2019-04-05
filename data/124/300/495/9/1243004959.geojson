@@ -1,0 +1,72 @@
+{
+  "id": 1243004959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.12417,-3.98583,13.12417,-3.98583",
+    "geom:latitude":-3.98583,
+    "geom:longitude":13.12417,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pika-Songho",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568684,
+    "gn:latitude":-3.98583,
+    "gn:longitude":13.12417,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Pika-Songho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pikasongo",
+        "Pika-Songho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568684
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"64df919cd1535be60550de8f412946fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012419,
+            "locality_id":1243004959,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1243004959,
+    "wof:lastmodified":1537590732,
+    "wof:name":"Pika-Songho",
+    "wof:parent_id":1092012419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.12417,
+    -3.98583,
+    13.12417,
+    -3.98583
+],
+  "geometry": {"coordinates":[13.12417,-3.98583],"type":"Point"}
+}

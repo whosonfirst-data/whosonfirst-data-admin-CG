@@ -1,0 +1,67 @@
+{
+  "id": 1276426651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.29667,-1.90472,16.29667,-1.90472",
+    "geom:latitude":-1.90472,
+    "geom:longitude":16.29667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Dzolokonzo",
+    "gn:country_code":"CG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568306,
+    "gn:latitude":-1.90472,
+    "gn:longitude":16.29667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Dzolokonzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568306
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"cd1b00e250d9bffaea0535914ed55f21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1276426651,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1276426651,
+    "wof:lastmodified":1536653593,
+    "wof:name":"Dzolokonzo",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.29667,
+    -1.90472,
+    16.29667,
+    -1.90472
+],
+  "geometry": {"coordinates":[16.29667,-1.90472],"type":"Point"}
+}

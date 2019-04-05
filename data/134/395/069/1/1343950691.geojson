@@ -1,0 +1,67 @@
+{
+  "id": 1343950691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14889,2.44667,18.14889,2.44667",
+    "geom:latitude":2.44667,
+    "geom:longitude":18.14889,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bolomo",
+    "gn:country_code":"CG",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260764,
+    "gn:latitude":2.44667,
+    "gn:longitude":18.14889,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Bolomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260764
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"948c34c09d8e50d781ae3a1b04455022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1343950691,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1343950691,
+    "wof:lastmodified":1537032735,
+    "wof:name":"Bolomo",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14889,
+    2.44667,
+    18.14889,
+    2.44667
+],
+  "geometry": {"coordinates":[18.14889,2.44667],"type":"Point"}
+}

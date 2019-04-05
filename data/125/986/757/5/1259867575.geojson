@@ -1,0 +1,67 @@
+{
+  "id": 1259867575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.00278,-3.70139,16.00278,-3.70139",
+    "geom:latitude":-3.70139,
+    "geom:longitude":16.00278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kaba",
+    "gn:country_code":"CG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259479,
+    "gn:latitude":-3.70139,
+    "gn:longitude":16.00278,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Kaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259479
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"bb4e2c3ace44e94655e25bd083e2daa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013867,
+            "locality_id":1259867575,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259867575,
+    "wof:lastmodified":1536802136,
+    "wof:name":"Kaba",
+    "wof:parent_id":1092013867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.00278,
+    -3.70139,
+    16.00278,
+    -3.70139
+],
+  "geometry": {"coordinates":[16.00278,-3.70139],"type":"Point"}
+}

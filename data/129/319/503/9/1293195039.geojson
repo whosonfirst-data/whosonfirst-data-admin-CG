@@ -1,0 +1,67 @@
+{
+  "id": 1293195039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.59028,-2.76083,12.59028,-2.76083",
+    "geom:latitude":-2.76083,
+    "geom:longitude":12.59028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mavouadi",
+    "gn:country_code":"CG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257549,
+    "gn:latitude":-2.76083,
+    "gn:longitude":12.59028,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Mavouadi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257549
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7a9005e2e96d1fd668b89037497f7c9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1293195039,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1293195039,
+    "wof:lastmodified":1536712007,
+    "wof:name":"Mavouadi",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.59028,
+    -2.76083,
+    12.59028,
+    -2.76083
+],
+  "geometry": {"coordinates":[12.59028,-2.76083],"type":"Point"}
+}

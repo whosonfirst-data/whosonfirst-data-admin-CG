@@ -1,0 +1,67 @@
+{
+  "id": 1260269221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.78306,0.00611,15.78306,0.00611",
+    "geom:latitude":0.00611,
+    "geom:longitude":15.78306,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oya",
+    "gn:country_code":"CG",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565770,
+    "gn:latitude":0.00611,
+    "gn:longitude":15.78306,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Oya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565770
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c6910507f0b1d5e9210d4da1c3fbd2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1260269221,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1260269221,
+    "wof:lastmodified":1536731322,
+    "wof:name":"Oya",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.78306,
+    0.00611,
+    15.78306,
+    0.00611
+],
+  "geometry": {"coordinates":[15.78306,0.00611],"type":"Point"}
+}

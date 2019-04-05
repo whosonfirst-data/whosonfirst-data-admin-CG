@@ -1,0 +1,67 @@
+{
+  "id": 1209410387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69083,1.62167,14.69083,1.62167",
+    "geom:latitude":1.62167,
+    "geom:longitude":14.69083,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bessie",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261151,
+    "gn:latitude":1.62167,
+    "gn:longitude":14.69083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00e9ssi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baissiet",
+        "Baisiet",
+        "B\u00e9ssi\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261151
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dee48b41e3f51d8e8e4525d35ddd344a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209410387
+        }
+    ],
+    "wof:id":1209410387,
+    "wof:lastmodified":1537590724,
+    "wof:name":"Bessie",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69083,
+    1.62167,
+    14.69083,
+    1.62167
+],
+  "geometry": {"coordinates":[14.69083,1.62167],"type":"Point"}
+}

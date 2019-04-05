@@ -1,0 +1,67 @@
+{
+  "id": 1226562131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31917,-1.8525,16.31917,-1.8525",
+    "geom:latitude":-1.8525,
+    "geom:longitude":16.31917,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Loko",
+    "gn:country_code":"CG",
+    "gn:dem":286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568305,
+    "gn:latitude":-1.8525,
+    "gn:longitude":16.31917,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Loko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568305
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"97988a42ab4e149111427f29b233937b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1226562131,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226562131,
+    "wof:lastmodified":1536974056,
+    "wof:name":"Loko",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31917,
+    -1.8525,
+    16.31917,
+    -1.8525
+],
+  "geometry": {"coordinates":[16.31917,-1.8525],"type":"Point"}
+}

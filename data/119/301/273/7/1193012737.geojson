@@ -1,0 +1,67 @@
+{
+  "id": 1193012737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88667,-3.11694,12.88667,-3.11694",
+    "geom:latitude":-3.11694,
+    "geom:longitude":12.88667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bibay",
+    "gn:country_code":"CG",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569025,
+    "gn:latitude":-3.11694,
+    "gn:longitude":12.88667,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bibay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569025
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d8fba0c33016f90633fd107f3ecf1a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1193012737,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1193012737,
+    "wof:lastmodified":1536381786,
+    "wof:name":"Bibay",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88667,
+    -3.11694,
+    12.88667,
+    -3.11694
+],
+  "geometry": {"coordinates":[12.88667,-3.11694],"type":"Point"}
+}

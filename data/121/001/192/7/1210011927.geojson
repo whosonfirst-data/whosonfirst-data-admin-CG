@@ -1,0 +1,67 @@
+{
+  "id": 1210011927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.87389,-2.0275,15.87389,-2.0275",
+    "geom:latitude":-2.0275,
+    "geom:longitude":15.87389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oboo",
+    "gn:country_code":"CG",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569158,
+    "gn:latitude":-2.0275,
+    "gn:longitude":15.87389,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Oboo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569158
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0a252b967c30c1932ba56a6135fc7611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1210011927,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1210011927,
+    "wof:lastmodified":1536396809,
+    "wof:name":"Oboo",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.87389,
+    -2.0275,
+    15.87389,
+    -2.0275
+],
+  "geometry": {"coordinates":[15.87389,-2.0275],"type":"Point"}
+}

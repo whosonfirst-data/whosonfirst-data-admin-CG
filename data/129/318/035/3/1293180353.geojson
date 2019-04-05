@@ -1,0 +1,67 @@
+{
+  "id": 1293180353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31444,-0.675,15.31444,-0.675",
+    "geom:latitude":-0.675,
+    "geom:longitude":15.31444,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oyenze II",
+    "gn:country_code":"CG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567999,
+    "gn:latitude":-0.675,
+    "gn:longitude":15.31444,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Oy\u00e8nz\u00e9 II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567999
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f5a6dec69e239533503f7b283f54df75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012715,
+            "locality_id":1293180353,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293180353,
+    "wof:lastmodified":1536733199,
+    "wof:name":"Oyenze II",
+    "wof:parent_id":1092012715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31444,
+    -0.675,
+    15.31444,
+    -0.675
+],
+  "geometry": {"coordinates":[15.31444,-0.675],"type":"Point"}
+}

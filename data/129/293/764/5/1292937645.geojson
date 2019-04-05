@@ -1,0 +1,75 @@
+{
+  "id": 1292937645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.59528,-2.7225,13.59528,-2.7225",
+    "geom:latitude":-2.7225,
+    "geom:longitude":13.59528,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Doumay",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260301,
+    "gn:latitude":-2.7225,
+    "gn:longitude":13.59528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Doumay",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doumali",
+        "Doumayi",
+        "Doumaye",
+        "Domayi",
+        "Doumay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260301
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f467b6ceca4b283acb86313b9a5097b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1292937645,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1292937645,
+    "wof:lastmodified":1537590713,
+    "wof:name":"Doumay",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.59528,
+    -2.7225,
+    13.59528,
+    -2.7225
+],
+  "geometry": {"coordinates":[13.59528,-2.7225],"type":"Point"}
+}

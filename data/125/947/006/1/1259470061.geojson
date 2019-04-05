@@ -1,0 +1,67 @@
+{
+  "id": 1259470061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.34667,-3.92222,15.34667,-3.92222",
+    "geom:latitude":-3.92222,
+    "geom:longitude":15.34667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mandaka",
+    "gn:country_code":"CG",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257777,
+    "gn:latitude":-3.92222,
+    "gn:longitude":15.34667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mandaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257777
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"85e781b4b1095505783e1247ccf7cb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1259470061,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259470061,
+    "wof:lastmodified":1536877236,
+    "wof:name":"Mandaka",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.34667,
+    -3.92222,
+    15.34667,
+    -3.92222
+],
+  "geometry": {"coordinates":[15.34667,-3.92222],"type":"Point"}
+}

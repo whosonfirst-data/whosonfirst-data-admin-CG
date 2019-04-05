@@ -1,0 +1,67 @@
+{
+  "id": 1310427851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.16139,-0.38694,17.16139,-0.38694",
+    "geom:latitude":-0.38694,
+    "geom:longitude":17.16139,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Langa-Bouennza",
+    "gn:country_code":"CG",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567753,
+    "gn:latitude":-0.38694,
+    "gn:longitude":17.16139,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Langa-Bouennza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567753
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"83b4a94d8e5266190b729c7b57880abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012757,
+            "locality_id":1310427851,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1310427851,
+    "wof:lastmodified":1537027839,
+    "wof:name":"Langa-Bouennza",
+    "wof:parent_id":1092012757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.16139,
+    -0.38694,
+    17.16139,
+    -0.38694
+],
+  "geometry": {"coordinates":[17.16139,-0.38694],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209395071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33417,-4.05611,15.33417,-4.05611",
+    "geom:latitude":-4.05611,
+    "geom:longitude":15.33417,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kodia",
+    "gn:country_code":"CG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258825,
+    "gn:latitude":-4.05611,
+    "gn:longitude":15.33417,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kodia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258825
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f0f220ca8e0e22311e42f7887bdd310a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209395071
+        }
+    ],
+    "wof:id":1209395071,
+    "wof:lastmodified":1536288330,
+    "wof:name":"Kodia",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33417,
+    -4.0561099999999985,
+    15.33417,
+    -4.0561099999999985
+],
+  "geometry": {"coordinates":[15.33417,-4.05611],"type":"Point"}
+}

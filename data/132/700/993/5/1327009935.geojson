@@ -1,0 +1,67 @@
+{
+  "id": 1327009935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.11667,-4.26667,15.11667,-4.26667",
+    "geom:latitude":-4.26667,
+    "geom:longitude":15.11667,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Le Ferik",
+    "gn:country_code":"CG",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258597,
+    "gn:latitude":-4.26667,
+    "gn:longitude":15.11667,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Le F\u00e9rik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258597
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6c76101882ca97b7905a2876de4f10a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1327009935,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1327009935,
+    "wof:lastmodified":1536793240,
+    "wof:name":"Le Ferik",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.11667,
+    -4.26667,
+    15.11667,
+    -4.26667
+],
+  "geometry": {"coordinates":[15.11667,-4.26667],"type":"Point"}
+}

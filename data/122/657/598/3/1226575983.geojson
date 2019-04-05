@@ -1,0 +1,73 @@
+{
+  "id": 1226575983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.34972,-4.10972,11.34972,-4.10972",
+    "geom:latitude":-4.10972,
+    "geom:longitude":11.34972,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ancien Poste Madingo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257992,
+    "gn:latitude":-4.10972,
+    "gn:longitude":11.34972,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ancien Poste Madingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madingo",
+        "Ancien Madingo",
+        "Ancien Poste Madingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257992
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"61b52ae9c2615da23752075328a14594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012923,
+            "locality_id":1226575983,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1226575983,
+    "wof:lastmodified":1537590684,
+    "wof:name":"Ancien Poste Madingo",
+    "wof:parent_id":1092012923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.34972,
+    -4.10972,
+    11.34972,
+    -4.10972
+],
+  "geometry": {"coordinates":[11.34972,-4.10972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276636913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43528,-3.78361,14.43528,-3.78361",
+    "geom:latitude":-3.78361,
+    "geom:longitude":14.43528,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Zou",
+    "gn:country_code":"CG",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254784,
+    "gn:latitude":-3.78361,
+    "gn:longitude":14.43528,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Zou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254784
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8b1fc6221b89e543e9a068466d15e9d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1276636913,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276636913,
+    "wof:lastmodified":1536868095,
+    "wof:name":"Zou",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43528,
+    -3.78361,
+    14.43528,
+    -3.78361
+],
+  "geometry": {"coordinates":[14.43528,-3.78361],"type":"Point"}
+}

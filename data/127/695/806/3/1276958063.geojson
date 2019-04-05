@@ -1,0 +1,67 @@
+{
+  "id": 1276958063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0575,-1.37889,15.0575,-1.37889",
+    "geom:latitude":-1.37889,
+    "geom:longitude":15.0575,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Omvoula",
+    "gn:country_code":"CG",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255721,
+    "gn:latitude":-1.37889,
+    "gn:longitude":15.0575,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Omvoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255721
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0b8c2da3164ad4388d42c2b4b7fa9c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1276958063,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276958063,
+    "wof:lastmodified":1536937337,
+    "wof:name":"Omvoula",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0575,
+    -1.37889,
+    15.0575,
+    -1.37889
+],
+  "geometry": {"coordinates":[15.0575,-1.37889],"type":"Point"}
+}

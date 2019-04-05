@@ -1,0 +1,67 @@
+{
+  "id": 1243439839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.54917,-1.60056,15.54917,-1.60056",
+    "geom:latitude":-1.60056,
+    "geom:longitude":15.54917,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ongoye",
+    "gn:country_code":"CG",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255692,
+    "gn:latitude":-1.60056,
+    "gn:longitude":15.54917,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ongoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255692
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"19f98e9bb0ff24fb6cb112b509be5a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1243439839,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243439839,
+    "wof:lastmodified":1536814356,
+    "wof:name":"Ongoye",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.54917,
+    -1.60056,
+    15.54917,
+    -1.60056
+],
+  "geometry": {"coordinates":[15.54917,-1.60056],"type":"Point"}
+}

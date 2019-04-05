@@ -1,0 +1,67 @@
+{
+  "id": 1276571037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.435,-2.41472,14.435,-2.41472",
+    "geom:latitude":-2.41472,
+    "geom:longitude":14.435,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Kangouono",
+    "gn:country_code":"CG",
+    "gn:dem":848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259428,
+    "gn:latitude":-2.41472,
+    "gn:longitude":14.435,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Kangouono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259428
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e6feb7d18d402ee75d6b70c0eeab3983",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1276571037,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1276571037,
+    "wof:lastmodified":1536957723,
+    "wof:name":"Kangouono",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.435,
+    -2.41472,
+    14.435,
+    -2.41472
+],
+  "geometry": {"coordinates":[14.435,-2.41472],"type":"Point"}
+}

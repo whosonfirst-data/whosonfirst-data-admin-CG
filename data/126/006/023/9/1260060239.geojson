@@ -1,0 +1,67 @@
+{
+  "id": 1260060239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.6025,-3.96917,15.6025,-3.96917",
+    "geom:latitude":-3.96917,
+    "geom:longitude":15.6025,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mandiele",
+    "gn:country_code":"CG",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257775,
+    "gn:latitude":-3.96917,
+    "gn:longitude":15.6025,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mandi\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257775
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ff29a1a5aab15d66d52358507c32b2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1260060239,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1260060239,
+    "wof:lastmodified":1537020658,
+    "wof:name":"Mandiele",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.6025,
+    -3.96917,
+    15.6025,
+    -3.96917
+],
+  "geometry": {"coordinates":[15.6025,-3.96917],"type":"Point"}
+}

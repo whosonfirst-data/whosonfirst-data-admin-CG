@@ -1,0 +1,67 @@
+{
+  "id": 1243352479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.49944,1.62083,13.49944,1.62083",
+    "geom:latitude":1.62083,
+    "geom:longitude":13.49944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Poumba-Ekoum II",
+    "gn:country_code":"CG",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565723,
+    "gn:latitude":1.62083,
+    "gn:longitude":13.49944,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Poumba-Ekoum II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565723
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"34a776b1d5b5f60b6d84159003850ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1243352479,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1243352479,
+    "wof:lastmodified":1536941645,
+    "wof:name":"Poumba-Ekoum II",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.49944,
+    1.62083,
+    13.49944,
+    1.62083
+],
+  "geometry": {"coordinates":[13.49944,1.62083],"type":"Point"}
+}

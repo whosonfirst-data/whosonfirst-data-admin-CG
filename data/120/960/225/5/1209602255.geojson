@@ -1,0 +1,61 @@
+{
+  "id": 1209602255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.25722,-4.19944,15.25722,-4.19944",
+    "geom:latitude":-4.19944,
+    "geom:longitude":15.25722,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kintsoundi II",
+    "gn:country_code":"CG",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566065,
+    "gn:latitude":-4.19944,
+    "gn:longitude":15.25722,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kintsoundi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566065
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"258e067011828f448f968774749ab5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209602255
+        }
+    ],
+    "wof:id":1209602255,
+    "wof:lastmodified":1536282128,
+    "wof:name":"Kintsoundi II",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.257220000000002,
+    -4.19944,
+    15.257220000000002,
+    -4.19944
+],
+  "geometry": {"coordinates":[15.25722,-4.19944],"type":"Point"}
+}

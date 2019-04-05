@@ -1,0 +1,61 @@
+{
+  "id": 1209084389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91694,-4.15389,14.91694,-4.15389",
+    "geom:latitude":-4.15389,
+    "geom:longitude":14.91694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gabangola",
+    "gn:country_code":"CG",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566297,
+    "gn:latitude":-4.15389,
+    "gn:longitude":14.91694,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Gabangola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566297
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6257589b6fd6be06cd273ef3aeea3905",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209084389
+        }
+    ],
+    "wof:id":1209084389,
+    "wof:lastmodified":1536298234,
+    "wof:name":"Gabangola",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91694,
+    -4.1538900000000005,
+    14.91694,
+    -4.1538900000000005
+],
+  "geometry": {"coordinates":[14.91694,-4.15389],"type":"Point"}
+}

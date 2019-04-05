@@ -1,0 +1,72 @@
+{
+  "id": 1243286135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45583,-2.29778,14.45583,-2.29778",
+    "geom:latitude":-2.29778,
+    "geom:longitude":14.45583,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Masala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257648,
+    "gn:latitude":-2.29778,
+    "gn:longitude":14.45583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Masala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Assala",
+        "Masala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257648
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ace0dc6d5d1040c223e451f74d76b0f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1243286135,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243286135,
+    "wof:lastmodified":1537590680,
+    "wof:name":"Masala",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45583,
+    -2.29778,
+    14.45583,
+    -2.29778
+],
+  "geometry": {"coordinates":[14.45583,-2.29778],"type":"Point"}
+}

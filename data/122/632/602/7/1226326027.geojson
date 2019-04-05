@@ -1,0 +1,71 @@
+{
+  "id": 1226326027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.68528,-1.06389,14.68528,-1.06389",
+    "geom:latitude":-1.06389,
+    "geom:longitude":14.68528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Onguia",
+    "gn:country_code":"CG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255687,
+    "gn:latitude":-1.06389,
+    "gn:longitude":14.68528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Onguia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ongia",
+        "Onguia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255687
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c675fdd79937a4be03765b06612d4ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1226326027,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226326027,
+    "wof:lastmodified":1537590654,
+    "wof:name":"Onguia",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.68528,
+    -1.06389,
+    14.68528,
+    -1.06389
+],
+  "geometry": {"coordinates":[14.68528,-1.06389],"type":"Point"}
+}

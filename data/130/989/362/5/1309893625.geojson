@@ -1,0 +1,67 @@
+{
+  "id": 1309893625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.95139,-4.34389,13.95139,-4.34389",
+    "geom:latitude":-4.34389,
+    "geom:longitude":13.95139,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kimponzi",
+    "gn:country_code":"CG",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259104,
+    "gn:latitude":-4.34389,
+    "gn:longitude":13.95139,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kimponzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259104
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"abd40d3e852880d24907b5d1e5d1989f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1309893625,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1309893625,
+    "wof:lastmodified":1536804395,
+    "wof:name":"Kimponzi",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.95139,
+    -4.34389,
+    13.95139,
+    -4.34389
+],
+  "geometry": {"coordinates":[13.95139,-4.34389],"type":"Point"}
+}

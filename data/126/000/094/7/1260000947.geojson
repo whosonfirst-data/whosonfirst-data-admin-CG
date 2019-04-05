@@ -1,0 +1,67 @@
+{
+  "id": 1260000947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,-3.68333,12.53333,-3.68333",
+    "geom:latitude":-3.68333,
+    "geom:longitude":12.53333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsiounanamoutsandou",
+    "gn:country_code":"CG",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254992,
+    "gn:latitude":-3.68333,
+    "gn:longitude":12.53333,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Tsiounanamoutsandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        421204287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254992
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"13da999e2b2e0c39954bef5a0a6fd58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421204287,
+            "locality_id":1260000947,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1260000947,
+    "wof:lastmodified":1536607206,
+    "wof:name":"Tsiounanamoutsandou",
+    "wof:parent_id":421204287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    -3.68333,
+    12.53333,
+    -3.68333
+],
+  "geometry": {"coordinates":[12.53333,-3.68333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293386933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.93028,-3.15722,12.93028,-3.15722",
+    "geom:latitude":-3.15722,
+    "geom:longitude":12.93028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsielele",
+    "gn:country_code":"CG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255001,
+    "gn:latitude":-3.15722,
+    "gn:longitude":12.93028,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Tsi\u00e9lel\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255001
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4111281ca514ef0b0842b6929316df35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1293386933,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1293386933,
+    "wof:lastmodified":1536932771,
+    "wof:name":"Tsielele",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.93028,
+    -3.15722,
+    12.93028,
+    -3.15722
+],
+  "geometry": {"coordinates":[12.93028,-3.15722],"type":"Point"}
+}

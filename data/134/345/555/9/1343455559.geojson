@@ -1,0 +1,73 @@
+{
+  "id": 1343455559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.88722,-4.45667,12.88722,-4.45667",
+    "geom:latitude":-4.45667,
+    "geom:longitude":12.88722,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Miconge",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257203,
+    "gn:latitude":-4.45667,
+    "gn:longitude":12.88722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Miconge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mikonge",
+        "Mikonj",
+        "Miconge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632281,
+        85667683,
+        1108799835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257203
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0c6f1c1202854f8b54e038b9424bb096",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632281,
+            "county_id":1108799835,
+            "locality_id":1343455559,
+            "region_id":85667683
+        }
+    ],
+    "wof:id":1343455559,
+    "wof:lastmodified":1537590674,
+    "wof:name":"Miconge",
+    "wof:parent_id":1108799835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.88722,
+    -4.45667,
+    12.88722,
+    -4.45667
+],
+  "geometry": {"coordinates":[12.88722,-4.45667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226221707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16139,-1.15917,15.16139,-1.15917",
+    "geom:latitude":-1.15917,
+    "geom:longitude":15.16139,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Okouesse",
+    "gn:country_code":"CG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255793,
+    "gn:latitude":-1.15917,
+    "gn:longitude":15.16139,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Okou\u00e9ss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okw\u00e9s\u00e9",
+        "Okou\u00e9ss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255793
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"675da6501ad755d7a89fc625d2718489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1226221707,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226221707,
+    "wof:lastmodified":1537590657,
+    "wof:name":"Okouesse",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16139,
+    -1.15917,
+    15.16139,
+    -1.15917
+],
+  "geometry": {"coordinates":[15.16139,-1.15917],"type":"Point"}
+}

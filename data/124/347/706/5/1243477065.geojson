@@ -1,0 +1,67 @@
+{
+  "id": 1243477065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14361,-3.11611,14.14361,-3.11611",
+    "geom:latitude":-3.11611,
+    "geom:longitude":14.14361,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Boukolo",
+    "gn:country_code":"CG",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260646,
+    "gn:latitude":-3.11611,
+    "gn:longitude":14.14361,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Boukolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260646
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"98ca2b33b5d7de9ab30b3a569c98bde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1243477065,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1243477065,
+    "wof:lastmodified":1536761634,
+    "wof:name":"Boukolo",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14361,
+    -3.11611,
+    14.14361,
+    -3.11611
+],
+  "geometry": {"coordinates":[14.14361,-3.11611],"type":"Point"}
+}

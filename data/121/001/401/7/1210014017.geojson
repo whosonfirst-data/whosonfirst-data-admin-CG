@@ -1,0 +1,67 @@
+{
+  "id": 1210014017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.10861,0.78583,17.10861,0.78583",
+    "geom:latitude":0.78583,
+    "geom:longitude":17.10861,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bondoki",
+    "gn:country_code":"CG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565741,
+    "gn:latitude":0.78583,
+    "gn:longitude":17.10861,
+    "gn:modification_date":"1995-08-01",
+    "gn:name":"Bondoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565741
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d85ae8706ce983c6affd065a618fa42f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013193,
+            "locality_id":1210014017,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1210014017,
+    "wof:lastmodified":1536395913,
+    "wof:name":"Bondoki",
+    "wof:parent_id":1092013193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.10861,
+    0.78583,
+    17.10861,
+    0.78583
+],
+  "geometry": {"coordinates":[17.10861,0.78583],"type":"Point"}
+}

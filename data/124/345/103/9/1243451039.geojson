@@ -1,0 +1,67 @@
+{
+  "id": 1243451039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.93833,-2.8575,11.93833,-2.8575",
+    "geom:latitude":-2.8575,
+    "geom:longitude":11.93833,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Panga",
+    "gn:country_code":"CG",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255481,
+    "gn:latitude":-2.8575,
+    "gn:longitude":11.93833,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Panga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255481
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f7e079a78c6555fbd30ac4370a5811bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1243451039,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1243451039,
+    "wof:lastmodified":1536799035,
+    "wof:name":"Panga",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.93833,
+    -2.8575,
+    11.93833,
+    -2.8575
+],
+  "geometry": {"coordinates":[11.93833,-2.8575],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226018707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63333,-0.3,14.63333,-0.3",
+    "geom:latitude":-0.3,
+    "geom:longitude":14.63333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Omtchouomo",
+    "gn:country_code":"CG",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255722,
+    "gn:latitude":-0.3,
+    "gn:longitude":14.63333,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Omtchouomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255722
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"80184b812f91eff747abf2aea28b50f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1226018707,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226018707,
+    "wof:lastmodified":1536764598,
+    "wof:name":"Omtchouomo",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63333,
+    -0.3,
+    14.63333,
+    -0.3
+],
+  "geometry": {"coordinates":[14.63333,-0.3],"type":"Point"}
+}

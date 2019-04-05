@@ -1,0 +1,67 @@
+{
+  "id": 1225915187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.45778,-0.02944,14.45778,-0.02944",
+    "geom:latitude":-0.02944,
+    "geom:longitude":14.45778,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oyendze",
+    "gn:country_code":"CG",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568187,
+    "gn:latitude":-0.02944,
+    "gn:longitude":14.45778,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Oyendze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568187
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1a4acba093515115d7bb49abce27809b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1225915187,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1225915187,
+    "wof:lastmodified":1536914095,
+    "wof:name":"Oyendze",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.45778,
+    -0.02944,
+    14.45778,
+    -0.02944
+],
+  "geometry": {"coordinates":[14.45778,-0.02944],"type":"Point"}
+}

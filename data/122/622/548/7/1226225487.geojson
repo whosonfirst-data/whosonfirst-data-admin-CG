@@ -1,0 +1,67 @@
+{
+  "id": 1226225487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.50194,0.62722,14.50194,0.62722",
+    "geom:latitude":0.62722,
+    "geom:longitude":14.50194,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bembe",
+    "gn:country_code":"CG",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565917,
+    "gn:latitude":0.62722,
+    "gn:longitude":14.50194,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Bemb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565917
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6f4068e9d4c1c002a692054eb44dea82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012673,
+            "locality_id":1226225487,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226225487,
+    "wof:lastmodified":1536962715,
+    "wof:name":"Bembe",
+    "wof:parent_id":1092012673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.50194,
+    0.62722,
+    14.50194,
+    0.62722
+],
+  "geometry": {"coordinates":[14.50194,0.62722],"type":"Point"}
+}

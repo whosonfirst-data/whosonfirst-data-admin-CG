@@ -1,0 +1,67 @@
+{
+  "id": 1243425203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.97944,-0.54333,14.97944,-0.54333",
+    "geom:latitude":-0.54333,
+    "geom:longitude":14.97944,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ediki",
+    "gn:country_code":"CG",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568165,
+    "gn:latitude":-0.54333,
+    "gn:longitude":14.97944,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Ediki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568165
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"eead89c3e79dd29b03c3773598a97cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1243425203,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1243425203,
+    "wof:lastmodified":1536835156,
+    "wof:name":"Ediki",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.97944,
+    -0.54333,
+    14.97944,
+    -0.54333
+],
+  "geometry": {"coordinates":[14.97944,-0.54333],"type":"Point"}
+}

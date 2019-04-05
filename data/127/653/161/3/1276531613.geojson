@@ -1,0 +1,67 @@
+{
+  "id": 1276531613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54861,-1.10667,14.54861,-1.10667",
+    "geom:latitude":-1.10667,
+    "geom:longitude":14.54861,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lebili",
+    "gn:country_code":"CG",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258619,
+    "gn:latitude":-1.10667,
+    "gn:longitude":14.54861,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Lebili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258619
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"08e5754fb19a71c77672137717e6e33d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1276531613,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276531613,
+    "wof:lastmodified":1537009616,
+    "wof:name":"Lebili",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54861,
+    -1.10667,
+    14.54861,
+    -1.10667
+],
+  "geometry": {"coordinates":[14.54861,-1.10667],"type":"Point"}
+}

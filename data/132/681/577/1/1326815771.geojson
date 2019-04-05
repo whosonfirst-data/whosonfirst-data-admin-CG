@@ -1,0 +1,67 @@
+{
+  "id": 1326815771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.69194,-1.4225,15.69194,-1.4225",
+    "geom:latitude":-1.4225,
+    "geom:longitude":15.69194,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Ekari",
+    "gn:country_code":"CG",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260168,
+    "gn:latitude":-1.4225,
+    "gn:longitude":15.69194,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ekari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260168
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0878a3c8e1d20c57b96a3094c3555f37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1326815771,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1326815771,
+    "wof:lastmodified":1537069515,
+    "wof:name":"Ekari",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.69194,
+    -1.4225,
+    15.69194,
+    -1.4225
+],
+  "geometry": {"coordinates":[15.69194,-1.4225],"type":"Point"}
+}

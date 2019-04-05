@@ -1,0 +1,61 @@
+{
+  "id": 1209412549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.62556,3.43611,18.62556,3.43611",
+    "geom:latitude":3.43611,
+    "geom:longitude":18.62556,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mboulou",
+    "gn:country_code":"CG",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257323,
+    "gn:latitude":3.43611,
+    "gn:longitude":18.62556,
+    "gn:modification_date":"1996-01-03",
+    "gn:name":"Mboulou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257323
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b618fb0253259dafbcab35560ceed258",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209412549
+        }
+    ],
+    "wof:id":1209412549,
+    "wof:lastmodified":1536287792,
+    "wof:name":"Mboulou",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.62556,
+    3.43611,
+    18.62556,
+    3.43611
+],
+  "geometry": {"coordinates":[18.62556,3.43611],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243295615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.33389,-3.20944,13.33389,-3.20944",
+    "geom:latitude":-3.20944,
+    "geom:longitude":13.33389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mbila",
+    "gn:country_code":"CG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257395,
+    "gn:latitude":-3.20944,
+    "gn:longitude":13.33389,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Mbila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257395
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2466da26e0b6dbf4c0adbe88e5470797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1243295615,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1243295615,
+    "wof:lastmodified":1537022005,
+    "wof:name":"Mbila",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.33389,
+    -3.20944,
+    13.33389,
+    -3.20944
+],
+  "geometry": {"coordinates":[13.33389,-3.20944],"type":"Point"}
+}

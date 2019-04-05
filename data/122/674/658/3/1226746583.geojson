@@ -1,0 +1,67 @@
+{
+  "id": 1226746583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63972,-2.80028,13.63972,-2.80028",
+    "geom:latitude":-2.80028,
+    "geom:longitude":13.63972,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Massassa-Leweme",
+    "gn:country_code":"CG",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569358,
+    "gn:latitude":-2.80028,
+    "gn:longitude":13.63972,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Massassa-Lew\u00e9m\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569358
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a5e8cb35fae523d2daf430ac17b92ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1226746583,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1226746583,
+    "wof:lastmodified":1536714630,
+    "wof:name":"Massassa-Leweme",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63972,
+    -2.80028,
+    13.63972,
+    -2.80028
+],
+  "geometry": {"coordinates":[13.63972,-2.80028],"type":"Point"}
+}

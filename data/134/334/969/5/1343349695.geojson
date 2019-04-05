@@ -1,0 +1,72 @@
+{
+  "id": 1343349695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34528,-3.41778,14.34528,-3.41778",
+    "geom:latitude":-3.41778,
+    "geom:longitude":14.34528,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbokou I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257481,
+    "gn:latitude":-3.41778,
+    "gn:longitude":14.34528,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mbokou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbakou",
+        "Mbokou I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257481
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"892219d2f561ceaacba1ec1f35c6039e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1343349695,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343349695,
+    "wof:lastmodified":1537590678,
+    "wof:name":"Mbokou I",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34528,
+    -3.41778,
+    14.34528,
+    -3.41778
+],
+  "geometry": {"coordinates":[14.34528,-3.41778],"type":"Point"}
+}

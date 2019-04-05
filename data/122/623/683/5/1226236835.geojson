@@ -1,0 +1,67 @@
+{
+  "id": 1226236835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.13694,-2.69167,12.13694,-2.69167",
+    "geom:latitude":-2.69167,
+    "geom:longitude":12.13694,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moufoubou",
+    "gn:country_code":"CG",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256828,
+    "gn:latitude":-2.69167,
+    "gn:longitude":12.13694,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Moufoubou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256828
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"433bda3cfbbcf69570a0670eed885a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1226236835,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1226236835,
+    "wof:lastmodified":1536946862,
+    "wof:name":"Moufoubou",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.13694,
+    -2.69167,
+    12.13694,
+    -2.69167
+],
+  "geometry": {"coordinates":[12.13694,-2.69167],"type":"Point"}
+}

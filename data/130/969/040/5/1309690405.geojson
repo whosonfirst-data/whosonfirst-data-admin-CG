@@ -1,0 +1,67 @@
+{
+  "id": 1309690405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.52222,-3.51278,14.52222,-3.51278",
+    "geom:latitude":-3.51278,
+    "geom:longitude":14.52222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mieni",
+    "gn:country_code":"CG",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257224,
+    "gn:latitude":-3.51278,
+    "gn:longitude":14.52222,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Mi\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257224
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"82a98fe88ae49e73248628c119771022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1309690405,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1309690405,
+    "wof:lastmodified":1537094294,
+    "wof:name":"Mieni",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.52222,
+    -3.51278,
+    14.52222,
+    -3.51278
+],
+  "geometry": {"coordinates":[14.52222,-3.51278],"type":"Point"}
+}

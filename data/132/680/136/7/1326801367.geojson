@@ -1,0 +1,67 @@
+{
+  "id": 1326801367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.61056,-1.10556,14.61056,-1.10556",
+    "geom:latitude":-1.10556,
+    "geom:longitude":14.61056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Okounda",
+    "gn:country_code":"CG",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255784,
+    "gn:latitude":-1.10556,
+    "gn:longitude":14.61056,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Okounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255784
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1c21b9a8ce8d9ea87f708feb52e09347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1326801367,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1326801367,
+    "wof:lastmodified":1537090138,
+    "wof:name":"Okounda",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.61056,
+    -1.10556,
+    14.61056,
+    -1.10556
+],
+  "geometry": {"coordinates":[14.61056,-1.10556],"type":"Point"}
+}

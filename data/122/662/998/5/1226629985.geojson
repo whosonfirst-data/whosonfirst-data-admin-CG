@@ -1,0 +1,67 @@
+{
+  "id": 1226629985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41833,1.76639,14.41833,1.76639",
+    "geom:latitude":1.76639,
+    "geom:longitude":14.41833,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Vivario",
+    "gn:country_code":"CG",
+    "gn:dem":688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254956,
+    "gn:latitude":1.76639,
+    "gn:longitude":14.41833,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Vivario",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254956
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"816a333b77baae9ed7ac2bbf5421afde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1226629985,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1226629985,
+    "wof:lastmodified":1536881505,
+    "wof:name":"Vivario",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41833,
+    1.76639,
+    14.41833,
+    1.76639
+],
+  "geometry": {"coordinates":[14.41833,1.76639],"type":"Point"}
+}

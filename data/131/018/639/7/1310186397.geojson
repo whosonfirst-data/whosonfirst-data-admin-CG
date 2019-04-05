@@ -1,0 +1,72 @@
+{
+  "id": 1310186397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.34278,-4.01806,14.34278,-4.01806",
+    "geom:latitude":-4.01806,
+    "geom:longitude":14.34278,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Ntari Binnzemba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256044,
+    "gn:latitude":-4.01806,
+    "gn:longitude":14.34278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ntari Binnz\u00e8mba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ntari Binzemba",
+        "Ntari Binnz\u00e8mba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256044
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f439e073100c52fd08700b6e772c8c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1310186397,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310186397,
+    "wof:lastmodified":1537590661,
+    "wof:name":"Ntari Binnzemba",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.34278,
+    -4.01806,
+    14.34278,
+    -4.01806
+],
+  "geometry": {"coordinates":[14.34278,-4.01806],"type":"Point"}
+}

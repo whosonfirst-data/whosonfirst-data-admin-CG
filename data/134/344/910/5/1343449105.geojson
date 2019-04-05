@@ -1,0 +1,67 @@
+{
+  "id": 1343449105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.3875,-3.64333,14.3875,-3.64333",
+    "geom:latitude":-3.64333,
+    "geom:longitude":14.3875,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sangamvila",
+    "gn:country_code":"CG",
+    "gn:dem":450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255333,
+    "gn:latitude":-3.64333,
+    "gn:longitude":14.3875,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Sangamvila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255333
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0770f46acea7566690451af81cdc6f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1343449105,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343449105,
+    "wof:lastmodified":1536762946,
+    "wof:name":"Sangamvila",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.3875,
+    -3.64333,
+    14.3875,
+    -3.64333
+],
+  "geometry": {"coordinates":[14.3875,-3.64333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360008075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.21778,-2.615,16.21778,-2.615",
+    "geom:latitude":-2.615,
+    "geom:longitude":16.21778,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mpouya",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256400,
+    "gn:latitude":-2.615,
+    "gn:longitude":16.21778,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mpouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpou\u00efa",
+        "N\u2019Pouya",
+        "Mpouya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256400
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8b4080863819b27167e9de9559d0fb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1360008075,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1360008075,
+    "wof:lastmodified":1537590665,
+    "wof:name":"Mpouya",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.21778,
+    -2.615,
+    16.21778,
+    -2.615
+],
+  "geometry": {"coordinates":[16.21778,-2.615],"type":"Point"}
+}

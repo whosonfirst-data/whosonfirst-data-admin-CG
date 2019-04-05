@@ -1,0 +1,67 @@
+{
+  "id": 1226221185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.75278,-0.88333,14.75278,-0.88333",
+    "geom:latitude":-0.88333,
+    "geom:longitude":14.75278,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Oboko",
+    "gn:country_code":"CG",
+    "gn:dem":442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255911,
+    "gn:latitude":-0.88333,
+    "gn:longitude":14.75278,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Oboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255911
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"278a81ae0703dc7849f74de3bbdf43eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012591,
+            "locality_id":1226221185,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226221185,
+    "wof:lastmodified":1536968818,
+    "wof:name":"Oboko",
+    "wof:parent_id":1092012591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.75278,
+    -0.88333,
+    14.75278,
+    -0.88333
+],
+  "geometry": {"coordinates":[14.75278,-0.88333],"type":"Point"}
+}

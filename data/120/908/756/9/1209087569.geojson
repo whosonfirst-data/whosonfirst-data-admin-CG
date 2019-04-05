@@ -1,0 +1,61 @@
+{
+  "id": 1209087569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.95722,-4.41972,14.95722,-4.41972",
+    "geom:latitude":-4.41972,
+    "geom:longitude":14.95722,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Nsomo",
+    "gn:country_code":"CG",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566176,
+    "gn:latitude":-4.41972,
+    "gn:longitude":14.95722,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Nsomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566176
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2eb6924fdefa4bc80fb49627982a7a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209087569
+        }
+    ],
+    "wof:id":1209087569,
+    "wof:lastmodified":1536298138,
+    "wof:name":"Nsomo",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.95722,
+    -4.41972,
+    14.95722,
+    -4.41972
+],
+  "geometry": {"coordinates":[14.95722,-4.41972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259376979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.28417,1.80806,14.28417,1.80806",
+    "geom:latitude":1.80806,
+    "geom:longitude":14.28417,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Elogo",
+    "gn:country_code":"CG",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260112,
+    "gn:latitude":1.80806,
+    "gn:longitude":14.28417,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Elogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260112
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0f777ff3af1ad1abe2941ce25c5ad1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1259376979,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1259376979,
+    "wof:lastmodified":1537010932,
+    "wof:name":"Elogo",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.28417,
+    1.80806,
+    14.28417,
+    1.80806
+],
+  "geometry": {"coordinates":[14.28417,1.80806],"type":"Point"}
+}

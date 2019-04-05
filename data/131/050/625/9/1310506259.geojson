@@ -1,0 +1,67 @@
+{
+  "id": 1310506259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.42278,-3.81667,13.42278,-3.81667",
+    "geom:latitude":-3.81667,
+    "geom:longitude":13.42278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mosege",
+    "gn:country_code":"CG",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568717,
+    "gn:latitude":-3.81667,
+    "gn:longitude":13.42278,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Mos\u00e9g\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568717
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e8914e5a52b7f1d7bfc56d79edf92960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1310506259,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310506259,
+    "wof:lastmodified":1536916293,
+    "wof:name":"Mosege",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.42278,
+    -3.81667,
+    13.42278,
+    -3.81667
+],
+  "geometry": {"coordinates":[13.42278,-3.81667],"type":"Point"}
+}

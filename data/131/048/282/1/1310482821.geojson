@@ -1,0 +1,72 @@
+{
+  "id": 1310482821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.63056,-3.72861,14.63056,-3.72861",
+    "geom:latitude":-3.72861,
+    "geom:longitude":14.63056,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kinimbi Nzouala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258988,
+    "gn:latitude":-3.72861,
+    "gn:longitude":14.63056,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kinimbi Nzouala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinimbi",
+        "Kinimbi Nzouala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258988
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"06f57a9ff4aac9b07350babe3f6d48f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1310482821,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310482821,
+    "wof:lastmodified":1537590693,
+    "wof:name":"Kinimbi Nzouala",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.63056,
+    -3.72861,
+    14.63056,
+    -3.72861
+],
+  "geometry": {"coordinates":[14.63056,-3.72861],"type":"Point"}
+}

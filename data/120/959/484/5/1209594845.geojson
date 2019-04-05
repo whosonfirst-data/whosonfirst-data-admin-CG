@@ -1,0 +1,66 @@
+{
+  "id": 1209594845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.64639,-0.43028,15.64639,-0.43028",
+    "geom:latitude":-0.43028,
+    "geom:longitude":15.64639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Assoko",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261204,
+    "gn:latitude":-0.43028,
+    "gn:longitude":15.64639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Assoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambosso",
+        "Assoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261204
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d72319cdd6713d017b4d5cc01783c10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209594845
+        }
+    ],
+    "wof:id":1209594845,
+    "wof:lastmodified":1537590725,
+    "wof:name":"Assoko",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.64639,
+    -0.43028,
+    15.64639,
+    -0.43028
+],
+  "geometry": {"coordinates":[15.64639,-0.43028],"type":"Point"}
+}

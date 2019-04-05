@@ -1,0 +1,67 @@
+{
+  "id": 1276984553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09778,-3.86333,14.09778,-3.86333",
+    "geom:latitude":-3.86333,
+    "geom:longitude":14.09778,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kibiti",
+    "gn:country_code":"CG",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259302,
+    "gn:latitude":-3.86333,
+    "gn:longitude":14.09778,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kibiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259302
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3ceb4bce5ef4658a3a78d40540dc1388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1276984553,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1276984553,
+    "wof:lastmodified":1536900932,
+    "wof:name":"Kibiti",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09778,
+    -3.86333,
+    14.09778,
+    -3.86333
+],
+  "geometry": {"coordinates":[14.09778,-3.86333],"type":"Point"}
+}

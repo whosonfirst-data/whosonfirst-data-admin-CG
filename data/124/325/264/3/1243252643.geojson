@@ -1,0 +1,67 @@
+{
+  "id": 1243252643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.96083,2.11417,13.96083,2.11417",
+    "geom:latitude":2.11417,
+    "geom:longitude":13.96083,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Elen",
+    "gn:country_code":"CG",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565539,
+    "gn:latitude":2.11417,
+    "gn:longitude":13.96083,
+    "gn:modification_date":"1996-03-01",
+    "gn:name":"Elen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565539
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b3ac0fe55421d528b5b544944ca75a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1243252643,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1243252643,
+    "wof:lastmodified":1537081743,
+    "wof:name":"Elen",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.96083,
+    2.11417,
+    13.96083,
+    2.11417
+],
+  "geometry": {"coordinates":[13.96083,2.11417],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309698669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.96056,-1.00583,15.96056,-1.00583",
+    "geom:latitude":-1.00583,
+    "geom:longitude":15.96056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Eka",
+    "gn:country_code":"CG",
+    "gn:dem":318,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260177,
+    "gn:latitude":-1.00583,
+    "gn:longitude":15.96056,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Eka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260177
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0bb1105f527723c1bc385be2860adc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1309698669,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1309698669,
+    "wof:lastmodified":1537082443,
+    "wof:name":"Eka",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.96056,
+    -1.00583,
+    15.96056,
+    -1.00583
+],
+  "geometry": {"coordinates":[15.96056,-1.00583],"type":"Point"}
+}

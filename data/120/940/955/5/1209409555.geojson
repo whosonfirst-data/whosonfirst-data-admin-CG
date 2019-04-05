@@ -1,0 +1,61 @@
+{
+  "id": 1209409555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.53333,-3.7,12.53333,-3.7",
+    "geom:latitude":-3.7,
+    "geom:longitude":12.53333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tchikissaloko",
+    "gn:country_code":"CG",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255164,
+    "gn:latitude":-3.7,
+    "gn:longitude":12.53333,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Tchikissaloko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255164
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f5a44d8b721950081e8010583939f8b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209409555
+        }
+    ],
+    "wof:id":1209409555,
+    "wof:lastmodified":1536287884,
+    "wof:name":"Tchikissaloko",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.53333,
+    -3.7,
+    12.53333,
+    -3.7
+],
+  "geometry": {"coordinates":[12.53333,-3.7],"type":"Point"}
+}

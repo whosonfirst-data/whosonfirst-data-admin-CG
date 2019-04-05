@@ -1,0 +1,61 @@
+{
+  "id": 1209195565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69917,-4.71639,14.69917,-4.71639",
+    "geom:latitude":-4.71639,
+    "geom:longitude":14.69917,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bouyala",
+    "gn:country_code":"CG",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260546,
+    "gn:latitude":-4.71639,
+    "gn:longitude":14.69917,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Bouyala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260546
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a1bf4ab0397811ead78e777d9a7d6625",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209195565
+        }
+    ],
+    "wof:id":1209195565,
+    "wof:lastmodified":1536294783,
+    "wof:name":"Bouyala",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69917,
+    -4.7163900000000005,
+    14.69917,
+    -4.7163900000000005
+],
+  "geometry": {"coordinates":[14.69917,-4.71639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226420705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54694,-4.73889,14.54694,-4.73889",
+    "geom:latitude":-4.73889,
+    "geom:longitude":14.54694,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Louenga",
+    "gn:country_code":"CG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258232,
+    "gn:latitude":-4.73889,
+    "gn:longitude":14.54694,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Louenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258232
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8f943276a8a1ab7b684e9e3b70c510d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1226420705,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226420705,
+    "wof:lastmodified":1536681580,
+    "wof:name":"Louenga",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54694,
+    -4.73889,
+    14.54694,
+    -4.73889
+],
+  "geometry": {"coordinates":[14.54694,-4.73889],"type":"Point"}
+}

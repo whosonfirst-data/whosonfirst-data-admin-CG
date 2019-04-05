@@ -1,0 +1,67 @@
+{
+  "id": 1226031045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.9375,-0.51222,15.9375,-0.51222",
+    "geom:latitude":-0.51222,
+    "geom:longitude":15.9375,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lingue-Ongali",
+    "gn:country_code":"CG",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258413,
+    "gn:latitude":-0.51222,
+    "gn:longitude":15.9375,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Lingue-Ongali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258413
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"829a6b4a23e5a508b393fb679fd007da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1226031045,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1226031045,
+    "wof:lastmodified":1536746098,
+    "wof:name":"Lingue-Ongali",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.9375,
+    -0.51222,
+    15.9375,
+    -0.51222
+],
+  "geometry": {"coordinates":[15.9375,-0.51222],"type":"Point"}
+}

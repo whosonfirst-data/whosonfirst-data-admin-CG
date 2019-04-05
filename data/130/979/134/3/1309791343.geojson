@@ -1,0 +1,67 @@
+{
+  "id": 1309791343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.31667,-1.95,16.31667,-1.95",
+    "geom:latitude":-1.95,
+    "geom:longitude":16.31667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bouloka",
+    "gn:country_code":"CG",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260624,
+    "gn:latitude":-1.95,
+    "gn:longitude":16.31667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Bouloka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260624
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6e6dc5c6e9f1bb72b18c0928f7bdd324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1309791343,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1309791343,
+    "wof:lastmodified":1536952094,
+    "wof:name":"Bouloka",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.31667,
+    -1.95,
+    16.31667,
+    -1.95
+],
+  "geometry": {"coordinates":[16.31667,-1.95],"type":"Point"}
+}

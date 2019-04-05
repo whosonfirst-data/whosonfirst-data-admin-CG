@@ -1,0 +1,67 @@
+{
+  "id": 1226622513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.41556,-0.79194,17.41556,-0.79194",
+    "geom:latitude":-0.79194,
+    "geom:longitude":17.41556,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Motemabiongo",
+    "gn:country_code":"CG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567764,
+    "gn:latitude":-0.79194,
+    "gn:longitude":17.41556,
+    "gn:modification_date":"1995-08-15",
+    "gn:name":"Mot\u00e9mabiongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567764
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"20a6b3fdc0280a14ca473c76424d8bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012757,
+            "locality_id":1226622513,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1226622513,
+    "wof:lastmodified":1536892739,
+    "wof:name":"Motemabiongo",
+    "wof:parent_id":1092012757,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.41556,
+    -0.79194,
+    17.41556,
+    -0.79194
+],
+  "geometry": {"coordinates":[17.41556,-0.79194],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209514521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.81306,-2.77417,13.81306,-2.77417",
+    "geom:latitude":-2.77417,
+    "geom:longitude":13.81306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mpaleke",
+    "gn:country_code":"CG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256564,
+    "gn:latitude":-2.77417,
+    "gn:longitude":13.81306,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Mpal\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256564
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c47864360f112c6100542cb539068c3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209514521
+        }
+    ],
+    "wof:id":1209514521,
+    "wof:lastmodified":1536284776,
+    "wof:name":"Mpaleke",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.81306,
+    -2.77417,
+    13.81306,
+    -2.77417
+],
+  "geometry": {"coordinates":[13.81306,-2.77417],"type":"Point"}
+}

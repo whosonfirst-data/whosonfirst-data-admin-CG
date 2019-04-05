@@ -1,0 +1,72 @@
+{
+  "id": 1226330373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.48667,-4.60528,14.48667,-4.60528",
+    "geom:latitude":-4.60528,
+    "geom:longitude":14.48667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kingue",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259350,
+    "gn:latitude":-4.60528,
+    "gn:longitude":14.48667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kingu\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keng\u00e9",
+        "Kingu\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259350
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9d93ef9b83deb9a0162115754b84251c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1226330373,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226330373,
+    "wof:lastmodified":1537590697,
+    "wof:name":"Kingue",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.48667,
+    -4.60528,
+    14.48667,
+    -4.60528
+],
+  "geometry": {"coordinates":[14.48667,-4.60528],"type":"Point"}
+}

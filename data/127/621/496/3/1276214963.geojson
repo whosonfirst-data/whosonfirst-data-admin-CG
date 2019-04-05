@@ -1,0 +1,67 @@
+{
+  "id": 1276214963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.57333,-4.04806,14.57333,-4.04806",
+    "geom:latitude":-4.04806,
+    "geom:longitude":14.57333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Minnkamou",
+    "gn:country_code":"CG",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566327,
+    "gn:latitude":-4.04806,
+    "gn:longitude":14.57333,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Minnkamou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566327
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4dcadac72d7b17df4898423ea31c54d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1276214963,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276214963,
+    "wof:lastmodified":1536938435,
+    "wof:name":"Minnkamou",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.57333,
+    -4.04806,
+    14.57333,
+    -4.04806
+],
+  "geometry": {"coordinates":[14.57333,-4.04806],"type":"Point"}
+}

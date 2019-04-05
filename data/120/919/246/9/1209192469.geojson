@@ -1,0 +1,61 @@
+{
+  "id": 1209192469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.84,-4.77833,14.84,-4.77833",
+    "geom:latitude":-4.77833,
+    "geom:longitude":14.84,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mayamboula",
+    "gn:country_code":"CG",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257527,
+    "gn:latitude":-4.77833,
+    "gn:longitude":14.84,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mayamboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257527
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"39e5635083017562690203339d38d024",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209192469
+        }
+    ],
+    "wof:id":1209192469,
+    "wof:lastmodified":1536294886,
+    "wof:name":"Mayamboula",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.84,
+    -4.77833,
+    14.84,
+    -4.77833
+],
+  "geometry": {"coordinates":[14.84,-4.77833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260174245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.11472,2.31972,18.11472,2.31972",
+    "geom:latitude":2.31972,
+    "geom:longitude":18.11472,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Djitoye",
+    "gn:country_code":"CG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569907,
+    "gn:latitude":2.31972,
+    "gn:longitude":18.11472,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Djitoy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569907
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2044fee94c7a649915d998dbcba87959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1260174245,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1260174245,
+    "wof:lastmodified":1536859305,
+    "wof:name":"Djitoye",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.11472,
+    2.31972,
+    18.11472,
+    2.31972
+],
+  "geometry": {"coordinates":[18.11472,2.31972],"type":"Point"}
+}

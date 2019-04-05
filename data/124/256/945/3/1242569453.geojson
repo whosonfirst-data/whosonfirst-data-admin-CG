@@ -1,0 +1,67 @@
+{
+  "id": 1242569453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.7425,-2.75833,11.7425,-2.75833",
+    "geom:latitude":-2.75833,
+    "geom:longitude":11.7425,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kananianga",
+    "gn:country_code":"CG",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259444,
+    "gn:latitude":-2.75833,
+    "gn:longitude":11.7425,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Kananianga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259444
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"668a875202076dc1684fa8183df4f7fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1242569453,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1242569453,
+    "wof:lastmodified":1537072301,
+    "wof:name":"Kananianga",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.7425,
+    -2.75833,
+    11.7425,
+    -2.75833
+],
+  "geometry": {"coordinates":[11.7425,-2.75833],"type":"Point"}
+}

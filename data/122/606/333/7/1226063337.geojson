@@ -1,0 +1,72 @@
+{
+  "id": 1226063337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.43889,1.77139,14.43889,1.77139",
+    "geom:latitude":1.77139,
+    "geom:longitude":14.43889,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Alangong",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261332,
+    "gn:latitude":1.77139,
+    "gn:longitude":14.43889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Alangong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alangon",
+        "Alangong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261332
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8a9ec7436500832658abe7c0df53f6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1226063337,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1226063337,
+    "wof:lastmodified":1537590727,
+    "wof:name":"Alangong",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.43889,
+    1.77139,
+    14.43889,
+    1.77139
+],
+  "geometry": {"coordinates":[14.43889,1.77139],"type":"Point"}
+}

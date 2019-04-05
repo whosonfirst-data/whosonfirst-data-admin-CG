@@ -1,0 +1,67 @@
+{
+  "id": 1259667281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.17417,0.12667,14.17417,0.12667",
+    "geom:latitude":0.12667,
+    "geom:longitude":14.17417,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ongounda",
+    "gn:country_code":"CG",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":2565905,
+    "gn:latitude":0.12667,
+    "gn:longitude":14.17417,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Ongounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565905
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b45f69ebbd7d0f40451dd905542cf889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1259667281,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1259667281,
+    "wof:lastmodified":1537087173,
+    "wof:name":"Ongounda",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.17417,
+    0.12667,
+    14.17417,
+    0.12667
+],
+  "geometry": {"coordinates":[14.17417,0.12667],"type":"Point"}
+}

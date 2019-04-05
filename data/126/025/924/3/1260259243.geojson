@@ -1,0 +1,67 @@
+{
+  "id": 1260259243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.61111,0.01944,15.61111,0.01944",
+    "geom:latitude":0.01944,
+    "geom:longitude":15.61111,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ouenze",
+    "gn:country_code":"CG",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565773,
+    "gn:latitude":0.01944,
+    "gn:longitude":15.61111,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Ouenz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565773
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7cd59f20d74053880b023723532c49ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1260259243,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1260259243,
+    "wof:lastmodified":1536744405,
+    "wof:name":"Ouenze",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.61111,
+    0.01944,
+    15.61111,
+    0.01944
+],
+  "geometry": {"coordinates":[15.61111,0.01944],"type":"Point"}
+}

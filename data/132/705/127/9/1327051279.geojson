@@ -1,0 +1,67 @@
+{
+  "id": 1327051279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.45472,-2.73111,12.45472,-2.73111",
+    "geom:latitude":-2.73111,
+    "geom:longitude":12.45472,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bangolo",
+    "gn:country_code":"CG",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261046,
+    "gn:latitude":-2.73111,
+    "gn:longitude":12.45472,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Bangolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261046
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b5d4779a377e6c5958a8bfff6df0c4bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1327051279,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327051279,
+    "wof:lastmodified":1536733437,
+    "wof:name":"Bangolo",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.45472,
+    -2.73111,
+    12.45472,
+    -2.73111
+],
+  "geometry": {"coordinates":[12.45472,-2.73111],"type":"Point"}
+}

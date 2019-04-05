@@ -1,0 +1,72 @@
+{
+  "id": 1310296911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.81139,-4.34694,12.81139,-4.34694",
+    "geom:latitude":-4.34694,
+    "geom:longitude":12.81139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mousinga",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566855,
+    "gn:latitude":-4.34694,
+    "gn:longitude":12.81139,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Mousinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moussinnga",
+        "Mousinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566855
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dda60d3a65129b5c4b64125e5fe26875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1310296911,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1310296911,
+    "wof:lastmodified":1537590729,
+    "wof:name":"Mousinga",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.81139,
+    -4.34694,
+    12.81139,
+    -4.34694
+],
+  "geometry": {"coordinates":[12.81139,-4.34694],"type":"Point"}
+}

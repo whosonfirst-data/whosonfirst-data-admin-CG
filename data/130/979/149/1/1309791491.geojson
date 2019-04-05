@@ -1,0 +1,67 @@
+{
+  "id": 1309791491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.81278,-1.7925,15.81278,-1.7925",
+    "geom:latitude":-1.7925,
+    "geom:longitude":15.81278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Akana",
+    "gn:country_code":"CG",
+    "gn:dem":364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569597,
+    "gn:latitude":-1.7925,
+    "gn:longitude":15.81278,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Akana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569597
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9635a94d63e1d20821e354cef3bc6164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1309791491,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1309791491,
+    "wof:lastmodified":1536951889,
+    "wof:name":"Akana",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.81278,
+    -1.7925,
+    15.81278,
+    -1.7925
+],
+  "geometry": {"coordinates":[15.81278,-1.7925],"type":"Point"}
+}

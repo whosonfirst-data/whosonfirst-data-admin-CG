@@ -1,0 +1,67 @@
+{
+  "id": 1259874935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83333,1.25,15.83333,1.25",
+    "geom:latitude":1.25,
+    "geom:longitude":15.83333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Doumakenia",
+    "gn:country_code":"CG",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260306,
+    "gn:latitude":1.25,
+    "gn:longitude":15.83333,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Doumak\u00e9nia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260306
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"526c5d0b635390af204a359464e7e36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1259874935,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1259874935,
+    "wof:lastmodified":1536791884,
+    "wof:name":"Doumakenia",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83333,
+    1.25,
+    15.83333,
+    1.25
+],
+  "geometry": {"coordinates":[15.83333,1.25],"type":"Point"}
+}

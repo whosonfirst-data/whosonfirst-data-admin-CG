@@ -1,0 +1,67 @@
+{
+  "id": 1276984519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.71806,-4.17,13.71806,-4.17",
+    "geom:latitude":-4.17,
+    "geom:longitude":13.71806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Makondo-Mabenge",
+    "gn:country_code":"CG",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566775,
+    "gn:latitude":-4.17,
+    "gn:longitude":13.71806,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Makondo-Mabeng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566775
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"986529732e882b8629a2405ee8214dc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1276984519,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1276984519,
+    "wof:lastmodified":1536900977,
+    "wof:name":"Makondo-Mabenge",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.71806,
+    -4.17,
+    13.71806,
+    -4.17
+],
+  "geometry": {"coordinates":[13.71806,-4.17],"type":"Point"}
+}

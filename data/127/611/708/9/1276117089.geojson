@@ -1,0 +1,67 @@
+{
+  "id": 1276117089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57306,-2.55444,13.57306,-2.55444",
+    "geom:latitude":-2.55444,
+    "geom:longitude":13.57306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lekana",
+    "gn:country_code":"CG",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258574,
+    "gn:latitude":-2.55444,
+    "gn:longitude":13.57306,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"L\u00e9kana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258574
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"57379e33652b81f42ba1162a4fbf98c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1276117089,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1276117089,
+    "wof:lastmodified":1537065473,
+    "wof:name":"Lekana",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57306,
+    -2.55444,
+    13.57306,
+    -2.55444
+],
+  "geometry": {"coordinates":[13.57306,-2.55444],"type":"Point"}
+}

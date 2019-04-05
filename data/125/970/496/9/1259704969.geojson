@@ -1,0 +1,67 @@
+{
+  "id": 1259704969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.38583,-2.72944,12.38583,-2.72944",
+    "geom:latitude":-2.72944,
+    "geom:longitude":12.38583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Disiala-Dikana",
+    "gn:country_code":"CG",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260418,
+    "gn:latitude":-2.72944,
+    "gn:longitude":12.38583,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Disiala-Dikana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260418
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a3d469393e343ada5aaa9e1917f04281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1259704969,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1259704969,
+    "wof:lastmodified":1537034670,
+    "wof:name":"Disiala-Dikana",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.38583,
+    -2.72944,
+    12.38583,
+    -2.72944
+],
+  "geometry": {"coordinates":[12.38583,-2.72944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277165435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.9175,-3.73667,14.9175,-3.73667",
+    "geom:latitude":-3.73667,
+    "geom:longitude":14.9175,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kingouala Mbola",
+    "gn:country_code":"CG",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259014,
+    "gn:latitude":-3.73667,
+    "gn:longitude":14.9175,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kingouala Mb\u00f4la",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259014
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"31affd9e889b92ccec351ad09312f34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013787,
+            "locality_id":1277165435,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1277165435,
+    "wof:lastmodified":1536648140,
+    "wof:name":"Kingouala Mbola",
+    "wof:parent_id":1092013787,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.9175,
+    -3.73667,
+    14.9175,
+    -3.73667
+],
+  "geometry": {"coordinates":[14.9175,-3.73667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310106199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.08861,-4.09667,12.08861,-4.09667",
+    "geom:latitude":-4.09667,
+    "geom:longitude":12.08861,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Matandala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257592,
+    "gn:latitude":-4.09667,
+    "gn:longitude":12.08861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Matandala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matandala IV",
+        "Matandala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257592
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"81bacbffb1535e458d92e49637427faa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012875,
+            "locality_id":1310106199,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1310106199,
+    "wof:lastmodified":1537590679,
+    "wof:name":"Matandala",
+    "wof:parent_id":1092012875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.08861,
+    -4.09667,
+    12.08861,
+    -4.09667
+],
+  "geometry": {"coordinates":[12.08861,-4.09667],"type":"Point"}
+}

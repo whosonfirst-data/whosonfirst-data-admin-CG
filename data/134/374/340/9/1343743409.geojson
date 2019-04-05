@@ -1,0 +1,72 @@
+{
+  "id": 1343743409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.58083,-3.50639,14.58083,-3.50639",
+    "geom:latitude":-3.50639,
+    "geom:longitude":14.58083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Madzaka",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257555,
+    "gn:latitude":-3.50639,
+    "gn:longitude":14.58083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Madzaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Matzaka",
+        "Madzaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257555
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"aedf6e47cf4bdc4ced6f67e8e9ca1d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1343743409,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343743409,
+    "wof:lastmodified":1537590679,
+    "wof:name":"Madzaka",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.58083,
+    -3.50639,
+    14.58083,
+    -3.50639
+],
+  "geometry": {"coordinates":[14.58083,-3.50639],"type":"Point"}
+}

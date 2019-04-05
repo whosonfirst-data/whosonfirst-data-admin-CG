@@ -1,0 +1,67 @@
+{
+  "id": 1326714163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.31917,1.92806,15.31917,1.92806",
+    "geom:latitude":1.92806,
+    "geom:longitude":15.31917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tala-Tala",
+    "gn:country_code":"CG",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255207,
+    "gn:latitude":1.92806,
+    "gn:longitude":15.31917,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Tala-Tala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255207
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"097f827b564fafdf628a2b341f77475e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1326714163,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1326714163,
+    "wof:lastmodified":1536722164,
+    "wof:name":"Tala-Tala",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.31917,
+    1.92806,
+    15.31917,
+    1.92806
+],
+  "geometry": {"coordinates":[15.31917,1.92806],"type":"Point"}
+}

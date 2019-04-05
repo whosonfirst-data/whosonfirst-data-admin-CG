@@ -1,0 +1,73 @@
+{
+  "id": 1326530317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.04361,-4.61333,12.04361,-4.61333",
+    "geom:latitude":-4.61333,
+    "geom:longitude":12.04361,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Hinda",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259788,
+    "gn:latitude":-4.61333,
+    "gn:longitude":12.04361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Hinda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Inda",
+        "Hinda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259788,
+        "wk:page":"Hinda%2C_Republic_of_the_Congo"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a39599cebb4b544b86d76566bb720b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1326530317,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1326530317,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Hinda",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.04361,
+    -4.61333,
+    12.04361,
+    -4.61333
+],
+  "geometry": {"coordinates":[12.04361,-4.61333],"type":"Point"}
+}

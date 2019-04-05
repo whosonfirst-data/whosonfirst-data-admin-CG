@@ -1,0 +1,71 @@
+{
+  "id": 1259966847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.28333,-3.76667,15.28333,-3.76667",
+    "geom:latitude":-3.76667,
+    "geom:longitude":15.28333,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Boulankio I",
+    "gn:country_code":"CG",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260632,
+    "gn:latitude":-3.76667,
+    "gn:longitude":15.28333,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Boulankio I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boula N\u2019Kio",
+        "Boulankio I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260632
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2eb3747f60572adc9af8713e697ba157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1259966847,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259966847,
+    "wof:lastmodified":1537590717,
+    "wof:name":"Boulankio I",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.28333,
+    -3.76667,
+    15.28333,
+    -3.76667
+],
+  "geometry": {"coordinates":[15.28333,-3.76667],"type":"Point"}
+}

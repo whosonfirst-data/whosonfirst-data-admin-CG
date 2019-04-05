@@ -1,0 +1,67 @@
+{
+  "id": 1276887965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.50194,-4.52472,13.50194,-4.52472",
+    "geom:latitude":-4.52472,
+    "geom:longitude":13.50194,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Boua-Boua",
+    "gn:country_code":"CG",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260704,
+    "gn:latitude":-4.52472,
+    "gn:longitude":13.50194,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Boua-Boua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260704
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7998b8e0e40c6692dcfcf95bc694988a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012377,
+            "locality_id":1276887965,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1276887965,
+    "wof:lastmodified":1537028979,
+    "wof:name":"Boua-Boua",
+    "wof:parent_id":1092012377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.50194,
+    -4.52472,
+    13.50194,
+    -4.52472
+],
+  "geometry": {"coordinates":[13.50194,-4.52472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343640873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06167,-1.40556,15.06167,-1.40556",
+    "geom:latitude":-1.40556,
+    "geom:longitude":15.06167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mbouma",
+    "gn:country_code":"CG",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257318,
+    "gn:latitude":-1.40556,
+    "gn:longitude":15.06167,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mbouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u2019Bouma",
+        "Mbouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257318
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"20b75ed40bf6bff0310979942890cb82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1343640873,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1343640873,
+    "wof:lastmodified":1537590676,
+    "wof:name":"Mbouma",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06167,
+    -1.40556,
+    15.06167,
+    -1.40556
+],
+  "geometry": {"coordinates":[15.06167,-1.40556],"type":"Point"}
+}

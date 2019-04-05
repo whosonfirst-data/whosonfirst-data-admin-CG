@@ -1,0 +1,67 @@
+{
+  "id": 1276644145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.65222,-4.31917,14.65222,-4.31917",
+    "geom:latitude":-4.31917,
+    "geom:longitude":14.65222,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mansiedi",
+    "gn:country_code":"CG",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257680,
+    "gn:latitude":-4.31917,
+    "gn:longitude":14.65222,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mansi\u00e9di",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257680
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"292539e58a1d7d7a7811e9b6fda05bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1276644145,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276644145,
+    "wof:lastmodified":1536858083,
+    "wof:name":"Mansiedi",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.65222,
+    -4.31917,
+    14.65222,
+    -4.31917
+],
+  "geometry": {"coordinates":[14.65222,-4.31917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226225825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.63333,1.93333,15.63333,1.93333",
+    "geom:latitude":1.93333,
+    "geom:longitude":15.63333,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Ponga",
+    "gn:country_code":"CG",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255405,
+    "gn:latitude":1.93333,
+    "gn:longitude":15.63333,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Ponga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255405
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b90e97c102bfc8891ee9a7e3294dae62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1226225825,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1226225825,
+    "wof:lastmodified":1536962252,
+    "wof:name":"Ponga",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.63333,
+    1.93333,
+    15.63333,
+    1.93333
+],
+  "geometry": {"coordinates":[15.63333,1.93333],"type":"Point"}
+}

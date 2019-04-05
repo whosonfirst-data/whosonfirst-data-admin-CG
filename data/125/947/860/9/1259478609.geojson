@@ -1,0 +1,67 @@
+{
+  "id": 1259478609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.01972,-2.23972,15.01972,-2.23972",
+    "geom:latitude":-2.23972,
+    "geom:longitude":15.01972,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Entou",
+    "gn:country_code":"CG",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569210,
+    "gn:latitude":-2.23972,
+    "gn:longitude":15.01972,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Entou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569210
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5c06dd368df0daaa3332f5e1dc0357cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1259478609,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1259478609,
+    "wof:lastmodified":1536864509,
+    "wof:name":"Entou",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.01972,
+    -2.23972,
+    15.01972,
+    -2.23972
+],
+  "geometry": {"coordinates":[15.01972,-2.23972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310209697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.32278,-3.83833,13.32278,-3.83833",
+    "geom:latitude":-3.83833,
+    "geom:longitude":13.32278,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Bikala",
+    "gn:country_code":"CG",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568694,
+    "gn:latitude":-3.83833,
+    "gn:longitude":13.32278,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bikala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568694
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"075719a38ca473d8194be985f3a51a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1310209697,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310209697,
+    "wof:lastmodified":1536845100,
+    "wof:name":"Bikala",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.32278,
+    -3.83833,
+    13.32278,
+    -3.83833
+],
+  "geometry": {"coordinates":[13.32278,-3.83833],"type":"Point"}
+}

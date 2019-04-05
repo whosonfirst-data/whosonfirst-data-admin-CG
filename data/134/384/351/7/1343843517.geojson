@@ -1,0 +1,67 @@
+{
+  "id": 1343843517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05278,-2.15278,15.05278,-2.15278",
+    "geom:latitude":-2.15278,
+    "geom:longitude":15.05278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Mpon",
+    "gn:country_code":"CG",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569215,
+    "gn:latitude":-2.15278,
+    "gn:longitude":15.05278,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Mpon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569215
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"4be19a18af69fc76da08e79797cbe883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1343843517,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1343843517,
+    "wof:lastmodified":1536691225,
+    "wof:name":"Mpon",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05278,
+    -2.15278,
+    15.05278,
+    -2.15278
+],
+  "geometry": {"coordinates":[15.05278,-2.15278],"type":"Point"}
+}

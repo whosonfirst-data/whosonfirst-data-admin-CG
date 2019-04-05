@@ -1,0 +1,61 @@
+{
+  "id": 1209305251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.05139,-2.16222,15.05139,-2.16222",
+    "geom:latitude":-2.16222,
+    "geom:longitude":15.05139,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Odzianti",
+    "gn:country_code":"CG",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569214,
+    "gn:latitude":-2.16222,
+    "gn:longitude":15.05139,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Odzianti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569214
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9cd80c02f2e41a61d9347f3c1e29a3c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209305251
+        }
+    ],
+    "wof:id":1209305251,
+    "wof:lastmodified":1536291218,
+    "wof:name":"Odzianti",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.05139,
+    -2.16222,
+    15.05139,
+    -2.16222
+],
+  "geometry": {"coordinates":[15.05139,-2.16222],"type":"Point"}
+}

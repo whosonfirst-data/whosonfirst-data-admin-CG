@@ -1,0 +1,72 @@
+{
+  "id": 1344248897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.20361,-3.71111,12.20361,-3.71111",
+    "geom:latitude":-3.71111,
+    "geom:longitude":12.20361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Ifouga",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259743,
+    "gn:latitude":-3.71111,
+    "gn:longitude":12.20361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ifouga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ifouka",
+        "Ifouga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259743
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f7eab96a1d15e80e3f5101cbb2a3b74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013319,
+            "locality_id":1344248897,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1344248897,
+    "wof:lastmodified":1537590702,
+    "wof:name":"Ifouga",
+    "wof:parent_id":1092013319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.20361,
+    -3.71111,
+    12.20361,
+    -3.71111
+],
+  "geometry": {"coordinates":[12.20361,-3.71111],"type":"Point"}
+}

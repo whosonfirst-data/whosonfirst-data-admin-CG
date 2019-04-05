@@ -1,0 +1,67 @@
+{
+  "id": 1226522447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.14583,-4.14806,15.14583,-4.14806",
+    "geom:latitude":-4.14806,
+    "geom:longitude":15.14583,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Comba",
+    "gn:country_code":"CG",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566007,
+    "gn:latitude":-4.14806,
+    "gn:longitude":15.14583,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Comba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566007
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"78b5aaf69688715e9c03c405ad55b236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1226522447,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226522447,
+    "wof:lastmodified":1537030374,
+    "wof:name":"Comba",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.14583,
+    -4.14806,
+    15.14583,
+    -4.14806
+],
+  "geometry": {"coordinates":[15.14583,-4.14806],"type":"Point"}
+}

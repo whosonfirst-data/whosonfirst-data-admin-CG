@@ -1,0 +1,63 @@
+{
+  "id": 1226827331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.4,-4.28333,14.4,-4.28333",
+    "geom:latitude":-4.28333,
+    "geom:longitude":14.4,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kindanba",
+    "gn:country_code":"CG",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259073,
+    "gn:latitude":-4.28333,
+    "gn:longitude":14.4,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kindanba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259073
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"44a36746912acd2742d377ee848b465d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226827331,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226827331,
+    "wof:lastmodified":1537091660,
+    "wof:name":"Kindanba",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.4,
+    -4.28333,
+    14.4,
+    -4.28333
+],
+  "geometry": {"coordinates":[14.4,-4.28333],"type":"Point"}
+}

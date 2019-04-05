@@ -1,0 +1,67 @@
+{
+  "id": 1260063955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.77611,1.97722,14.77611,1.97722",
+    "geom:latitude":1.97722,
+    "geom:longitude":14.77611,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kinshassa",
+    "gn:country_code":"CG",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258953,
+    "gn:latitude":1.97722,
+    "gn:longitude":14.77611,
+    "gn:modification_date":"1996-02-09",
+    "gn:name":"Kinshassa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258953
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e43eb8ca444d77f7699f54fb1aa986e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1260063955,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1260063955,
+    "wof:lastmodified":1537015436,
+    "wof:name":"Kinshassa",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.77611,
+    1.97722,
+    14.77611,
+    1.97722
+],
+  "geometry": {"coordinates":[14.77611,1.97722],"type":"Point"}
+}

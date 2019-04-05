@@ -1,0 +1,77 @@
+{
+  "id": 1225922343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.17778,-3.04056,16.17778,-3.04056",
+    "geom:latitude":-3.04056,
+    "geom:longitude":16.17778,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Koura",
+    "gn:country_code":"CG",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258680,
+    "gn:latitude":-3.04056,
+    "gn:longitude":16.17778,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Koura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669985,
+        1091679455,
+        85632541,
+        85670041,
+        1092013867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258680
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8a038bd27e3e61bb59f022dd06bfdfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679455,
+            "locality_id":1225922343,
+            "region_id":85669985
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013867,
+            "locality_id":1225922343,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1225922343,
+    "wof:lastmodified":1536903456,
+    "wof:name":"Koura",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.17778,
+    -3.04056,
+    16.17778,
+    -3.04056
+],
+  "geometry": {"coordinates":[16.17778,-3.04056],"type":"Point"}
+}

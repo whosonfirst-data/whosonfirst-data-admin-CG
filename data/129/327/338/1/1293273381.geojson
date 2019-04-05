@@ -1,0 +1,67 @@
+{
+  "id": 1293273381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.18583,-3.38361,14.18583,-3.38361",
+    "geom:latitude":-3.38361,
+    "geom:longitude":14.18583,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moutoko",
+    "gn:country_code":"CG",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256622,
+    "gn:latitude":-3.38361,
+    "gn:longitude":14.18583,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Moutoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256622
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"74f1cd41c352e25bd7248e0df0e06c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1293273381,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293273381,
+    "wof:lastmodified":1537092492,
+    "wof:name":"Moutoko",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.18583,
+    -3.38361,
+    14.18583,
+    -3.38361
+],
+  "geometry": {"coordinates":[14.18583,-3.38361],"type":"Point"}
+}

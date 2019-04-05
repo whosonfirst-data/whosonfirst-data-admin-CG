@@ -1,0 +1,67 @@
+{
+  "id": 1276446373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.65528,-3.78667,13.65528,-3.78667",
+    "geom:latitude":-3.78667,
+    "geom:longitude":13.65528,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kikaya I",
+    "gn:country_code":"CG",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568546,
+    "gn:latitude":-3.78667,
+    "gn:longitude":13.65528,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kikaya I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568546
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"967bfba145146657bc717d2c51902ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1276446373,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1276446373,
+    "wof:lastmodified":1536625152,
+    "wof:name":"Kikaya I",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.65528,
+    -3.78667,
+    13.65528,
+    -3.78667
+],
+  "geometry": {"coordinates":[13.65528,-3.78667],"type":"Point"}
+}

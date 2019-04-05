@@ -1,0 +1,67 @@
+{
+  "id": 1226129633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.02778,-4.32444,15.02778,-4.32444",
+    "geom:latitude":-4.32444,
+    "geom:longitude":15.02778,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kinsoundi",
+    "gn:country_code":"CG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258945,
+    "gn:latitude":-4.32444,
+    "gn:longitude":15.02778,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Kinsoundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258945
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"99ef24f4fe9f9fda47803b44d7d6d72c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1226129633,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226129633,
+    "wof:lastmodified":1536600917,
+    "wof:name":"Kinsoundi",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.02778,
+    -4.32444,
+    15.02778,
+    -4.32444
+],
+  "geometry": {"coordinates":[15.02778,-4.32444],"type":"Point"}
+}

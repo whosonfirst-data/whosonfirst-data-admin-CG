@@ -1,0 +1,67 @@
+{
+  "id": 1344055965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.05639,-3.02528,14.05639,-3.02528",
+    "geom:latitude":-3.02528,
+    "geom:longitude":14.05639,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Kingouansine",
+    "gn:country_code":"CG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259009,
+    "gn:latitude":-3.02528,
+    "gn:longitude":14.05639,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Kingouansine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259009
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fb7fcab3a4b21c90e2f8448791bcdc19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1344055965,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1344055965,
+    "wof:lastmodified":1536881380,
+    "wof:name":"Kingouansine",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.05639,
+    -3.02528,
+    14.05639,
+    -3.02528
+],
+  "geometry": {"coordinates":[14.05639,-3.02528],"type":"Point"}
+}

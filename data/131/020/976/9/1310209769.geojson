@@ -1,0 +1,72 @@
+{
+  "id": 1310209769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.5475,-2.46806,13.5475,-2.46806",
+    "geom:latitude":-2.46806,
+    "geom:longitude":13.5475,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Katanbouka",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259391,
+    "gn:latitude":-2.46806,
+    "gn:longitude":13.5475,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Katanbouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kataboumka",
+        "Katanbouka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092012977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259391
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f77fff6087bd1161394008dd8e61c79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012977,
+            "locality_id":1310209769,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1310209769,
+    "wof:lastmodified":1537590698,
+    "wof:name":"Katanbouka",
+    "wof:parent_id":1092012977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.5475,
+    -2.46806,
+    13.5475,
+    -2.46806
+],
+  "geometry": {"coordinates":[13.5475,-2.46806],"type":"Point"}
+}

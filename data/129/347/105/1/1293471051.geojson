@@ -1,0 +1,67 @@
+{
+  "id": 1293471051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.76417,-4.06694,14.76417,-4.06694",
+    "geom:latitude":-4.06694,
+    "geom:longitude":14.76417,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kimbele",
+    "gn:country_code":"CG",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566308,
+    "gn:latitude":-4.06694,
+    "gn:longitude":14.76417,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kimb\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566308
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f39ba40652cbd352c281fc8f7e15a8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1293471051,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293471051,
+    "wof:lastmodified":1536810374,
+    "wof:name":"Kimbele",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.76417,
+    -4.06694,
+    14.76417,
+    -4.06694
+],
+  "geometry": {"coordinates":[14.76417,-4.06694],"type":"Point"}
+}

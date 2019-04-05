@@ -1,0 +1,67 @@
+{
+  "id": 1310716029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.66722,-4.21778,13.66722,-4.21778",
+    "geom:latitude":-4.21778,
+    "geom:longitude":13.66722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kimdambou-Kaye",
+    "gn:country_code":"CG",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259146,
+    "gn:latitude":-4.21778,
+    "gn:longitude":13.66722,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kimdambou-Kaye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259146
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"04a96aa6d800578f87212dd6deebae86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012433,
+            "locality_id":1310716029,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1310716029,
+    "wof:lastmodified":1536610551,
+    "wof:name":"Kimdambou-Kaye",
+    "wof:parent_id":1092012433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.66722,
+    -4.21778,
+    13.66722,
+    -4.21778
+],
+  "geometry": {"coordinates":[13.66722,-4.21778],"type":"Point"}
+}

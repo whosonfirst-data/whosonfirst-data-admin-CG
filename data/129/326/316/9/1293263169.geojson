@@ -1,0 +1,72 @@
+{
+  "id": 1293263169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.19667,0.19722,14.19667,0.19722",
+    "geom:latitude":0.19722,
+    "geom:longitude":14.19667,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ngoyeboma",
+    "gn:country_code":"CG",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256204,
+    "gn:latitude":0.19722,
+    "gn:longitude":14.19667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngoyeboma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngoyboma",
+        "Ngoy\u00e9bouma",
+        "Ngoyeboma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256204
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"17f0bd2886be4a2c1a9249f3cd131d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1293263169,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1293263169,
+    "wof:lastmodified":1537590663,
+    "wof:name":"Ngoyeboma",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.19667,
+    0.19722,
+    14.19667,
+    0.19722
+],
+  "geometry": {"coordinates":[14.19667,0.19722],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327026723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.68972,-2.63222,12.68972,-2.63222",
+    "geom:latitude":-2.63222,
+    "geom:longitude":12.68972,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Boupanda",
+    "gn:country_code":"CG",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260565,
+    "gn:latitude":-2.63222,
+    "gn:longitude":12.68972,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Boupanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260565
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e22af1b2b4dd133c6ef4d95977a09ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1327026723,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327026723,
+    "wof:lastmodified":1536769182,
+    "wof:name":"Boupanda",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.68972,
+    -2.63222,
+    12.68972,
+    -2.63222
+],
+  "geometry": {"coordinates":[12.68972,-2.63222],"type":"Point"}
+}

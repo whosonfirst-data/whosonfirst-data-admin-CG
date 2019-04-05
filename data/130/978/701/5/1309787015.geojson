@@ -1,0 +1,72 @@
+{
+  "id": 1309787015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.14,-4.28444,14.14,-4.28444",
+    "geom:latitude":-4.28444,
+    "geom:longitude":14.14,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mangola I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257732,
+    "gn:latitude":-4.28444,
+    "gn:longitude":14.14,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mangola I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mangola",
+        "Mangola I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257732
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3da261ddc6dc12a7e4e4c01b7c233630",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1309787015,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1309787015,
+    "wof:lastmodified":1537590681,
+    "wof:name":"Mangola I",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.14,
+    -4.28444,
+    14.14,
+    -4.28444
+],
+  "geometry": {"coordinates":[14.14,-4.28444],"type":"Point"}
+}

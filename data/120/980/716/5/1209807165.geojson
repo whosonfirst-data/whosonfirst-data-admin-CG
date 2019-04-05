@@ -1,0 +1,72 @@
+{
+  "id": 1209807165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.66028,-2.85583,12.66028,-2.85583",
+    "geom:latitude":-2.85583,
+    "geom:longitude":12.66028,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Oubouesse",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260665,
+    "gn:latitude":-2.85583,
+    "gn:longitude":12.66028,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Oubou\u00e9ss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boues\u00e9",
+        "Oubou\u00e9ss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260665
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"55c3aaca9d597409fbf6ae0f78d69f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1209807165,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1209807165,
+    "wof:lastmodified":1537590717,
+    "wof:name":"Oubouesse",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.66028,
+    -2.85583,
+    12.66028,
+    -2.85583
+],
+  "geometry": {"coordinates":[12.66028,-2.85583],"type":"Point"}
+}

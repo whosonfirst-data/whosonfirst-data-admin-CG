@@ -1,0 +1,67 @@
+{
+  "id": 1293096417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.01194,1.80694,18.01194,1.80694",
+    "geom:latitude":1.80694,
+    "geom:longitude":18.01194,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Boketa",
+    "gn:country_code":"CG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260780,
+    "gn:latitude":1.80694,
+    "gn:longitude":18.01194,
+    "gn:modification_date":"1997-03-04",
+    "gn:name":"Bok\u00e9ta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260780
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0f852a548b03c0e42f935bf5f512d0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1293096417,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293096417,
+    "wof:lastmodified":1536852794,
+    "wof:name":"Boketa",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.01194,
+    1.80694,
+    18.01194,
+    1.80694
+],
+  "geometry": {"coordinates":[18.01194,1.80694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293675389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53806,-0.445,15.53806,-0.445",
+    "geom:latitude":-0.445,
+    "geom:longitude":15.53806,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Allembe",
+    "gn:country_code":"CG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261322,
+    "gn:latitude":-0.445,
+    "gn:longitude":15.53806,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Allembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261322
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e0e91d915a3adcfbc9dd8fe42e6cb8d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1293675389,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293675389,
+    "wof:lastmodified":1537012739,
+    "wof:name":"Allembe",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53806,
+    -0.445,
+    15.53806,
+    -0.445
+],
+  "geometry": {"coordinates":[15.53806,-0.445],"type":"Point"}
+}

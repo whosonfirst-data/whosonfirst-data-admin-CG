@@ -1,0 +1,67 @@
+{
+  "id": 1276534769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.34528,0.01778,16.34528,0.01778",
+    "geom:latitude":0.01778,
+    "geom:longitude":16.34528,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ntokou Aime",
+    "gn:country_code":"CG",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565762,
+    "gn:latitude":0.01778,
+    "gn:longitude":16.34528,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Ntokou Aim\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565762
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2c15be23c6b9549accffc4b1449c6e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1276534769,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276534769,
+    "wof:lastmodified":1537005338,
+    "wof:name":"Ntokou Aime",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.34528,
+    0.01778,
+    16.34528,
+    0.01778
+],
+  "geometry": {"coordinates":[16.34528,0.01778],"type":"Point"}
+}

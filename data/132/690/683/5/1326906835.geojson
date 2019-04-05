@@ -1,0 +1,67 @@
+{
+  "id": 1326906835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45361,-1.02944,16.45361,-1.02944",
+    "geom:latitude":-1.02944,
+    "geom:longitude":16.45361,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bouegni",
+    "gn:country_code":"CG",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569427,
+    "gn:latitude":-1.02944,
+    "gn:longitude":16.45361,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Bou\u00e9gni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569427
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b653d305aa7ee5ea73a9fba7b7400215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012807,
+            "locality_id":1326906835,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1326906835,
+    "wof:lastmodified":1536942006,
+    "wof:name":"Bouegni",
+    "wof:parent_id":1092012807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45361,
+    -1.02944,
+    16.45361,
+    -1.02944
+],
+  "geometry": {"coordinates":[16.45361,-1.02944],"type":"Point"}
+}

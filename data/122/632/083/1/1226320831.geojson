@@ -1,0 +1,72 @@
+{
+  "id": 1226320831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.69722,-4.01028,14.69722,-4.01028",
+    "geom:latitude":-4.01028,
+    "geom:longitude":14.69722,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Passitolo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255460,
+    "gn:latitude":-4.01028,
+    "gn:longitude":14.69722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Passitolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasitolo",
+        "Passitolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255460
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e4b3224eccc9b794af106d9aa0e07fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1226320831,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226320831,
+    "wof:lastmodified":1537590649,
+    "wof:name":"Passitolo",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.69722,
+    -4.01028,
+    14.69722,
+    -4.01028
+],
+  "geometry": {"coordinates":[14.69722,-4.01028],"type":"Point"}
+}

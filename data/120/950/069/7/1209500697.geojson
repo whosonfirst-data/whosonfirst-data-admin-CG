@@ -1,0 +1,61 @@
+{
+  "id": 1209500697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.93583,-1.55389,15.93583,-1.55389",
+    "geom:latitude":-1.55389,
+    "geom:longitude":15.93583,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Obala II",
+    "gn:country_code":"CG",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569611,
+    "gn:latitude":-1.55389,
+    "gn:longitude":15.93583,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Obala II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569611
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9606e5c35e841c684ac9139e9f650814",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209500697
+        }
+    ],
+    "wof:id":1209500697,
+    "wof:lastmodified":1536285193,
+    "wof:name":"Obala II",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.93583,
+    -1.55389,
+    15.93583,
+    -1.55389
+],
+  "geometry": {"coordinates":[15.93583,-1.55389],"type":"Point"}
+}

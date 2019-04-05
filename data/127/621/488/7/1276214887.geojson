@@ -1,0 +1,67 @@
+{
+  "id": 1276214887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74389,-4.38556,14.74389,-4.38556",
+    "geom:latitude":-4.38556,
+    "geom:longitude":14.74389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kissenguele",
+    "gn:country_code":"CG",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566200,
+    "gn:latitude":-4.38556,
+    "gn:longitude":14.74389,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kiss\u00e9ngu\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566200
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e7c3c8947e77b2c2ba79a4f6e7e5d30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013765,
+            "locality_id":1276214887,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1276214887,
+    "wof:lastmodified":1536938542,
+    "wof:name":"Kissenguele",
+    "wof:parent_id":1092013765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74389,
+    -4.38556,
+    14.74389,
+    -4.38556
+],
+  "geometry": {"coordinates":[14.74389,-4.38556],"type":"Point"}
+}

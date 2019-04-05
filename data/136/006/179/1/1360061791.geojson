@@ -1,0 +1,67 @@
+{
+  "id": 1360061791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.01778,-0.75389,16.01778,-0.75389",
+    "geom:latitude":-0.75389,
+    "geom:longitude":16.01778,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Boui",
+    "gn:country_code":"CG",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260658,
+    "gn:latitude":-0.75389,
+    "gn:longitude":16.01778,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Boui",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260658
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b89c8dfad976691d1df38813d3d309a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1360061791,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1360061791,
+    "wof:lastmodified":1536978753,
+    "wof:name":"Boui",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.01778,
+    -0.75389,
+    16.01778,
+    -0.75389
+],
+  "geometry": {"coordinates":[16.01778,-0.75389],"type":"Point"}
+}

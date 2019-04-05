@@ -1,0 +1,72 @@
+{
+  "id": 1260377259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.58361,-0.91139,15.58361,-0.91139",
+    "geom:latitude":-0.91139,
+    "geom:longitude":15.58361,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Okona",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255786,
+    "gn:latitude":-0.91139,
+    "gn:longitude":15.58361,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Okona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okouna",
+        "Okona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255786
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"501cd3a5f029e7d1331e45fef84d0dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012715,
+            "locality_id":1260377259,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1260377259,
+    "wof:lastmodified":1537590657,
+    "wof:name":"Okona",
+    "wof:parent_id":1092012715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.58361,
+    -0.91139,
+    15.58361,
+    -0.91139
+],
+  "geometry": {"coordinates":[15.58361,-0.91139],"type":"Point"}
+}

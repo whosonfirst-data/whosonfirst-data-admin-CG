@@ -1,0 +1,67 @@
+{
+  "id": 1326909811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.4175,-0.64389,15.4175,-0.64389",
+    "geom:latitude":-0.64389,
+    "geom:longitude":15.4175,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oyomi",
+    "gn:country_code":"CG",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255518,
+    "gn:latitude":-0.64389,
+    "gn:longitude":15.4175,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Oyomi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255518
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5738b8e691a0b3fdd61ff30c453d5039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1326909811,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1326909811,
+    "wof:lastmodified":1536937911,
+    "wof:name":"Oyomi",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.4175,
+    -0.64389,
+    15.4175,
+    -0.64389
+],
+  "geometry": {"coordinates":[15.4175,-0.64389],"type":"Point"}
+}

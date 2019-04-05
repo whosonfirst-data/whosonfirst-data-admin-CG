@@ -1,0 +1,67 @@
+{
+  "id": 1293382445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.99861,2.32583,17.99861,2.32583",
+    "geom:latitude":2.32583,
+    "geom:longitude":17.99861,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bangi",
+    "gn:country_code":"CG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569935,
+    "gn:latitude":2.32583,
+    "gn:longitude":17.99861,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Bangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569935
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"095fe7735b4a32331a439c4eb73136c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1293382445,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1293382445,
+    "wof:lastmodified":1536939205,
+    "wof:name":"Bangi",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.99861,
+    2.32583,
+    17.99861,
+    2.32583
+],
+  "geometry": {"coordinates":[17.99861,2.32583],"type":"Point"}
+}

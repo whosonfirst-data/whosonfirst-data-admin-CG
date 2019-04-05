@@ -1,0 +1,63 @@
+{
+  "id": 1242862293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.18333,-3.21667,16.18333,-3.21667",
+    "geom:latitude":-3.21667,
+    "geom:longitude":16.18333,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bampo",
+    "gn:country_code":"CG",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261090,
+    "gn:latitude":-3.21667,
+    "gn:longitude":16.18333,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Bampo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261090
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1a7c097a27bd3475718ec58d927237a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242862293,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242862293,
+    "wof:lastmodified":1536653537,
+    "wof:name":"Bampo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.18333,
+    -3.21667,
+    16.18333,
+    -3.21667
+],
+  "geometry": {"coordinates":[16.18333,-3.21667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260188763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.52583,-4.49222,12.52583,-4.49222",
+    "geom:latitude":-4.49222,
+    "geom:longitude":12.52583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ncesse",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261277,
+    "gn:latitude":-4.49222,
+    "gn:longitude":12.52583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nc\u00e9sse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ancien Ncess\u00e9",
+        "Nc\u00e9sse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261277
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6cb55f23a83c24cb83ebccde4a9f0e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1260188763,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1260188763,
+    "wof:lastmodified":1537590726,
+    "wof:name":"Ncesse",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.52583,
+    -4.49222,
+    12.52583,
+    -4.49222
+],
+  "geometry": {"coordinates":[12.52583,-4.49222],"type":"Point"}
+}

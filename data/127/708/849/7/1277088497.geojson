@@ -1,0 +1,72 @@
+{
+  "id": 1277088497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.1075,-4.14556,14.1075,-4.14556",
+    "geom:latitude":-4.14556,
+    "geom:longitude":14.1075,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Doungou I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260293,
+    "gn:latitude":-4.14556,
+    "gn:longitude":14.1075,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Doungou I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Doungou",
+        "Doungou I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260293
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"86ebc055e89be058d022ae976b317d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1277088497,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1277088497,
+    "wof:lastmodified":1537590713,
+    "wof:name":"Doungou I",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.1075,
+    -4.14556,
+    14.1075,
+    -4.14556
+],
+  "geometry": {"coordinates":[14.1075,-4.14556],"type":"Point"}
+}

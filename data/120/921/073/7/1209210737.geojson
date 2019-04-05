@@ -1,0 +1,66 @@
+{
+  "id": 1209210737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.14083,-2.16778,16.14083,-2.16778",
+    "geom:latitude":-2.16778,
+    "geom:longitude":16.14083,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bouemba",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260674,
+    "gn:latitude":-2.16778,
+    "gn:longitude":16.14083,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bouemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bwemba",
+        "Bouemba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260674
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c737771d64efb820b50f0f9d337734ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209210737
+        }
+    ],
+    "wof:id":1209210737,
+    "wof:lastmodified":1537590717,
+    "wof:name":"Bouemba",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.14083,
+    -2.16778,
+    16.14083,
+    -2.16778
+],
+  "geometry": {"coordinates":[16.14083,-2.16778],"type":"Point"}
+}

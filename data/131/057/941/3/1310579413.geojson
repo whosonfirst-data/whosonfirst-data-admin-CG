@@ -1,0 +1,67 @@
+{
+  "id": 1310579413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.42111,-4.85361,14.42111,-4.85361",
+    "geom:latitude":-4.85361,
+    "geom:longitude":14.42111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbanza Kimoukou",
+    "gn:country_code":"CG",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257445,
+    "gn:latitude":-4.85361,
+    "gn:longitude":14.42111,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mbanza Kimoukou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257445
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d3f8fbe7fe0a8f3efd0e97eab847f2df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1310579413,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310579413,
+    "wof:lastmodified":1536809928,
+    "wof:name":"Mbanza Kimoukou",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.42111,
+    -4.85361,
+    14.42111,
+    -4.85361
+],
+  "geometry": {"coordinates":[14.42111,-4.85361],"type":"Point"}
+}

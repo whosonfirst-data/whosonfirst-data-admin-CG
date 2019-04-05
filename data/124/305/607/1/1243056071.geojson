@@ -1,0 +1,67 @@
+{
+  "id": 1243056071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.985,-4.31972,13.985,-4.31972",
+    "geom:latitude":-4.31972,
+    "geom:longitude":13.985,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mindou",
+    "gn:country_code":"CG",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257175,
+    "gn:latitude":-4.31972,
+    "gn:longitude":13.985,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mindou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257175
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8cf739ecb0e200ea02b55962a056de51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1243056071,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1243056071,
+    "wof:lastmodified":1536870208,
+    "wof:name":"Mindou",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.985,
+    -4.31972,
+    13.985,
+    -4.31972
+],
+  "geometry": {"coordinates":[13.985,-4.31972],"type":"Point"}
+}

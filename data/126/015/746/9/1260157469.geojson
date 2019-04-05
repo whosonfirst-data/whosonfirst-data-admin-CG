@@ -1,0 +1,71 @@
+{
+  "id": 1260157469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.98167,-1.555,14.98167,-1.555",
+    "geom:latitude":-1.555,
+    "geom:longitude":14.98167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oka",
+    "gn:country_code":"CG",
+    "gn:dem":385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255847,
+    "gn:latitude":-1.555,
+    "gn:longitude":14.98167,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Oka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okamandib\u00e9",
+        "Oka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255847
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"49b2444a2188f8a75a4d05b82e3e1c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1260157469,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1260157469,
+    "wof:lastmodified":1537590658,
+    "wof:name":"Oka",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.98167,
+    -1.555,
+    14.98167,
+    -1.555
+],
+  "geometry": {"coordinates":[14.98167,-1.555],"type":"Point"}
+}

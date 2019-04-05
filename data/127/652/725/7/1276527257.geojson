@@ -1,0 +1,72 @@
+{
+  "id": 1276527257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.5975,0.0225,15.5975,0.0225",
+    "geom:latitude":0.0225,
+    "geom:longitude":15.5975,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Obeye",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255924,
+    "gn:latitude":0.0225,
+    "gn:longitude":15.5975,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ob\u00e9ye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Obey",
+        "Ob\u00e9ye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255924
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c775e4187fa254397e98f3a435e4c8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1276527257,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276527257,
+    "wof:lastmodified":1537590660,
+    "wof:name":"Obeye",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.5975,
+    0.0225,
+    15.5975,
+    0.0225
+],
+  "geometry": {"coordinates":[15.5975,0.0225],"type":"Point"}
+}

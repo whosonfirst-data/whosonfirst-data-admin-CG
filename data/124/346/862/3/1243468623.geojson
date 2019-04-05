@@ -1,0 +1,67 @@
+{
+  "id": 1243468623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.07667,-4.04889,14.07667,-4.04889",
+    "geom:latitude":-4.04889,
+    "geom:longitude":14.07667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Miyamba",
+    "gn:country_code":"CG",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566749,
+    "gn:latitude":-4.04889,
+    "gn:longitude":14.07667,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Miyamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566749
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d14ddb53faea5ffeead4fad1a078ab0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1243468623,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1243468623,
+    "wof:lastmodified":1536774122,
+    "wof:name":"Miyamba",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.07667,
+    -4.04889,
+    14.07667,
+    -4.04889
+],
+  "geometry": {"coordinates":[14.07667,-4.04889],"type":"Point"}
+}

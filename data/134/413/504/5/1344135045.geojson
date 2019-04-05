@@ -1,0 +1,67 @@
+{
+  "id": 1344135045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.33389,-3.60611,14.33389,-3.60611",
+    "geom:latitude":-3.60611,
+    "geom:longitude":14.33389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mayenani",
+    "gn:country_code":"CG",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257517,
+    "gn:latitude":-3.60611,
+    "gn:longitude":14.33389,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"May\u00e9nani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257517
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"17af6c2313c7a0a3fb523a15f0c529d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1344135045,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1344135045,
+    "wof:lastmodified":1536768471,
+    "wof:name":"Mayenani",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.33389,
+    -3.60611,
+    14.33389,
+    -3.60611
+],
+  "geometry": {"coordinates":[14.33389,-3.60611],"type":"Point"}
+}

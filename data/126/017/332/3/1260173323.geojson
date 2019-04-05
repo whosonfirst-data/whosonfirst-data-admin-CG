@@ -1,0 +1,72 @@
+{
+  "id": 1260173323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31639,-4.74528,13.31639,-4.74528",
+    "geom:latitude":-4.74528,
+    "geom:longitude":13.31639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kipanda I",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258901,
+    "gn:latitude":-4.74528,
+    "gn:longitude":13.31639,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kipanda I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kipanda",
+        "Kipanda I"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258901
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d29a6ad1624e4bd26517c2d4f25a3e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1260173323,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1260173323,
+    "wof:lastmodified":1537590691,
+    "wof:name":"Kipanda I",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31639,
+    -4.74528,
+    13.31639,
+    -4.74528
+],
+  "geometry": {"coordinates":[13.31639,-4.74528],"type":"Point"}
+}

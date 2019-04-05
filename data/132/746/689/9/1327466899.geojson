@@ -1,0 +1,72 @@
+{
+  "id": 1327466899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.97583,-4.55139,11.97583,-4.55139",
+    "geom:latitude":-4.55139,
+    "geom:longitude":11.97583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mango-Tandou",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256933,
+    "gn:latitude":-4.55139,
+    "gn:longitude":11.97583,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mango-Tandou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mongo-Tandou",
+        "Mango-Tandou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256933
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3cd061d0027141924afd66cf278797f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1327466899,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1327466899,
+    "wof:lastmodified":1537590671,
+    "wof:name":"Mango-Tandou",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.97583,
+    -4.55139,
+    11.97583,
+    -4.55139
+],
+  "geometry": {"coordinates":[11.97583,-4.55139],"type":"Point"}
+}

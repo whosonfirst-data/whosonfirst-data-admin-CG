@@ -1,0 +1,67 @@
+{
+  "id": 1276562383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.06444,-4.12528,13.06444,-4.12528",
+    "geom:latitude":-4.12528,
+    "geom:longitude":13.06444,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Matchi-Koye",
+    "gn:country_code":"CG",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257589,
+    "gn:latitude":-4.12528,
+    "gn:longitude":13.06444,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Matchi-Koy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257589
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f45a6b6e37a7bdbb597a09fcd164f262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012419,
+            "locality_id":1276562383,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1276562383,
+    "wof:lastmodified":1536968853,
+    "wof:name":"Matchi-Koye",
+    "wof:parent_id":1092012419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.06444,
+    -4.12528,
+    13.06444,
+    -4.12528
+],
+  "geometry": {"coordinates":[13.06444,-4.12528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226157285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.82111,-3.67694,13.82111,-3.67694",
+    "geom:latitude":-3.67694,
+    "geom:longitude":13.82111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tsiaki",
+    "gn:country_code":"CG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568519,
+    "gn:latitude":-3.67694,
+    "gn:longitude":13.82111,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Tsiaki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568519
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"30697a0a95e508e6a03db20fbfc890f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1226157285,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1226157285,
+    "wof:lastmodified":1537058445,
+    "wof:name":"Tsiaki",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.82111,
+    -3.67694,
+    13.82111,
+    -3.67694
+],
+  "geometry": {"coordinates":[13.82111,-3.67694],"type":"Point"}
+}

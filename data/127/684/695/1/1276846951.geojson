@@ -1,0 +1,67 @@
+{
+  "id": 1276846951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.15083,-1.23889,15.15083,-1.23889",
+    "geom:latitude":-1.23889,
+    "geom:longitude":15.15083,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Okouya",
+    "gn:country_code":"CG",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255776,
+    "gn:latitude":-1.23889,
+    "gn:longitude":15.15083,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Okouya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255776
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c340b5632595cd3e018c79ba2ca801d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1276846951,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276846951,
+    "wof:lastmodified":1537082093,
+    "wof:name":"Okouya",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.15083,
+    -1.23889,
+    15.15083,
+    -1.23889
+],
+  "geometry": {"coordinates":[15.15083,-1.23889],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209715923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.56556,-4.53306,12.56556,-4.53306",
+    "geom:latitude":-4.53306,
+    "geom:longitude":12.56556,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ngounda",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259812,
+    "gn:latitude":-4.53306,
+    "gn:longitude":12.56556,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ngounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gounda",
+        "Ngounda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092013995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259812
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"16bd7525566cf2bdc412902c471c9e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013995,
+            "locality_id":1209715923,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1209715923,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Ngounda",
+    "wof:parent_id":1092013995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.56556,
+    -4.53306,
+    12.56556,
+    -4.53306
+],
+  "geometry": {"coordinates":[12.56556,-4.53306],"type":"Point"}
+}

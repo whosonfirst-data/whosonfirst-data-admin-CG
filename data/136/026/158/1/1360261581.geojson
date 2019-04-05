@@ -1,0 +1,72 @@
+{
+  "id": 1360261581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.10444,-1.07278,16.10444,-1.07278",
+    "geom:latitude":-1.07278,
+    "geom:longitude":16.10444,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Liboka",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568371,
+    "gn:latitude":-1.07278,
+    "gn:longitude":16.10444,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Liboka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iboka",
+        "Liboka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568371
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e793f503c3c65a7ec636f72842b1b88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1360261581,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1360261581,
+    "wof:lastmodified":1537590731,
+    "wof:name":"Liboka",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.10444,
+    -1.07278,
+    16.10444,
+    -1.07278
+],
+  "geometry": {"coordinates":[16.10444,-1.07278],"type":"Point"}
+}

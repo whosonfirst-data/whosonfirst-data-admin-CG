@@ -1,0 +1,68 @@
+{
+  "id": 1310519101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2859,-4.18396,13.2859,-4.18396",
+    "geom:latitude":-4.18396,
+    "geom:longitude":13.2859,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nkayi",
+    "gn:country_code":"CG",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8521334,
+    "gn:latitude":-4.18396,
+    "gn:longitude":13.2859,
+    "gn:modification_date":"2013-04-13",
+    "gn:name":"Nkayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        421184609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521334,
+        "wk:page":"Nkayi,_Republic_of_the_Congo"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"042f978a40f918645c1be0f6772cc823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421184609,
+            "locality_id":1310519101,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1310519101,
+    "wof:lastmodified":1537489262,
+    "wof:name":"Nkayi",
+    "wof:parent_id":421184609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2859,
+    -4.18396,
+    13.2859,
+    -4.18396
+],
+  "geometry": {"coordinates":[13.2859,-4.18396],"type":"Point"}
+}

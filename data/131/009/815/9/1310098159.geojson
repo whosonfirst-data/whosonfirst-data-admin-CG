@@ -1,0 +1,73 @@
+{
+  "id": 1310098159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.64194,-0.19694,17.64194,-0.19694",
+    "geom:latitude":-0.19694,
+    "geom:longitude":17.64194,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bekonmbo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260979,
+    "gn:latitude":-0.19694,
+    "gn:longitude":17.64194,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"B\u00e9konmbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9kombo",
+        "Bokombo",
+        "B\u00e9konmbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260979
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7dcc80a7009ac73c8f23ceb4b8be9f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013239,
+            "locality_id":1310098159,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1310098159,
+    "wof:lastmodified":1537590722,
+    "wof:name":"Bekonmbo",
+    "wof:parent_id":1092013239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.64193999999999,
+    -0.19694,
+    17.64193999999999,
+    -0.19694
+],
+  "geometry": {"coordinates":[17.64193999999999,-0.19694],"type":"Point"}
+}

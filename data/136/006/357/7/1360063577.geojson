@@ -1,0 +1,67 @@
+{
+  "id": 1360063577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.54083,-3.80889,14.54083,-3.80889",
+    "geom:latitude":-3.80889,
+    "geom:longitude":14.54083,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moulala",
+    "gn:country_code":"CG",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568124,
+    "gn:latitude":-3.80889,
+    "gn:longitude":14.54083,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Moulala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568124
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9c45db4d593ce4735a85c7e74a6ae01c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1360063577,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1360063577,
+    "wof:lastmodified":1536976235,
+    "wof:name":"Moulala",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.54083,
+    -3.80889,
+    14.54083,
+    -3.80889
+],
+  "geometry": {"coordinates":[14.54083,-3.80889],"type":"Point"}
+}

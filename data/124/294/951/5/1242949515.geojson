@@ -1,0 +1,67 @@
+{
+  "id": 1242949515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.91389,-0.14417,15.91389,-0.14417",
+    "geom:latitude":-0.14417,
+    "geom:longitude":15.91389,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bozongo",
+    "gn:country_code":"CG",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567898,
+    "gn:latitude":-0.14417,
+    "gn:longitude":15.91389,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Bozongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567898
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"aead6310877bbae122a8b05ef7c67f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1242949515,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1242949515,
+    "wof:lastmodified":1537024010,
+    "wof:name":"Bozongo",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.91389,
+    -0.14417,
+    15.91389,
+    -0.14417
+],
+  "geometry": {"coordinates":[15.91389,-0.14417],"type":"Point"}
+}

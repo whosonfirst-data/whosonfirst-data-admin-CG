@@ -1,0 +1,67 @@
+{
+  "id": 1293877265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.45917,0.22139,16.45917,0.22139",
+    "geom:latitude":0.22139,
+    "geom:longitude":16.45917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bonbongo",
+    "gn:country_code":"CG",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565758,
+    "gn:latitude":0.22139,
+    "gn:longitude":16.45917,
+    "gn:modification_date":"1995-06-20",
+    "gn:name":"Bonbongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565758
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"25fd1afac36ba2ef366bf5bd9018af6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1293877265,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1293877265,
+    "wof:lastmodified":1536722685,
+    "wof:name":"Bonbongo",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.45917,
+    0.22139,
+    16.45917,
+    0.22139
+],
+  "geometry": {"coordinates":[16.45917,0.22139],"type":"Point"}
+}

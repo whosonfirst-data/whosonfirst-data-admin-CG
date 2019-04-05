@@ -1,0 +1,67 @@
+{
+  "id": 1226643211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.57667,-1.58833,16.57667,-1.58833",
+    "geom:latitude":-1.58833,
+    "geom:longitude":16.57667,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Bounda",
+    "gn:country_code":"CG",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260594,
+    "gn:latitude":-1.58833,
+    "gn:longitude":16.57667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Bounda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260594
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d48dc0e6926f6b67505e0cb6d69b267f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1226643211,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226643211,
+    "wof:lastmodified":1536861706,
+    "wof:name":"Bounda",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.57667,
+    -1.58833,
+    16.57667,
+    -1.58833
+],
+  "geometry": {"coordinates":[16.57667,-1.58833],"type":"Point"}
+}

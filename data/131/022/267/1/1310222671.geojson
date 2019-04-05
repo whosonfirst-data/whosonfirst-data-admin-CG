@@ -1,0 +1,67 @@
+{
+  "id": 1310222671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.8525,-4.3075,13.8525,-4.3075",
+    "geom:latitude":-4.3075,
+    "geom:longitude":13.8525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nzombo",
+    "gn:country_code":"CG",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255966,
+    "gn:latitude":-4.3075,
+    "gn:longitude":13.8525,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Nzombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255966
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2874cf42a48e71f22ec282ebb7f0a09e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012433,
+            "locality_id":1310222671,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1310222671,
+    "wof:lastmodified":1536826528,
+    "wof:name":"Nzombo",
+    "wof:parent_id":1092012433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.8525,
+    -4.3075,
+    13.8525,
+    -4.3075
+],
+  "geometry": {"coordinates":[13.8525,-4.3075],"type":"Point"}
+}

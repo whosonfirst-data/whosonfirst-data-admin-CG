@@ -1,0 +1,72 @@
+{
+  "id": 1293771769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.82917,-4.61194,14.82917,-4.61194",
+    "geom:latitude":-4.61194,
+    "geom:longitude":14.82917,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kinndouta",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259056,
+    "gn:latitude":-4.61194,
+    "gn:longitude":14.82917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kinndouta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kindouta",
+        "Kinndouta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259056
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9741da7cbb9be0d65db20f600c6dfe8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1293771769,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293771769,
+    "wof:lastmodified":1537590694,
+    "wof:name":"Kinndouta",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.82917,
+    -4.61194,
+    14.82917,
+    -4.61194
+],
+  "geometry": {"coordinates":[14.82917,-4.61194],"type":"Point"}
+}

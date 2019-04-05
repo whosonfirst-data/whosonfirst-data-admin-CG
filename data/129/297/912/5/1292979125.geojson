@@ -1,0 +1,67 @@
+{
+  "id": 1292979125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.435,-3.44278,14.435,-3.44278",
+    "geom:latitude":-3.44278,
+    "geom:longitude":14.435,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Boukonzo",
+    "gn:country_code":"CG",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260643,
+    "gn:latitude":-3.44278,
+    "gn:longitude":14.435,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Boukonzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260643
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d68414c2cdbd1b0c861f3fe4e5e43994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1292979125,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1292979125,
+    "wof:lastmodified":1537021937,
+    "wof:name":"Boukonzo",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.435,
+    -3.44278,
+    14.435,
+    -3.44278
+],
+  "geometry": {"coordinates":[14.435,-3.44278],"type":"Point"}
+}

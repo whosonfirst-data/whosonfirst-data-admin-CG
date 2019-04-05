@@ -1,0 +1,67 @@
+{
+  "id": 1343342729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.67,-4.77167,14.67,-4.77167",
+    "geom:latitude":-4.77167,
+    "geom:longitude":14.67,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mangoungou",
+    "gn:country_code":"CG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257714,
+    "gn:latitude":-4.77167,
+    "gn:longitude":14.67,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mangoungou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257714
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"050902dff62cfe6e248d3d70a47aa1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1343342729,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343342729,
+    "wof:lastmodified":1536916763,
+    "wof:name":"Mangoungou",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.67,
+    -4.77167,
+    14.67,
+    -4.77167
+],
+  "geometry": {"coordinates":[14.67,-4.77167],"type":"Point"}
+}

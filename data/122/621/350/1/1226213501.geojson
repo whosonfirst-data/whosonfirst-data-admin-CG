@@ -1,0 +1,67 @@
+{
+  "id": 1226213501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.74056,0.39028,14.74056,0.39028",
+    "geom:latitude":0.39028,
+    "geom:longitude":14.74056,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Palmeraie",
+    "gn:country_code":"CG",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565870,
+    "gn:latitude":0.39028,
+    "gn:longitude":14.74056,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Palmeraie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565870
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"56080af7378b503a64e72fcb19bb6eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012673,
+            "locality_id":1226213501,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1226213501,
+    "wof:lastmodified":1536979561,
+    "wof:name":"Palmeraie",
+    "wof:parent_id":1092012673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.74056,
+    0.39028,
+    14.74056,
+    0.39028
+],
+  "geometry": {"coordinates":[14.74056,0.39028],"type":"Point"}
+}

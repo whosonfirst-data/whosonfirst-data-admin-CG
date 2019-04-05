@@ -1,0 +1,67 @@
+{
+  "id": 1210007345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83333,-1.35222,15.83333,-1.35222",
+    "geom:latitude":-1.35222,
+    "geom:longitude":15.83333,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Oko",
+    "gn:country_code":"CG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255818,
+    "gn:latitude":-1.35222,
+    "gn:longitude":15.83333,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Oko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255818
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"69dcaff8a65319bc7d5db5f7a568039e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1210007345,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1210007345,
+    "wof:lastmodified":1536372250,
+    "wof:name":"Oko",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83333,
+    -1.35222,
+    15.83333,
+    -1.35222
+],
+  "geometry": {"coordinates":[15.83333,-1.35222],"type":"Point"}
+}

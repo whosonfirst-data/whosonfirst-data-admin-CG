@@ -1,0 +1,67 @@
+{
+  "id": 1310182349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.23056,-3.61806,15.23056,-3.61806",
+    "geom:latitude":-3.61806,
+    "geom:longitude":15.23056,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Ongene",
+    "gn:country_code":"CG",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255702,
+    "gn:latitude":-3.61806,
+    "gn:longitude":15.23056,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Ong\u00e9ne",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255702
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"329a3f94bb6a61f83db122357e71b2c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1310182349,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310182349,
+    "wof:lastmodified":1536885257,
+    "wof:name":"Ongene",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.23056,
+    -3.61806,
+    15.23056,
+    -3.61806
+],
+  "geometry": {"coordinates":[15.23056,-3.61806],"type":"Point"}
+}

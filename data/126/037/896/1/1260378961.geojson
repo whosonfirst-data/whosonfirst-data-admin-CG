@@ -1,0 +1,67 @@
+{
+  "id": 1260378961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.31667,-4.31667,14.31667,-4.31667",
+    "geom:latitude":-4.31667,
+    "geom:longitude":14.31667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Kinkua",
+    "gn:country_code":"CG",
+    "gn:dem":570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258964,
+    "gn:latitude":-4.31667,
+    "gn:longitude":14.31667,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Kinkua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669993,
+        1091679331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258964
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6f0e772d5bdffbf21414088e2e2c0283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679331,
+            "locality_id":1260378961,
+            "region_id":85669993
+        }
+    ],
+    "wof:id":1260378961,
+    "wof:lastmodified":1537077963,
+    "wof:name":"Kinkua",
+    "wof:parent_id":1091679331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.31667,
+    -4.31667,
+    14.31667,
+    -4.31667
+],
+  "geometry": {"coordinates":[14.31667,-4.31667],"type":"Point"}
+}

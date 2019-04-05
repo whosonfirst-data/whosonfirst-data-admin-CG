@@ -1,0 +1,61 @@
+{
+  "id": 1209009179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41306,-3.71306,13.41306,-3.71306",
+    "geom:latitude":-3.71306,
+    "geom:longitude":13.41306,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Moufouma",
+    "gn:country_code":"CG",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568729,
+    "gn:latitude":-3.71306,
+    "gn:longitude":13.41306,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Moufouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568729
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"f50c48bad5e82e5defce6b6d7aef9d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209009179
+        }
+    ],
+    "wof:id":1209009179,
+    "wof:lastmodified":1536300504,
+    "wof:name":"Moufouma",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41306,
+    -3.71306,
+    13.41306,
+    -3.71306
+],
+  "geometry": {"coordinates":[13.41306,-3.71306],"type":"Point"}
+}

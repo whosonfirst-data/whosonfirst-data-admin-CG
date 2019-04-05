@@ -1,0 +1,67 @@
+{
+  "id": 1327347721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.31611,-4.07806,13.31611,-4.07806",
+    "geom:latitude":-4.07806,
+    "geom:longitude":13.31611,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Miloundou",
+    "gn:country_code":"CG",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257184,
+    "gn:latitude":-4.07806,
+    "gn:longitude":13.31611,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Miloundou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        421184609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257184
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"53573012baaa863a6aad5bdb9b5d371e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421184609,
+            "locality_id":1327347721,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1327347721,
+    "wof:lastmodified":1536802982,
+    "wof:name":"Miloundou",
+    "wof:parent_id":421184609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.31611,
+    -4.07806,
+    13.31611,
+    -4.07806
+],
+  "geometry": {"coordinates":[13.31611,-4.07806],"type":"Point"}
+}

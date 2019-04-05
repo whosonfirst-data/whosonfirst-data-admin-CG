@@ -1,0 +1,67 @@
+{
+  "id": 1276649049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.71667,2.78333,17.71667,2.78333",
+    "geom:latitude":2.78333,
+    "geom:longitude":17.71667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Kouka",
+    "gn:country_code":"CG",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258735,
+    "gn:latitude":2.78333,
+    "gn:longitude":17.71667,
+    "gn:modification_date":"1996-01-04",
+    "gn:name":"Kouka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258735
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9162bea3649b01718490e237b0c86eae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1276649049,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1276649049,
+    "wof:lastmodified":1536851677,
+    "wof:name":"Kouka",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.71667,
+    2.78333,
+    17.71667,
+    2.78333
+],
+  "geometry": {"coordinates":[17.71667,2.78333],"type":"Point"}
+}

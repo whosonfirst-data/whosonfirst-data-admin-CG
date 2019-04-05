@@ -1,0 +1,72 @@
+{
+  "id": 1260002393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.94611,-2.82028,13.94611,-2.82028",
+    "geom:latitude":-2.82028,
+    "geom:longitude":13.94611,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lebani Lenkala",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258626,
+    "gn:latitude":-2.82028,
+    "gn:longitude":13.94611,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"L\u00e9bani Lenkala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lenkala",
+        "L\u00e9bani Lenkala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258626
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fe437e63d0a475c0ab0bc1ac7db36400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1260002393,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1260002393,
+    "wof:lastmodified":1537590688,
+    "wof:name":"Lebani Lenkala",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.94611,
+    -2.82028,
+    13.94611,
+    -2.82028
+],
+  "geometry": {"coordinates":[13.94611,-2.82028],"type":"Point"}
+}

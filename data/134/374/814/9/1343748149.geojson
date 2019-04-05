@@ -1,0 +1,67 @@
+{
+  "id": 1343748149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.29139,-1.05694,15.29139,-1.05694",
+    "geom:latitude":-1.05694,
+    "geom:longitude":15.29139,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Engondo",
+    "gn:country_code":"CG",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569731,
+    "gn:latitude":-1.05694,
+    "gn:longitude":15.29139,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Engondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569731
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"09691a2bf5c8849d4fcdb8f0527f2ccc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012715,
+            "locality_id":1343748149,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1343748149,
+    "wof:lastmodified":1536827726,
+    "wof:name":"Engondo",
+    "wof:parent_id":1092012715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.29139,
+    -1.05694,
+    15.29139,
+    -1.05694
+],
+  "geometry": {"coordinates":[15.29139,-1.05694],"type":"Point"}
+}

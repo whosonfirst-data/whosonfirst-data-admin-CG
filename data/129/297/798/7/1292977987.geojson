@@ -1,0 +1,67 @@
+{
+  "id": 1292977987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47833,-4.1225,15.47833,-4.1225",
+    "geom:latitude":-4.1225,
+    "geom:longitude":15.47833,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Maloukou-Bambou",
+    "gn:country_code":"CG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257819,
+    "gn:latitude":-4.1225,
+    "gn:longitude":15.47833,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Maloukou-Bambou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257819
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1d0e21f2dfb95302b172060c65d56336",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1292977987,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1292977987,
+    "wof:lastmodified":1537023527,
+    "wof:name":"Maloukou-Bambou",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47833,
+    -4.1225,
+    15.47833,
+    -4.1225
+],
+  "geometry": {"coordinates":[15.47833,-4.1225],"type":"Point"}
+}

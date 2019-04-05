@@ -1,0 +1,67 @@
+{
+  "id": 1344050959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.16583,1.57583,15.16583,1.57583",
+    "geom:latitude":1.57583,
+    "geom:longitude":15.16583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Minguila",
+    "gn:country_code":"CG",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565624,
+    "gn:latitude":1.57583,
+    "gn:longitude":15.16583,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Minguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565624
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"c6ed02e57aac286a317eccea04b0dbfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1344050959,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1344050959,
+    "wof:lastmodified":1536888947,
+    "wof:name":"Minguila",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.16583,
+    1.57583,
+    15.16583,
+    1.57583
+],
+  "geometry": {"coordinates":[15.16583,1.57583],"type":"Point"}
+}

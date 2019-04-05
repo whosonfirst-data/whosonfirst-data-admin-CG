@@ -1,0 +1,72 @@
+{
+  "id": 1243064945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.33472,-2.35056,15.33472,-2.35056",
+    "geom:latitude":-2.35056,
+    "geom:longitude":15.33472,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Nsa",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256069,
+    "gn:latitude":-2.35056,
+    "gn:longitude":15.33472,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Nsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nsah",
+        "Nsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256069
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8e94e55f2d1a73a395ef725507c53d3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1243064945,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243064945,
+    "wof:lastmodified":1537590662,
+    "wof:name":"Nsa",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.33472,
+    -2.35056,
+    15.33472,
+    -2.35056
+],
+  "geometry": {"coordinates":[15.33472,-2.35056],"type":"Point"}
+}

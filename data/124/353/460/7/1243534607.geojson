@@ -1,0 +1,72 @@
+{
+  "id": 1243534607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.22361,-4.29583,15.22361,-4.29583",
+    "geom:latitude":-4.29583,
+    "geom:longitude":15.22361,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bacongo",
+    "gn:country_code":"CG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261170,
+    "gn:latitude":-4.29583,
+    "gn:longitude":15.22361,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Bacongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village Bacongo",
+        "Baoongo",
+        "Bacongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670067,
+        1092012549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261170
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"dfc8b38500d3da7813a87f85e95b9101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012549,
+            "locality_id":1243534607,
+            "region_id":85670067
+        }
+    ],
+    "wof:id":1243534607,
+    "wof:lastmodified":1537590725,
+    "wof:name":"Bacongo",
+    "wof:parent_id":1092012549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.22361,
+    -4.29583,
+    15.22361,
+    -4.29583
+],
+  "geometry": {"coordinates":[15.22361,-4.29583],"type":"Point"}
+}

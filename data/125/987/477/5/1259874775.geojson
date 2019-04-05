@@ -1,0 +1,67 @@
+{
+  "id": 1259874775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.09083,1.59222,15.09083,1.59222",
+    "geom:latitude":1.59222,
+    "geom:longitude":15.09083,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Dakar-Komo",
+    "gn:country_code":"CG",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565627,
+    "gn:latitude":1.59222,
+    "gn:longitude":15.09083,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Dakar-Komo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565627
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e53a090d793237e9c8d642834df0d836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013991,
+            "locality_id":1259874775,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1259874775,
+    "wof:lastmodified":1536792097,
+    "wof:name":"Dakar-Komo",
+    "wof:parent_id":1092013991,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.09083,
+    1.59222,
+    15.09083,
+    1.59222
+],
+  "geometry": {"coordinates":[15.09083,1.59222],"type":"Point"}
+}

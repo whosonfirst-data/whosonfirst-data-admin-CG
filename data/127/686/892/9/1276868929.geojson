@@ -1,0 +1,67 @@
+{
+  "id": 1276868929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.22611,-2.56528,12.22611,-2.56528",
+    "geom:latitude":-2.56528,
+    "geom:longitude":12.22611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kandsi",
+    "gn:country_code":"CG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259435,
+    "gn:latitude":-2.56528,
+    "gn:longitude":12.22611,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Kandsi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259435
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8044827558558f5da73a476b5cdbf202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013271,
+            "locality_id":1276868929,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1276868929,
+    "wof:lastmodified":1537053553,
+    "wof:name":"Kandsi",
+    "wof:parent_id":1092013271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.22611,
+    -2.56528,
+    12.22611,
+    -2.56528
+],
+  "geometry": {"coordinates":[12.22611,-2.56528],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360064217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.66333,0.55944,14.66333,0.55944",
+    "geom:latitude":0.55944,
+    "geom:longitude":14.66333,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Lekoli",
+    "gn:country_code":"CG",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565896,
+    "gn:latitude":0.55944,
+    "gn:longitude":14.66333,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"L\u00e9koli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565896
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e93a85694c6532e58489e20ac5b923f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012673,
+            "locality_id":1360064217,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1360064217,
+    "wof:lastmodified":1536975327,
+    "wof:name":"Lekoli",
+    "wof:parent_id":1092012673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.66333,
+    0.55944,
+    14.66333,
+    0.55944
+],
+  "geometry": {"coordinates":[14.66333,0.55944],"type":"Point"}
+}

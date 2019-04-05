@@ -1,0 +1,67 @@
+{
+  "id": 1309889485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.82583,1.55139,15.82583,1.55139",
+    "geom:latitude":1.55139,
+    "geom:longitude":15.82583,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Assoumoundele",
+    "gn:country_code":"CG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565610,
+    "gn:latitude":1.55139,
+    "gn:longitude":15.82583,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Assoumound\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565610
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"148a74ae0779c778aab3d26884ced1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1309889485,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1309889485,
+    "wof:lastmodified":1536810063,
+    "wof:name":"Assoumoundele",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.82583,
+    1.55139,
+    15.82583,
+    1.55139
+],
+  "geometry": {"coordinates":[15.82583,1.55139],"type":"Point"}
+}

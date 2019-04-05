@@ -1,0 +1,73 @@
+{
+  "id": 1276419871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.66889,0.04222,15.66889,0.04222",
+    "geom:latitude":0.04222,
+    "geom:longitude":15.66889,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Vouma",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2254935,
+    "gn:latitude":0.04222,
+    "gn:longitude":15.66889,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Vouma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Voumanboko",
+        "Voumamboko",
+        "Vouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2254935
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0ec0374d3d2c9bcf2f0469777b53735b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1276419871,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276419871,
+    "wof:lastmodified":1537590643,
+    "wof:name":"Vouma",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.66889,
+    0.04222,
+    15.66889,
+    0.04222
+],
+  "geometry": {"coordinates":[15.66889,0.04222],"type":"Point"}
+}

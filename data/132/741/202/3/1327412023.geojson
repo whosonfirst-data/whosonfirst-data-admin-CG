@@ -1,0 +1,67 @@
+{
+  "id": 1327412023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16667,-3.21667,16.16667,-3.21667",
+    "geom:latitude":-3.21667,
+    "geom:longitude":16.16667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Imfoumbi",
+    "gn:country_code":"CG",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259663,
+    "gn:latitude":-3.21667,
+    "gn:longitude":16.16667,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Imfoumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259663
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ee606e3b525646f3739fe566fba49cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013867,
+            "locality_id":1327412023,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1327412023,
+    "wof:lastmodified":1536710546,
+    "wof:name":"Imfoumbi",
+    "wof:parent_id":1092013867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16667,
+    -3.21667,
+    16.16667,
+    -3.21667
+],
+  "geometry": {"coordinates":[16.16667,-3.21667],"type":"Point"}
+}

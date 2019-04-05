@@ -1,0 +1,72 @@
+{
+  "id": 1276962793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.11722,1.84694,16.11722,1.84694",
+    "geom:latitude":1.84694,
+    "geom:longitude":16.11722,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bakendje",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261147,
+    "gn:latitude":1.84694,
+    "gn:longitude":16.11722,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Bakendje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakendz\u00e9",
+        "Bakendje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261147
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e191235814cdd7dbec166fa7759e9c2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1276962793,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1276962793,
+    "wof:lastmodified":1537590724,
+    "wof:name":"Bakendje",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.11722,
+    1.84694,
+    16.11722,
+    1.84694
+],
+  "geometry": {"coordinates":[16.11722,1.84694],"type":"Point"}
+}

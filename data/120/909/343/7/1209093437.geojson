@@ -1,0 +1,65 @@
+{
+  "id": 1209093437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.10389,-4.33556,15.10389,-4.33556",
+    "geom:latitude":-4.33556,
+    "geom:longitude":15.10389,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Makana",
+    "gn:country_code":"CG",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257913,
+    "gn:latitude":-4.33556,
+    "gn:longitude":15.10389,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Makana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makana I",
+        "Makana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257913
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8ebd981179a9d4417b8903e3d4d8a752",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209093437
+        }
+    ],
+    "wof:id":1209093437,
+    "wof:lastmodified":1537590683,
+    "wof:name":"Makana",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.10389,
+    -4.33556,
+    15.10389,
+    -4.33556
+],
+  "geometry": {"coordinates":[15.10389,-4.33556],"type":"Point"}
+}

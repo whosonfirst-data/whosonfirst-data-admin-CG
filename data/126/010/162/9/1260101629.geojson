@@ -1,0 +1,67 @@
+{
+  "id": 1260101629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.25,-4.45,13.25,-4.45",
+    "geom:latitude":-4.45,
+    "geom:longitude":13.25,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kidounga",
+    "gn:country_code":"CG",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259269,
+    "gn:latitude":-4.45,
+    "gn:longitude":13.25,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Kidounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259269
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"db82ba642016c87207e27ab6b759fcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013363,
+            "locality_id":1260101629,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1260101629,
+    "wof:lastmodified":1536961887,
+    "wof:name":"Kidounga",
+    "wof:parent_id":1092013363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.25,
+    -4.45,
+    13.25,
+    -4.45
+],
+  "geometry": {"coordinates":[13.25,-4.45],"type":"Point"}
+}

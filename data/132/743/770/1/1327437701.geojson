@@ -1,0 +1,67 @@
+{
+  "id": 1327437701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.83028,-4.68056,11.83028,-4.68056",
+    "geom:latitude":-4.68056,
+    "geom:longitude":11.83028,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lemba",
+    "gn:country_code":"CG",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258528,
+    "gn:latitude":-4.68056,
+    "gn:longitude":11.83028,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Lemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258528
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"35c1ffaa40059696ab6a21f49f30a5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1327437701,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1327437701,
+    "wof:lastmodified":1536673066,
+    "wof:name":"Lemba",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.83028,
+    -4.68056,
+    11.83028,
+    -4.68056
+],
+  "geometry": {"coordinates":[11.83028,-4.68056],"type":"Point"}
+}

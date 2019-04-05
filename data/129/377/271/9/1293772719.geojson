@@ -1,0 +1,77 @@
+{
+  "id": 1293772719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.13219,2.05966,14.13219,2.05966",
+    "geom:latitude":2.05966,
+    "geom:longitude":14.13219,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Souanke",
+    "gn:country_code":"CG",
+    "gn:dem":556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255244,
+    "gn:latitude":2.05966,
+    "gn:longitude":14.13219,
+    "gn:modification_date":"2013-05-09",
+    "gn:name":"Souank\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Souank\u00e9"
+    ],
+    "name:und_x_variant":[
+        "Suangu\u00e9",
+        "Zouank\u00e9",
+        "Souanke-Semne",
+        "Souank\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255244,
+        "wk:page":"Souank%C3%A9"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"e82ec5a4a3ff6a8b0f0fc10eb0888747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013993,
+            "locality_id":1293772719,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1293772719,
+    "wof:lastmodified":1537590648,
+    "wof:name":"Souanke",
+    "wof:parent_id":1092013993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.13219,
+    2.05966,
+    14.13219,
+    2.05966
+],
+  "geometry": {"coordinates":[14.13219,2.05966],"type":"Point"}
+}

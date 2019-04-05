@@ -1,0 +1,67 @@
+{
+  "id": 1360089713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.24389,-3.31222,13.24389,-3.31222",
+    "geom:latitude":-3.31222,
+    "geom:longitude":13.24389,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Osiba",
+    "gn:country_code":"CG",
+    "gn:dem":454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568774,
+    "gn:latitude":-3.31222,
+    "gn:longitude":13.24389,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Osiba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568774
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a9af4247fbeecd8d1dd0766050eb3d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1360089713,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1360089713,
+    "wof:lastmodified":1536939671,
+    "wof:name":"Osiba",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.24389,
+    -3.31222,
+    13.24389,
+    -3.31222
+],
+  "geometry": {"coordinates":[13.24389,-3.31222],"type":"Point"}
+}

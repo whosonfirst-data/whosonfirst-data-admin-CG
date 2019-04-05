@@ -1,0 +1,71 @@
+{
+  "id": 1259763339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.0325,-4.35028,15.0325,-4.35028",
+    "geom:latitude":-4.35028,
+    "geom:longitude":15.0325,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Pote",
+    "gn:country_code":"CG",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255399,
+    "gn:latitude":-4.35028,
+    "gn:longitude":15.0325,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Pot\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poti",
+        "Pot\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255399
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1954c4c448134981479a5bc8a378b919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1259763339,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1259763339,
+    "wof:lastmodified":1537590649,
+    "wof:name":"Pote",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.0325,
+    -4.35028,
+    15.0325,
+    -4.35028
+],
+  "geometry": {"coordinates":[15.0325,-4.35028],"type":"Point"}
+}

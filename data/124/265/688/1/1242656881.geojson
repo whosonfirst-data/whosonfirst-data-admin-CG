@@ -1,0 +1,67 @@
+{
+  "id": 1242656881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.53611,-1.66111,14.53611,-1.66111",
+    "geom:latitude":-1.66111,
+    "geom:longitude":14.53611,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mbouomo",
+    "gn:country_code":"CG",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257309,
+    "gn:latitude":-1.66111,
+    "gn:longitude":14.53611,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Mbouomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257309
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3ba2e77d1a39b26a163a7782c811b2b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1242656881,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1242656881,
+    "wof:lastmodified":1536949948,
+    "wof:name":"Mbouomo",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.53611,
+    -1.66111,
+    14.53611,
+    -1.66111
+],
+  "geometry": {"coordinates":[14.53611,-1.66111],"type":"Point"}
+}

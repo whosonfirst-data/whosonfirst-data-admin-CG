@@ -1,0 +1,67 @@
+{
+  "id": 1344143113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.06028,-1.39556,15.06028,-1.39556",
+    "geom:latitude":-1.39556,
+    "geom:longitude":15.06028,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Lebala",
+    "gn:country_code":"CG",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258636,
+    "gn:latitude":-1.39556,
+    "gn:longitude":15.06028,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"L\u00e9bala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258636
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6be6c8fa96a2c0921b2edef1d56ae487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012809,
+            "locality_id":1344143113,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1344143113,
+    "wof:lastmodified":1536756460,
+    "wof:name":"Lebala",
+    "wof:parent_id":1092012809,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.06028,
+    -1.39556,
+    15.06028,
+    -1.39556
+],
+  "geometry": {"coordinates":[15.06028,-1.39556],"type":"Point"}
+}

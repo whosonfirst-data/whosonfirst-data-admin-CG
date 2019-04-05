@@ -1,0 +1,67 @@
+{
+  "id": 1310106275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.67222,-3.99472,11.67222,-3.99472",
+    "geom:latitude":-3.99472,
+    "geom:longitude":11.67222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Loubanguila",
+    "gn:country_code":"CG",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258278,
+    "gn:latitude":-3.99472,
+    "gn:longitude":11.67222,
+    "gn:modification_date":"1995-08-01",
+    "gn:name":"Loubanguila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        1092012923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258278
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1a3c800df950d6c5dd8591f86471cb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012923,
+            "locality_id":1310106275,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1310106275,
+    "wof:lastmodified":1536994555,
+    "wof:name":"Loubanguila",
+    "wof:parent_id":1092012923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.67222,
+    -3.99472,
+    11.67222,
+    -3.99472
+],
+  "geometry": {"coordinates":[11.67222,-3.99472],"type":"Point"}
+}

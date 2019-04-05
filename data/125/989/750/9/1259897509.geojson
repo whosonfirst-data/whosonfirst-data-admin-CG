@@ -1,0 +1,67 @@
+{
+  "id": 1259897509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.2875,-3.90583,14.2875,-3.90583",
+    "geom:latitude":-3.90583,
+    "geom:longitude":14.2875,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Moazenge",
+    "gn:country_code":"CG",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257054,
+    "gn:latitude":-3.90583,
+    "gn:longitude":14.2875,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Moazeng\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257054
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3396a95c82d4021cd03b4630c94111ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012519,
+            "locality_id":1259897509,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1259897509,
+    "wof:lastmodified":1536759079,
+    "wof:name":"Moazenge",
+    "wof:parent_id":1092012519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.2875,
+    -3.90583,
+    14.2875,
+    -3.90583
+],
+  "geometry": {"coordinates":[14.2875,-3.90583],"type":"Point"}
+}

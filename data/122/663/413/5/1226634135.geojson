@@ -1,0 +1,67 @@
+{
+  "id": 1226634135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.38389,-3.57917,14.38389,-3.57917",
+    "geom:latitude":-3.57917,
+    "geom:longitude":14.38389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Basongila",
+    "gn:country_code":"CG",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261004,
+    "gn:latitude":-3.57917,
+    "gn:longitude":14.38389,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Basongila",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261004
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"46e5b544b34ac63aa800d44bc0eb8598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1226634135,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226634135,
+    "wof:lastmodified":1536875291,
+    "wof:name":"Basongila",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.38389,
+    -3.57917,
+    14.38389,
+    -3.57917
+],
+  "geometry": {"coordinates":[14.38389,-3.57917],"type":"Point"}
+}

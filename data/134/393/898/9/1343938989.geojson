@@ -1,0 +1,67 @@
+{
+  "id": 1343938989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.59472,-4.56639,14.59472,-4.56639",
+    "geom:latitude":-4.56639,
+    "geom:longitude":14.59472,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbiedi II",
+    "gn:country_code":"CG",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257397,
+    "gn:latitude":-4.56639,
+    "gn:longitude":14.59472,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mbi\u00e9di II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257397
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3cd1cd3d30ef39e277f8dfa00339aade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1343938989,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343938989,
+    "wof:lastmodified":1537048985,
+    "wof:name":"Mbiedi II",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.59472,
+    -4.56639,
+    14.59472,
+    -4.56639
+],
+  "geometry": {"coordinates":[14.59472,-4.56639],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326908573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.72389,-4.48556,14.72389,-4.48556",
+    "geom:latitude":-4.48556,
+    "geom:longitude":14.72389,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mbeho",
+    "gn:country_code":"CG",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257423,
+    "gn:latitude":-4.48556,
+    "gn:longitude":14.72389,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mb\u00e9ho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257423
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5a14a0819d4db8bdcc0569d34e53355f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013685,
+            "locality_id":1326908573,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1326908573,
+    "wof:lastmodified":1536939643,
+    "wof:name":"Mbeho",
+    "wof:parent_id":1092013685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.72389,
+    -4.48556,
+    14.72389,
+    -4.48556
+],
+  "geometry": {"coordinates":[14.72389,-4.48556],"type":"Point"}
+}

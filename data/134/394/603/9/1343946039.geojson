@@ -1,0 +1,67 @@
+{
+  "id": 1343946039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.40889,-3.82056,14.40889,-3.82056",
+    "geom:latitude":-3.82056,
+    "geom:longitude":14.40889,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Mankisa",
+    "gn:country_code":"CG",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257695,
+    "gn:latitude":-3.82056,
+    "gn:longitude":14.40889,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Mankisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257695
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a285d9d046205ced991297ee6328cc47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1343946039,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343946039,
+    "wof:lastmodified":1537039178,
+    "wof:name":"Mankisa",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.40889,
+    -3.82056,
+    14.40889,
+    -3.82056
+],
+  "geometry": {"coordinates":[14.40889,-3.82056],"type":"Point"}
+}

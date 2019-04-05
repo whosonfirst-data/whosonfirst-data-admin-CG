@@ -1,0 +1,67 @@
+{
+  "id": 1310083899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.49639,-3.32389,14.49639,-3.32389",
+    "geom:latitude":-3.32389,
+    "geom:longitude":14.49639,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Moungoueri",
+    "gn:country_code":"CG",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2256727,
+    "gn:latitude":-3.32389,
+    "gn:longitude":14.49639,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"Moungou\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2256727
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ec4bab6fa444c05fb7a8cb31d2a454ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013729,
+            "locality_id":1310083899,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1310083899,
+    "wof:lastmodified":1537026526,
+    "wof:name":"Moungoueri",
+    "wof:parent_id":1092013729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.49639,
+    -3.32389,
+    14.49639,
+    -3.32389
+],
+  "geometry": {"coordinates":[14.49639,-3.32389],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259884693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.41889,-3.15889,13.41889,-3.15889",
+    "geom:latitude":-3.15889,
+    "geom:longitude":13.41889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Tsieke",
+    "gn:country_code":"CG",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255002,
+    "gn:latitude":-3.15889,
+    "gn:longitude":13.41889,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Tsi\u00e9k\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255002
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5b958d77727894161fa68cd09ed2c0b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013021,
+            "locality_id":1259884693,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1259884693,
+    "wof:lastmodified":1536777887,
+    "wof:name":"Tsieke",
+    "wof:parent_id":1092013021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.41889,
+    -3.15889,
+    13.41889,
+    -3.15889
+],
+  "geometry": {"coordinates":[13.41889,-3.15889],"type":"Point"}
+}

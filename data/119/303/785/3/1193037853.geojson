@@ -1,0 +1,67 @@
+{
+  "id": 1193037853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.71861,-2.04861,14.71861,-2.04861",
+    "geom:latitude":-2.04861,
+    "geom:longitude":14.71861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Otsalaka",
+    "gn:country_code":"CG",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255598,
+    "gn:latitude":-2.04861,
+    "gn:longitude":14.71861,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Otsalaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255598
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ff8f12b7140765c8e44a4867b28b2907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1193037853,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1193037853,
+    "wof:lastmodified":1536379110,
+    "wof:name":"Otsalaka",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.71861,
+    -2.04861,
+    14.71861,
+    -2.04861
+],
+  "geometry": {"coordinates":[14.71861,-2.04861],"type":"Point"}
+}

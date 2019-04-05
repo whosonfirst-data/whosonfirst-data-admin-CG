@@ -1,0 +1,71 @@
+{
+  "id": 1259366321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.91861,-0.24139,14.91861,-0.24139",
+    "geom:latitude":-0.24139,
+    "geom:longitude":14.91861,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Okeka",
+    "gn:country_code":"CG",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255834,
+    "gn:latitude":-0.24139,
+    "gn:longitude":14.91861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ok\u00e9ka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ok\u00e9la",
+        "Ok\u00e9ka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255834
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"61c38c346593959467ce9b4ab16bfb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1259366321,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1259366321,
+    "wof:lastmodified":1537590657,
+    "wof:name":"Okeka",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.91861,
+    -0.24139,
+    14.91861,
+    -0.24139
+],
+  "geometry": {"coordinates":[14.91861,-0.24139],"type":"Point"}
+}

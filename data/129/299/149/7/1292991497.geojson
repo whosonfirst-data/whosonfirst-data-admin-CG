@@ -1,0 +1,71 @@
+{
+  "id": 1292991497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53861,-0.97139,15.53861,-0.97139",
+    "geom:latitude":-0.97139,
+    "geom:longitude":15.53861,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Boka",
+    "gn:country_code":"CG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260791,
+    "gn:latitude":-0.97139,
+    "gn:longitude":15.53861,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Boka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boko",
+        "Boka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260791
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"b540e687b9ac4dbcf813a93f9da77e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013489,
+            "locality_id":1292991497,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1292991497,
+    "wof:lastmodified":1537590720,
+    "wof:name":"Boka",
+    "wof:parent_id":1092013489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53861,
+    -0.97139,
+    15.53861,
+    -0.97139
+],
+  "geometry": {"coordinates":[15.53861,-0.97139],"type":"Point"}
+}

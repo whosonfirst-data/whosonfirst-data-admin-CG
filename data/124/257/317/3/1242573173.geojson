@@ -1,0 +1,72 @@
+{
+  "id": 1242573173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.53278,1.57472,15.53278,1.57472",
+    "geom:latitude":1.57472,
+    "geom:longitude":15.53278,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Zoulabout",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2565617,
+    "gn:latitude":1.57472,
+    "gn:longitude":15.53278,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Zoulabout",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nzoulabout",
+        "Zoulabout"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670035,
+        1092013943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2565617
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"a52645b70178d49a3b8fc20c5d86f100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013943,
+            "locality_id":1242573173,
+            "region_id":85670035
+        }
+    ],
+    "wof:id":1242573173,
+    "wof:lastmodified":1537590729,
+    "wof:name":"Zoulabout",
+    "wof:parent_id":1092013943,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.53278,
+    1.57472,
+    15.53278,
+    1.57472
+],
+  "geometry": {"coordinates":[15.53278,1.57472],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259963191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.70417,-0.02389,14.70417,-0.02389",
+    "geom:latitude":-0.02389,
+    "geom:longitude":14.70417,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Alieni I",
+    "gn:country_code":"CG",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568182,
+    "gn:latitude":-0.02389,
+    "gn:longitude":14.70417,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Ali\u00e9ni I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568182
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"eecb1d126c9bf661692cdb9cacfb35e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1259963191,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1259963191,
+    "wof:lastmodified":1536664412,
+    "wof:name":"Alieni I",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.70417,
+    -0.02389,
+    14.70417,
+    -0.02389
+],
+  "geometry": {"coordinates":[14.70417,-0.02389],"type":"Point"}
+}

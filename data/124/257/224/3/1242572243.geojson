@@ -1,0 +1,67 @@
+{
+  "id": 1242572243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.86639,-3.06556,12.86639,-3.06556",
+    "geom:latitude":-3.06556,
+    "geom:longitude":12.86639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Matadi II",
+    "gn:country_code":"CG",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569024,
+    "gn:latitude":-3.06556,
+    "gn:longitude":12.86639,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Matadi II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569024
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d3600bf8c6ae55ee5cbe6d187c1bbebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1242572243,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1242572243,
+    "wof:lastmodified":1537068427,
+    "wof:name":"Matadi II",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.86639,
+    -3.06556,
+    12.86639,
+    -3.06556
+],
+  "geometry": {"coordinates":[12.86639,-3.06556],"type":"Point"}
+}

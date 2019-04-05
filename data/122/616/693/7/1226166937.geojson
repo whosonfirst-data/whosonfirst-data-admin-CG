@@ -1,0 +1,67 @@
+{
+  "id": 1226166937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.10389,-4.90111,12.10389,-4.90111",
+    "geom:latitude":-4.90111,
+    "geom:longitude":12.10389,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Masende",
+    "gn:country_code":"CG",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567114,
+    "gn:latitude":-4.90111,
+    "gn:longitude":12.10389,
+    "gn:modification_date":"1995-08-24",
+    "gn:name":"Masend\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567114
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2953e9609d1d4673eeb8731a88aaa2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1226166937,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1226166937,
+    "wof:lastmodified":1537045273,
+    "wof:name":"Masende",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.10389,
+    -4.90111,
+    12.10389,
+    -4.90111
+],
+  "geometry": {"coordinates":[12.10389,-4.90111],"type":"Point"}
+}

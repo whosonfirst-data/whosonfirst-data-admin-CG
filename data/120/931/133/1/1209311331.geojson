@@ -1,0 +1,61 @@
+{
+  "id": 1209311331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.0875,-1.81472,16.0875,-1.81472",
+    "geom:latitude":-1.81472,
+    "geom:longitude":16.0875,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Onpouana",
+    "gn:country_code":"CG",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568312,
+    "gn:latitude":-1.81472,
+    "gn:longitude":16.0875,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Onpouana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568312
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"122f60bce1f4b0f1cf699346c7bb7175",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209311331
+        }
+    ],
+    "wof:id":1209311331,
+    "wof:lastmodified":1536291018,
+    "wof:name":"Onpouana",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.0875,
+    -1.81472,
+    16.0875,
+    -1.81472
+],
+  "geometry": {"coordinates":[16.0875,-1.81472],"type":"Point"}
+}

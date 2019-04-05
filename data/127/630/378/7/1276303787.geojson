@@ -1,0 +1,67 @@
+{
+  "id": 1276303787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.03639,-0.65778,15.03639,-0.65778",
+    "geom:latitude":-0.65778,
+    "geom:longitude":15.03639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Etoumi",
+    "gn:country_code":"CG",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260013,
+    "gn:latitude":-0.65778,
+    "gn:longitude":15.03639,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Etoumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260013
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"93a2c0b6817f7b44820bc545759457c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012715,
+            "locality_id":1276303787,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1276303787,
+    "wof:lastmodified":1536817551,
+    "wof:name":"Etoumi",
+    "wof:parent_id":1092012715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.03639,
+    -0.65778,
+    15.03639,
+    -0.65778
+],
+  "geometry": {"coordinates":[15.03639,-0.65778],"type":"Point"}
+}

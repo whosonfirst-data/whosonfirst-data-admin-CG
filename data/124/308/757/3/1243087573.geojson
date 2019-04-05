@@ -1,0 +1,67 @@
+{
+  "id": 1243087573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.16833,-2.51583,16.16833,-2.51583",
+    "geom:latitude":-2.51583,
+    "geom:longitude":16.16833,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Vono",
+    "gn:country_code":"CG",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569144,
+    "gn:latitude":-2.51583,
+    "gn:longitude":16.16833,
+    "gn:modification_date":"1995-10-04",
+    "gn:name":"Vono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569144
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"178c43b5fc349b60044ba0cfb07add58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1243087573,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1243087573,
+    "wof:lastmodified":1536824955,
+    "wof:name":"Vono",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.16832999999999,
+    -2.51583,
+    16.16832999999999,
+    -2.51583
+],
+  "geometry": {"coordinates":[16.16832999999999,-2.51583],"type":"Point"}
+}

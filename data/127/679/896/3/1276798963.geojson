@@ -1,0 +1,67 @@
+{
+  "id": 1276798963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89333,-3.07722,13.89333,-3.07722",
+    "geom:latitude":-3.07722,
+    "geom:longitude":13.89333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Lekele",
+    "gn:country_code":"CG",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258567,
+    "gn:latitude":-3.07722,
+    "gn:longitude":13.89333,
+    "gn:modification_date":"1995-11-03",
+    "gn:name":"L\u00e9k\u00e9l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258567
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"5f0e7a8634548ec0b311e9984c5ce06b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013109,
+            "locality_id":1276798963,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1276798963,
+    "wof:lastmodified":1536651907,
+    "wof:name":"Lekele",
+    "wof:parent_id":1092013109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89333,
+    -3.07722,
+    13.89333,
+    -3.07722
+],
+  "geometry": {"coordinates":[13.89333,-3.07722],"type":"Point"}
+}

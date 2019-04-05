@@ -1,0 +1,72 @@
+{
+  "id": 1226060603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.63917,-4.70778,13.63917,-4.70778",
+    "geom:latitude":-4.70778,
+    "geom:longitude":13.63917,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kitidi-Tounga",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257670,
+    "gn:latitude":-4.70778,
+    "gn:longitude":13.63917,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kitidi-Tounga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manzaou",
+        "Kitidi-Tounga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257670
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8688885b4dae50f16caae81bcf55bf6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012377,
+            "locality_id":1226060603,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1226060603,
+    "wof:lastmodified":1537590680,
+    "wof:name":"Kitidi-Tounga",
+    "wof:parent_id":1092012377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.63917,
+    -4.70778,
+    13.63917,
+    -4.70778
+],
+  "geometry": {"coordinates":[13.63917,-4.70778],"type":"Point"}
+}

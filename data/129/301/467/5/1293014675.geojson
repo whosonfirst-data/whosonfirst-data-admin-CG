@@ -1,0 +1,67 @@
+{
+  "id": 1293014675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.57972,-4.53306,13.57972,-4.53306",
+    "geom:latitude":-4.53306,
+    "geom:longitude":13.57972,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mankala",
+    "gn:country_code":"CG",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257702,
+    "gn:latitude":-4.53306,
+    "gn:longitude":13.57972,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mankala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257702
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1d706da921bba29337e263f99a53abcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012377,
+            "locality_id":1293014675,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1293014675,
+    "wof:lastmodified":1536971217,
+    "wof:name":"Mankala",
+    "wof:parent_id":1092012377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.57972,
+    -4.53306,
+    13.57972,
+    -4.53306
+],
+  "geometry": {"coordinates":[13.57972,-4.53306],"type":"Point"}
+}

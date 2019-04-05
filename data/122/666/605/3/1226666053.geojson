@@ -1,0 +1,72 @@
+{
+  "id": 1226666053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.47222,-2.19222,15.47222,-2.19222",
+    "geom:latitude":-2.19222,
+    "geom:longitude":15.47222,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Gounantsio",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259814,
+    "gn:latitude":-2.19222,
+    "gn:longitude":15.47222,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gounantsio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gounatsio",
+        "Gounantsio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259814
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"ef295ee36f40849fa370472b6e56732c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013571,
+            "locality_id":1226666053,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226666053,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Gounantsio",
+    "wof:parent_id":1092013571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.47222,
+    -2.19222,
+    15.47222,
+    -2.19222
+],
+  "geometry": {"coordinates":[15.47222,-2.19222],"type":"Point"}
+}

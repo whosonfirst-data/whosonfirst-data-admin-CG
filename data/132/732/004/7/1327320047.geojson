@@ -1,0 +1,72 @@
+{
+  "id": 1327320047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.83167,0.0075,15.83167,0.0075",
+    "geom:latitude":0.0075,
+    "geom:longitude":15.83167,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Otambo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255616,
+    "gn:latitude":0.0075,
+    "gn:longitude":15.83167,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Otambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Otamba",
+        "Otambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255616
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"acf2092268bf1f95c951d8c441731e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012799,
+            "locality_id":1327320047,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1327320047,
+    "wof:lastmodified":1537590652,
+    "wof:name":"Otambo",
+    "wof:parent_id":1092012799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.83167,
+    0.0075,
+    15.83167,
+    0.0075
+],
+  "geometry": {"coordinates":[15.83167,0.0075],"type":"Point"}
+}

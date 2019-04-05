@@ -1,0 +1,67 @@
+{
+  "id": 1343250057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.99194,-4.36139,13.99194,-4.36139",
+    "geom:latitude":-4.36139,
+    "geom:longitude":13.99194,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Sakala",
+    "gn:country_code":"CG",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255344,
+    "gn:latitude":-4.36139,
+    "gn:longitude":13.99194,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Sakala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255344
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fec2ff0f8e0d0efe1c3b7f233b82ecce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013827,
+            "locality_id":1343250057,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1343250057,
+    "wof:lastmodified":1537047930,
+    "wof:name":"Sakala",
+    "wof:parent_id":1092013827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.99194,
+    -4.36139,
+    13.99194,
+    -4.36139
+],
+  "geometry": {"coordinates":[13.99194,-4.36139],"type":"Point"}
+}

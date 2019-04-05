@@ -1,0 +1,71 @@
+{
+  "id": 1226319721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.76889,-3.975,15.76889,-3.975",
+    "geom:latitude":-3.975,
+    "geom:longitude":15.76889,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Bakoula",
+    "gn:country_code":"CG",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261141,
+    "gn:latitude":-3.975,
+    "gn:longitude":15.76889,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Bakoula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakava",
+        "Bakoula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261141
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"246c0c6e55e91c1d8b4716b94083a9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013899,
+            "locality_id":1226319721,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1226319721,
+    "wof:lastmodified":1537590724,
+    "wof:name":"Bakoula",
+    "wof:parent_id":1092013899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.76889,
+    -3.975,
+    15.76889,
+    -3.975
+],
+  "geometry": {"coordinates":[15.76889,-3.975],"type":"Point"}
+}

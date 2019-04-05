@@ -1,0 +1,61 @@
+{
+  "id": 1209696023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.1,-4.1,15.1,-4.1",
+    "geom:latitude":-4.1,
+    "geom:longitude":15.1,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Loumou",
+    "gn:country_code":"CG",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258120,
+    "gn:latitude":-4.1,
+    "gn:longitude":15.1,
+    "gn:modification_date":"2014-03-06",
+    "gn:name":"Loumou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258120
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"610ac841b8b39fa5f1199092194537ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209696023
+        }
+    ],
+    "wof:id":1209696023,
+    "wof:lastmodified":1536279072,
+    "wof:name":"Loumou",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.1,
+    -4.1,
+    15.1,
+    -4.1
+],
+  "geometry": {"coordinates":[15.1,-4.1],"type":"Point"}
+}

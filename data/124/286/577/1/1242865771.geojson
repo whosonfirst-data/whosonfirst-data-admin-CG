@@ -1,0 +1,67 @@
+{
+  "id": 1242865771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.76639,-2.42111,11.76639,-2.42111",
+    "geom:latitude":-2.42111,
+    "geom:longitude":11.76639,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Itinou-Simboula",
+    "gn:country_code":"CG",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259507,
+    "gn:latitude":-2.42111,
+    "gn:longitude":11.76639,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Itinou-Simboula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632407,
+        85671249,
+        1091909833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259507
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"58e5ee227979f2de61ea65653468a8dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632407,
+            "county_id":1091909833,
+            "locality_id":1242865771,
+            "region_id":85671249
+        }
+    ],
+    "wof:id":1242865771,
+    "wof:lastmodified":1536648268,
+    "wof:name":"Itinou-Simboula",
+    "wof:parent_id":1091909833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.76639,
+    -2.42111,
+    11.76639,
+    -2.42111
+],
+  "geometry": {"coordinates":[11.76639,-2.42111],"type":"Point"}
+}

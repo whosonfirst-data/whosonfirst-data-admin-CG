@@ -1,0 +1,67 @@
+{
+  "id": 1293677363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.03111,-3.18167,16.03111,-3.18167",
+    "geom:latitude":-3.18167,
+    "geom:longitude":16.03111,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Okiene",
+    "gn:country_code":"CG",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255823,
+    "gn:latitude":-3.18167,
+    "gn:longitude":16.03111,
+    "gn:modification_date":"1995-09-25",
+    "gn:name":"Oki\u00e9n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670041,
+        1092013867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255823
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"1f078fcc3b5375a38686cf9d7ed5bc14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013867,
+            "locality_id":1293677363,
+            "region_id":85670041
+        }
+    ],
+    "wof:id":1293677363,
+    "wof:lastmodified":1537009921,
+    "wof:name":"Okiene",
+    "wof:parent_id":1092013867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.03111,
+    -3.18167,
+    16.03111,
+    -3.18167
+],
+  "geometry": {"coordinates":[16.03111,-3.18167],"type":"Point"}
+}

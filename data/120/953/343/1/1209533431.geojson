@@ -1,0 +1,66 @@
+{
+  "id": 1209533431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.89,-3.95278,13.89,-3.95278",
+    "geom:latitude":-3.95278,
+    "geom:longitude":13.89,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kimpeni",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259115,
+    "gn:latitude":-3.95278,
+    "gn:longitude":13.89,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Kimp\u00e9ni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimp\u00e9ri",
+        "Kimp\u00e9ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259115
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"9157a176ccc25031ae66786d491b1b2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209533431
+        }
+    ],
+    "wof:id":1209533431,
+    "wof:lastmodified":1537590695,
+    "wof:name":"Kimpeni",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.89,
+    -3.95278,
+    13.89,
+    -3.95278
+],
+  "geometry": {"coordinates":[13.89,-3.95278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309688609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.36667,-1.36111,16.36667,-1.36111",
+    "geom:latitude":-1.36111,
+    "geom:longitude":16.36667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Esasaka",
+    "gn:country_code":"CG",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568433,
+    "gn:latitude":-1.36111,
+    "gn:longitude":16.36667,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Esasaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568433
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"567b4c5a392062139e4c02119a0a83e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012807,
+            "locality_id":1309688609,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1309688609,
+    "wof:lastmodified":1537096835,
+    "wof:name":"Esasaka",
+    "wof:parent_id":1092012807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.36667000000001,
+    -1.36111,
+    16.36667000000001,
+    -1.36111
+],
+  "geometry": {"coordinates":[16.36667000000001,-1.36111],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1210022693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.94417,-4.6625,11.94417,-4.6625",
+    "geom:latitude":-4.6625,
+    "geom:longitude":11.94417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mengo",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2257279,
+    "gn:latitude":-4.6625,
+    "gn:longitude":11.94417,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Mengo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mingo",
+        "Mengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2257279
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"0f9a09c095e7847eb9600d1e2848e327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1210022693,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1210022693,
+    "wof:lastmodified":1537590675,
+    "wof:name":"Mengo",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.94417,
+    -4.6625,
+    11.94417,
+    -4.6625
+],
+  "geometry": {"coordinates":[11.94417,-4.6625],"type":"Point"}
+}

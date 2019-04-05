@@ -1,0 +1,67 @@
+{
+  "id": 1242695411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.87361,-4.34944,13.87361,-4.34944",
+    "geom:latitude":-4.34944,
+    "geom:longitude":13.87361,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mpanga",
+    "gn:country_code":"CG",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2566768,
+    "gn:latitude":-4.34944,
+    "gn:longitude":13.87361,
+    "gn:modification_date":"1995-07-11",
+    "gn:name":"Mpanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670027,
+        1092012477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2566768
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"051cc1fe214bb56b22a57c26368854f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012477,
+            "locality_id":1242695411,
+            "region_id":85670027
+        }
+    ],
+    "wof:id":1242695411,
+    "wof:lastmodified":1536893812,
+    "wof:name":"Mpanga",
+    "wof:parent_id":1092012477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.87361,
+    -4.34944,
+    13.87361,
+    -4.34944
+],
+  "geometry": {"coordinates":[13.87361,-4.34944],"type":"Point"}
+}

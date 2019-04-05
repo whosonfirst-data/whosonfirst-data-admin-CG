@@ -1,0 +1,67 @@
+{
+  "id": 1343261001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.44444,-3.7825,13.44444,-3.7825",
+    "geom:latitude":-3.7825,
+    "geom:longitude":13.44444,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Pini",
+    "gn:country_code":"CG",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568713,
+    "gn:latitude":-3.7825,
+    "gn:longitude":13.44444,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Pini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670053,
+        1092013067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568713
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"6ba70638adcfdc8d2baf3db02c8f5014",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013067,
+            "locality_id":1343261001,
+            "region_id":85670053
+        }
+    ],
+    "wof:id":1343261001,
+    "wof:lastmodified":1537032695,
+    "wof:name":"Pini",
+    "wof:parent_id":1092013067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.44444,
+    -3.7825,
+    13.44444,
+    -3.7825
+],
+  "geometry": {"coordinates":[13.44444,-3.7825],"type":"Point"}
+}

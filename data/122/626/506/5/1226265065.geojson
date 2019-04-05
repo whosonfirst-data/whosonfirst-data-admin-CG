@@ -1,0 +1,67 @@
+{
+  "id": 1226265065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.80444,-2.495,14.80444,-2.495",
+    "geom:latitude":-2.495,
+    "geom:longitude":14.80444,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Akou",
+    "gn:country_code":"CG",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2261341,
+    "gn:latitude":-2.495,
+    "gn:longitude":14.80444,
+    "gn:modification_date":"1995-11-01",
+    "gn:name":"Akou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2261341
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"380b6f5cf9c30b388f969ce5ea92089a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013529,
+            "locality_id":1226265065,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1226265065,
+    "wof:lastmodified":1536906028,
+    "wof:name":"Akou",
+    "wof:parent_id":1092013529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.80444,
+    -2.495,
+    14.80444,
+    -2.495
+],
+  "geometry": {"coordinates":[14.80444,-2.495],"type":"Point"}
+}

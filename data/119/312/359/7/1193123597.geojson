@@ -1,0 +1,67 @@
+{
+  "id": 1193123597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"16.67056,-1.43167,16.67056,-1.43167",
+    "geom:latitude":-1.43167,
+    "geom:longitude":16.67056,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tsetse",
+    "gn:country_code":"CG",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2569389,
+    "gn:latitude":-1.43167,
+    "gn:longitude":16.67056,
+    "gn:modification_date":"1995-11-15",
+    "gn:name":"Ts\u00e9ts\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2569389
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"101420795205f720344d420a0054e601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012807,
+            "locality_id":1193123597,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1193123597,
+    "wof:lastmodified":1536383335,
+    "wof:name":"Tsetse",
+    "wof:parent_id":1092012807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    16.67056,
+    -1.43167,
+    16.67056,
+    -1.43167
+],
+  "geometry": {"coordinates":[16.67056,-1.43167],"type":"Point"}
+}

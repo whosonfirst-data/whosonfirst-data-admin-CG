@@ -1,0 +1,61 @@
+{
+  "id": 1209095201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.79472,1.30694,15.79472,1.30694",
+    "geom:latitude":1.30694,
+    "geom:longitude":15.79472,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Attention",
+    "gn:country_code":"CG",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2572166,
+    "gn:latitude":1.30694,
+    "gn:longitude":15.79472,
+    "gn:modification_date":"1996-02-13",
+    "gn:name":"Attention",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632541
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2572166
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"8a9558642ba45ac1de487a91b2b8a42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632541,
+            "locality_id":1209095201
+        }
+    ],
+    "wof:id":1209095201,
+    "wof:lastmodified":1536297909,
+    "wof:name":"Attention",
+    "wof:parent_id":85632541,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.794720000000002,
+    1.30694,
+    15.794720000000002,
+    1.30694
+],
+  "geometry": {"coordinates":[15.79472,1.30694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293271435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"15.92639,-0.81389,15.92639,-0.81389",
+    "geom:latitude":-0.81389,
+    "geom:longitude":15.92639,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Oyongo",
+    "gn:country_code":"CG",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2255513,
+    "gn:latitude":-0.81389,
+    "gn:longitude":15.92639,
+    "gn:modification_date":"1995-08-25",
+    "gn:name":"Oyongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670045,
+        1092012853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2255513
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"7b3aa37f36b9e144aae9b0c8efc97dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012853,
+            "locality_id":1293271435,
+            "region_id":85670045
+        }
+    ],
+    "wof:id":1293271435,
+    "wof:lastmodified":1537095310,
+    "wof:name":"Oyongo",
+    "wof:parent_id":1092012853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    15.92639,
+    -0.81389,
+    15.92639,
+    -0.81389
+],
+  "geometry": {"coordinates":[15.92639,-0.81389],"type":"Point"}
+}

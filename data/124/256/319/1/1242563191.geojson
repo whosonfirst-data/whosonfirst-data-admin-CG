@@ -1,0 +1,72 @@
+{
+  "id": 1242563191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.41278,-2.45111,14.41278,-2.45111",
+    "geom:latitude":-2.45111,
+    "geom:longitude":14.41278,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Goulanpika",
+    "gn:cc2":"CG",
+    "gn:country_code":"CG",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2259805,
+    "gn:latitude":-2.45111,
+    "gn:longitude":14.41278,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Goulanpika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goutanpika",
+        "Goulanpika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670063,
+        1092013609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2259805
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"2de8eb52af3e50df5cdfdde79e20fc79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013609,
+            "locality_id":1242563191,
+            "region_id":85670063
+        }
+    ],
+    "wof:id":1242563191,
+    "wof:lastmodified":1537590703,
+    "wof:name":"Goulanpika",
+    "wof:parent_id":1092013609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.41278,
+    -2.45111,
+    14.41278,
+    -2.45111
+],
+  "geometry": {"coordinates":[14.41278,-2.45111],"type":"Point"}
+}

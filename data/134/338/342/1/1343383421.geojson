@@ -1,0 +1,71 @@
+{
+  "id": 1343383421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.51722,3.055,18.51722,3.055",
+    "geom:latitude":3.055,
+    "geom:longitude":18.51722,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Betou",
+    "gn:country_code":"CG",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2260945,
+    "gn:latitude":3.055,
+    "gn:longitude":18.51722,
+    "gn:modification_date":"2017-09-09",
+    "gn:name":"B\u00e9tou",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00e9tou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670031,
+        1092013149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2260945,
+        "wk:page":"B%C3%A9tou"
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"d1a67a731d4bba333c842cd1b4b4a824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013149,
+            "locality_id":1343383421,
+            "region_id":85670031
+        }
+    ],
+    "wof:id":1343383421,
+    "wof:lastmodified":1537590721,
+    "wof:name":"Betou",
+    "wof:parent_id":1092013149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.51722,
+    3.055,
+    18.51722,
+    3.055
+],
+  "geometry": {"coordinates":[18.51722,3.055],"type":"Point"}
+}

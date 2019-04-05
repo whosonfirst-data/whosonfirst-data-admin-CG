@@ -1,0 +1,67 @@
+{
+  "id": 1276205217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.81528,-0.02611,14.81528,-0.02611",
+    "geom:latitude":-0.02611,
+    "geom:longitude":14.81528,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kongho",
+    "gn:country_code":"CG",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2568173,
+    "gn:latitude":-0.02611,
+    "gn:longitude":14.81528,
+    "gn:modification_date":"2009-04-06",
+    "gn:name":"Kongho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670023,
+        1092012631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2568173
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"fd324baabdbb513024d4832464378027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092012631,
+            "locality_id":1276205217,
+            "region_id":85670023
+        }
+    ],
+    "wof:id":1276205217,
+    "wof:lastmodified":1536950955,
+    "wof:name":"Kongho",
+    "wof:parent_id":1092012631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.81528,
+    -0.02611,
+    14.81528,
+    -0.02611
+],
+  "geometry": {"coordinates":[14.81528,-0.02611],"type":"Point"}
+}

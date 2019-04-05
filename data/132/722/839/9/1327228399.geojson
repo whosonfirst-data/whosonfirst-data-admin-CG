@@ -1,0 +1,67 @@
+{
+  "id": 1327228399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.67083,-2.82333,12.67083,-2.82333",
+    "geom:latitude":-2.82333,
+    "geom:longitude":12.67083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Lisandja",
+    "gn:country_code":"CG",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2258396,
+    "gn:latitude":-2.82333,
+    "gn:longitude":12.67083,
+    "gn:modification_date":"1996-01-18",
+    "gn:name":"Lisandja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670059,
+        1092013451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2258396
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"3f931331225dd8056386388908b2ffbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":1092013451,
+            "locality_id":1327228399,
+            "region_id":85670059
+        }
+    ],
+    "wof:id":1327228399,
+    "wof:lastmodified":1536974916,
+    "wof:name":"Lisandja",
+    "wof:parent_id":1092013451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.67083,
+    -2.82333,
+    12.67083,
+    -2.82333
+],
+  "geometry": {"coordinates":[12.67083,-2.82333],"type":"Point"}
+}

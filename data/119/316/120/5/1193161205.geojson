@@ -1,0 +1,67 @@
+{
+  "id": 1193161205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"11.95417,-4.87,11.95417,-4.87",
+    "geom:latitude":-4.87,
+    "geom:longitude":11.95417,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tchilimbi",
+    "gn:country_code":"CG",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2567379,
+    "gn:latitude":-4.87,
+    "gn:longitude":11.95417,
+    "gn:modification_date":"1995-08-03",
+    "gn:name":"Tchilimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Brazzaville",
+    "iso:country":"CG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632541,
+        85670049,
+        421171019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2567379
+    },
+    "wof:country":"CG",
+    "wof:geomhash":"86ef0fd1402f7eabe962003a7cd295cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632541,
+            "county_id":421171019,
+            "locality_id":1193161205,
+            "region_id":85670049
+        }
+    ],
+    "wof:id":1193161205,
+    "wof:lastmodified":1536367545,
+    "wof:name":"Tchilimbi",
+    "wof:parent_id":421171019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-cg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    11.95417,
+    -4.87,
+    11.95417,
+    -4.87
+],
+  "geometry": {"coordinates":[11.95417,-4.87],"type":"Point"}
+}
