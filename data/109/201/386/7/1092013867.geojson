@@ -10,6 +10,12 @@
     "geom:latitude":-3.279012,
     "geom:longitude":15.786522,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Ngab\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.223092,
     "lbl:longitude":15.833651,
     "meso:admin_1":"POOL",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013867,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718029,
     "wof:name":"Ngab\u00e9",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

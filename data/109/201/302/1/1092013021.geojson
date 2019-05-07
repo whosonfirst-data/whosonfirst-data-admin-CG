@@ -10,6 +10,12 @@
     "geom:latitude":-2.915229,
     "geom:longitude":13.314871,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Komono District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.912476,
     "lbl:longitude":13.355342,
     "meso:admin_1":"LEKOUMOU",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013021,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718029,
     "wof:name":"Komono",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

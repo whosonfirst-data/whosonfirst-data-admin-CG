@@ -10,6 +10,12 @@
     "geom:latitude":-4.364587,
     "geom:longitude":12.381627,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mvouti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.385416,
     "lbl:longitude":12.386784,
     "meso:admin_1":"KOUILOU",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013995,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718033,
     "wof:name":"Mvouti",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-3.398454,
     "geom:longitude":15.016202,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mayama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.396484,
     "lbl:longitude":15.009505,
     "meso:admin_1":"POOL",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013787,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718029,
     "wof:name":"Mayama",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

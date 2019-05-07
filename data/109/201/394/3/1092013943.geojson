@@ -10,6 +10,12 @@
     "geom:latitude":1.183884,
     "geom:longitude":16.006232,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Ouesso Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":1.046681,
     "lbl:longitude":16.092657,
     "meso:admin_1":"SANGHA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013943,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718033,
     "wof:name":"Ouesso",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

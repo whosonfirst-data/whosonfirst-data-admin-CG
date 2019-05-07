@@ -10,6 +10,12 @@
     "geom:latitude":-4.787164,
     "geom:longitude":11.871086,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Tchamba Nzassi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.786061,
     "lbl:longitude":11.875494,
     "meso:admin_1":"KOUILOU",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013649,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718029,
     "wof:name":"Tchamba Nzassi",
     "wof:parent_id":85670071,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.71268,
     "geom:longitude":16.625842,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mossaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.930475,
     "lbl:longitude":16.707706,
     "meso:admin_1":"CUVETTE",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012807,
-    "wof:lastmodified":1536615078,
+    "wof:lastmodified":1553718025,
     "wof:name":"Mossaka",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

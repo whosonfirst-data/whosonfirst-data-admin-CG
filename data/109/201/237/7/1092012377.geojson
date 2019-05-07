@@ -10,6 +10,12 @@
     "geom:latitude":-4.511063,
     "geom:longitude":13.541584,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Boko-Songho District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.504055,
     "lbl:longitude":13.545324,
     "meso:admin_1":"BOUENZA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092012377,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718030,
     "wof:name":"Boko-Songho",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-1.45578,
     "geom:longitude":14.743422,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Okoyo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.382294,
     "lbl:longitude":14.749845,
     "meso:admin_1":"CUVETTE OUEST",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012809,
-    "wof:lastmodified":1536615078,
+    "wof:lastmodified":1553718031,
     "wof:name":"Okoyo",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

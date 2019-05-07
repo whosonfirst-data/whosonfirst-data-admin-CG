@@ -10,6 +10,12 @@
     "geom:latitude":1.726452,
     "geom:longitude":14.825974,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Semb\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.750675,
     "lbl:longitude":14.687392,
     "meso:admin_1":"SANGHA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013991,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718034,
     "wof:name":"Semb\u00e9",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

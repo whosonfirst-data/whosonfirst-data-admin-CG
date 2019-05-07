@@ -10,6 +10,12 @@
     "geom:latitude":1.096664,
     "geom:longitude":17.254768,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Ep\u00e9na District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.064238,
     "lbl:longitude":17.244059,
     "meso:admin_1":"LIKOUALA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013193,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718037,
     "wof:name":"Ep\u00e9na",
     "wof:parent_id":85670031,
     "wof:placetype":"county",

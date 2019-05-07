@@ -10,6 +10,12 @@
     "geom:latitude":-4.289602,
     "geom:longitude":14.852205,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Kinkala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.263255,
     "lbl:longitude":14.82516,
     "meso:admin_1":"POOL",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013765,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718030,
     "wof:name":"Kinkala",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.305179,
     "geom:longitude":14.441547,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "L\u00e9kana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.254855,
     "lbl:longitude":14.465804,
     "meso:admin_1":"PLATEAUX",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013609,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718033,
     "wof:name":"L\u00e9kana",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-4.388368,
     "geom:longitude":13.841062,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mfouati District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.382495,
     "lbl:longitude":13.872785,
     "meso:admin_1":"BOUENZA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012477,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718028,
     "wof:name":"Mfouati",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.684124,
     "geom:longitude":11.99171,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Div\u00e9ni\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.700914,
     "lbl:longitude":11.982245,
     "meso:admin_1":"NIARI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013271,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718032,
     "wof:name":"Div\u00e9ni\u00e9",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

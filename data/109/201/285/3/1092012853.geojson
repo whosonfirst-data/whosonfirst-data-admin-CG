@@ -10,6 +10,12 @@
     "geom:latitude":-0.613011,
     "geom:longitude":15.907622,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Owando District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.639885,
     "lbl:longitude":15.966353,
     "meso:admin_1":"CUVETTE",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012853,
-    "wof:lastmodified":1536615078,
+    "wof:lastmodified":1553718028,
     "wof:name":"Owando",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

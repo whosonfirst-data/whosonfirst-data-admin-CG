@@ -10,6 +10,12 @@
     "geom:latitude":0.598498,
     "geom:longitude":14.705218,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mbomo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.525241,
     "lbl:longitude":14.714393,
     "meso:admin_1":"CUVETTE OUEST",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012673,
-    "wof:lastmodified":1536615078,
+    "wof:lastmodified":1553718033,
     "wof:name":"Mbomo",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

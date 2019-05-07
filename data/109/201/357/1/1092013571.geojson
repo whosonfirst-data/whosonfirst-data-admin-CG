@@ -10,6 +10,12 @@
     "geom:latitude":-1.92605,
     "geom:longitude":15.983209,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Gamboma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.891011,
     "lbl:longitude":15.937407,
     "meso:admin_1":"PLATEAUX",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013571,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718028,
     "wof:name":"Gamboma",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

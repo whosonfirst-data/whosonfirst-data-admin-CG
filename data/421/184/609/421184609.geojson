@@ -10,6 +10,12 @@
     "geom:latitude":-4.211446,
     "geom:longitude":13.300791,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Nkayi District Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-4.210676,
     "lbl:longitude":13.300707,
     "meso:admin_1":"BOUENZA",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421184609,
-    "wof:lastmodified":1536616022,
+    "wof:lastmodified":1553717430,
     "wof:name":"Nkayi District",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

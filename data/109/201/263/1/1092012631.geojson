@@ -10,6 +10,12 @@
     "geom:latitude":-0.109465,
     "geom:longitude":14.36637,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "K\u00e9ll\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.169448,
     "lbl:longitude":14.404506,
     "meso:admin_1":"CUVETTE OUEST",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092012631,
-    "wof:lastmodified":1536615078,
+    "wof:lastmodified":1553718034,
     "wof:name":"K\u00e9ll\u00e9",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-1.426817,
     "geom:longitude":15.547236,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Abala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.386405,
     "lbl:longitude":15.419176,
     "meso:admin_1":"PLATEAUX",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013489,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718033,
     "wof:name":"Abala",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

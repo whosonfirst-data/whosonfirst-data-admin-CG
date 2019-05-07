@@ -10,6 +10,12 @@
     "geom:latitude":0.893208,
     "geom:longitude":17.808968,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Impfondo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.646655,
     "lbl:longitude":17.913139,
     "meso:admin_1":"LIKOUALA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013239,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718031,
     "wof:name":"Impfondo",
     "wof:parent_id":85670031,
     "wof:placetype":"county",

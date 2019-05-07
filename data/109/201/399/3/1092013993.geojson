@@ -10,6 +10,12 @@
     "geom:latitude":1.76783,
     "geom:longitude":13.743903,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Souank\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.803171,
     "lbl:longitude":13.809226,
     "meso:admin_1":"SANGHA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013993,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718041,
     "wof:name":"Souank\u00e9",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

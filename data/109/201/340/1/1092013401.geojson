@@ -10,6 +10,12 @@
     "geom:latitude":-2.273232,
     "geom:longitude":12.734749,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mayoko District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.298359,
     "lbl:longitude":12.729082,
     "meso:admin_1":"NIARI",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013401,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718034,
     "wof:name":"Mayoko",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

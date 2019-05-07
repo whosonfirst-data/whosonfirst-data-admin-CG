@@ -10,6 +10,12 @@
     "geom:latitude":-3.890233,
     "geom:longitude":13.95335,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mouyondzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.874178,
     "lbl:longitude":13.95955,
     "meso:admin_1":"BOUENZA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012519,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718029,
     "wof:name":"Mouyondzi",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

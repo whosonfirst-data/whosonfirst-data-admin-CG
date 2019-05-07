@@ -10,6 +10,12 @@
     "geom:latitude":-4.038589,
     "geom:longitude":11.94202,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Kakamoeka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.992502,
     "lbl:longitude":11.987611,
     "meso:admin_1":"KOUILOU",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012875,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718032,
     "wof:name":"Kakamoeka",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

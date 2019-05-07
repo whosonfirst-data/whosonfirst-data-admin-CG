@@ -10,6 +10,12 @@
     "geom:latitude":-2.483397,
     "geom:longitude":13.582399,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Bambama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.535615,
     "lbl:longitude":13.667451,
     "meso:admin_1":"LEKOUMOU",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012977,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718035,
     "wof:name":"Bambama",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

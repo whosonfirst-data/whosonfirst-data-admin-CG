@@ -10,6 +10,12 @@
     "geom:latitude":-3.914388,
     "geom:longitude":15.427676,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Goma Ts\u00e9-Ts\u00e9 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.88182,
     "lbl:longitude":15.394516,
     "meso:admin_1":"POOL",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092013899,
-    "wof:lastmodified":1536615081,
+    "wof:lastmodified":1553718028,
     "wof:name":"Goma Ts\u00e9-Ts\u00e9\t",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

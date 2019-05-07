@@ -10,6 +10,12 @@
     "geom:latitude":-4.631843,
     "geom:longitude":11.983795,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Loandjili Arrondissement"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "arrondissement"
+    ],
     "lbl:latitude":-4.62308,
     "lbl:longitude":12.004262,
     "meso:admin_1":"KOUILOU",
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":421171019,
-    "wof:lastmodified":1536615923,
+    "wof:lastmodified":1553717322,
     "wof:name":"Loandjili",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

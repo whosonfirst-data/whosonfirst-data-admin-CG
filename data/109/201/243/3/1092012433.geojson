@@ -10,6 +10,12 @@
     "geom:latitude":-4.192953,
     "geom:longitude":13.602023,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Madingou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.162504,
     "lbl:longitude":13.560121,
     "meso:admin_1":"BOUENZA",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092012433,
-    "wof:lastmodified":1536615077,
+    "wof:lastmodified":1553718030,
     "wof:name":"Madingou",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

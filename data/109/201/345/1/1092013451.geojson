@@ -10,6 +10,12 @@
     "geom:latitude":-3.004032,
     "geom:longitude":12.675767,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Mossendjo Commune"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "commune"
+    ],
     "lbl:latitude":-2.977688,
     "lbl:longitude":12.640508,
     "meso:admin_1":"NIARI",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013451,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718033,
     "wof:name":"Mossendjo",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

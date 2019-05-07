@@ -10,6 +10,12 @@
     "geom:latitude":-3.453484,
     "geom:longitude":14.44815,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Kindamba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.38764,
     "lbl:longitude":14.482465,
     "meso:admin_1":"POOL",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013729,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718032,
     "wof:name":"Kindamba",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

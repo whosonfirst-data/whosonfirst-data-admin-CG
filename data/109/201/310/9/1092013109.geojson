@@ -10,6 +10,12 @@
     "geom:latitude":-2.993512,
     "geom:longitude":13.911013,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Zanaga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.966327,
     "lbl:longitude":13.904108,
     "meso:admin_1":"LEKOUMOU",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013109,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718031,
     "wof:name":"Zanaga",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

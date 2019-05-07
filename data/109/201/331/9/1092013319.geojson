@@ -10,6 +10,12 @@
     "geom:latitude":-3.384355,
     "geom:longitude":12.109377,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Kibangou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.392216,
     "lbl:longitude":12.151951,
     "meso:admin_1":"NIARI",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013319,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718036,
     "wof:name":"Kibangou",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

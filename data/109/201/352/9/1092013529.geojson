@@ -10,6 +10,12 @@
     "geom:latitude":-2.487172,
     "geom:longitude":15.20072,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Djambala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.482018,
     "lbl:longitude":15.186115,
     "meso:admin_1":"PLATEAUX",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013529,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718028,
     "wof:name":"Djambala",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

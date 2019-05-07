@@ -10,6 +10,15 @@
     "geom:latitude":-3.950331,
     "geom:longitude":12.56797,
     "iso:country":"CG",
+    "label:eng_x_preferred_disambiguation":[
+        "Louvakou (Loubomo)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Louvakou District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.956339,
     "lbl:longitude":12.561357,
     "meso:admin_1":"NIARI",
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":421204287,
-    "wof:lastmodified":1536616165,
+    "wof:lastmodified":1555220348,
     "wof:name":"Louvakou (Loubomo)",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

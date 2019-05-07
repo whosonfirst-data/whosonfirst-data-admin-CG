@@ -10,6 +10,12 @@
     "geom:latitude":-3.97057,
     "geom:longitude":11.524021,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Madingo-Kayes District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-3.934724,
     "lbl:longitude":11.436031,
     "meso:admin_1":"KOUILOU",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092012923,
-    "wof:lastmodified":1536615079,
+    "wof:lastmodified":1553718032,
     "wof:name":"Madingo-Kayes",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

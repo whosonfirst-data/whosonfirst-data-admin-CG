@@ -10,6 +10,12 @@
     "geom:latitude":-4.637083,
     "geom:longitude":14.637179,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Boko District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-4.641762,
     "lbl:longitude":14.642945,
     "meso:admin_1":"POOL",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1092013685,
-    "wof:lastmodified":1536615080,
+    "wof:lastmodified":1553718029,
     "wof:name":"Boko",
     "wof:parent_id":85670041,
     "wof:placetype":"county",
