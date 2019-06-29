@@ -32,9 +32,6 @@
     "name:aka_x_preferred":[
         "Kongo"
     ],
-    "name:alb_x_preferred":[
-        "Republika e Kongos"
-    ],
     "name:als_x_preferred":[
         "Republik Kongo"
     ],
@@ -57,9 +54,6 @@
     ],
     "name:arg_x_preferred":[
         "Republica d'o Congo"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0576\u0563\u0578\u0575\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
     ],
     "name:arz_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u062c\u0648"
@@ -84,9 +78,6 @@
     ],
     "name:bam_x_variant":[
         "Kongo"
-    ],
-    "name:baq_x_preferred":[
-        "Kongoko Errepublika"
     ],
     "name:bcl_x_preferred":[
         "Republika kan Kongo"
@@ -137,9 +128,6 @@
     "name:bul_x_variant":[
         "\u041a\u043e\u043d\u0433\u043e"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u103d\u1014\u103a\u1002\u102d\u102f\u101e\u1019\u1039\u1019\u1010\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e"
     ],
@@ -164,9 +152,6 @@
     "name:che_x_preferred":[
         "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
     ],
-    "name:chi_x_preferred":[
-        "\u521a\u679c\u5171\u548c\u56fd"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0438"
     ],
@@ -188,9 +173,6 @@
     "name:cym_x_variant":[
         "Y Congo [Gweriniaeth]"
     ],
-    "name:cze_x_preferred":[
-        "Republika Kongo"
-    ],
     "name:cze_x_variant":[
         "Kongo"
     ],
@@ -206,7 +188,6 @@
     ],
     "name:deu_x_variant":[
         "Kongo",
-        "Republik Kongo",
         "Kongo (Republik Kongo)"
     ],
     "name:diq_x_preferred":[
@@ -220,9 +201,6 @@
     ],
     "name:dty_x_preferred":[
         "\u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930 \u0915\u0902\u0917\u094b"
-    ],
-    "name:dut_x_preferred":[
-        "Republiek Congo"
     ],
     "name:ell_x_preferred":[
         "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc"
@@ -301,9 +279,6 @@
     "name:fra_x_variant":[
         "Congo-Brazzaville"
     ],
-    "name:fre_x_preferred":[
-        "R\u00e9publique du Congo"
-    ],
     "name:frp_x_preferred":[
         "R\u00e8publica du Cong\u00f4"
     ],
@@ -318,12 +293,6 @@
     ],
     "name:gag_x_preferred":[
         "Kongo Respublikas\u0131"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10dc\u10d2\u10dd\u10e1 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Republik Kongo"
     ],
     "name:gla_x_preferred":[
         "A' Chongo"
@@ -342,9 +311,6 @@
     ],
     "name:glv_x_preferred":[
         "Pobblaght ny Congo"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03bf\u03c5 \u039a\u03bf\u03bd\u03b3\u03ba\u03cc"
     ],
     "name:gsw_x_preferred":[
         "Republik Kongo"
@@ -404,9 +370,6 @@
     ],
     "name:ibo_x_preferred":[
         "Republic of the Congo"
-    ],
-    "name:ice_x_preferred":[
-        "Vestur-Kong\u00f3"
     ],
     "name:ido_x_preferred":[
         "Republiko Kongo"
@@ -567,9 +530,6 @@
     "name:lug_x_variant":[
         "Kongo"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
-    ],
     "name:mal_x_preferred":[
         "\u0d31\u0d3f\u0d2a\u0d4d\u0d2a\u0d2c\u0d4d\u0d32\u0d3f\u0d15\u0d4d\u0d15\u0d4d \u0d13\u0d2b\u0d4d \u0d15\u0d4b\u0d02\u0d17\u0d4b"
     ],
@@ -581,9 +541,6 @@
     ],
     "name:mar_x_variant":[
         "\u0915\u093e\u0901\u0917\u094b - \u092c\u094d\u0930\u093e\u091c\u093e\u0935\u093f\u0932\u0947"
-    ],
-    "name:may_x_preferred":[
-        "Republik Congo"
     ],
     "name:min_x_preferred":[
         "Republik Kongo"
@@ -661,7 +618,8 @@
         "Congo-Brazzaville"
     ],
     "name:nld_x_variant":[
-        "Congo [Republiek]"
+        "Congo [Republiek]",
+        "Republiek Congo"
     ],
     "name:nno_x_preferred":[
         "Kongo-Brazzaville"
@@ -717,9 +675,6 @@
     "name:pap_x_preferred":[
         "Republika di Kongo"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0645\u0647\u0648\u0631\u06cc \u06a9\u0646\u06af\u0648"
-    ],
     "name:pih_x_preferred":[
         "Repablik o' t' Kongo"
     ],
@@ -760,9 +715,6 @@
     "name:ron_x_variant":[
         "Congo"
     ],
-    "name:rum_x_preferred":[
-        "Republica Congo"
-    ],
     "name:run_x_preferred":[
         "Kongo"
     ],
@@ -800,9 +752,6 @@
         "\u0d9a\u0ddc\u0d82\u0d9c\u0ddd\u0dc0"
     ],
     "name:slk_x_preferred":[
-        "Kongo"
-    ],
-    "name:slo_x_preferred":[
         "Kongo"
     ],
     "name:slv_x_preferred":[
@@ -909,9 +858,6 @@
     "name:tha_x_variant":[
         "\u0e04\u0e2d\u0e07\u0e42\u0e01-\u0e1a\u0e23\u0e32\u0e0b\u0e0b\u0e32\u0e27\u0e34\u0e25"
     ],
-    "name:tib_x_preferred":[
-        "\u0f40\u0f7c\u0f44\u0f0b\u0f42\u0f7c\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f58\u0f50\u0f74\u0f53\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d"
-    ],
     "name:tir_x_preferred":[
         "\u12ae\u1295\u1310"
     ],
@@ -985,9 +931,6 @@
     ],
     "name:war_x_preferred":[
         "Republika han Congo"
-    ],
-    "name:wel_x_preferred":[
-        "Gweriniaeth y Congo"
     ],
     "name:wln_x_preferred":[
         "Congo-Braza"
@@ -1181,7 +1124,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1544059328,
+    "wof:lastmodified":1561845106,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

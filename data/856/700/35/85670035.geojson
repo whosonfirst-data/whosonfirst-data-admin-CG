@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.695393,
-    "geom:area_square_m":58039915315.892151,
+    "geom:area_square_m":58039915315.890869,
     "geom:bbox":"13.125131,0.0386000871085,17.047082043,2.72171137106",
     "geom:latitude":1.380927,
     "geom:longitude":15.382526,
@@ -40,14 +40,14 @@
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0433\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u6851\u52a0\u7701"
-    ],
     "name:dan_x_preferred":[
         "Sangha Department"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Sangha"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Sangha Department"
@@ -63,18 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Sangha"
-    ],
-    "name:fre_x_preferred":[
-        "Sangha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e1\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Sangha"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b1\u03bd\u03b3\u03ba\u03ac"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abe\u0a82\u0a98\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -94,6 +82,9 @@
     "name:kan_x_preferred":[
         "\u0cb8\u0c82\u0c98 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10dc\u10d2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc0c1\uac00 \uc8fc"
     ],
@@ -106,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0938\u0902\u0918 \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sangha Department"
+    ],
+    "name:nld_x_preferred":[
+        "Sangha"
     ],
     "name:nob_x_preferred":[
         "Sangha"
@@ -118,7 +112,7 @@
     "name:por_x_preferred":[
         "Sangha"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Sangha"
     ],
     "name:rus_x_preferred":[
@@ -159,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Sangha"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u52a0\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -283,7 +280,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553814718,
+    "wof:lastmodified":1561845104,
     "wof:name":"Sangha",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

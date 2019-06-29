@@ -14,19 +14,19 @@
     "lbl:longitude":15.216683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Moloundou"
+    "name:deu_x_preferred":[
+        "Molundu"
     ],
     "name:eng_x_preferred":[
         "Moloundou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moloundou"
     ],
-    "name:ger_x_preferred":[
-        "Molundu"
+    "name:msa_x_preferred":[
+        "Moloundou"
     ],
-    "name:may_x_preferred":[
+    "name:nld_x_preferred":[
         "Moloundou"
     ],
     "ne:ADM0CAP":0.0,
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":1141907827,
-    "wof:lastmodified":1553816736,
+    "wof:lastmodified":1561845125,
     "wof:name":"Moloundou",
     "wof:parent_id":1092013991,
     "wof:placetype":"locality",

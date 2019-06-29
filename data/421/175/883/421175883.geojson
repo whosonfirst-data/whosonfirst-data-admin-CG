@@ -20,25 +20,13 @@
     "name:ceb_x_preferred":[
         "Makoua"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u5938"
-    ],
     "name:deu_x_preferred":[
-        "Makoua"
-    ],
-    "name:dut_x_preferred":[
         "Makoua"
     ],
     "name:eng_x_preferred":[
         "Makoua"
     ],
     "name:fra_x_preferred":[
-        "Makoua"
-    ],
-    "name:fre_x_preferred":[
-        "Makoua"
-    ],
-    "name:ger_x_preferred":[
         "Makoua"
     ],
     "name:ita_x_preferred":[
@@ -50,6 +38,9 @@
     "name:lin_x_preferred":[
         "Makua"
     ],
+    "name:nld_x_preferred":[
+        "Makoua"
+    ],
     "name:pol_x_preferred":[
         "Makoua"
     ],
@@ -57,9 +48,6 @@
         "Makoua"
     ],
     "name:ron_x_preferred":[
-        "Makoua"
-    ],
-    "name:rum_x_preferred":[
         "Makoua"
     ],
     "name:swe_x_preferred":[
@@ -216,7 +204,7 @@
         }
     ],
     "wof:id":421175883,
-    "wof:lastmodified":1527716343,
+    "wof:lastmodified":1561845118,
     "wof:name":"Makoua",
     "wof:parent_id":1092012799,
     "wof:placetype":"locality",

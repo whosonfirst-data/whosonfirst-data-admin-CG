@@ -40,14 +40,14 @@
     "name:bul_x_preferred":[
         "\u041a\u044e\u0432\u0435\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u76c6\u5730\u7701"
-    ],
     "name:dan_x_preferred":[
         "Cuvette Department"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cuvette"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03ad\u03c4"
     ],
     "name:eng_x_preferred":[
         "Cuvette Department"
@@ -63,18 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Cuvette"
-    ],
-    "name:fre_x_preferred":[
-        "Cuvette"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d8\u10e3\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cuvette"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03ad\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0ab5\u0ac7\u0a9f \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -94,6 +82,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cc1\u0cb5\u0cc6\u0c9f\u0ccd\u0c9f\u0cc6 \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e3\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kon_x_preferred":[
         "Kuvete"
     ],
@@ -112,11 +103,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0941\u0935\u094d\u0939\u0947\u091f \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Cuvette"
-    ],
     "name:msa_x_preferred":[
         "Wilayah Cuvette"
+    ],
+    "name:nld_x_preferred":[
+        "Cuvette"
     ],
     "name:nob_x_preferred":[
         "Cuvette"
@@ -127,7 +118,7 @@
     "name:por_x_preferred":[
         "Cuvette"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cuvette"
     ],
     "name:rus_x_preferred":[
@@ -293,7 +284,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550330,
+    "wof:lastmodified":1561845104,
     "wof:name":"Cuvette",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

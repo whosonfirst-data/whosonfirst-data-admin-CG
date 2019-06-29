@@ -40,14 +40,14 @@
     "name:bul_x_preferred":[
         "\u041a\u044e\u0432\u0435\u0442 \u0423\u0435\u0441\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u76c6\u5730\u7701"
-    ],
     "name:dan_x_preferred":[
         "Cuvette-Ouest Department"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cuvette-Ouest"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b2\u03ad\u03c4-\u039f\u03c5\u03ad\u03c3\u03c4"
     ],
     "name:eng_x_preferred":[
         "Cuvette-Ouest Department"
@@ -63,18 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Cuvette-Ouest"
-    ],
-    "name:fre_x_preferred":[
-        "Cuvette-Ouest"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d9\u10d8\u10e3\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Cuvette-Ouest"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b2\u03ad\u03c4-\u039f\u03c5\u03ad\u03c3\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab5\u0ac7\u0a9f- \u0a95\u0acd\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -97,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0ccd\u0cb5\u0cc6\u0cb5\u0cc6\u0c9f\u0ccd-\u0c94\u0caf\u0cc6\u0cb8\u0ccd\u0c9f\u0ccd \u0c87\u0cb2\u0cbe\u0c96\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d9\u10d8\u10e3\u10d5\u10d4\u10e2\u10d8\u10e1 \u10d3\u10d4\u10de\u10d0\u10e0\u10e2\u10d0\u10db\u10d4\u10dc\u10e2\u10d8"
+    ],
     "name:kon_x_preferred":[
         "Kuvete ya Wesete"
     ],
@@ -115,8 +106,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0941\u0935\u094d\u0939\u0947\u091f\u0940-\u0911\u0938\u094d\u091f \u0935\u093f\u092d\u093e\u0917"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cuvette-Ouest Department"
+    ],
+    "name:nld_x_preferred":[
+        "Cuvette-Ouest"
     ],
     "name:nob_x_preferred":[
         "Cuvette-Ouest"
@@ -127,7 +121,7 @@
     "name:por_x_preferred":[
         "Cuvette-Ouest"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Cuvette-Ouest"
     ],
     "name:rus_x_preferred":[
@@ -168,6 +162,9 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Cuvette-Ouest"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u76c6\u5730\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -292,7 +289,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550366,
+    "wof:lastmodified":1561845105,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

@@ -17,14 +17,11 @@
     "name:ceb_x_preferred":[
         "Madingou"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e01\u53e4"
-    ],
     "name:deu_x_preferred":[
         "Madingou"
     ],
-    "name:dut_x_preferred":[
-        "Madingou"
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03bd\u03c4\u03b9\u03bd\u03b3\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Madingou"
@@ -32,14 +29,8 @@
     "name:epo_x_preferred":[
         "Madingou"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Madingou"
-    ],
-    "name:ger_x_preferred":[
-        "Madingou"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03bd\u03c4\u03b9\u03bd\u03b3\u03ba\u03bf\u03cd"
     ],
     "name:ita_x_preferred":[
         "Madingou"
@@ -66,9 +57,6 @@
         "Madingou"
     ],
     "name:ron_x_preferred":[
-        "Madingou"
-    ],
-    "name:rum_x_preferred":[
         "Madingou"
     ],
     "name:rus_x_preferred":[
@@ -231,7 +219,7 @@
         }
     ],
     "wof:id":421178189,
-    "wof:lastmodified":1553816367,
+    "wof:lastmodified":1561845119,
     "wof:name":"Madingou",
     "wof:parent_id":1092012433,
     "wof:placetype":"locality",

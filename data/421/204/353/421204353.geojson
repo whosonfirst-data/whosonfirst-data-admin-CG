@@ -26,17 +26,14 @@
     "name:ceb_x_preferred":[
         "Ou\u00e9sso"
     ],
-    "name:chi_x_preferred":[
-        "\u97cb\u7d22"
-    ],
     "name:dan_x_preferred":[
         "Ou\u00e9sso"
     ],
     "name:deu_x_preferred":[
         "Ou\u00e9sso"
     ],
-    "name:dut_x_preferred":[
-        "Ou\u00e9sso"
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03b5\u03c3\u03cc"
     ],
     "name:eng_x_preferred":[
         "Ou\u00e9sso"
@@ -49,15 +46,6 @@
     ],
     "name:fra_x_preferred":[
         "Ouesso"
-    ],
-    "name:fre_x_preferred":[
-        "Ouesso"
-    ],
-    "name:ger_x_preferred":[
-        "Ou\u00e9sso"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03b5\u03c3\u03cc"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0aaf\u0ac1\u0a9d\u0acb"
@@ -89,8 +77,11 @@
     "name:mar_x_preferred":[
         "\u0913\u092f\u0942\u0938\u0938\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Ouesso"
+    ],
+    "name:nld_x_preferred":[
+        "Ou\u00e9sso"
     ],
     "name:nob_x_preferred":[
         "Ou\u00e9sso"
@@ -101,7 +92,7 @@
     "name:por_x_preferred":[
         "Ou\u00e9sso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ou\u00e9sso"
     ],
     "name:rus_x_preferred":[
@@ -139,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Ouesso"
+    ],
+    "name:zho_x_preferred":[
+        "\u97cb\u7d22"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -282,7 +276,7 @@
         }
     ],
     "wof:id":421204353,
-    "wof:lastmodified":1527716178,
+    "wof:lastmodified":1561845118,
     "wof:name":"Ouesso",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",
