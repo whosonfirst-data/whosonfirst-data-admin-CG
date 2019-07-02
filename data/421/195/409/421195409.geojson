@@ -20,19 +20,10 @@
     "name:ceb_x_preferred":[
         "Mossendjo"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u68ee\u7126"
-    ],
-    "name:dut_x_preferred":[
-        "Mossendjo"
-    ],
     "name:eng_x_preferred":[
         "Mossendjo"
     ],
     "name:fra_x_preferred":[
-        "Mossendjo"
-    ],
-    "name:fre_x_preferred":[
         "Mossendjo"
     ],
     "name:ita_x_preferred":[
@@ -41,6 +32,9 @@
     "name:jpn_x_preferred":[
         "\u30e2\u30bb\u30f3\u30b8\u30e7"
     ],
+    "name:nld_x_preferred":[
+        "Mossendjo"
+    ],
     "name:pol_x_preferred":[
         "Mossendjo"
     ],
@@ -48,9 +42,6 @@
         "Mossendjo"
     ],
     "name:ron_x_preferred":[
-        "Mossendjo"
-    ],
-    "name:rum_x_preferred":[
         "Mossendjo"
     ],
     "name:unk_x_variant":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421195409,
-    "wof:lastmodified":1527716120,
+    "wof:lastmodified":1561845118,
     "wof:name":"Mossendjo",
     "wof:parent_id":1092013451,
     "wof:placetype":"locality",

@@ -17,14 +17,11 @@
     "name:ceb_x_preferred":[
         "Djambala"
     ],
-    "name:chi_x_preferred":[
-        "\u517c\u5df4\u62c9"
-    ],
     "name:deu_x_preferred":[
         "Djambala"
     ],
-    "name:dut_x_preferred":[
-        "Djambala"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b6\u03b1\u03bc\u03c0\u03b1\u03bb\u03ac"
     ],
     "name:eng_x_preferred":[
         "Djambala"
@@ -34,15 +31,6 @@
     ],
     "name:fra_x_preferred":[
         "Djambala"
-    ],
-    "name:fre_x_preferred":[
-        "Djambala"
-    ],
-    "name:ger_x_preferred":[
-        "Djambala"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03b6\u03b1\u03bc\u03c0\u03b1\u03bb\u03ac"
     ],
     "name:ita_x_preferred":[
         "Djambala"
@@ -69,9 +57,6 @@
         "Djambala"
     ],
     "name:ron_x_preferred":[
-        "Djambala"
-    ],
-    "name:rum_x_preferred":[
         "Djambala"
     ],
     "name:spa_x_preferred":[
@@ -234,7 +219,7 @@
         }
     ],
     "wof:id":421178191,
-    "wof:lastmodified":1527717723,
+    "wof:lastmodified":1561845119,
     "wof:name":"Djambala",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

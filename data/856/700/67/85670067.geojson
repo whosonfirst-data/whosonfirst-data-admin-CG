@@ -28,9 +28,6 @@
     "name:afr_x_preferred":[
         "Brazzaville"
     ],
-    "name:alb_x_preferred":[
-        "Brazzaville"
-    ],
     "name:amh_x_preferred":[
         "\u1265\u122b\u12db\u126a\u120d"
     ],
@@ -40,23 +37,20 @@
     "name:arg_x_preferred":[
         "Brazzaville"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u0561\u0566\u0561\u057e\u056b\u056c"
-    ],
     "name:ast_x_preferred":[
         "Brazzaville"
     ],
     "name:aze_x_preferred":[
         "Brazzavil"
     ],
-    "name:baq_x_preferred":[
-        "Brazzaville"
-    ],
     "name:bel_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0430\u0432\u0456\u043b\u044c"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09be\u099c\u09be\u09ad\u09bf\u09b2"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f56\u0f0b\u0f62\u0f0b\u0f5b\u0f0b\u0f56\u0f72\u0f0b\u0f63\u0f72\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Brazzaville"
@@ -73,11 +67,11 @@
     "name:cdo_x_preferred":[
         "Brazzaville"
     ],
+    "name:ces_x_preferred":[
+        "Brazzaville"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0438\u043b\u044c"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u62c9\u67f4\u7ef4\u5c14"
     ],
     "name:chy_x_preferred":[
         "Brazzaville"
@@ -85,14 +79,17 @@
     "name:ckb_x_preferred":[
         "\u0628\u0631\u0627\u0632\u0627\u06a4\u06cc\u0644"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Brazzaville"
     ],
     "name:dan_x_preferred":[
         "Brazzaville"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Brazzaville"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03b1\u03b6\u03b1\u03b2\u03af\u03bb"
     ],
     "name:eng_x_preferred":[
         "Brazzavile Department"
@@ -106,25 +103,22 @@
     "name:est_x_preferred":[
         "Brazzaville"
     ],
+    "name:eus_x_preferred":[
+        "Brazzaville"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0627\u0632\u0627\u0648\u06cc\u0644"
+    ],
     "name:fin_x_preferred":[
         "Brazzaville"
     ],
     "name:fra_x_preferred":[
         "Brazzaville"
     ],
-    "name:fre_x_preferred":[
-        "Brazzaville"
-    ],
     "name:frr_x_preferred":[
         "Brazzaville"
     ],
     "name:fry_x_preferred":[
-        "Brazzaville"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d0\u10d6\u10d0\u10d5\u10d8\u10da\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Brazzaville"
     ],
     "name:gla_x_preferred":[
@@ -135,9 +129,6 @@
     ],
     "name:glg_x_preferred":[
         "Brazzaville"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b1\u03b6\u03b1\u03b2\u03af\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0acd\u0ab0\u0abe\u0a9d\u0abe\u0ab5\u0abf\u0ab2"
@@ -169,13 +160,16 @@
     "name:hun_x_preferred":[
         "Brazzaville"
     ],
-    "name:ice_x_preferred":[
-        "Brazzaville"
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u0561\u0566\u0561\u057e\u056b\u056c"
     ],
     "name:ido_x_preferred":[
         "Brazzaville"
     ],
     "name:ind_x_preferred":[
+        "Brazzaville"
+    ],
+    "name:isl_x_preferred":[
         "Brazzaville"
     ],
     "name:ita_x_preferred":[
@@ -192,6 +186,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cc6\u0c9c\u0cbe\u0cb5\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d0\u10d6\u10d0\u10d5\u10d8\u10da\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0438\u043b\u044c"
@@ -232,25 +229,28 @@
     "name:ltz_x_preferred":[
         "Brazzaville"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0430\u0437\u0430\u0432\u0438\u043b"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d30\u0d3e\u0d38\u0d35\u0d3f\u0d32\u0d4d\u0d32\u0d46"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093e\u091d\u093e\u0935\u094d\u0939\u093f\u0932"
     ],
-    "name:may_x_preferred":[
-        "Brazzaville"
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0430\u0437\u0430\u0432\u0438\u043b"
     ],
     "name:mlg_x_preferred":[
         "Brazzavile"
+    ],
+    "name:msa_x_preferred":[
+        "Brazzaville"
     ],
     "name:nan_x_preferred":[
         "Brazzaville"
     ],
     "name:nds_x_preferred":[
+        "Brazzaville"
+    ],
+    "name:nld_x_preferred":[
         "Brazzaville"
     ],
     "name:nno_x_preferred":[
@@ -280,9 +280,6 @@
     "name:pap_x_preferred":[
         "Brazzaville"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u0627\u0632\u0627\u0648\u06cc\u0644"
-    ],
     "name:pms_x_preferred":[
         "Brazzaville"
     ],
@@ -298,7 +295,7 @@
     "name:que_x_preferred":[
         "Brazzaville"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Brazzaville"
     ],
     "name:rup_x_preferred":[
@@ -316,7 +313,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dc0\u0dd2\u0dbd\u0dd2"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Brazzaville"
     ],
     "name:slv_x_preferred":[
@@ -329,6 +326,9 @@
         "Barasafille"
     ],
     "name:spa_x_preferred":[
+        "Brazzaville"
+    ],
+    "name:sqi_x_preferred":[
         "Brazzaville"
     ],
     "name:srp_x_preferred":[
@@ -354,9 +354,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e32\u0e0b\u0e32\u0e27\u0e35\u0e25"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f56\u0f0b\u0f62\u0f0b\u0f5b\u0f0b\u0f56\u0f72\u0f0b\u0f63\u0f72\u0f0d"
     ],
     "name:tur_x_preferred":[
         "Brazzaville"
@@ -389,9 +386,6 @@
         "Brazzaville"
     ],
     "name:war_x_preferred":[
-        "Brazzaville"
-    ],
-    "name:wel_x_preferred":[
         "Brazzaville"
     ],
     "name:wln_x_preferred":[
@@ -543,7 +537,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1553550327,
+    "wof:lastmodified":1561845104,
     "wof:name":"Brazzaville",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
