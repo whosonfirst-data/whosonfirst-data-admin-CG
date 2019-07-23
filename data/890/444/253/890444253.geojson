@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0627\u0646\u062a-\u0646\u0648\u0627\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u067e\u0648\u06cc\u0646\u062a\u0647 \u0646\u0648\u06cc\u0631"
+    ],
     "name:aze_x_preferred":[
         "Point-Noyr"
     ],
@@ -76,6 +79,12 @@
     "name:fra_x_preferred":[
         "Pointe-Noire"
     ],
+    "name:frr_x_preferred":[
+        "Pointe-Noire"
+    ],
+    "name:grn_x_preferred":[
+        "Pointe-Noire"
+    ],
     "name:guj_x_preferred":[
         "\u0aaa\u0acb\u0a87\u0aa8\u0acd\u0a9f-\u0aa8\u0acb\u0a87\u0ab0"
     ],
@@ -108,6 +117,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10de\u10e3\u10d4\u10dc\u10e2-\u10dc\u10e3\u10d0\u10e0\u10d8"
+    ],
+    "name:kir_x_preferred":[
+        "\u041f\u0443\u044d\u043d\u0442-\u041d\u0443\u0430\u0440"
     ],
     "name:kon_x_preferred":[
         "Pointe-Noire"
@@ -323,7 +335,7 @@
         }
     ],
     "wof:id":890444253,
-    "wof:lastmodified":1561845119,
+    "wof:lastmodified":1563920996,
     "wof:name":"Pointe-Noire",
     "wof:parent_id":1092013649,
     "wof:placetype":"locality",

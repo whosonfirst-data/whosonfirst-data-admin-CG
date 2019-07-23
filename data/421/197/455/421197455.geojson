@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Ewo"
+    ],
     "name:deu_x_preferred":[
         "Ewo"
     ],
@@ -30,6 +33,9 @@
         "Ewo"
     ],
     "name:fra_x_preferred":[
+        "Ewo"
+    ],
+    "name:frr_x_preferred":[
         "Ewo"
     ],
     "name:ita_x_preferred":[
@@ -219,7 +225,7 @@
         }
     ],
     "wof:id":421197455,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920993,
     "wof:name":"Ewo",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

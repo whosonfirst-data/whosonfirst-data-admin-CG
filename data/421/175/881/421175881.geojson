@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Owando"
     ],
+    "name:frr_x_preferred":[
+        "Owando"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab5\u0ac7\u0aa8\u0acd\u0aa1\u0acb"
     ],
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421175881,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920991,
     "wof:name":"Owando",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

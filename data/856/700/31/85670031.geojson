@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Likouala"
     ],
+    "name:bar_x_preferred":[
+        "Likouala"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u0995\u09c1\u0989\u09b2\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u0443\u0430\u043b\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Likouala"
     ],
     "name:dan_x_preferred":[
         "Likouala Department"
@@ -69,6 +75,9 @@
     ],
     "name:fra_x_variant":[
         "Likuoala"
+    ],
+    "name:frr_x_preferred":[
+        "Likouala Department"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0abf\u0a95\u0acc\u0ab2\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -292,7 +301,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561845104,
+    "wof:lastmodified":1563920490,
     "wof:name":"Likouala",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

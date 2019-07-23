@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Sibiti"
     ],
+    "name:frr_x_preferred":[
+        "Sibiti"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aac\u0abf\u0a9f\u0ac0"
     ],
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":421175879,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920991,
     "wof:name":"Sibiti",
     "wof:parent_id":1092013067,
     "wof:placetype":"locality",

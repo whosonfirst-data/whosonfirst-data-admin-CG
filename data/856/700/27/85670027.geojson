@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Bouenza"
     ],
+    "name:frr_x_preferred":[
+        "Bouenza Department"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0acb\u0a89\u0a82\u0a8f\u0aa8\u0acd\u0a9d\u0abe \u0ab5\u0abf\u0aad\u0abe\u0a97"
     ],
@@ -288,7 +291,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561845104,
+    "wof:lastmodified":1563920488,
     "wof:name":"Bouenza",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0627\u0631\u0629 \u0646\u064a\u0627\u0631\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Niari"
+    ],
+    "name:bar_x_preferred":[
+        "Niari"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09bf\u09af\u09bc\u09be\u09b0\u09bf \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:fra_x_preferred":[
         "Niari"
+    ],
+    "name:frr_x_preferred":[
+        "Niari Department"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abf\u0a86\u0ab0\u0ac0 \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -154,6 +163,12 @@
     ],
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Niari"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c3c\u963f\u91cc\u7701"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c3c\u963f\u91cc\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u963f\u91cc\u7701"
@@ -281,7 +296,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561845103,
+    "wof:lastmodified":1563920483,
     "wof:name":"Niari",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

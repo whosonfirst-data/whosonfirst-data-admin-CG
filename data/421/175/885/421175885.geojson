@@ -44,6 +44,9 @@
     "name:fra_x_preferred":[
         "Kinkala"
     ],
+    "name:frr_x_preferred":[
+        "Kinkala"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aa8\u0acd\u0a95\u0ab2\u0abe"
     ],
@@ -61,6 +64,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbf\u0c82\u0c95\u0cb2\u0cbe"
+    ],
+    "name:kon_x_preferred":[
+        "Kinkala"
     ],
     "name:kor_x_preferred":[
         "\ud0a8\uce7c\ub77c"
@@ -273,7 +279,7 @@
         }
     ],
     "wof:id":421175885,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920992,
     "wof:name":"Kinkala",
     "wof:parent_id":1092013765,
     "wof:placetype":"locality",

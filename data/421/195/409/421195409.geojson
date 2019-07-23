@@ -20,6 +20,9 @@
     "name:ceb_x_preferred":[
         "Mossendjo"
     ],
+    "name:deu_x_preferred":[
+        "Mossendjo"
+    ],
     "name:eng_x_preferred":[
         "Mossendjo"
     ],
@@ -44,6 +47,9 @@
     "name:ron_x_preferred":[
         "Mossendjo"
     ],
+    "name:swe_x_preferred":[
+        "Mossendjo"
+    ],
     "name:unk_x_variant":[
         "Massendjo"
     ],
@@ -52,6 +58,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u68ee\u7126"
+    ],
+    "name:zho_x_variant":[
+        "\u7518\u535a\u99ac"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -195,7 +204,7 @@
         }
     ],
     "wof:id":421195409,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920987,
     "wof:name":"Mossendjo",
     "wof:parent_id":1092013451,
     "wof:placetype":"locality",
