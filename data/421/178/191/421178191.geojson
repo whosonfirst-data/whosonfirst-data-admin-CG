@@ -32,6 +32,9 @@
     "name:fra_x_preferred":[
         "Djambala"
     ],
+    "name:frr_x_preferred":[
+        "Djambala"
+    ],
     "name:ita_x_preferred":[
         "Djambala"
     ],
@@ -219,7 +222,7 @@
         }
     ],
     "wof:id":421178191,
-    "wof:lastmodified":1561845119,
+    "wof:lastmodified":1563920994,
     "wof:name":"Djambala",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

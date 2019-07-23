@@ -47,6 +47,9 @@
     "name:fra_x_preferred":[
         "Ouesso"
     ],
+    "name:frr_x_preferred":[
+        "Ou\u00e9sso"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0aaf\u0ac1\u0a9d\u0acb"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:spa_x_preferred":[
         "Ouesso"
+    ],
+    "name:spa_x_variant":[
+        "Ou\u00e9sso"
     ],
     "name:swe_x_preferred":[
         "Ou\u00e9sso"
@@ -276,7 +282,7 @@
         }
     ],
     "wof:id":421204353,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1563920987,
     "wof:name":"Ouesso",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

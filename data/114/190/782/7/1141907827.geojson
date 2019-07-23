@@ -26,7 +26,13 @@
     "name:msa_x_preferred":[
         "Moloundou"
     ],
+    "name:nan_x_preferred":[
+        "Moloundou"
+    ],
     "name:nld_x_preferred":[
+        "Moloundou"
+    ],
+    "name:spa_x_preferred":[
         "Moloundou"
     ],
     "ne:ADM0CAP":0.0,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1141907827,
-    "wof:lastmodified":1561845125,
+    "wof:lastmodified":1563921258,
     "wof:name":"Moloundou",
     "wof:parent_id":1092013991,
     "wof:placetype":"locality",

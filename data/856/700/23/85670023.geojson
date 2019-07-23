@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Cuvette-Ouest"
     ],
+    "name:bar_x_preferred":[
+        "Cuvette-Ouest"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ac\u09c7\u09a4\u09c7 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u044e\u0432\u0435\u0442 \u0423\u0435\u0441\u0442"
+    ],
+    "name:ceb_x_preferred":[
+        "Cuvette-Ouest"
     ],
     "name:dan_x_preferred":[
         "Cuvette-Ouest Department"
@@ -63,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Cuvette-Ouest"
+    ],
+    "name:frr_x_preferred":[
+        "Cuvette-Ouest Department"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0ab5\u0ac7\u0a9f- \u0a95\u0acd\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae \u0ab5\u0abf\u0aad\u0abe\u0a97"
@@ -289,7 +298,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1561845105,
+    "wof:lastmodified":1563920493,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
