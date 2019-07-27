@@ -25,6 +25,15 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yombe"
+    ],
+    "name:fra_x_preferred":[
+        "Yombe"
+    ],
+    "name:swe_x_preferred":[
+        "Yombe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1327413073,
-    "wof:lastmodified":1536709027,
+    "wof:lastmodified":1564199450,
     "wof:name":"Yombe",
     "wof:parent_id":1092012799,
     "wof:placetype":"locality",

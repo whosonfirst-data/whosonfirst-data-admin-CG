@@ -26,6 +26,27 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matoto Sub-Prefecture"
+    ],
+    "name:fra_x_preferred":[
+        "Matoto"
+    ],
+    "name:ita_x_preferred":[
+        "Matoto"
+    ],
+    "name:msa_x_preferred":[
+        "Matoto"
+    ],
+    "name:por_x_preferred":[
+        "Matoto"
+    ],
+    "name:spa_x_preferred":[
+        "Matoto"
+    ],
+    "name:swe_x_preferred":[
+        "Matoto Sub-Prefecture"
+    ],
     "name:und_x_variant":[
         "Mototo",
         "Matoto"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1259506145,
-    "wof:lastmodified":1537590670,
+    "wof:lastmodified":1564200282,
     "wof:name":"Matoto",
     "wof:parent_id":1092013067,
     "wof:placetype":"locality",

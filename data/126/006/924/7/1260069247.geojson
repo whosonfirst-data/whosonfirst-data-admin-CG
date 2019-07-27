@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Bounda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260069247,
-    "wof:lastmodified":1537007822,
+    "wof:lastmodified":1564199948,
     "wof:name":"Bounda",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

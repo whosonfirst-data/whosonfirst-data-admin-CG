@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:srp_x_preferred":[
+        "\u0410\u043a\u0430\u043b\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1243053379,
-    "wof:lastmodified":1536874256,
+    "wof:lastmodified":1564200207,
     "wof:name":"Akala",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

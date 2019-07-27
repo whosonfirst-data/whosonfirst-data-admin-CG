@@ -26,9 +26,27 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Bomassa"
+    ],
+    "name:pol_x_preferred":[
+        "Bomassa"
+    ],
+    "name:por_x_preferred":[
+        "Bomassa"
+    ],
+    "name:ron_x_preferred":[
+        "Bomassa"
+    ],
     "name:und_x_variant":[
         "Bomasse",
         "Bomassa"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0645\u0627\u0633\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u99ac\u85a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1343847091,
-    "wof:lastmodified":1537590719,
+    "wof:lastmodified":1564199556,
     "wof:name":"Bomassa",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

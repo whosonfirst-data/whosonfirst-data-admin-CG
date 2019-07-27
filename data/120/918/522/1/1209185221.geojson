@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Obey"
+    ],
+    "name:deu_x_preferred":[
+        "Obey"
+    ],
+    "name:fra_x_preferred":[
+        "Obey"
+    ],
+    "name:ita_x_preferred":[
+        "Obey"
+    ],
     "name:und_x_variant":[
         "Obeye",
         "Obey"
@@ -46,7 +58,7 @@
         }
     ],
     "wof:id":1209185221,
-    "wof:lastmodified":1537590660,
+    "wof:lastmodified":1564199881,
     "wof:name":"Obey",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

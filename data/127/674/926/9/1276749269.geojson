@@ -26,6 +26,36 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Komo"
+    ],
+    "name:fra_x_preferred":[
+        "Komo"
+    ],
+    "name:lav_x_preferred":[
+        "Komo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Komo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u043e\u043c\u043e"
+    ],
     "name:und_x_variant":[
         "Como",
         "Komo"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":1276749269,
-    "wof:lastmodified":1537590715,
+    "wof:lastmodified":1564199742,
     "wof:name":"Komo",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dimi"
+    ],
+    "name:deu_x_preferred":[
+        "Dimi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05de\u05d9"
+    ],
+    "name:swe_x_preferred":[
+        "Dimi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1276534051,
-    "wof:lastmodified":1537006317,
+    "wof:lastmodified":1564199795,
     "wof:name":"Dimi",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

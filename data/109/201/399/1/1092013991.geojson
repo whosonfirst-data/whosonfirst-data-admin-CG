@@ -37,6 +37,21 @@
         "Sembe",
         "Semb\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:por_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0645\u0628\u06d2"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +87,7 @@
         }
     ],
     "wof:id":1092013991,
-    "wof:lastmodified":1553718034,
+    "wof:lastmodified":1564200086,
     "wof:name":"Semb\u00e9",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Youngou"
+    ],
+    "name:fra_x_preferred":[
+        "Youngou"
+    ],
+    "name:swe_x_preferred":[
+        "Youngou"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0648\u0646\u06cc\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259904073,
-    "wof:lastmodified":1536749341,
+    "wof:lastmodified":1564200259,
     "wof:name":"Youngou",
     "wof:parent_id":1092012923,
     "wof:placetype":"locality",

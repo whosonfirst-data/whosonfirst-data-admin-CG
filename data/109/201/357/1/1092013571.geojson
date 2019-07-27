@@ -36,6 +36,27 @@
     "name:eng_x_variant":[
         "Gamboma"
     ],
+    "name:fra_x_preferred":[
+        "Gamboma"
+    ],
+    "name:ita_x_preferred":[
+        "Gamboma"
+    ],
+    "name:pol_x_preferred":[
+        "Gamboma"
+    ],
+    "name:por_x_preferred":[
+        "Gamboma"
+    ],
+    "name:ron_x_preferred":[
+        "Gamboma"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0627\u0645\u0628\u0648\u0645\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u7518\u535a\u99ac"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1092013571,
-    "wof:lastmodified":1553718028,
+    "wof:lastmodified":1564200093,
     "wof:name":"Gamboma",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

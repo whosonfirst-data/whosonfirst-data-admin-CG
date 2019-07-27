@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yili"
+    ],
+    "name:deu_x_preferred":[
+        "Yili"
+    ],
+    "name:fra_x_preferred":[
+        "Yili"
+    ],
+    "name:swe_x_preferred":[
+        "Yili"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1226564393,
-    "wof:lastmodified":1536970975,
+    "wof:lastmodified":1564200348,
     "wof:name":"Yili",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

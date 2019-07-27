@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Obeya"
+    ],
+    "name:fra_x_preferred":[
+        "Obeya"
+    ],
+    "name:pol_x_preferred":[
+        "Obeya"
+    ],
+    "name:spa_x_preferred":[
+        "Obeya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1309691103,
-    "wof:lastmodified":1537093291,
+    "wof:lastmodified":1564200126,
     "wof:name":"Obeya",
     "wof:parent_id":1092012631,
     "wof:placetype":"locality",

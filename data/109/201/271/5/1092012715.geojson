@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Boundji"
     ],
+    "name:fra_x_preferred":[
+        "Boundji"
+    ],
+    "name:pol_x_preferred":[
+        "Boundji"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0624\u0646\u062c\u06cc"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1092012715,
-    "wof:lastmodified":1553718032,
+    "wof:lastmodified":1564200095,
     "wof:name":"Boundji",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

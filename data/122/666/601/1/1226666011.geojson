@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nkana"
+    ],
+    "name:lit_x_preferred":[
+        "Nkana"
+    ],
     "name:und_x_variant":[
         "Ankana",
         "Nkana"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1226666011,
-    "wof:lastmodified":1537590662,
+    "wof:lastmodified":1564200360,
     "wof:name":"Nkana",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

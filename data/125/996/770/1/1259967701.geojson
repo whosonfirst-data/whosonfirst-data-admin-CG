@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Mpombo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1259967701,
-    "wof:lastmodified":1536658021,
+    "wof:lastmodified":1564200251,
     "wof:name":"Mpombo",
     "wof:parent_id":1092013685,
     "wof:placetype":"locality",

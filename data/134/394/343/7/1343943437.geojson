@@ -26,6 +26,30 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:che_x_preferred":[
+        "\u0410\u0431\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Aba"
+    ],
+    "name:fra_x_preferred":[
+        "Aba Ier"
+    ],
+    "name:ita_x_preferred":[
+        "Aba"
+    ],
+    "name:pol_x_preferred":[
+        "Aba"
+    ],
+    "name:por_x_preferred":[
+        "Mar Aba"
+    ],
+    "name:ron_x_preferred":[
+        "Aba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Aba",
         "Aba I"
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":1343943437,
-    "wof:lastmodified":1537590728,
+    "wof:lastmodified":1564199585,
     "wof:name":"Aba I",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

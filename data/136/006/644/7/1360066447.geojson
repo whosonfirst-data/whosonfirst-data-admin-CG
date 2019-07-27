@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hamon"
+    ],
+    "name:fra_x_preferred":[
+        "Hamon"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u043c\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Hamon"
+    ],
     "name:und_x_variant":[
         "Haute Madzia",
         "Hamon",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1360066447,
-    "wof:lastmodified":1537590703,
+    "wof:lastmodified":1564200060,
     "wof:name":"Hamon",
     "wof:parent_id":1092013765,
     "wof:placetype":"locality",

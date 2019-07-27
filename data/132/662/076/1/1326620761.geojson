@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u0679\u0633\u0624\u0627\u0644\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326620761,
-    "wof:lastmodified":1537489252,
+    "wof:lastmodified":1564199481,
     "wof:name":"Etsouali",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

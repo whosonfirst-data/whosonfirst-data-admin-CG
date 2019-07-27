@@ -26,8 +26,20 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Madimba"
+    ],
+    "name:fra_x_preferred":[
+        "Madimba"
+    ],
+    "name:swe_x_preferred":[
+        "Madimba"
+    ],
     "name:und_x_variant":[
         "Midimba",
+        "Madimba"
+    ],
+    "name:wln_x_preferred":[
         "Madimba"
     ],
     "src:geom":"geonames",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243081865,
-    "wof:lastmodified":1537590675,
+    "wof:lastmodified":1564200154,
     "wof:name":"Madimba",
     "wof:parent_id":1092012377,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Okongo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u043e\u043d\u0433\u043e"
+    ],
     "name:und_x_variant":[
         "Okogo",
         "Okongo"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209936325,
-    "wof:lastmodified":1537590657,
+    "wof:lastmodified":1564199862,
     "wof:name":"Okongo",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

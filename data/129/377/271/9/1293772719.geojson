@@ -28,11 +28,17 @@
     "name:eng_x_preferred":[
         "Souank\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Souank\u00e9"
+    ],
     "name:und_x_variant":[
         "Suangu\u00e9",
         "Zouank\u00e9",
         "Souanke-Semne",
         "Souank\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0624\u0627\u0646\u06a9\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1293772719,
-    "wof:lastmodified":1537590648,
+    "wof:lastmodified":1564199644,
     "wof:name":"Souanke",
     "wof:parent_id":1092013993,
     "wof:placetype":"locality",

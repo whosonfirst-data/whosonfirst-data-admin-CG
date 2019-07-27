@@ -25,6 +25,42 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:deu_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:gla_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:ita_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b1\u30ea\u30b1\u30ea"
+    ],
+    "name:kor_x_preferred":[
+        "\ucf00\ub9ac\ucf00\ub9ac"
+    ],
+    "name:msa_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:nld_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:nno_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:pol_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:swe_x_preferred":[
+        "Kerikeri"
+    ],
+    "name:zho_x_preferred":[
+        "\u51ef\u91cc\u51ef\u91cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +84,7 @@
         }
     ],
     "wof:id":1226413441,
-    "wof:lastmodified":1536692327,
+    "wof:lastmodified":1564200379,
     "wof:name":"Kerikeri",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sakala"
+    ],
+    "name:deu_x_preferred":[
+        "Sakala"
+    ],
+    "name:est_x_preferred":[
+        "Sakala"
+    ],
+    "name:glg_x_preferred":[
+        "Sakala"
+    ],
+    "name:new_x_preferred":[
+        "\u0938\u0915\u0932\u093e"
+    ],
+    "name:swe_x_preferred":[
+        "Sakala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +66,7 @@
         }
     ],
     "wof:id":1309693497,
-    "wof:lastmodified":1537089865,
+    "wof:lastmodified":1564200125,
     "wof:name":"Sakala",
     "wof:parent_id":1092013827,
     "wof:placetype":"locality",

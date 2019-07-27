@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Inkie"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1309984391,
-    "wof:lastmodified":1536673760,
+    "wof:lastmodified":1564200101,
     "wof:name":"Inkie",
     "wof:parent_id":1092013867,
     "wof:placetype":"locality",

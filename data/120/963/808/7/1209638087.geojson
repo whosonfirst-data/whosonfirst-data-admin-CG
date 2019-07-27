@@ -26,6 +26,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ingama"
+    ],
     "name:und_x_variant":[
         "Imgama",
         "Ingama"
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209638087,
-    "wof:lastmodified":1537590701,
+    "wof:lastmodified":1564199825,
     "wof:name":"Ingama",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

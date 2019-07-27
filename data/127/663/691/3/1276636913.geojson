@@ -25,6 +25,27 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zou"
+    ],
+    "name:deu_x_preferred":[
+        "Zou"
+    ],
+    "name:fra_x_preferred":[
+        "Zou"
+    ],
+    "name:nor_x_preferred":[
+        "Zou"
+    ],
+    "name:por_x_preferred":[
+        "Zou"
+    ],
+    "name:spa_x_preferred":[
+        "Zou"
+    ],
+    "name:swe_x_preferred":[
+        "Zou"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +69,7 @@
         }
     ],
     "wof:id":1276636913,
-    "wof:lastmodified":1536868095,
+    "wof:lastmodified":1564199787,
     "wof:name":"Zou",
     "wof:parent_id":1092013729,
     "wof:placetype":"locality",

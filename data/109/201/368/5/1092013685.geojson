@@ -30,10 +30,31 @@
     "mps:longitude":14.642945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Boko"
+    ],
+    "name:deu_x_preferred":[
+        "Boko"
+    ],
     "name:eng_x_preferred":[
         "Boko"
     ],
     "name:eng_x_variant":[
+        "Boko"
+    ],
+    "name:epo_x_preferred":[
+        "Boko"
+    ],
+    "name:fra_x_preferred":[
+        "Boko"
+    ],
+    "name:ido_x_preferred":[
+        "Boko"
+    ],
+    "name:lin_x_preferred":[
+        "Boko"
+    ],
+    "name:swe_x_preferred":[
         "Boko"
     ],
     "src:geom":"meso",
@@ -71,7 +92,7 @@
         }
     ],
     "wof:id":1092013685,
-    "wof:lastmodified":1553718029,
+    "wof:lastmodified":1564200092,
     "wof:name":"Boko",
     "wof:parent_id":85670041,
     "wof:placetype":"county",
