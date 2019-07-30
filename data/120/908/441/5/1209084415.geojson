@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guela"
+    ],
+    "name:swe_x_preferred":[
+        "Guela"
+    ],
     "name:und_x_variant":[
         "Ng\u00e9la",
         "Gu\u00e9la"
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209084415,
-    "wof:lastmodified":1537590664,
+    "wof:lastmodified":1564199821,
     "wof:name":"Guela",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

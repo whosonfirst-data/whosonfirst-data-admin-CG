@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
+    "name:swe_x_preferred":[
+        "P\u0101ng\u0101la"
+    ],
     "name:und_x_variant":[
         "Ncossa",
         "Pangola",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343453381,
-    "wof:lastmodified":1537590650,
+    "wof:lastmodified":1564199600,
     "wof:name":"Pangala",
     "wof:parent_id":1092013149,
     "wof:placetype":"locality",

@@ -25,6 +25,15 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:grn_x_preferred":[
+        "Kiveve"
+    ],
+    "name:hun_x_preferred":[
+        "Kivev\u00e9"
+    ],
+    "name:spa_x_preferred":[
+        "Kivev\u00e9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +57,7 @@
         }
     ],
     "wof:id":1260080911,
-    "wof:lastmodified":1536990914,
+    "wof:lastmodified":1564199945,
     "wof:name":"Kiveve",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

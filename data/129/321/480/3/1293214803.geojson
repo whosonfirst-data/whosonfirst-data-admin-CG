@@ -25,8 +25,26 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lout\u00e9t\u00e9"
+    ],
+    "name:fra_x_preferred":[
+        "Lout\u00e9t\u00e9"
+    ],
+    "name:ita_x_preferred":[
+        "Lout\u00e9t\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Lout\u00e9t\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "Lout\u00e9t\u00e9"
+    ],
     "name:und_x_variant":[
         "Lout\u00e9t\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0624\u062a\u06cc\u062a\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1293214803,
-    "wof:lastmodified":1537590684,
+    "wof:lastmodified":1564199707,
     "wof:name":"Loutete",
     "wof:parent_id":1092012519,
     "wof:placetype":"locality",

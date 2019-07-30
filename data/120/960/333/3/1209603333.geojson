@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mbama"
+    ],
+    "name:swe_x_preferred":[
+        "Mbama"
+    ],
     "name:und_x_variant":[
         "Malodi",
         "Mbama"
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1209603333,
-    "wof:lastmodified":1537590682,
+    "wof:lastmodified":1564199865,
     "wof:name":"Mbama",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

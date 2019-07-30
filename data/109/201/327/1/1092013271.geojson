@@ -37,6 +37,12 @@
         "Divenie",
         "Div\u00e9ni\u00e9"
     ],
+    "name:fra_x_preferred":[
+        "Div\u00e9ni\u00e9"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0648\u06cc\u0646\u06cc\u06d2"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1092013271,
-    "wof:lastmodified":1553718032,
+    "wof:lastmodified":1564200098,
     "wof:name":"Div\u00e9ni\u00e9",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

@@ -30,10 +30,28 @@
     "mps:longitude":15.419176,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Abala"
+    ],
+    "name:deu_x_preferred":[
+        "Abala"
+    ],
     "name:eng_x_preferred":[
         "Abala"
     ],
     "name:eng_x_variant":[
+        "Abala"
+    ],
+    "name:fra_x_preferred":[
+        "Abala"
+    ],
+    "name:ita_x_preferred":[
+        "Abala"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0431\u0430\u043b\u0430"
+    ],
+    "name:swe_x_preferred":[
         "Abala"
     ],
     "src:geom":"meso",
@@ -71,7 +89,7 @@
         }
     ],
     "wof:id":1092013489,
-    "wof:lastmodified":1553718033,
+    "wof:lastmodified":1564200090,
     "wof:name":"Abala",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

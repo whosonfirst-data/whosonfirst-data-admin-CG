@@ -26,6 +26,27 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cayo"
+    ],
+    "name:deu_x_preferred":[
+        "Cayo"
+    ],
+    "name:fra_x_preferred":[
+        "Cayo"
+    ],
+    "name:nds_x_preferred":[
+        "Cayo"
+    ],
+    "name:pol_x_preferred":[
+        "Cayo"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo"
+    ],
+    "name:swe_x_preferred":[
+        "Cayo"
+    ],
     "name:und_x_variant":[
         "Voungamonio",
         "Cayo"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1293686997,
-    "wof:lastmodified":1537590715,
+    "wof:lastmodified":1564199668,
     "wof:name":"Cayo",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

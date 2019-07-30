@@ -25,6 +25,30 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041e\u0439\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Oyo"
+    ],
+    "name:ita_x_preferred":[
+        "Oyo"
+    ],
+    "name:pol_x_preferred":[
+        "Oyo"
+    ],
+    "name:por_x_preferred":[
+        "Oyo"
+    ],
+    "name:ron_x_preferred":[
+        "Oyo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u06cc\u0648"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u7d04"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +73,7 @@
         }
     ],
     "wof:id":1309782431,
-    "wof:lastmodified":1537489262,
+    "wof:lastmodified":1564200116,
     "wof:name":"Oyo",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

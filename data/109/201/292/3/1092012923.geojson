@@ -37,6 +37,27 @@
         "Madingo-kayes",
         "Madingo-Kayes"
     ],
+    "name:fra_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:ita_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:lit_x_preferred":[
+        "Madingo-Kajesas"
+    ],
+    "name:por_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:ron_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u06cc\u0646\u06af\u0648-\u06a9\u0627\u06cc\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e01\u6208-\u5361\u8036\u65af"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -72,7 +93,7 @@
         }
     ],
     "wof:id":1092012923,
-    "wof:lastmodified":1553718032,
+    "wof:lastmodified":1564200089,
     "wof:name":"Madingo-Kayes",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

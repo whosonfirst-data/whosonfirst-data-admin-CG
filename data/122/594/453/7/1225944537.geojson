@@ -26,6 +26,15 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sinda"
+    ],
+    "name:ceb_x_preferred":[
+        "Sinda"
+    ],
+    "name:swe_x_preferred":[
+        "Sinda"
+    ],
     "name:und_x_variant":[
         "Ouinga",
         "Sinda"
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1225944537,
-    "wof:lastmodified":1537590651,
+    "wof:lastmodified":1564200314,
     "wof:name":"Sinda",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

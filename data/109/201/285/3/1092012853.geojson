@@ -30,11 +30,80 @@
     "mps:longitude":15.966353,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Owando"
+    ],
+    "name:deu_x_preferred":[
+        "Owando"
+    ],
     "name:eng_x_preferred":[
         "Owando"
     ],
     "name:eng_x_variant":[
         "Owando"
+    ],
+    "name:epo_x_preferred":[
+        "Owando"
+    ],
+    "name:fra_x_preferred":[
+        "Owando"
+    ],
+    "name:frr_x_preferred":[
+        "Owando"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5\u05d0\u05e0\u05d3\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Owando"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ef\u30f3\u30c9"
+    ],
+    "name:kon_x_preferred":[
+        "Owando"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc644\ub3c4"
+    ],
+    "name:lin_x_preferred":[
+        "Owando"
+    ],
+    "name:lit_x_preferred":[
+        "Ovandas"
+    ],
+    "name:nld_x_preferred":[
+        "Owando"
+    ],
+    "name:pol_x_preferred":[
+        "Owando"
+    ],
+    "name:por_x_preferred":[
+        "Owando"
+    ],
+    "name:ron_x_preferred":[
+        "Owando"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0432\u0430\u043d\u0434\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Owando"
+    ],
+    "name:swe_x_preferred":[
+        "Owando"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0432\u0430\u043d\u0434\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0648\u0627\u0646\u062f\u0648"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5967\u65fa\u591a"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u65fa\u591a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -71,7 +140,7 @@
         }
     ],
     "wof:id":1092012853,
-    "wof:lastmodified":1553718028,
+    "wof:lastmodified":1564200095,
     "wof:name":"Owando",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

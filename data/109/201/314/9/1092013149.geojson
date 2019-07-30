@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Dongou"
     ],
+    "name:fra_x_preferred":[
+        "Dongou"
+    ],
+    "name:pol_x_preferred":[
+        "Dongou"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u0648\u0646\u06af\u0624"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1092013149,
-    "wof:lastmodified":1553718031,
+    "wof:lastmodified":1564200092,
     "wof:name":"Dongou",
     "wof:parent_id":85670031,
     "wof:placetype":"county",

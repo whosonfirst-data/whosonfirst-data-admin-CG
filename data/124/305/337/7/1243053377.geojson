@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bvi"
+    ],
+    "name:ukr_x_preferred":[
+        "Bvi"
+    ],
     "name:und_x_variant":[
         "Bvie",
         "Bvi"
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1243053377,
-    "wof:lastmodified":1537590716,
+    "wof:lastmodified":1564200207,
     "wof:name":"Bvi",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Essi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1260377069,
-    "wof:lastmodified":1537080465,
+    "wof:lastmodified":1564199945,
     "wof:name":"Essi",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

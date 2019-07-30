@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:est_x_preferred":[
+        "La Mission"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1293180431,
-    "wof:lastmodified":1536733092,
+    "wof:lastmodified":1564199690,
     "wof:name":"La Mission",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

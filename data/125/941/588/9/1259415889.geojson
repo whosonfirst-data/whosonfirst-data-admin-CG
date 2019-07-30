@@ -26,11 +26,32 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:ita_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:lit_x_preferred":[
+        "Madingo-Kajesas"
+    ],
+    "name:por_x_preferred":[
+        "Madingo-Kayes"
+    ],
+    "name:ron_x_preferred":[
+        "Madingo-Kayes"
+    ],
     "name:und_x_variant":[
         "Kayes-Madingou",
         "Kaye",
         "Kayes",
         "Madingo-Kayes"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0688\u06cc\u0646\u06af\u0648-\u06a9\u0627\u06cc\u06cc\u0633"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e01\u6208-\u5361\u8036\u65af"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1259415889,
-    "wof:lastmodified":1537590698,
+    "wof:lastmodified":1564200271,
     "wof:name":"Madingo-Kayes",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

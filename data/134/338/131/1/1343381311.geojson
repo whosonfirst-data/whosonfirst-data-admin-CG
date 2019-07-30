@@ -26,6 +26,24 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gambo"
+    ],
+    "name:deu_x_preferred":[
+        "Gambo"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Gambo"
+    ],
+    "name:spa_x_preferred":[
+        "Gambo"
+    ],
+    "name:srp_x_preferred":[
+        "\u0413\u0430\u043c\u0431\u043e"
+    ],
     "name:und_x_variant":[
         "Gambogo",
         "Gambo"
@@ -53,7 +71,7 @@
         }
     ],
     "wof:id":1343381311,
-    "wof:lastmodified":1537590705,
+    "wof:lastmodified":1564199513,
     "wof:name":"Gambo",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

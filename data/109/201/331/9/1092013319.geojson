@@ -36,6 +36,12 @@
     "name:eng_x_variant":[
         "Kibangou"
     ],
+    "name:fra_x_preferred":[
+        "Kibangou"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u73ed\u53e4"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1092013319,
-    "wof:lastmodified":1553718036,
+    "wof:lastmodified":1564200085,
     "wof:name":"Kibangou",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

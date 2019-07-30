@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Abela"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1326513659,
-    "wof:lastmodified":1537010160,
+    "wof:lastmodified":1564199428,
     "wof:name":"Abela",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

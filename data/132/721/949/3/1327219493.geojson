@@ -26,6 +26,21 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0435\u043d\u0433\u043e"
+    ],
+    "name:ceb_x_preferred":[
+        "Mengo"
+    ],
+    "name:deu_x_preferred":[
+        "Mengo"
+    ],
+    "name:por_x_preferred":[
+        "Mengo"
+    ],
+    "name:swe_x_preferred":[
+        "Mengo"
+    ],
     "name:und_x_variant":[
         "Mingo",
         "Mengo"
@@ -53,7 +68,7 @@
         }
     ],
     "wof:id":1327219493,
-    "wof:lastmodified":1537590674,
+    "wof:lastmodified":1564199499,
     "wof:name":"Mengo",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

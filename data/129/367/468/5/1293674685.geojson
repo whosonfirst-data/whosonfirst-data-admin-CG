@@ -26,6 +26,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ebala"
+    ],
+    "name:swe_x_preferred":[
+        "Ebala"
+    ],
     "name:und_x_variant":[
         "Ebaba",
         "Iballa",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293674685,
-    "wof:lastmodified":1537590712,
+    "wof:lastmodified":1564199677,
     "wof:name":"Ebala",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

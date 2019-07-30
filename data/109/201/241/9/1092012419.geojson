@@ -36,6 +36,15 @@
     "name:eng_x_variant":[
         "Loudima"
     ],
+    "name:fra_x_preferred":[
+        "Loudima"
+    ],
+    "name:pol_x_preferred":[
+        "Loudima"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u8fea\u99ac"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -71,7 +80,7 @@
         }
     ],
     "wof:id":1092012419,
-    "wof:lastmodified":1553718031,
+    "wof:lastmodified":1564200093,
     "wof:name":"Loudima",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

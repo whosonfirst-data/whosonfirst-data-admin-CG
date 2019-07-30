@@ -25,6 +25,12 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matali"
+    ],
+    "name:swe_x_preferred":[
+        "Matali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +54,7 @@
         }
     ],
     "wof:id":1343257797,
-    "wof:lastmodified":1537037142,
+    "wof:lastmodified":1564199568,
     "wof:name":"Matali",
     "wof:parent_id":1092013991,
     "wof:placetype":"locality",

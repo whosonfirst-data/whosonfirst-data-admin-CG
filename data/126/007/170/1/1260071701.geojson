@@ -25,6 +25,18 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Vouga"
+    ],
+    "name:fra_x_preferred":[
+        "Vouga"
+    ],
+    "name:por_x_preferred":[
+        "Vouga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0433\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1260071701,
-    "wof:lastmodified":1537004287,
+    "wof:lastmodified":1564199940,
     "wof:name":"Vouga",
     "wof:parent_id":1092013451,
     "wof:placetype":"locality",

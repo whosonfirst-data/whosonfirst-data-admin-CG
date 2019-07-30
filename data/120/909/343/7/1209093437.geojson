@@ -25,6 +25,9 @@
     "iso:country":"CG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Makana"
+    ],
     "name:und_x_variant":[
         "Makana I",
         "Makana"
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1209093437,
-    "wof:lastmodified":1537590683,
+    "wof:lastmodified":1564199806,
     "wof:name":"Makana",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
