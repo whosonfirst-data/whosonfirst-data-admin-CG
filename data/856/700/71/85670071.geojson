@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PN"
+    ],
     "lbl:latitude":-4.786061,
     "lbl:longitude":11.875494,
     "mps:latitude":-4.797648,
@@ -237,7 +240,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563920495,
+    "wof:lastmodified":1565662282,
     "wof:name":"Pointe Noire",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

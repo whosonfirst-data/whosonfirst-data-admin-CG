@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":1.104321,
     "lbl:longitude":15.737487,
     "mps:latitude":1.097549,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85670035,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563920484,
+    "wof:lastmodified":1565662279,
     "wof:name":"Sangha",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

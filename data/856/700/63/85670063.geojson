@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PL"
+    ],
     "lbl:latitude":-2.181577,
     "lbl:longitude":15.390644,
     "mps:latitude":-2.166785,
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85670063,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563920491,
+    "wof:lastmodified":1565662280,
     "wof:name":"Plateaux",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

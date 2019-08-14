@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CO"
+    ],
     "lbl:latitude":0.104891,
     "lbl:longitude":14.456604,
     "mps:latitude":0.101402,
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85670023,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563920493,
+    "wof:lastmodified":1565662281,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

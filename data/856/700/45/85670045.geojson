@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "department"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CU"
+    ],
     "lbl:latitude":-0.586961,
     "lbl:longitude":16.195392,
     "mps:latitude":-0.604087,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85670045,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "fra"
     ],
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1563920489,
+    "wof:lastmodified":1565662280,
     "wof:name":"Cuvette",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
