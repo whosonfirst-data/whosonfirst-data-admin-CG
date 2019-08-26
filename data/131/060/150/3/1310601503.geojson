@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.08,-4.55333,12.12,-4.51333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Buco",
         "M\u2019Bokou",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310601503,
-    "wof:lastmodified":1537590694,
+    "wof:lastmodified":1566638935,
     "wof:name":"Mboukou",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

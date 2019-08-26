@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.92556,-2.88944,11.96556,-2.84944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327255003,
-    "wof:lastmodified":1536937763,
+    "wof:lastmodified":1566638482,
     "wof:name":"Mouyamba Dakar",
     "wof:parent_id":1092013271,
     "wof:placetype":"locality",

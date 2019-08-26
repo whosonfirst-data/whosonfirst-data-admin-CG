@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.59472,-4.78444,13.63472,-4.74444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Madimba"
     ],
@@ -36,8 +40,7 @@
         "Madimba"
     ],
     "name:und_x_variant":[
-        "Midimba",
-        "Madimba"
+        "Midimba"
     ],
     "name:wln_x_preferred":[
         "Madimba"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243081865,
-    "wof:lastmodified":1564200154,
+    "wof:lastmodified":1566639020,
     "wof:name":"Madimba",
     "wof:parent_id":1092012377,
     "wof:placetype":"locality",

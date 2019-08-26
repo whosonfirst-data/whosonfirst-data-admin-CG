@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.57667,-3.41472,14.61667,-3.37472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -34,7 +38,7 @@
         "gn:id":2255157
     },
     "wof:country":"CG",
-    "wof:geomhash":"452086c89c9929140e9beea7f8ecae3a",
+    "wof:geomhash":"51008fcd453f283b2d29bec6811f6e5d",
     "wof:hierarchy":[
         {
             "country_id":85632541,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209202711,
-    "wof:lastmodified":1536294555,
+    "wof:lastmodified":1566638824,
     "wof:name":"Tchilamana",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     14.59667,
-    -3.3947199999999995,
+    -3.39472,
     14.59667,
-    -3.3947199999999995
+    -3.39472
 ],
   "geometry": {"coordinates":[14.59667,-3.39472],"type":"Point"}
 }

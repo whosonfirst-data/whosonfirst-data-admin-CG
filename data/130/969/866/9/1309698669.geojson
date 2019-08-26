@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.94056,-1.02583,15.98056,-0.98583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:est_x_preferred":[
         "EKA"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309698669,
-    "wof:lastmodified":1564200125,
+    "wof:lastmodified":1566638993,
     "wof:name":"Eka",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

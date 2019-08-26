@@ -10,6 +10,9 @@
     "geom:latitude":1.61361,
     "geom:longitude":16.05167,
     "iso:country":"CG",
+    "lbl:bbox":"16.03167,1.59361,16.07167,1.63361",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -127,9 +130,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u0435\u0441\u0441"
-    ],
-    "name:unk_x_variant":[
-        "Ou\u00e9sso"
     ],
     "name:urd_x_preferred":[
         "\u0648\u06cc\u0633\u0648"
@@ -265,7 +265,7 @@
     "wof:concordances":{
         "gn:id":2255564,
         "gp:id":1282185,
-        "qs:id":1189710,
+        "qs_pg:id":1189710,
         "wd:id":"Q627885",
         "wk:page":"Ou\u00e9sso"
     },
@@ -282,7 +282,7 @@
         }
     ],
     "wof:id":421204353,
-    "wof:lastmodified":1563920987,
+    "wof:lastmodified":1566639006,
     "wof:name":"Ouesso",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

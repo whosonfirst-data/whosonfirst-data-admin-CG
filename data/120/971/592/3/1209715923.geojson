@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.54556,-4.55306,12.58556,-4.51306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gounda",
         "Ngounda"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209715923,
-    "wof:lastmodified":1537590703,
+    "wof:lastmodified":1566638804,
     "wof:name":"Ngounda",
     "wof:parent_id":1092013995,
     "wof:placetype":"locality",

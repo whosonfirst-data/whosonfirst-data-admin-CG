@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.66944,-4.82806,14.70944,-4.78806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1327115657,
-    "wof:lastmodified":1536639340,
+    "wof:lastmodified":1566638528,
     "wof:name":"Mpakamatadi I",
     "wof:parent_id":1092013685,
     "wof:placetype":"locality",

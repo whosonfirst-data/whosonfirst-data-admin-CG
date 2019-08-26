@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.641762,
     "lbl:longitude":14.642945,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"POOL",
     "meso:gadm_admin":"Boko",
     "meso:gadm_hasc2":"CG.PO.BO",
@@ -30,6 +32,7 @@
     "mps:longitude":14.642945,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Boko"
     ],
@@ -58,9 +61,9 @@
         "Boko"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-04-28",
+    "src:population_date":"2007-04-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-04-28",
     "statoids:capital":"Boko",
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1092013685,
-    "wof:lastmodified":1564200092,
+    "wof:lastmodified":1566638967,
     "wof:name":"Boko",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

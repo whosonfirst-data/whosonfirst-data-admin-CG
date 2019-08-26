@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.74833,1.41611,17.78833,1.45611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Bimbo"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293096147,
-    "wof:lastmodified":1564199623,
+    "wof:lastmodified":1566638629,
     "wof:name":"Bimbo",
     "wof:parent_id":1092013239,
     "wof:placetype":"locality",

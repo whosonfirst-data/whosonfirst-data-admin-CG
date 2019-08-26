@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-4.62308,
     "lbl:longitude":12.004262,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KOUILOU",
     "meso:gadm_admin":"Loandjili",
     "meso:gadm_hasc2":"CG.PN.LO",
@@ -30,6 +32,7 @@
     "mps:longitude":12.004262,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pointe-Noire"
@@ -66,7 +69,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"Loandjili",
@@ -87,7 +90,7 @@
         "gn:id":8051169,
         "gp:id":55998401,
         "hasc:id":"CG.PN.LO",
-        "qs:id":1205697,
+        "qs_pg:id":1205697,
         "wd:id":"Q7208306",
         "wk:page":"Pointe-Noire District"
     },
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":421171019,
-    "wof:lastmodified":1563920994,
+    "wof:lastmodified":1566639008,
     "wof:name":"Loandjili",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

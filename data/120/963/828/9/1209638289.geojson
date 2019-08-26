@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.57889,-2.6075,13.61889,-2.5675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mbama",
         "Mbomo"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1209638289,
-    "wof:lastmodified":1537590676,
+    "wof:lastmodified":1566638787,
     "wof:name":"Mbomo",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

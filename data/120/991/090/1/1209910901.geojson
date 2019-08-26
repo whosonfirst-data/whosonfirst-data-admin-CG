@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.85083,-2.12778,12.89083,-2.08778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0431\u0438\u043d\u0434\u0430"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1209910901,
-    "wof:lastmodified":1564199814,
+    "wof:lastmodified":1566638779,
     "wof:name":"Mbinda",
     "wof:parent_id":1092013401,
     "wof:placetype":"locality",

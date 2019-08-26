@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.83472,-4.49028,11.87472,-4.45028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fin_x_preferred":[
         "Kondi"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1360208797,
-    "wof:lastmodified":1564200065,
+    "wof:lastmodified":1566638946,
     "wof:name":"Kondi",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

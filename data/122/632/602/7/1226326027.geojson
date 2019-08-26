@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.66528,-1.08389,14.70528,-1.04389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ongia",
         "Onguia"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226326027,
-    "wof:lastmodified":1537590654,
+    "wof:lastmodified":1566639179,
     "wof:name":"Onguia",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

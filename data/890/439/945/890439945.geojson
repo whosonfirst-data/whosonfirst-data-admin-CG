@@ -11,8 +11,11 @@
     "geom:longitude":14.58056,
     "gn:country":"CG",
     "gn:fcode":"PPL",
-    "gn:pop":3113,
+    "gn:population":3113,
     "iso:country":"CG",
+    "lbl:bbox":"14.56056,1.62806,14.60056,1.66806",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -22,7 +25,7 @@
     "name:eng_x_preferred":[
         "Semb\u00e9 District"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ssembe"
     ],
     "ne:ADM0CAP":0.0,
@@ -133,7 +136,7 @@
     "wof:concordances":{
         "gn:id":2255304,
         "gp:id":1282309,
-        "qs:id":278320,
+        "qs_pg:id":278320,
         "wd:id":"Q7449182",
         "wk:page":"Semb\u00e9 District"
     },
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":890439945,
-    "wof:lastmodified":1563920995,
+    "wof:lastmodified":1566639009,
     "wof:name":"S\u00e9mb\u00e9",
     "wof:parent_id":1092013991,
     "wof:placetype":"locality",

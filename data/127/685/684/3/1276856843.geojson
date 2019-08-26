@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.49111,-1.25639,15.53111,-1.21639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Okamamou\u00e9",
         "Okamamw\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276856843,
-    "wof:lastmodified":1537590658,
+    "wof:lastmodified":1566638746,
     "wof:name":"Okamamwe",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

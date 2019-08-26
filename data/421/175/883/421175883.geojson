@@ -10,6 +10,9 @@
     "geom:latitude":0.00694,
     "geom:longitude":15.63333,
     "iso:country":"CG",
+    "lbl:bbox":"15.61333,-0.01306,15.65333,0.02694",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -53,7 +56,7 @@
     "name:swe_x_preferred":[
         "Makoua"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makoue"
     ],
     "name:urd_x_preferred":[
@@ -187,7 +190,7 @@
     "wof:concordances":{
         "gn:id":2257879,
         "gp:id":1280981,
-        "qs:id":1034573,
+        "qs_pg:id":1034573,
         "wd:id":"Q1667693",
         "wk:page":"Makoua"
     },
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":421175883,
-    "wof:lastmodified":1561845118,
+    "wof:lastmodified":1566639007,
     "wof:name":"Makoua",
     "wof:parent_id":1092012799,
     "wof:placetype":"locality",

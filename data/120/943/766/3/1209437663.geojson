@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.29611,-3.52333,13.33611,-3.48333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -34,7 +38,7 @@
         "gn:id":2568748
     },
     "wof:country":"CG",
-    "wof:geomhash":"4042f0fd6d835738193e038a43af8652",
+    "wof:geomhash":"0993bfa156663af7f3f0924ff0b1a686",
     "wof:hierarchy":[
         {
             "country_id":85632541,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209437663,
-    "wof:lastmodified":1536287054,
+    "wof:lastmodified":1566638836,
     "wof:name":"Etebe II",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     13.31611,
-    -3.5033300000000005,
+    -3.50333,
     13.31611,
-    -3.5033300000000005
+    -3.50333
 ],
   "geometry": {"coordinates":[13.31611,-3.50333],"type":"Point"}
 }

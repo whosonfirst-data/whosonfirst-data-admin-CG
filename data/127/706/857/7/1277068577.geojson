@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.78972,-2.27972,12.82972,-2.23972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma\u00efssa",
         "Ma\u00efsa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1277068577,
-    "wof:lastmodified":1537590683,
+    "wof:lastmodified":1566638701,
     "wof:name":"Maisa",
     "wof:parent_id":1092013401,
     "wof:placetype":"locality",

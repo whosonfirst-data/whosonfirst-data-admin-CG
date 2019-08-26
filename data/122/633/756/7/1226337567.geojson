@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.89472,1.48833,15.93472,1.52833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kati-Kati",
         "Katy-Katy"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226337567,
-    "wof:lastmodified":1537590698,
+    "wof:lastmodified":1566639168,
     "wof:name":"Katy-Katy",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

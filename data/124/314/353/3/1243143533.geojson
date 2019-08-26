@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"16.045,-1.10417,16.085,-1.06417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Miaba",
         "Niaba"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243143533,
-    "wof:lastmodified":1537590675,
+    "wof:lastmodified":1566639050,
     "wof:name":"Niaba",
     "wof:parent_id":1092012853,
     "wof:placetype":"locality",

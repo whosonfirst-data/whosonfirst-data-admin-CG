@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"18.48861,3.08528,18.52861,3.12528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Moks\u00e9tene",
         "Mokwet\u00e9n\u00e9",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326827729,
-    "wof:lastmodified":1537590672,
+    "wof:lastmodified":1566638500,
     "wof:name":"Mokpetene",
     "wof:parent_id":1092013149,
     "wof:placetype":"locality",

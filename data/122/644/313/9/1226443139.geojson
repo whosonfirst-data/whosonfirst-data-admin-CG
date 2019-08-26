@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.95806,-4.57556,11.99806,-4.53556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:dan_x_preferred":[
         "Bouli"
     ],
@@ -36,8 +40,7 @@
         "Bouli"
     ],
     "name:und_x_variant":[
-        "Bou\u00efli",
-        "Bouli"
+        "Bou\u00efli"
     ],
     "name:wuu_x_preferred":[
         "\u96ea\u4eba\u6ce2\u5229"
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1226443139,
-    "wof:lastmodified":1564200327,
+    "wof:lastmodified":1566639155,
     "wof:name":"Bouli",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

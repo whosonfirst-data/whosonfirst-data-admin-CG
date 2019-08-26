@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.0875,-0.20444,17.1275,-0.16444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ouroum",
         "Ourumbi",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293675425,
-    "wof:lastmodified":1537590651,
+    "wof:lastmodified":1566638673,
     "wof:name":"Ourombi",
     "wof:parent_id":1092012757,
     "wof:placetype":"locality",

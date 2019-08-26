@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.04755,-4.13616,13.08755,-4.09616",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Loudima"
     ],
@@ -34,8 +38,7 @@
     ],
     "name:und_x_variant":[
         "Loudima Poste",
-        "Louidma",
-        "Loudima"
+        "Louidma"
     ],
     "name:zho_x_preferred":[
         "\u76e7\u8fea\u99ac"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209729291,
-    "wof:lastmodified":1564199900,
+    "wof:lastmodified":1566638837,
     "wof:name":"Loudima",
     "wof:parent_id":1092012419,
     "wof:placetype":"locality",

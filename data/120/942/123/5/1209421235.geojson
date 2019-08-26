@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.63167,-4.38167,12.67167,-4.34167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -34,7 +38,7 @@
         "gn:id":2567012
     },
     "wof:country":"CG",
-    "wof:geomhash":"2ab3e036fffc3500d5a8c4307667b7c5",
+    "wof:geomhash":"3cac0f5fea75093642ea8c1a5254541b",
     "wof:hierarchy":[
         {
             "country_id":85632541,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209421235,
-    "wof:lastmodified":1536287524,
+    "wof:lastmodified":1566638830,
     "wof:name":"Mvoungouti",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     12.65167,
-    -4.361669999999998,
+    -4.36167,
     12.65167,
-    -4.361669999999998
+    -4.36167
 ],
   "geometry": {"coordinates":[12.65167,-4.36167],"type":"Point"}
 }

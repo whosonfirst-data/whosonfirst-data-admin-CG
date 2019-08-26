@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.95306,-4.97306,11.99306,-4.93306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Fouta"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293889875,
-    "wof:lastmodified":1564199713,
+    "wof:lastmodified":1566638700,
     "wof:name":"Fouta",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

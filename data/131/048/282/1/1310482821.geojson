@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.61056,-3.74861,14.65056,-3.70861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kinimbi",
         "Kinimbi Nzouala"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310482821,
-    "wof:lastmodified":1537590693,
+    "wof:lastmodified":1566638885,
     "wof:name":"Kinimbi Nzouala",
     "wof:parent_id":1092013729,
     "wof:placetype":"locality",

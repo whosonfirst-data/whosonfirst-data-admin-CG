@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.87278,-3.66111,13.91278,-3.62111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Masia"
     ],
@@ -51,8 +55,7 @@
         "Mas\u00eda"
     ],
     "name:und_x_variant":[
-        "Massia",
-        "Masia"
+        "Massia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1226060327,
-    "wof:lastmodified":1564200391,
+    "wof:lastmodified":1566639208,
     "wof:name":"Masia",
     "wof:parent_id":1092012519,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.17361,-4.21139,15.21361,-4.17139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209602389,
-    "wof:lastmodified":1536282124,
+    "wof:lastmodified":1566638815,
     "wof:name":"Kimpanzou",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

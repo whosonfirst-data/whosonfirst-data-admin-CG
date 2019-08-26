@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.01,-2.23194,15.05,-2.19194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ambabou",
         "Anbabou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327253671,
-    "wof:lastmodified":1537590727,
+    "wof:lastmodified":1566638482,
     "wof:name":"Anbabou",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

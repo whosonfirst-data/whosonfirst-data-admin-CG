@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.88444,-4.68667,11.92444,-4.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Louvouti",
         "Louvouiti"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1360009817,
-    "wof:lastmodified":1537590684,
+    "wof:lastmodified":1566638940,
     "wof:name":"Louvouiti",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",
