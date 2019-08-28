@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.43472,-2.75111,12.47472,-2.71111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bangolo"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1327051279,
-    "wof:lastmodified":1564199456,
+    "wof:lastmodified":1566638490,
     "wof:name":"Bangolo",
     "wof:parent_id":1092013451,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.42556,-1.30389,15.46556,-1.26389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Eko"
     ],
@@ -42,8 +46,7 @@
         "Eko"
     ],
     "name:und_x_variant":[
-        "Ekaga",
-        "Eko"
+        "Ekaga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1259865073,
-    "wof:lastmodified":1564200311,
+    "wof:lastmodified":1566639142,
     "wof:name":"Eko",
     "wof:parent_id":1092013489,
     "wof:placetype":"locality",

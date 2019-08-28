@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.12333,-1.20667,15.16333,-1.16667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mwagi",
         "M\u2019Vagui",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226128735,
-    "wof:lastmodified":1537590666,
+    "wof:lastmodified":1566639195,
     "wof:name":"Mvagui",
     "wof:parent_id":1092012809,
     "wof:placetype":"locality",

@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":0.133504,
     "lbl:longitude":15.904453,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":0.133504,
     "mps:longitude":15.904453,
     "mz:hierarchy_label":1,
@@ -948,10 +950,7 @@
         "\u041a\u043e\u043d\u0491\u043e",
         "\u041a\u043e\u043d\u0491\u043e - \u0411\u0440\u0430\u0437\u0437\u0430\u0432\u0456\u043b\u044c"
     ],
-    "name:und_x_preferred":[
-        "Republika Kongo"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moyen-Congo"
     ],
     "name:urd_x_preferred":[
@@ -1113,7 +1112,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"242",
     "statoids:ds":"RCB",
@@ -1157,7 +1156,7 @@
         "mzb:id":"congo-brazzaville",
         "ne:adm0_a3":"COG",
         "nyt:id":"N81092008042690022071",
-        "qs:id":91173,
+        "qs_pg:id":91173,
         "uncrt:id":"RCB",
         "wd:id":"Q971",
         "wk:page":"Republic of the Congo",
@@ -1179,7 +1178,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662282,
+    "wof:lastmodified":1566638621,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

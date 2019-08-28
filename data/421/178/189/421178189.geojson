@@ -10,6 +10,9 @@
     "geom:latitude":-4.15361,
     "geom:longitude":13.55,
     "iso:country":"CG",
+    "lbl:bbox":"13.53,-4.17361,13.57,-4.13361",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -71,7 +74,7 @@
     "name:swe_x_preferred":[
         "Madingou"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Madingo"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2257990,
         "gp:id":1280927,
-        "qs:id":278323,
+        "qs_pg:id":278323,
         "wd:id":"Q1971302",
         "wk:page":"Madingou, Bouenza"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421178189,
-    "wof:lastmodified":1563920993,
+    "wof:lastmodified":1566639008,
     "wof:name":"Madingou",
     "wof:parent_id":1092012433,
     "wof:placetype":"locality",

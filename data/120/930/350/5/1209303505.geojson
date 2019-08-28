@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.89667,1.41333,15.93667,1.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -34,7 +38,7 @@
         "gn:id":2259632
     },
     "wof:country":"CG",
-    "wof:geomhash":"0a7f20d063da445c43cdd86c7028c911",
+    "wof:geomhash":"7649e87f6f597cbae56002c8a0bc711d",
     "wof:hierarchy":[
         {
             "country_id":85632541,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209303505,
-    "wof:lastmodified":1536291274,
+    "wof:lastmodified":1566638783,
     "wof:name":"Indouma I",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    15.916670000000002,
+    15.91667,
     1.43333,
-    15.916670000000002,
+    15.91667,
     1.43333
 ],
   "geometry": {"coordinates":[15.91667,1.43333],"type":"Point"}

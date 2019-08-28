@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.62222,-4.39333,11.66222,-4.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mboutila",
         "Boutila"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343359469,
-    "wof:lastmodified":1537590716,
+    "wof:lastmodified":1566638580,
     "wof:name":"Boutila",
     "wof:parent_id":1092012923,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.09528,-3.82556,12.13528,-3.78556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bassoupoulawawou",
         "Basoupoulawawou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259675357,
-    "wof:lastmodified":1537590732,
+    "wof:lastmodified":1566639129,
     "wof:name":"Basoupoulawawou",
     "wof:parent_id":1092013319,
     "wof:placetype":"locality",

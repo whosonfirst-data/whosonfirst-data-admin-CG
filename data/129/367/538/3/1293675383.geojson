@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.63222,0.02278,15.67222,0.06278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bendz\u00e9-Nagou\u00e9nd\u00e9",
         "Banzana-Gou\u00e9nd\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293675383,
-    "wof:lastmodified":1537590722,
+    "wof:lastmodified":1566638673,
     "wof:name":"Banzana-Gouende",
     "wof:parent_id":1092012799,
     "wof:placetype":"locality",

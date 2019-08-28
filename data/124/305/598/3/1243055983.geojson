@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.67,-4.33833,14.71,-4.29833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Makokosa",
         "Makokossa"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243055983,
-    "wof:lastmodified":1537590682,
+    "wof:lastmodified":1566639065,
     "wof:name":"Makokossa",
     "wof:parent_id":1092013765,
     "wof:placetype":"locality",

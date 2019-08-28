@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.99167,2.7875,18.03167,2.8275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Envell\u00e9",
         "Eny\u00e9l\u00e9",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343784223,
-    "wof:lastmodified":1537590709,
+    "wof:lastmodified":1566638572,
     "wof:name":"Enyelle",
     "wof:parent_id":1092013149,
     "wof:placetype":"locality",

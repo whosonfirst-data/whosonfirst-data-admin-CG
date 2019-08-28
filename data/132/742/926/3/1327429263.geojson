@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.01944,1.04444,17.05944,1.08444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bouba"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327429263,
-    "wof:lastmodified":1564199506,
+    "wof:lastmodified":1566638526,
     "wof:name":"Bouba",
     "wof:parent_id":1092013193,
     "wof:placetype":"locality",

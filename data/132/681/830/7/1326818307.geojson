@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.61444,-4.91056,14.65444,-4.87056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mandonb\u00e9",
         "Mandomb\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326818307,
-    "wof:lastmodified":1537590682,
+    "wof:lastmodified":1566638464,
     "wof:name":"Mandombe",
     "wof:parent_id":1092013685,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":18.06667,
     "gn:country":"CG",
     "gn:fcode":"PPLA",
-    "gn:pop":20859,
+    "gn:population":20859,
     "iso:country":"CG",
+    "lbl:bbox":"18.04667,1.61806,18.08667,1.65806",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -133,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u043c\u043f\u0444\u043e\u043d\u0434\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Desbordesville"
     ],
     "name:urd_x_preferred":[
@@ -255,7 +258,7 @@
     "wof:concordances":{
         "gn:id":2259655,
         "gp:id":1280147,
-        "qs:id":1034591,
+        "qs_pg:id":1034591,
         "wd:id":"Q1142926",
         "wk:page":"Impfondo"
     },
@@ -272,7 +275,7 @@
         }
     ],
     "wof:id":890437063,
-    "wof:lastmodified":1563920995,
+    "wof:lastmodified":1566639009,
     "wof:name":"Impfondo",
     "wof:parent_id":1092013239,
     "wof:placetype":"locality",

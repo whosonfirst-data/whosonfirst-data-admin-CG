@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"11.78639,-4.57556,11.82639,-4.53556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "W\u00e9ka",
         "Ou\u00e9ka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327134687,
-    "wof:lastmodified":1537590730,
+    "wof:lastmodified":1566638483,
     "wof:name":"Oueka",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",

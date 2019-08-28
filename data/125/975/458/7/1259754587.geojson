@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.73083,-0.03778,15.77083,0.00222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ikemou",
         "Ekimou"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1259754587,
-    "wof:lastmodified":1537590702,
+    "wof:lastmodified":1566639140,
     "wof:name":"Ekimou",
     "wof:parent_id":1092012799,
     "wof:placetype":"locality",

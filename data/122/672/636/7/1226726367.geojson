@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.17583,-1.04556,17.21583,-1.00556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "L\u00e9kendzi\u00e9",
         "Likendz\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226726367,
-    "wof:lastmodified":1537590733,
+    "wof:lastmodified":1566639151,
     "wof:name":"Likendze",
     "wof:parent_id":1092012757,
     "wof:placetype":"locality",

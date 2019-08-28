@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.02917,-3.98833,14.06917,-3.94833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mangantza",
         "Mangandza"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292907637,
-    "wof:lastmodified":1537590681,
+    "wof:lastmodified":1566638678,
     "wof:name":"Mangandza",
     "wof:parent_id":1092012519,
     "wof:placetype":"locality",

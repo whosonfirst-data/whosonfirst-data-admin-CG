@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.44639,-3.61389,14.48639,-3.57389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mbama"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1277165397,
-    "wof:lastmodified":1564199801,
+    "wof:lastmodified":1566638771,
     "wof:name":"Mbama",
     "wof:parent_id":1092013729,
     "wof:placetype":"locality",

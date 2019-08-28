@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.10528,-3.92806,14.14528,-3.88806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632541
@@ -34,7 +38,7 @@
         "gn:id":2259148
     },
     "wof:country":"CG",
-    "wof:geomhash":"f4c0fefda5d38a5aa719715f5eecfaba",
+    "wof:geomhash":"32bbfa0710dce94ed72eba2067197103",
     "wof:hierarchy":[
         {
             "country_id":85632541,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209018325,
-    "wof:lastmodified":1536300224,
+    "wof:lastmodified":1566638780,
     "wof:name":"Kimbousi",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    14.125279999999998,
+    14.12528,
     -3.90806,
-    14.125279999999998,
+    14.12528,
     -3.90806
 ],
   "geometry": {"coordinates":[14.12528,-3.90806],"type":"Point"}

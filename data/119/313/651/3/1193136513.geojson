@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"13.13639,-3.11472,13.17639,-3.07472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Yaya"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1193136513,
-    "wof:lastmodified":1564199918,
+    "wof:lastmodified":1566638851,
     "wof:name":"Yaya",
     "wof:parent_id":1092013021,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"16.59278,-0.52556,16.63278,-0.48556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esombi",
         "Essombi"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293760069,
-    "wof:lastmodified":1537590731,
+    "wof:lastmodified":1566638652,
     "wof:name":"Essombi",
     "wof:parent_id":1092012807,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-3.88182,
     "lbl:longitude":15.394516,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"POOL",
     "meso:gadm_admin":"Ngamaba",
     "meso:gadm_hasc2":"CG.PO.GT\t",
@@ -30,6 +32,7 @@
     "mps:longitude":15.394516,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Goma Ts\u00e9-Ts\u00e9"
     ],
@@ -38,9 +41,9 @@
         "Ngamaba"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-04-28",
+    "src:population_date":"2007-04-28",
     "statoids:area_km":"",
     "statoids:as_of_date":"2007-04-28",
     "statoids:capital":"Goma Ts\u00e9-Ts\u00e9",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092013899,
-    "wof:lastmodified":1553718028,
+    "wof:lastmodified":1566638972,
     "wof:name":"Goma Ts\u00e9-Ts\u00e9\t",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

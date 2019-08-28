@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.42667,-2.45861,14.46667,-2.41861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gambi\u00e9",
         "Ganbi\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309791319,
-    "wof:lastmodified":1537590705,
+    "wof:lastmodified":1566638983,
     "wof:name":"Ganbie",
     "wof:parent_id":1092013609,
     "wof:placetype":"locality",

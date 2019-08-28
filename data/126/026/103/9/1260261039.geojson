@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.67056,-4.76528,14.71056,-4.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Paris"
     ],
@@ -759,7 +763,7 @@
         }
     ],
     "wof:id":1260261039,
-    "wof:lastmodified":1564199965,
+    "wof:lastmodified":1566638880,
     "wof:name":"Paris",
     "wof:parent_id":1092013685,
     "wof:placetype":"locality",

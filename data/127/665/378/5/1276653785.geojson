@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.60611,-4.03306,12.64611,-3.99306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kibindouka",
         "Ibindouka"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1276653785,
-    "wof:lastmodified":1537590730,
+    "wof:lastmodified":1566638763,
     "wof:name":"Ibindouka",
     "wof:parent_id":421204287,
     "wof:placetype":"locality",

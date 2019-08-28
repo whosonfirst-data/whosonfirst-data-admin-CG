@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.45167,-2.36583,14.49167,-2.32583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1293186329,
-    "wof:lastmodified":1536724675,
+    "wof:lastmodified":1566638682,
     "wof:name":"Lefourou",
     "wof:parent_id":1092013609,
     "wof:placetype":"locality",

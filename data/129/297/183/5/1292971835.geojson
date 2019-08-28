@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"14.78694,0.29139,14.82694,0.33139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Villages Ngh\u00e9l\u00e9",
         "Ng\u00e9l\u00e9",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1292971835,
-    "wof:lastmodified":1537590663,
+    "wof:lastmodified":1566638679,
     "wof:name":"Nguele",
     "wof:parent_id":1092012673,
     "wof:placetype":"locality",

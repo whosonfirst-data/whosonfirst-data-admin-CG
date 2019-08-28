@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"17.65139,2.87611,17.69139,2.91611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Monbelly",
         "Mimbelli",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243385687,
-    "wof:lastmodified":1537590674,
+    "wof:lastmodified":1566639011,
     "wof:name":"Mimbelly",
     "wof:parent_id":1092013149,
     "wof:placetype":"locality",

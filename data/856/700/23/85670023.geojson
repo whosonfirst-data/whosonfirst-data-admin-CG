@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.104891,
     "lbl:longitude":14.456604,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.101402,
     "mps:longitude":14.425651,
     "mz:hierarchy_label":1,
@@ -166,7 +167,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439 \u041a\u044e\u0432\u0435\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "R\u00e9gion de la Cuvette-Ouest"
     ],
     "name:urd_x_preferred":[
@@ -250,9 +251,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-04-28",
+    "src:population_date":"2007-04-28",
     "statoids:area_km":"26,600",
     "statoids:area_mi":"10,270",
     "statoids:as_of_date":"2007-04-28",
@@ -277,7 +278,7 @@
         "gp:id":55998384,
         "hasc:id":"CG.CO",
         "iso:id":"CG-15",
-        "qs:id":1024056,
+        "qs_pg:id":1024056,
         "unlc:id":"CG-15",
         "wd:id":"Q125711",
         "wk:page":"Cuvette-Ouest Department"
@@ -298,11 +299,10 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1565662281,
+    "wof:lastmodified":1566638619,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"department",
     "wof:population":72999,
     "wof:population_rank":8,

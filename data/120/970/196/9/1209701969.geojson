@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"15.34278,-1.06083,15.38278,-1.02083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Saint-Fran\u00e7ois de Boundji",
         "Saint-Fran\u00e7ois"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209701969,
-    "wof:lastmodified":1537590733,
+    "wof:lastmodified":1566638794,
     "wof:name":"Saint-Francois",
     "wof:parent_id":1092012715,
     "wof:placetype":"locality",

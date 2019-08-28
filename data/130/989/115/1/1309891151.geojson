@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"16.26917,-1.99361,16.30917,-1.95361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kangakanga",
         "Nkangakanga"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1309891151,
-    "wof:lastmodified":1537590699,
+    "wof:lastmodified":1566639002,
     "wof:name":"Nkangakanga",
     "wof:parent_id":1092013571,
     "wof:placetype":"locality",

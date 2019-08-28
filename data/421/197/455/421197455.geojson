@@ -10,6 +10,9 @@
     "geom:latitude":-0.8725,
     "geom:longitude":14.82056,
     "iso:country":"CG",
+    "lbl:bbox":"14.80056,-0.8925,14.84056,-0.8525",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -77,7 +80,7 @@
     "name:swe_x_preferred":[
         "Ewo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eouo"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gn:id":2260009,
         "gp:id":1279959,
-        "qs:id":139212,
+        "qs_pg:id":139212,
         "wd:id":"Q2362433",
         "wk:page":"Ewo"
     },
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":421197455,
-    "wof:lastmodified":1563920993,
+    "wof:lastmodified":1566639008,
     "wof:name":"Ewo",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

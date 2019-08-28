@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Brazzaville",
     "iso:country":"CG",
+    "lbl:bbox":"12.04667,-3.10333,12.08667,-3.06333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Malemb\u00e9",
         "Mallemb\u00e9"
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1327051299,
-    "wof:lastmodified":1537590682,
+    "wof:lastmodified":1566638490,
     "wof:name":"Mallembe",
     "wof:parent_id":1092013319,
     "wof:placetype":"locality",
