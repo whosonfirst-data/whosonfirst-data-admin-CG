@@ -571,6 +571,9 @@
     },
     "wof:country":"CG",
     "wof:created":1459009242,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b5b76c4f92781e2229eec677cfd0972",
     "wof:hierarchy":[
         {
@@ -582,7 +585,7 @@
         }
     ],
     "wof:id":421180023,
-    "wof:lastmodified":1566639007,
+    "wof:lastmodified":1582349477,
     "wof:name":"Brazzaville",
     "wof:parent_id":1092012549,
     "wof:placetype":"locality",

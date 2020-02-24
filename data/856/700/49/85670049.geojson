@@ -217,6 +217,9 @@
         "wk:page":"Kouilou Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9848c1bfe8b2dd0ea76d6247d0113b91",
     "wof:hierarchy":[
         {
@@ -232,7 +235,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638620,
+    "wof:lastmodified":1582349468,
     "wof:name":"Kouilou",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

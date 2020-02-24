@@ -90,6 +90,9 @@
     },
     "wof:country":"CG",
     "wof:created":1459009416,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"53cf010c9e65884075aeb01d8e2253c2",
     "wof:hierarchy":[
         {
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":421184609,
-    "wof:lastmodified":1566639008,
+    "wof:lastmodified":1582349477,
     "wof:name":"Nkayi District",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

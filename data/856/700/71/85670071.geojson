@@ -226,6 +226,9 @@
         "wk:page":"Kouilou Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9cebb8166956a9f5972e6b9e97e4f251",
     "wof:hierarchy":[
         {
@@ -241,7 +244,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638620,
+    "wof:lastmodified":1582349468,
     "wof:name":"Pointe Noire",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

@@ -287,6 +287,9 @@
         "wd:id":"Q863554"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7081f5d9d2bbb33316f9f1d0e6275554",
     "wof:hierarchy":[
         {
@@ -302,7 +305,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638617,
+    "wof:lastmodified":1582349467,
     "wof:name":"Likouala",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

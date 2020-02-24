@@ -105,6 +105,9 @@
     },
     "wof:country":"CG",
     "wof:created":1459010179,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0d1238b39322488f127dfe5900a79c07",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":421204287,
-    "wof:lastmodified":1566639006,
+    "wof:lastmodified":1582349476,
     "wof:name":"Louvakou (Loubomo)",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

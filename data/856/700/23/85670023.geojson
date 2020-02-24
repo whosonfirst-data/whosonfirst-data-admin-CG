@@ -284,6 +284,9 @@
         "wk:page":"Cuvette-Ouest Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bfe1bc7a8007fa21d6682950ce4bae4b",
     "wof:hierarchy":[
         {
@@ -299,7 +302,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638619,
+    "wof:lastmodified":1582349468,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
