@@ -275,6 +275,9 @@
         "wk:page":"Sangha Department (Republic of the Congo)"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fcaae86ffc826b97442855f4ff8ecd4f",
     "wof:hierarchy":[
         {
@@ -290,7 +293,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638615,
+    "wof:lastmodified":1582349466,
     "wof:name":"Sangha",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

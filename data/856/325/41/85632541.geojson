@@ -1164,6 +1164,11 @@
     },
     "wof:country":"CG",
     "wof:country_alpha3":"COG",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "naturalearth",
+        "meso"
+    ],
     "wof:geomhash":"2fca18834a08fab9fdfc946920ffcb35",
     "wof:hierarchy":[
         {
@@ -1178,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638621,
+    "wof:lastmodified":1583229429,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

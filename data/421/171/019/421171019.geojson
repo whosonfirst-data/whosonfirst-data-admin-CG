@@ -96,6 +96,9 @@
     },
     "wof:country":"CG",
     "wof:created":1459008879,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8ad05279ef7c98918b6ff63a0a43a7c8",
     "wof:hierarchy":[
         {
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":421171019,
-    "wof:lastmodified":1566639008,
+    "wof:lastmodified":1582349477,
     "wof:name":"Loandjili",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

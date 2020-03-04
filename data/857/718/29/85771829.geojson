@@ -88,6 +88,9 @@
         "wd:id":"Q13127755"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b7c9a1bd37d23d7b804be263c838246",
     "wof:hierarchy":[
         {
@@ -103,7 +106,7 @@
     "wof:lang":[
         "fre"
     ],
-    "wof:lastmodified":1534379250,
+    "wof:lastmodified":1582349464,
     "wof:name":"Losange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

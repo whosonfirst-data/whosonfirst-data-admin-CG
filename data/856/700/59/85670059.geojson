@@ -282,6 +282,9 @@
         "wk:page":"Niari Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f1f4501f0500365ee6a49ee2562fe213",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638614,
+    "wof:lastmodified":1582349465,
     "wof:name":"Niari",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

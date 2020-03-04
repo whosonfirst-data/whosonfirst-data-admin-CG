@@ -285,6 +285,9 @@
         "wk:page":"Cuvette Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eab65acca504d495e6378f4f6ef3f38f",
     "wof:hierarchy":[
         {
@@ -300,7 +303,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638616,
+    "wof:lastmodified":1582349466,
     "wof:name":"Cuvette",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

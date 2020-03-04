@@ -278,6 +278,9 @@
         "wk:page":"Pool Department"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4e02a2bc34fea728a45e6fb6d1f2bb4c",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638618,
+    "wof:lastmodified":1582349467,
     "wof:name":"Pool",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

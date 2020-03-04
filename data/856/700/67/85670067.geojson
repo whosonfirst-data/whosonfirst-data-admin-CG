@@ -544,6 +544,9 @@
         "wd:id":"Q3844"
     },
     "wof:country":"CG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b0da0dbcd23220edbdf43c6d32050b65",
     "wof:hierarchy":[
         {
@@ -559,7 +562,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1566638616,
+    "wof:lastmodified":1582349466,
     "wof:name":"Brazzaville",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
