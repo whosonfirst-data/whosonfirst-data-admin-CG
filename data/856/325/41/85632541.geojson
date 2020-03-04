@@ -1110,7 +1110,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "naturalearth",
-        "naturalearth",
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -1184,7 +1183,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1582349469,
+    "wof:lastmodified":1583229429,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
