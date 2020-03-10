@@ -1141,9 +1141,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Democratic_Republic_of_the_Congo",
-        "digitalenvoy:country_code":[
-            178
-        ],
+        "digitalenvoy:country_code":178,
         "fb:id":"en.democratic_republic_of_the_congo",
         "fifa:id":"CGO",
         "fips:code":"CF",
@@ -1186,7 +1184,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583529110,
+    "wof:lastmodified":1583797314,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
