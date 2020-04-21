@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.892671,
-    "geom:area_square_m":344574670135.783508,
+    "geom:area_square_m":344574667495.274414,
     "geom:bbox":"11.153242,-5.031389,18.643611,3.707791",
     "geom:latitude":-0.839669,
     "geom:longitude":15.222886,
@@ -47,6 +47,9 @@
         "\u12ae\u1295\u1310",
         "\u12ae\u1295\u130e \u122a\u1351\u1265\u120a\u12ad"
     ],
+    "name:ang_x_preferred":[
+        "Cyne\u01bf\u012bse \u00fe\u00e6s Cong\u01bfes"
+    ],
     "name:ara_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:arg_x_preferred":[
         "Republica d'o Congo"
+    ],
+    "name:ary_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0644\u0643\u0648\u0646\u06ad\u0648"
     ],
     "name:arz_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u062c\u0648"
@@ -89,6 +95,9 @@
     ],
     "name:bam_x_variant":[
         "Kongo"
+    ],
+    "name:ban_x_preferred":[
+        "R\u00e9publik Kongo"
     ],
     "name:bcl_x_preferred":[
         "Republika kan Kongo"
@@ -197,6 +206,12 @@
         "Congo-Brazzaville",
         "Congo"
     ],
+    "name:deu_at_x_preferred":[
+        "Republik Kongo"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Republik Kongo"
+    ],
     "name:deu_x_preferred":[
         "Republik Kongo"
     ],
@@ -224,6 +239,12 @@
     ],
     "name:ell_x_variant":[
         "\u039a\u03bf\u03bd\u03b3\u03ba\u03cc - \u039c\u03c0\u03c1\u03b1\u03b6\u03b1\u03b2\u03af\u03bb"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Republic of the Congo"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Republic of the Congo"
     ],
     "name:eng_x_preferred":[
         "Congo"
@@ -607,6 +628,9 @@
     "name:mon_x_preferred":[
         "\u0411\u04af\u0433\u0434 \u041d\u0430\u0439\u0440\u0430\u043c\u0434\u0430\u0445 \u041a\u043e\u043d\u0433\u043e \u0423\u043b\u0441"
     ],
+    "name:mri_x_preferred":[
+        "Te Whenua o K\u014dngo"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u043d\u0433\u043e \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
     ],
@@ -820,11 +844,17 @@
     "name:sme_x_variant":[
         "Kongo-Brazzaville"
     ],
+    "name:smo_x_preferred":[
+        "Ripapelika o Congo"
+    ],
     "name:sna_x_preferred":[
         "Republic of the Congo"
     ],
     "name:sna_x_variant":[
         "Kongo"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u0645\u0647\u0648\u0631\u064a\u0627 \u06aa\u0627\u0646\u06af\u0648"
     ],
     "name:som_x_preferred":[
         "Jamhuuriyadda Kongo"
@@ -849,6 +879,12 @@
     ],
     "name:srd_x_preferred":[
         "Rep\u00f9brica de su Congo"
+    ],
+    "name:srp_ec_x_preferred":[
+        "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
+    ],
+    "name:srp_el_x_preferred":[
+        "Republika Kongo"
     ],
     "name:srp_x_preferred":[
         "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043d\u0433\u043e"
@@ -1012,11 +1048,20 @@
     "name:yue_x_preferred":[
         "\u525b\u679c"
     ],
+    "name:zea_x_preferred":[
+        "Konho-Brazzaville"
+    ],
     "name:zha_x_preferred":[
         "Ganggoj Gunghozgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u521a\u679c\u5171\u548c\u56fd"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Congo Ki\u014dng-h\u00f4-kok"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u525b\u679c\u5171\u548c\u570b"
     ],
     "name:zho_x_preferred":[
         "\u521a\u679c\u5171\u548c\u56fd"
@@ -1184,7 +1229,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1583797314,
+    "wof:lastmodified":1587428349,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
