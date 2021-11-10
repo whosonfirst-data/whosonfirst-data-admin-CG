@@ -33,13 +33,46 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u062f\u064a\u0646\u063a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a6\u09bf\u09a8\u0997\u09cc"
+    ],
     "name:eng_x_preferred":[
         "Madingou"
     ],
     "name:eng_x_variant":[
         "Madingou"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062f\u06cc\u0646\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Madingou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d3\u05d9\u05e0\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0921\u093f\u0902\u0917\u093e\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Madingou"
+    ],
+    "name:ind_x_preferred":[
+        "Madingou"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub529\uad6c"
+    ],
+    "name:tur_x_preferred":[
+        "Madingou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0434\u0456\u043d\u0433\u0443"
+    ],
+    "name:vie_x_preferred":[
         "Madingou"
     ],
     "src:geom":"meso",
@@ -77,7 +110,7 @@
         }
     ],
     "wof:id":1092012433,
-    "wof:lastmodified":1627521989,
+    "wof:lastmodified":1636501770,
     "wof:name":"Madingou",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

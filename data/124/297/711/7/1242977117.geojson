@@ -114,6 +114,9 @@
         "\u092a\u093e\u0932\u093f \u092d\u093e\u0937\u093e"
     ],
     "name:hun_x_preferred":[
+        "Pali"
+    ],
+    "name:hun_x_variant":[
         "P\u00e1li nyelv"
     ],
     "name:ind_x_preferred":[
@@ -309,7 +312,7 @@
         }
     ],
     "wof:id":1242977117,
-    "wof:lastmodified":1566639075,
+    "wof:lastmodified":1636501775,
     "wof:name":"Pali",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

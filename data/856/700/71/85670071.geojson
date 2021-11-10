@@ -176,7 +176,16 @@
         "\u06a9\u0624\u06cc\u0644\u0624 \u0645\u062d\u06a9\u0645\u06c1"
     ],
     "name:vie_x_preferred":[
+        "Pointe Noire"
+    ],
+    "name:vie_x_variant":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Kouilou"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9ed1\u89d2"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9ed1\u89d2"
     ],
     "name:zho_x_preferred":[
         "\u594e\u76e7\u7701"
@@ -247,7 +256,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1614893652,
+    "wof:lastmodified":1636501761,
     "wof:name":"Pointe Noire",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

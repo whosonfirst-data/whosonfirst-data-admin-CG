@@ -17,6 +17,15 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0628\u0648\u0645\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d5\u05de\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Loubomo"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":421189631,
-    "wof:lastmodified":1566639007,
+    "wof:lastmodified":1636501772,
     "wof:name":"Loubomo",
     "wof:parent_id":421204287,
     "wof:placetype":"locality",

@@ -134,6 +134,9 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0688\u0627\u0646"
+    ],
     "name:uzb_x_preferred":[
         "Don"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":1293195647,
-    "wof:lastmodified":1566638694,
+    "wof:lastmodified":1636501764,
     "wof:name":"Don",
     "wof:parent_id":1092013993,
     "wof:placetype":"locality",

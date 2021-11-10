@@ -41,7 +41,16 @@
     "name:deu_x_preferred":[
         "Mpika"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u067e\u06cc\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Mpika"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05d9\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Mpika"
     ],
     "name:ita_x_preferred":[
@@ -106,7 +115,7 @@
         }
     ],
     "wof:id":1209694081,
-    "wof:lastmodified":1566638817,
+    "wof:lastmodified":1636501766,
     "wof:name":"Mpika",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

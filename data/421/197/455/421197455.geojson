@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u098f\u0993\u09df\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Ewo"
     ],
@@ -35,10 +38,25 @@
     "name:epo_x_preferred":[
         "Ewo"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0648"
+    ],
     "name:fra_x_preferred":[
         "Ewo"
     ],
     "name:frr_x_preferred":[
+        "Ewo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u0935\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Ewo"
+    ],
+    "name:ind_x_preferred":[
         "Ewo"
     ],
     "name:ita_x_preferred":[
@@ -49,6 +67,9 @@
     ],
     "name:kon_x_preferred":[
         "Ewo"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\uc624"
     ],
     "name:lin_x_preferred":[
         "Ewo"
@@ -80,11 +101,20 @@
     "name:swe_x_preferred":[
         "Ewo"
     ],
+    "name:tur_x_preferred":[
+        "Ewo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0432\u043e"
+    ],
     "name:und_x_variant":[
         "Eouo"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Ewo"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u6c83"
@@ -228,7 +258,7 @@
         }
     ],
     "wof:id":421197455,
-    "wof:lastmodified":1566639008,
+    "wof:lastmodified":1636501773,
     "wof:name":"Ewo",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

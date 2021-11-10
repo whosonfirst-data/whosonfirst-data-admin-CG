@@ -53,6 +53,9 @@
     "name:frr_x_preferred":[
         "Mongomo"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05e0\u05d2\u05d5\u05de\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Mongomo"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1209219451,
-    "wof:lastmodified":1566638833,
+    "wof:lastmodified":1636501766,
     "wof:name":"Mongomo",
     "wof:parent_id":85632541,
     "wof:placetype":"locality",

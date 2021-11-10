@@ -39,6 +39,12 @@
     "name:fra_x_preferred":[
         "Cayo"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d9\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Cayo"
+    ],
     "name:nds_x_preferred":[
         "Cayo"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1293686997,
-    "wof:lastmodified":1566638666,
+    "wof:lastmodified":1636501762,
     "wof:name":"Cayo",
     "wof:parent_id":421171019,
     "wof:placetype":"locality",
