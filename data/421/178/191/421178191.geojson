@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0628\u0627\u0644\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Djambala"
+    ],
     "name:ben_x_preferred":[
         "\u09a6\u099c\u09cd\u09af\u09be\u09ae\u09cd\u09ac\u09be\u09b2\u09be"
     ],
@@ -71,6 +74,9 @@
     "name:kor_x_preferred":[
         "\uc7a0\ubc1c\ub77c"
     ],
+    "name:lin_x_preferred":[
+        "Djambala"
+    ],
     "name:lit_x_preferred":[
         "D\u017eambala"
     ],
@@ -89,7 +95,13 @@
     "name:ron_x_preferred":[
         "Djambala"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043c\u0431\u0430\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
+        "Djambala"
+    ],
+    "name:swa_x_preferred":[
         "Djambala"
     ],
     "name:swe_x_preferred":[
@@ -115,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u517c\u5df4\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Djambala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -258,7 +273,7 @@
         }
     ],
     "wof:id":421178191,
-    "wof:lastmodified":1636501773,
+    "wof:lastmodified":1690865906,
     "wof:name":"Djambala",
     "wof:parent_id":1092013529,
     "wof:placetype":"locality",

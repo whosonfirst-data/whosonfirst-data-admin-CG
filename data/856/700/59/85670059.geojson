@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "Niari"
     ],
+    "name:avk_x_preferred":[
+        "KongoaNiariUtca"
+    ],
     "name:bar_x_preferred":[
         "Niari"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:epo_x_preferred":[
         "Niari"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0646\u06cc\u0627\u0631\u06cc"
     ],
     "name:fin_x_preferred":[
         "Niarin hallintoalue"
@@ -102,8 +108,14 @@
     "name:kor_x_preferred":[
         "\ub2c8\uc544\ub9ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub2c8\uc544\ub9ac\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Niari departaments"
+    ],
+    "name:lin_x_preferred":[
+        "Niari"
     ],
     "name:lit_x_preferred":[
         "Niario regionas"
@@ -140,6 +152,9 @@
     ],
     "name:swe_x_preferred":[
         "R\u00e9gion du Niari"
+    ],
+    "name:swe_x_variant":[
+        "Niari"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bc0\u0b85\u0bb1\u0bbf \u0ba4\u0bc1\u0bb1\u0bc8"
@@ -179,6 +194,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c3c\u963f\u91cc\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Niari Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -303,7 +321,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501758,
+    "wof:lastmodified":1690865894,
     "wof:name":"Niari",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

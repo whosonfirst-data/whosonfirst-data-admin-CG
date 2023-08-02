@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0644\u064a\u0633\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u0648\u0644\u064a\u0633\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Dolisie"
+    ],
     "name:bar_x_preferred":[
         "Dolisie"
     ],
@@ -35,6 +41,9 @@
         "\u0414\u043e\u043b\u0438\u0441\u0438\u0435"
     ],
     "name:ceb_x_preferred":[
+        "Dolisie"
+    ],
+    "name:ces_x_preferred":[
         "Dolisie"
     ],
     "name:dan_x_preferred":[
@@ -51,6 +60,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03bf\u03bb\u03af\u03c3\u03b9\u03b5"
+    ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03bf\u03bb\u03b9\u03b6\u03af"
     ],
     "name:eng_x_historical":[
         "Loubomo"
@@ -139,7 +151,13 @@
     "name:sin_x_preferred":[
         "\u0da9\u0ddc\u0dbd\u0dd2\u0dc3\u0dba\u0dd2"
     ],
+    "name:slk_x_preferred":[
+        "Dolisie"
+    ],
     "name:spa_x_preferred":[
+        "Dolisie"
+    ],
+    "name:swa_x_preferred":[
         "Dolisie"
     ],
     "name:swe_x_preferred":[
@@ -171,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u5229\u897f"
+    ],
+    "name:zul_x_preferred":[
+        "Dolisie"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -299,7 +320,7 @@
         }
     ],
     "wof:id":890432165,
-    "wof:lastmodified":1566639010,
+    "wof:lastmodified":1690865907,
     "wof:name":"Dolisie",
     "wof:parent_id":421204287,
     "wof:placetype":"locality",

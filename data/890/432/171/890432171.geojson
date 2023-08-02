@@ -19,14 +19,29 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ceb_x_preferred":[
+        "Loandjili"
+    ],
     "name:eng_x_preferred":[
         "Loandjili district"
+    ],
+    "name:eng_x_variant":[
+        "Loandjili"
     ],
     "name:fra_x_preferred":[
         "Loandjili"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30a2\u30f3\u30b8\u30ea"
+    ],
+    "name:swe_x_preferred":[
+        "Loandjili"
+    ],
     "name:und_x_variant":[
         "Louantili"
+    ],
+    "name:yor_x_preferred":[
+        "Loandjili"
     ],
     "qs:name":"Loandjili",
     "qs:photos_9r":0,
@@ -61,7 +76,7 @@
         }
     ],
     "wof:id":890432171,
-    "wof:lastmodified":1566639010,
+    "wof:lastmodified":1690865907,
     "wof:name":"Loandjili",
     "wof:parent_id":1092013649,
     "wof:placetype":"locality",

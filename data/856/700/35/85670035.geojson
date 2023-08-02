@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "Sangha"
     ],
+    "name:avk_x_preferred":[
+        "KongoaSanghaUtca"
+    ],
     "name:bar_x_preferred":[
         "Sangha"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d\u0433\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Sangha"
     ],
     "name:ceb_x_preferred":[
         "Sangha"
@@ -67,6 +73,9 @@
     ],
     "name:epo_x_preferred":[
         "Sangha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0633\u0646\u06af\u0627"
     ],
     "name:fin_x_preferred":[
         "Sangha"
@@ -101,8 +110,14 @@
     "name:kor_x_preferred":[
         "\uc0c1\uac00 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc0c1\uac00\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Sangas departaments"
+    ],
+    "name:lin_x_preferred":[
+        "Sangha"
     ],
     "name:lit_x_preferred":[
         "Sangos regionas"
@@ -143,6 +158,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0b99\u0bcd\u0b95  \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0b99\u0bcd\u0b95 \u0ba4\u0bc1\u0bb1\u0bc8"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c02\u0c18\u0c3e \u0c21\u0c3f\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c4d\u0c2e\u0c46\u0c02\u0c1f\u0c4d"
     ],
@@ -170,8 +188,14 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Sangha"
     ],
+    "name:wuu_x_preferred":[
+        "\u6851\u52a0\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u6851\u52a0\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Sangha Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -296,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501759,
+    "wof:lastmodified":1690865895,
     "wof:name":"Sangha",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

@@ -23,6 +23,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ces_x_preferred":[
+        "Routa"
+    ],
     "name:deu_x_preferred":[
         "Raute"
     ],
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1126063339,
-    "wof:lastmodified":1566639010,
+    "wof:lastmodified":1690865908,
     "wof:name":"Losange",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

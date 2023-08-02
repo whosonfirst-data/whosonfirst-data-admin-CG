@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u062f\u064a\u0646\u063a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Madingou"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09a6\u09bf\u09a8\u0997\u09cc"
     ],
@@ -71,6 +74,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub529\uad6c"
     ],
+    "name:lin_x_preferred":[
+        "Madingu"
+    ],
     "name:lit_x_preferred":[
         "Madingu"
     ],
@@ -93,6 +99,9 @@
         "\u041c\u0430\u0434\u0438\u043d\u0433\u0443"
     ],
     "name:spa_x_preferred":[
+        "Madingou"
+    ],
+    "name:swa_x_preferred":[
         "Madingou"
     ],
     "name:swe_x_preferred":[
@@ -118,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u4e01\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Madingou"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -261,7 +273,7 @@
         }
     ],
     "wof:id":421178189,
-    "wof:lastmodified":1636501773,
+    "wof:lastmodified":1690865905,
     "wof:name":"Madingou",
     "wof:parent_id":1092012433,
     "wof:placetype":"locality",

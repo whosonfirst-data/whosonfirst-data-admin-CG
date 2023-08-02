@@ -35,6 +35,12 @@
     "name:ast_x_preferred":[
         "Pool"
     ],
+    "name:avk_x_preferred":[
+        "KongoaPoolUtca"
+    ],
+    "name:aze_x_preferred":[
+        "Pul departamenti"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c1\u09b2 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:epo_x_preferred":[
         "Pool"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u067e\u0648\u0644"
     ],
     "name:fin_x_preferred":[
         "Poolin departmentti"
@@ -167,6 +176,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0435\u0433\u0456\u043e\u043d \u041f\u0443\u043b"
     ],
+    "name:ukr_x_variant":[
+        "\u041f\u0443\u043b"
+    ],
     "name:und_x_variant":[
         "Le Pool"
     ],
@@ -176,8 +188,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Pool"
     ],
+    "name:wuu_x_preferred":[
+        "\u666e\u5c14\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u666e\u723e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Pool Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -302,7 +320,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501760,
+    "wof:lastmodified":1690865897,
     "wof:name":"Pool",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
