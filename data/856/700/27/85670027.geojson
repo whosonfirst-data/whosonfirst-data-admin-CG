@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Bouenza"
     ],
+    "name:avk_x_preferred":[
+        "KongoaBouenzaUtca"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09af\u09bc\u09c7\u099e\u09cd\u099c\u09be \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:bul_x_preferred":[
         "\u0411\u0443\u0435\u043d\u0437\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Bouenza"
     ],
     "name:dan_x_preferred":[
         "Bouenza Department"
@@ -62,6 +68,9 @@
     ],
     "name:epo_x_preferred":[
         "Bouenza"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u0628\u0648\u0626\u0646\u0632\u0627"
     ],
     "name:fin_x_preferred":[
         "Bouenzan departmentti"
@@ -105,6 +114,12 @@
     "name:kor_x_preferred":[
         "\ubd80\uc5d4\uc790 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ubd80\uc5d4\uc790\uc8fc"
+    ],
+    "name:lat_x_preferred":[
+        "Bouenza"
+    ],
     "name:lav_x_preferred":[
         "Buenzas departaments"
     ],
@@ -147,6 +162,9 @@
     "name:swe_x_preferred":[
         "R\u00e9gion de la Bouenza"
     ],
+    "name:swe_x_variant":[
+        "Bouenza"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bcb\u0ba9\u0bcd\u0b9c\u0bbe \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
@@ -174,8 +192,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Bouenza"
     ],
+    "name:wuu_x_preferred":[
+        "\u5e03\u6069\u624e\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5e03\u6069\u624e\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Bouenza Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -301,7 +325,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501759,
+    "wof:lastmodified":1690865896,
     "wof:name":"Bouenza",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

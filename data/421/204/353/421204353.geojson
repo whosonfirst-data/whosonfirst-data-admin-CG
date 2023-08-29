@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u064a\u0633\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u064a\u0633\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Ou\u00e9sso"
+    ],
     "name:ben_x_preferred":[
         "\u0994\u09b8\u09cb"
     ],
@@ -71,11 +77,17 @@
     "name:kan_x_preferred":[
         "\u0c92\u0caf\u0cc6\u0cb8\u0cca"
     ],
+    "name:kon_x_preferred":[
+        "Weso"
+    ],
     "name:kor_x_preferred":[
         "\uc6b0\uc5d0\uc18c"
     ],
     "name:lav_x_preferred":[
         "Veso"
+    ],
+    "name:lin_x_preferred":[
+        "Ou\u00e9sso"
     ],
     "name:lit_x_preferred":[
         "Veso"
@@ -113,8 +125,14 @@
     "name:spa_x_variant":[
         "Ou\u00e9sso"
     ],
+    "name:swa_x_preferred":[
+        "Ou\u00e9sso"
+    ],
     "name:swe_x_preferred":[
         "Ou\u00e9sso"
+    ],
+    "name:swe_x_variant":[
+        "Ouesso"
     ],
     "name:tam_x_preferred":[
         "\u0b85\u0bb5\u0bcd\u0b8e\u0bb8\u0bcd\u0bb8\u0bcb"
@@ -139,6 +157,9 @@
     ],
     "name:zho_x_preferred":[
         "\u97cb\u7d22"
+    ],
+    "name:zul_x_preferred":[
+        "Ou\u00e9sso"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -282,7 +303,7 @@
         }
     ],
     "wof:id":421204353,
-    "wof:lastmodified":1566639006,
+    "wof:lastmodified":1690865903,
     "wof:name":"Ouesso",
     "wof:parent_id":1092013943,
     "wof:placetype":"locality",

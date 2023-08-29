@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "Likouala"
     ],
+    "name:avk_x_preferred":[
+        "KongoaLikoualaUtca"
+    ],
     "name:bar_x_preferred":[
         "Likouala"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u043a\u0443\u0430\u043b\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Likouala"
     ],
     "name:ceb_x_preferred":[
         "Likouala"
@@ -112,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9ac\ucfe0\uc54c\ub77c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub9ac\ucfe0\uc54c\ub77c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Likvalas departaments"
@@ -185,8 +194,14 @@
     "name:vie_x_preferred":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Likouala"
     ],
+    "name:wuu_x_preferred":[
+        "\u5229\u5938\u62c9\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5229\u5938\u62c9\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Likouala Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -311,7 +326,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501759,
+    "wof:lastmodified":1690865896,
     "wof:name":"Likouala",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

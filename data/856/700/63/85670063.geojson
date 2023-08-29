@@ -35,6 +35,9 @@
     "name:ast_x_preferred":[
         "Plateaux"
     ],
+    "name:avk_x_preferred":[
+        "KongoaPlateauxUtca"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09cd\u09b2\u09c7\u099f\u09c1\u0995\u09cd\u09b8 \u09ac\u09bf\u09ad\u09be\u0997"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:epo_x_preferred":[
         "Plateaux"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u0644\u0627\u062a\u06cc\u0648\u06a9\u0633"
     ],
     "name:fin_x_preferred":[
         "Plateauxin departmentti"
@@ -107,8 +113,14 @@
     "name:kor_x_preferred":[
         "\ud50c\ub77c\ud1a0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud50c\ub77c\ud1a0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Plato departaments"
+    ],
+    "name:lin_x_preferred":[
+        "Palat\u00f3"
     ],
     "name:lit_x_preferred":[
         "Plato regionas"
@@ -158,6 +170,9 @@
     "name:tha_x_preferred":[
         "\u0e1e\u0e25\u0e32\u0e42\u0e15 \u0e14\u0e35\u0e1e\u0e32\u0e17\u0e40\u0e21\u0e49\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e25\u0e32\u0e42\u0e15"
+    ],
     "name:tur_x_preferred":[
         "Plateaux"
     ],
@@ -181,6 +196,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9ad8\u539f\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Plateaux Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -305,7 +323,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501760,
+    "wof:lastmodified":1690865897,
     "wof:name":"Plateaux",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u064a\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Ewo"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u0993\u09df\u09cb"
     ],
@@ -49,6 +55,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d5"
+    ],
+    "name:heb_x_variant":[
+        "\u05d0\u05d1\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u090f\u0935\u094b"
@@ -98,6 +107,9 @@
     "name:spa_x_preferred":[
         "Ewo"
     ],
+    "name:swa_x_preferred":[
+        "Ewo"
+    ],
     "name:swe_x_preferred":[
         "Ewo"
     ],
@@ -118,6 +130,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57c3\u6c83"
+    ],
+    "name:zul_x_preferred":[
+        "Ewo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -258,7 +273,7 @@
         }
     ],
     "wof:id":421197455,
-    "wof:lastmodified":1636501773,
+    "wof:lastmodified":1690865905,
     "wof:name":"Ewo",
     "wof:parent_id":1092012591,
     "wof:placetype":"locality",

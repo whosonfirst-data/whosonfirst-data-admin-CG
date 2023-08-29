@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0646\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Sibiti"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09ac\u09bf\u09a4\u09bf"
     ],
@@ -59,6 +65,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05d1\u05d8\u05d9"
     ],
+    "name:heb_x_variant":[
+        "\u05e1\u05d9\u05d1\u05d9\u05d8\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u0940\u092c\u0940\u091f\u0940"
     ],
@@ -85,6 +94,9 @@
     ],
     "name:lav_x_preferred":[
         "Sibitija"
+    ],
+    "name:lin_x_preferred":[
+        "Sibiti"
     ],
     "name:lit_x_preferred":[
         "Sibitis"
@@ -122,6 +134,9 @@
     "name:swe_x_preferred":[
         "Sibiti"
     ],
+    "name:szl_x_preferred":[
+        "Sibiti"
+    ],
     "name:tam_x_preferred":[
         "\u0bb8\u0bbf\u0baa\u0bbf\u0b9f\u0bbf"
     ],
@@ -151,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u932b\u6bd4\u63d0"
+    ],
+    "name:zul_x_preferred":[
+        "Sibiti"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -293,7 +311,7 @@
         }
     ],
     "wof:id":421175879,
-    "wof:lastmodified":1636501772,
+    "wof:lastmodified":1690865904,
     "wof:name":"Sibiti",
     "wof:parent_id":1092013067,
     "wof:placetype":"locality",

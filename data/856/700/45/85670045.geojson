@@ -35,6 +35,12 @@
     "name:ast_x_preferred":[
         "Cuvette"
     ],
+    "name:avk_x_preferred":[
+        "KongoaCuvetteUtca"
+    ],
+    "name:aze_x_preferred":[
+        "K\u00fcvet departamenti"
+    ],
     "name:bar_x_preferred":[
         "Cuvette"
     ],
@@ -46,6 +52,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041a\u044e\u0432\u0435\u0442"
+    ],
+    "name:cat_x_preferred":[
+        "Cuvette"
     ],
     "name:ceb_x_preferred":[
         "Cuvette"
@@ -67,6 +76,9 @@
     ],
     "name:epo_x_preferred":[
         "Cuvette"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0648\u0648\u062a"
     ],
     "name:fin_x_preferred":[
         "Cuvetten departmentti"
@@ -109,6 +121,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud034\ubca0\ud2b8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud034\ubca0\ud2b8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kivetas departaments"
@@ -187,6 +202,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76c6\u5730\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Cuvette Department"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COG",
@@ -309,7 +327,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501759,
+    "wof:lastmodified":1690865896,
     "wof:name":"Cuvette",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

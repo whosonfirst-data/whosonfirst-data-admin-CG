@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0646\u0643\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0646\u0643\u0627\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Kinkala"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09a8\u0995\u09be\u09b2\u09be"
     ],
@@ -89,6 +95,9 @@
     "name:lav_x_preferred":[
         "Kinkala"
     ],
+    "name:lin_x_preferred":[
+        "Kinkala"
+    ],
     "name:lit_x_preferred":[
         "Kinkala"
     ],
@@ -122,6 +131,9 @@
     "name:spa_x_preferred":[
         "Kinkala"
     ],
+    "name:swa_x_preferred":[
+        "Kinkala"
+    ],
     "name:swe_x_preferred":[
         "Kinkala"
     ],
@@ -148,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91d1\u5361\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Kinkala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Congo (Brazzaville)",
@@ -291,7 +306,7 @@
         }
     ],
     "wof:id":421175885,
-    "wof:lastmodified":1636501773,
+    "wof:lastmodified":1690865905,
     "wof:name":"Kinkala",
     "wof:parent_id":1092013765,
     "wof:placetype":"locality",

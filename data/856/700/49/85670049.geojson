@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Kouilou"
     ],
+    "name:avk_x_preferred":[
+        "KongoaKouilouUtca"
+    ],
     "name:bar_x_preferred":[
         "Kouilou"
     ],
@@ -65,6 +68,9 @@
     ],
     "name:epo_x_preferred":[
         "Kouilou"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u062e\u0634 \u06a9\u0648\u06cc\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Kouiloun depatermentti"
@@ -101,6 +107,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucfe0\uc77c\ub8e8 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ucfe0\uc77c\ub8e8\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Kuilu departaments"
@@ -144,6 +153,9 @@
     "name:swe_x_preferred":[
         "R\u00e9gion du Kouilou"
     ],
+    "name:swe_x_variant":[
+        "Kouilou"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bcb\u0baf\u0bbf\u0bb2\u0bc2 \u0ba4\u0bc1\u0bb1\u0bc8"
     ],
@@ -171,8 +183,14 @@
     "name:vie_x_variant":[
         "Khu v\u1ef1c h\u00e0nh ch\u00ednh Kouilou"
     ],
+    "name:wuu_x_preferred":[
+        "\u594e\u5362\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u594e\u76e7\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Kouilou Department"
     ],
     "qs:a0":"Republic of the Congo",
     "qs:a0_lc":"CG",
@@ -238,7 +256,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1636501761,
+    "wof:lastmodified":1690865899,
     "wof:name":"Kouilou",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
