@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":27.892671,
-    "geom:area_square_m":344574667495.274414,
+    "geom:area_square_m":344574667495.277893,
     "geom:bbox":"11.153242,-5.031389,18.643611,3.707791",
     "geom:latitude":-0.839669,
     "geom:longitude":15.222886,
@@ -14,6 +14,9 @@
     "iso:country":"CG",
     "itu:country_code":[
         "242"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "CG"
@@ -1311,7 +1314,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"242",
     "statoids:ds":"RCB",
     "statoids:fifa":"CGO",
@@ -1369,7 +1373,7 @@
         "naturalearth",
         "meso"
     ],
-    "wof:geomhash":"2ca8daf3355984c42560727401c8e30b",
+    "wof:geomhash":"3ed19f524f2dafb44fc4c87f84a59fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1383,12 +1387,12 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865900,
+    "wof:lastmodified":1694492088,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":4447632,
-    "wof:population_rank":12,
+    "wof:population":5380508,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-cg",
     "wof:shortcode":"CG",
     "wof:superseded_by":[],
