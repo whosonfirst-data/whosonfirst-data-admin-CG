@@ -1315,7 +1315,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"242",
     "statoids:ds":"RCB",
     "statoids:fifa":"CGO",
@@ -1387,7 +1387,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694492088,
+    "wof:lastmodified":1694639542,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
