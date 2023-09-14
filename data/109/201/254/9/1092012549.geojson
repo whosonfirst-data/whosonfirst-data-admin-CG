@@ -10,6 +10,12 @@
     "geom:latitude":-4.263853,
     "geom:longitude":15.283122,
     "iso:country":"CG",
+    "label:eng_x_preferred_longname":[
+        "Brazzaville Province Level Department"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province level department"
+    ],
     "lbl:latitude":-4.256292,
     "lbl:longitude":15.274213,
     "lbl:max_zoom":10.0,
@@ -95,6 +101,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03c1\u03b1\u03b6\u03b1\u03b2\u03af\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Brazzaville"
     ],
     "name:eng_x_variant":[
         "Ngamaba (brazzaville)",
@@ -416,7 +425,7 @@
     },
     "wof:country":"CG",
     "wof:created":1473897046,
-    "wof:geomhash":"b0da0dbcd23220edbdf43c6d32050b65",
+    "wof:geomhash":"8c26a1216a63b2ffa1fe0ee1ef121db2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -426,7 +435,7 @@
         }
     ],
     "wof:id":1092012549,
-    "wof:lastmodified":1566638970,
+    "wof:lastmodified":1694497839,
     "wof:name":"Brazzaville",
     "wof:parent_id":85670067,
     "wof:placetype":"county",
