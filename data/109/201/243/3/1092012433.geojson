@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081525,
-    "geom:area_square_m":1005378669.08069,
+    "geom:area_square_m":1005378708.166942,
     "geom:bbox":"13.406103,-4.354563,13.866095,-4.009097",
     "geom:latitude":-4.192953,
     "geom:longitude":13.602023,
@@ -98,9 +98,10 @@
     "wof:concordances":{
         "hasc:id":"CG.BO.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897041,
-    "wof:geomhash":"088f7410c5f69c3e91077379b0422487",
+    "wof:geomhash":"8a751521c7e9f1221394579dc8b0e920",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":1092012433,
-    "wof:lastmodified":1636501770,
+    "wof:lastmodified":1695886796,
     "wof:name":"Madingou",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

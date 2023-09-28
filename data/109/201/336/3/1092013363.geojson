@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165481,
-    "geom:area_square_m":2039722488.862592,
+    "geom:area_square_m":2039722997.282427,
     "geom:bbox":"12.771647,-4.916207,13.58,-4.317238",
     "geom:latitude":-4.560995,
     "geom:longitude":13.179783,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.NI.KM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897079,
-    "wof:geomhash":"ffe56886c68b4baabb5c8259557057ae",
+    "wof:geomhash":"b260728de2a665f17c567330a0a9a7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092013363,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Kimongo",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

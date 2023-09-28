@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.29906,
-    "geom:area_square_m":3687188537.019531,
+    "geom:area_square_m":3687188537.019341,
     "geom:bbox":"12.077511221,-4.814291,12.782306,-3.89459308884",
     "geom:latitude":-4.364587,
     "geom:longitude":12.381627,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.KL.MV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897107,
-    "wof:geomhash":"49641ba68ba72adc4cb8a31e05d9264d",
+    "wof:geomhash":"553e0cdb58d0897fe3b8d906da52ef0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092013995,
-    "wof:lastmodified":1566638963,
+    "wof:lastmodified":1695886314,
     "wof:name":"Mvouti",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

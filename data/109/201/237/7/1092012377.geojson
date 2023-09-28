@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147224,
-    "geom:area_square_m":1814815662.515269,
+    "geom:area_square_m":1814815326.117093,
     "geom:bbox":"13.265077,-4.805362,13.765083,-4.28564",
     "geom:latitude":-4.511063,
     "geom:longitude":13.541584,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.BO.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897038,
-    "wof:geomhash":"d00d512d235539365c41b7dfc0d4605d",
+    "wof:geomhash":"ad6c5ff2f376f2655d11d16887df5bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092012377,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886459,
     "wof:name":"Boko-Songho",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

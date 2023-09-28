@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003943,
-    "geom:area_square_m":48583610.631316,
+    "geom:area_square_m":48583502.719052,
     "geom:bbox":"11.821222,-4.830029,11.912168,-4.744209",
     "geom:latitude":-4.787165,
     "geom:longitude":11.871086,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.KL.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897090,
-    "wof:geomhash":"46f7a0260c33503707bd4379403ad1cc",
+    "wof:geomhash":"81de82105e5f89965d9402c6c85a03ca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092013649,
-    "wof:lastmodified":1627521990,
+    "wof:lastmodified":1695886463,
     "wof:name":"Tchamba Nzassi",
     "wof:parent_id":85670071,
     "wof:placetype":"county",

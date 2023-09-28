@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.376992,
-    "geom:area_square_m":4655522118.514517,
+    "geom:area_square_m":4655522095.939707,
     "geom:bbox":"12.994085,-3.34153,13.673617,-2.398457",
     "geom:latitude":-2.915229,
     "geom:longitude":13.314871,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LE.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897067,
-    "wof:geomhash":"9e04fb2e84f6977e6d21243e6256958b",
+    "wof:geomhash":"bf302dd8b8ca27ab73a11546e3ddbfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092013021,
-    "wof:lastmodified":1627521989,
+    "wof:lastmodified":1695886461,
     "wof:name":"Komono",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

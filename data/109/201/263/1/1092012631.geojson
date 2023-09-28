@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.602038,
-    "geom:area_square_m":7444248022.711019,
+    "geom:area_square_m":7444248022.711087,
     "geom:bbox":"13.818179833,-0.61654770727,14.9411996951,0.464460290825",
     "geom:latitude":-0.109465,
     "geom:longitude":14.36637,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CO.KE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897049,
-    "wof:geomhash":"85386a4805dea88adac694f15d19cac7",
+    "wof:geomhash":"293023d5872af0db8dbc24f6648ea43a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092012631,
-    "wof:lastmodified":1566638971,
+    "wof:lastmodified":1695886316,
     "wof:name":"K\u00e9ll\u00e9",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

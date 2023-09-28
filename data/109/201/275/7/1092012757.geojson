@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.441382,
-    "geom:area_square_m":5457540154.701174,
+    "geom:area_square_m":5457540154.701161,
     "geom:bbox":"16.7416384143,-1.09787121042,17.4831423752,0.396113081037",
     "geom:latitude":-0.328193,
     "geom:longitude":17.069495,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CU.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897054,
-    "wof:geomhash":"e4c53dbfdc63dd218db89b13e3e77d80",
+    "wof:geomhash":"84474891b648bdc78105e7f420ee87d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092012757,
-    "wof:lastmodified":1566638964,
+    "wof:lastmodified":1695886314,
     "wof:name":"Loukol\u00e9la",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

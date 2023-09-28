@@ -423,6 +423,7 @@
     "wof:concordances":{
         "hasc:id":"CG.BR.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897046,
     "wof:geomhash":"8c26a1216a63b2ffa1fe0ee1ef121db2",
@@ -435,7 +436,7 @@
         }
     ],
     "wof:id":1092012549,
-    "wof:lastmodified":1694497839,
+    "wof:lastmodified":1695886316,
     "wof:name":"Brazzaville",
     "wof:parent_id":85670067,
     "wof:placetype":"county",

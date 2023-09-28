@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.400991,
-    "geom:area_square_m":4956697596.590649,
+    "geom:area_square_m":4956697596.591007,
     "geom:bbox":"14.3706308237,-2.02645040844,15.2030996758,-1.05330621382",
     "geom:latitude":-1.45578,
     "geom:longitude":14.743422,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CO.OK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897058,
-    "wof:geomhash":"119d8b4108222bf6e3f70d7b5f9fee62",
+    "wof:geomhash":"79a26c3f7d10af92341379e6936e10b3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092012809,
-    "wof:lastmodified":1566638963,
+    "wof:lastmodified":1695886314,
     "wof:name":"Okoyo",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

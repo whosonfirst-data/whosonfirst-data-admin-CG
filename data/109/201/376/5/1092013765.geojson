@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.164084,
-    "geom:area_square_m":2023238609.448315,
+    "geom:area_square_m":2023238508.71891,
     "geom:bbox":"14.62,-4.627665,15.076951,-4.024741",
     "geom:latitude":-4.289602,
     "geom:longitude":14.852205,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.KK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897095,
-    "wof:geomhash":"eb7ed83fed86d89d8f3ac8cbc6d3c709",
+    "wof:geomhash":"650954e45c4feabb7da16757a67a1aae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092013765,
-    "wof:lastmodified":1636501770,
+    "wof:lastmodified":1695886796,
     "wof:name":"Kinkala",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.346097,
-    "geom:area_square_m":4276068266.827089,
+    "geom:area_square_m":4276068065.304542,
     "geom:bbox":"14.116034,-2.787036,14.825428,-1.875186",
     "geom:latitude":-2.305179,
     "geom:longitude":14.441547,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PL.LE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897089,
-    "wof:geomhash":"14f3ea2d2ef1a3738a204ecf98576ab5",
+    "wof:geomhash":"e7daf5b49788f83d1035733f7cfdb279",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092013609,
-    "wof:lastmodified":1627521989,
+    "wof:lastmodified":1695886462,
     "wof:name":"L\u00e9kana",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

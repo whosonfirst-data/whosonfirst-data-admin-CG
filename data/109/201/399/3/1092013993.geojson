@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.923288,
-    "geom:area_square_m":11411106559.216761,
+    "geom:area_square_m":11411106559.216717,
     "geom:bbox":"13.125131,1.216018,14.4375673939,2.1924475",
     "geom:latitude":1.76783,
     "geom:longitude":13.743903,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CG.SA.SO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897106,
-    "wof:geomhash":"a17f651761d498309006b1e726366321",
+    "wof:geomhash":"629eed4e00972c07a9119848a67fa639",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092013993,
-    "wof:lastmodified":1566638962,
+    "wof:lastmodified":1695886313,
     "wof:name":"Souank\u00e9",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

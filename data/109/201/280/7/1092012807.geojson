@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.957254,
-    "geom:area_square_m":11835328818.49424,
+    "geom:area_square_m":11835329135.987328,
     "geom:bbox":"16.152814,-1.594799,17.056852,0.241195",
     "geom:latitude":-0.71268,
     "geom:longitude":16.625842,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CU.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897057,
-    "wof:geomhash":"0039b851da2f9af12950fbd722297220",
+    "wof:geomhash":"bf347be9bcb273b7a4a1568465fa777a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092012807,
-    "wof:lastmodified":1627521990,
+    "wof:lastmodified":1695886463,
     "wof:name":"Mossaka",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

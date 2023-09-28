@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.865409,
-    "geom:area_square_m":10700230494.859531,
+    "geom:area_square_m":10700230857.467335,
     "geom:bbox":"15.089401,-1.257214,16.512593,-0.058497",
     "geom:latitude":-0.613011,
     "geom:longitude":15.907622,
@@ -137,9 +137,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CU.OW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897060,
-    "wof:geomhash":"e423bc576bd7b470db9fb1ef44f5ce38",
+    "wof:geomhash":"82dd734ce2258405cc74ac82f8281d8f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":1092012853,
-    "wof:lastmodified":1636501771,
+    "wof:lastmodified":1695886796,
     "wof:name":"Owando",
     "wof:parent_id":85670045,
     "wof:placetype":"county",
