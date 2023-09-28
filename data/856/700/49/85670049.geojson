@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.106545,
-    "geom:area_square_m":13645224400.654467,
+    "geom:area_square_m":13645225619.564108,
     "geom:bbox":"11.153242,-5.031389,12.782306,-3.493891",
     "geom:latitude":-4.226273,
     "geom:longitude":11.939515,
@@ -232,16 +232,18 @@
         "gn:id":2258738,
         "gp:id":2344969,
         "hasc:id":"CG.KL",
+        "iso:code":"CG-5",
         "iso:id":"CG-5",
         "qs_pg:id":220133,
         "wd:id":"Q855327",
         "wk:page":"Kouilou Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77c20e76e677308b63f6346e602da6d2",
+    "wof:geomhash":"03abf507e32034e3f991d4ae2d227e92",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -256,7 +258,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865899,
+    "wof:lastmodified":1695884906,
     "wof:name":"Kouilou",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

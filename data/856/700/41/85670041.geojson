@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.834605,
-    "geom:area_square_m":34976646859.773865,
+    "geom:area_square_m":34976647276.359367,
     "geom:bbox":"13.868026,-4.922633,16.215223,-2.714159",
     "geom:latitude":-3.685888,
     "geom:longitude":15.02139,
@@ -295,17 +295,19 @@
         "gn:id":2255404,
         "gp:id":2344975,
         "hasc:id":"CG.PO",
+        "iso:code":"CG-12",
         "iso:id":"CG-12",
         "qs_pg:id":235569,
         "unlc:id":"CG-12",
         "wd:id":"Q864647",
         "wk:page":"Pool Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5afaf8db3fe41cc96ed0bf2eeebfffaf",
+    "wof:geomhash":"ce13f60fd2c6ab1f70b2077a61a78e0e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865897,
+    "wof:lastmodified":1695884905,
     "wof:name":"Pool",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

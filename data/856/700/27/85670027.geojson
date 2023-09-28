@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.016929,
-    "geom:area_square_m":12542736293.488617,
+    "geom:area_square_m":12542735909.943981,
     "geom:bbox":"12.594348,-4.805362,14.376427,-3.450518",
     "geom:latitude":-4.065638,
     "geom:longitude":13.560758,
@@ -300,17 +300,19 @@
         "gn:id":2260668,
         "gp:id":2344967,
         "hasc:id":"CG.BO",
+        "iso:code":"CG-11",
         "iso:id":"CG-11",
         "qs_pg:id":1134969,
         "unlc:id":"CG-11",
         "wd:id":"Q827015",
         "wk:page":"Bouenza Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61e290f93c3bb4940a02c9b38ff2ddab",
+    "wof:geomhash":"371d97e142287108b208ea9b952c0c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -325,7 +327,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865896,
+    "wof:lastmodified":1695884904,
     "wof:name":"Bouenza",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
