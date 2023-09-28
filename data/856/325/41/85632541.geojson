@@ -1353,6 +1353,7 @@
         "hasc:id":"CG",
         "icao:code":"9Q",
         "ioc:id":"CGO",
+        "iso:code":"CG",
         "itu:id":"COG",
         "m49:code":"178",
         "marc:id":"cf",
@@ -1366,6 +1367,7 @@
         "wk:page":"Republic of the Congo",
         "wmo:id":"CG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:country_alpha3":"COG",
     "wof:geom_alt":[
@@ -1387,7 +1389,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1694639542,
+    "wof:lastmodified":1695881199,
     "wof:name":"Republic of Congo",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
