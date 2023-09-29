@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.224152,
-    "geom:area_square_m":2762608425.072658,
+    "geom:area_square_m":2762608425.072745,
     "geom:bbox":"14.351067,-4.922633,14.9626056885,-4.29882183849",
     "geom:latitude":-4.637083,
     "geom:longitude":14.637179,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897092,
-    "wof:geomhash":"a0280c71318a4ebbfe78f62367ba06e3",
+    "wof:geomhash":"7f8c49d2456c3ac61321d46776ffad90",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092013685,
-    "wof:lastmodified":1566638967,
+    "wof:lastmodified":1695886316,
     "wof:name":"Boko",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.304261,
-    "geom:area_square_m":3753279673.476586,
+    "geom:area_square_m":3753278995.1913,
     "geom:bbox":"12.170998,-4.392677,12.995689,-3.482433",
     "geom:latitude":-3.950331,
     "geom:longitude":12.56797,
@@ -106,12 +106,13 @@
         "wd:id":"Q3264057",
         "wk:page":"Louvakou District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1459010179,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c21e938ef5745b49e8412c0e04608201",
+    "wof:geomhash":"57f448365cfdca5a3cfce80eb530546e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -121,7 +122,7 @@
         }
     ],
     "wof:id":421204287,
-    "wof:lastmodified":1690865904,
+    "wof:lastmodified":1695886795,
     "wof:name":"Louvakou (Loubomo)",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

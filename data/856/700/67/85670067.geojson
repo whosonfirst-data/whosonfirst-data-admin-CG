@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009912,
-    "geom:area_square_m":122226676.08086,
+    "geom:area_square_m":122226124.226508,
     "geom:bbox":"15.213081,-4.321743,15.426754,-4.201672",
     "geom:latitude":-4.263854,
     "geom:longitude":15.283122,
@@ -598,16 +598,18 @@
         "gn:id":2572183,
         "gp:id":2344976,
         "hasc:id":"CG.BR",
+        "iso:code":"CG-BZV",
         "iso:id":"CG-BZV",
         "qs_pg:id":229365,
         "unlc:id":"CG-BZV",
         "wd:id":"Q3844"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"160079d47eaeb519d18e61dcaa5b2fb7",
+    "wof:geomhash":"833e5dcc1eccd433aa50f63e3d266feb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -622,7 +624,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865895,
+    "wof:lastmodified":1695884365,
     "wof:name":"Brazzaville",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

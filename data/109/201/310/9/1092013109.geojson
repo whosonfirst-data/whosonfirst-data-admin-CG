@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.479948,
-    "geom:area_square_m":5926498846.050299,
+    "geom:area_square_m":5926498846.050485,
     "geom:bbox":"13.4273597316,-3.5328600679,14.3454554372,-2.464114",
     "geom:latitude":-2.993512,
     "geom:longitude":13.911013,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LE.ZA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897070,
-    "wof:geomhash":"a17c499fd392248108f611f24b282548",
+    "wof:geomhash":"6038e9bfd09d62f9b1f3f7d3f0d56c24",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092013109,
-    "wof:lastmodified":1566638973,
+    "wof:lastmodified":1695886317,
     "wof:name":"Zanaga",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

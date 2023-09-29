@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.588505,
-    "geom:area_square_m":7262649553.347739,
+    "geom:area_square_m":7262649600.562819,
     "geom:bbox":"12.599731,-4.056546,13.868967,-3.212784",
     "geom:latitude":-3.5916,
     "geom:longitude":13.239447,
@@ -128,9 +128,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LE.SI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897069,
-    "wof:geomhash":"9d054cd53931dbfaeaabf82952aaf9e7",
+    "wof:geomhash":"fd7c82f95c393434d411912c9d923c97",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092013067,
-    "wof:lastmodified":1636501769,
+    "wof:lastmodified":1695886796,
     "wof:name":"Sibiti",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

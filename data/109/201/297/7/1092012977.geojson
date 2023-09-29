@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25987,
-    "geom:area_square_m":3210313826.131715,
+    "geom:area_square_m":3210313826.13167,
     "geom:bbox":"13.0272407601,-2.79343109245,13.9633501195,-2.088873",
     "geom:latitude":-2.483397,
     "geom:longitude":13.582399,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LE.BA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897065,
-    "wof:geomhash":"1f0af6ec103f7b15c43d00346dbd4628",
+    "wof:geomhash":"7c061f9e3e31a22d5ea017fba60d6a1c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092012977,
-    "wof:lastmodified":1566638970,
+    "wof:lastmodified":1695886316,
     "wof:name":"Bambama",
     "wof:parent_id":85670053,
     "wof:placetype":"county",

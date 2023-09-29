@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463141,
-    "geom:area_square_m":5720521847.425233,
+    "geom:area_square_m":5720521847.425439,
     "geom:bbox":"11.518748,-3.06152675933,12.5212944833,-2.337718",
     "geom:latitude":-2.684124,
     "geom:longitude":11.99171,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"CG.NI.DI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897076,
-    "wof:geomhash":"049e70e47b126114dad4edb12af58c60",
+    "wof:geomhash":"bdabb6d4e6529b2f2e5cb53db244de14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092013271,
-    "wof:lastmodified":1566638972,
+    "wof:lastmodified":1695886317,
     "wof:name":"Div\u00e9ni\u00e9",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.457618,
-    "geom:area_square_m":5645296154.406003,
+    "geom:area_square_m":5645296855.484114,
     "geom:bbox":"14.975705,-4.507331,15.951181,-3.452305",
     "geom:latitude":-3.914388,
     "geom:longitude":15.427676,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.GT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897101,
-    "wof:geomhash":"ef6807bc24c75fe8384ebc4222783dcc",
+    "wof:geomhash":"2e68f83c51677279b318b26253ee59a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092013899,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Goma Ts\u00e9-Ts\u00e9\t",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

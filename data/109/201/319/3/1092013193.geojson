@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.343624,
-    "geom:area_square_m":28971104311.301083,
+    "geom:area_square_m":28971103240.623474,
     "geom:bbox":"16.679571,-0.793756,17.782153,2.5",
     "geom:latitude":1.096664,
     "geom:longitude":17.254768,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LI.EP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897073,
-    "wof:geomhash":"c6423aa45009cc86ac8ce7f392e0b9e5",
+    "wof:geomhash":"24f5c9a8df88bb559de974be06124a1d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092013193,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886460,
     "wof:name":"Ep\u00e9na",
     "wof:parent_id":85670031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.255053,
-    "geom:area_square_m":3153468707.203367,
+    "geom:area_square_m":3153468707.203565,
     "geom:bbox":"15.0088717169,-1.19801171562,15.6496954432,-0.410413107538",
     "geom:latitude":-0.787131,
     "geom:longitude":15.296107,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CU.BO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897052,
-    "wof:geomhash":"df22866f12c7ab42164718deeb17a0a9",
+    "wof:geomhash":"4db6b8b9b9acd89bc33ea2e0f8c27f6d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092012715,
-    "wof:lastmodified":1566638970,
+    "wof:lastmodified":1695886316,
     "wof:name":"Boundji",
     "wof:parent_id":85670045,
     "wof:placetype":"county",

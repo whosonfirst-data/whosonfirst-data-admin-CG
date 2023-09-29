@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.210924,
-    "geom:area_square_m":39701078733.461563,
+    "geom:area_square_m":39701078006.485031,
     "geom:bbox":"14.887058,-1.594799,17.483142,0.467351",
     "geom:latitude":-0.472315,
     "geom:longitude":16.17043,
@@ -303,16 +303,18 @@
         "gn:id":2260487,
         "gp:id":2344968,
         "hasc:id":"CG.CU",
+        "iso:code":"CG-8",
         "iso:id":"CG-8",
         "qs_pg:id":1142809,
         "wd:id":"Q780884",
         "wk:page":"Cuvette Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9e8fd4637750903b2c44587c5c052141",
+    "wof:geomhash":"316bf4c8132991dabd1dd9e3d0f175b1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -327,7 +329,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865896,
+    "wof:lastmodified":1695884905,
     "wof:name":"Cuvette",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

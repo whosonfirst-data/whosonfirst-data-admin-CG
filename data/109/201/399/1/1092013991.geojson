@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.711511,
-    "geom:area_square_m":8793928611.464186,
+    "geom:area_square_m":8793928611.463917,
     "geom:bbox":"14.1037957969,1.3576115,15.6365251142,2.207125",
     "geom:latitude":1.726452,
     "geom:longitude":14.825974,
@@ -78,9 +78,10 @@
     "wof:concordances":{
         "hasc:id":"CG.SA.SE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897104,
-    "wof:geomhash":"2f157402abe8cb6dc43822824731d40a",
+    "wof:geomhash":"361075a72bf3840ad2f937ac26e50dc8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1092013991,
-    "wof:lastmodified":1566638961,
+    "wof:lastmodified":1695886313,
     "wof:name":"Semb\u00e9",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

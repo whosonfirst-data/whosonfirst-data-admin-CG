@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.240191,
-    "geom:area_square_m":2962897453.325965,
+    "geom:area_square_m":2962897453.325982,
     "geom:bbox":"12.5943481936,-4.39035927761,13.3621238978,-3.52",
     "geom:latitude":-3.960039,
     "geom:longitude":12.937713,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"CG.BO.LO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897040,
-    "wof:geomhash":"065a296d7bedb8d51f058ed62b8ebaff",
+    "wof:geomhash":"db39a94acbca932d4bbf536584279cd5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092012419,
-    "wof:lastmodified":1566638969,
+    "wof:lastmodified":1695886316,
     "wof:name":"Loudima",
     "wof:parent_id":85670027,
     "wof:placetype":"county",

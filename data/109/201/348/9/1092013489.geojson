@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.695994,
-    "geom:area_square_m":8603361109.698374,
+    "geom:area_square_m":8603361109.698286,
     "geom:bbox":"14.9398731083,-1.99661389642,16.350250901,-0.936762446472",
     "geom:latitude":-1.426817,
     "geom:longitude":15.547236,
@@ -80,9 +80,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PL.AB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897084,
-    "wof:geomhash":"6d70394d017b866a772ba7585a0a9d61",
+    "wof:geomhash":"7a7b69a5a78d2bfacbedd80e4f38a561",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -92,7 +93,7 @@
         }
     ],
     "wof:id":1092013489,
-    "wof:lastmodified":1566638966,
+    "wof:lastmodified":1695886315,
     "wof:name":"Abala",
     "wof:parent_id":85670063,
     "wof:placetype":"county",

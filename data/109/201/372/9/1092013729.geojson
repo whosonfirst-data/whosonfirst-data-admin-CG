@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.589242,
-    "geom:area_square_m":7272768747.327156,
+    "geom:area_square_m":7272768747.327053,
     "geom:bbox":"13.8680260238,-4.01980240598,14.8745416606,-2.71970206748",
     "geom:latitude":-3.453484,
     "geom:longitude":14.44815,
@@ -83,9 +83,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.KD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897094,
-    "wof:geomhash":"fb7bdfb5935ca652e59d1289d481abef",
+    "wof:geomhash":"48cadf46fb4ae113d316bb3665c986d2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":1092013729,
-    "wof:lastmodified":1566638973,
+    "wof:lastmodified":1695886317,
     "wof:name":"Kindamba",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

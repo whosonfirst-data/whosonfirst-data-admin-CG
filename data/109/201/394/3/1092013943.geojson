@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.060594,
-    "geom:area_square_m":37834880145.210617,
+    "geom:area_square_m":37834879884.210396,
     "geom:bbox":"14.506376,0.0386,17.047082,2.721711",
     "geom:latitude":1.183884,
     "geom:longitude":16.006232,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.SA.OU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897103,
-    "wof:geomhash":"b22e5880b17a225186ee8879b7dd2f4b",
+    "wof:geomhash":"29d1270b7cd015611c36d5f674a328a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092013943,
-    "wof:lastmodified":1627521990,
+    "wof:lastmodified":1695886463,
     "wof:name":"Ouesso",
     "wof:parent_id":85670035,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.557679,
-    "geom:area_square_m":6884474244.748671,
+    "geom:area_square_m":6884474545.328191,
     "geom:bbox":"15.25352,-3.811181,16.215223,-2.82046",
     "geom:latitude":-3.279012,
     "geom:longitude":15.786522,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.NG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897099,
-    "wof:geomhash":"32ab2dc5b842bc38dcf9118f5ae38a80",
+    "wof:geomhash":"40ad290091a91f3ecd635bd0d5227eb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092013867,
-    "wof:lastmodified":1627521990,
+    "wof:lastmodified":1695886463,
     "wof:name":"Ngab\u00e9",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

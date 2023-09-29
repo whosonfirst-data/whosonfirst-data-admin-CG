@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.237166,
-    "geom:area_square_m":2924733817.701877,
+    "geom:area_square_m":2924733817.701825,
     "geom:bbox":"13.9033039398,-4.517794,14.9178407762,-3.95069752044",
     "geom:latitude":-4.19529,
     "geom:longitude":14.355916,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"CG.PO.MI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897098,
-    "wof:geomhash":"cb3fcd330ed5eb80a747f995ded9242a",
+    "wof:geomhash":"2b0d39cf0fa3e13cc118fd82ca950a53",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092013827,
-    "wof:lastmodified":1566638966,
+    "wof:lastmodified":1695886315,
     "wof:name":"Mindouli",
     "wof:parent_id":85670041,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.404721,
-    "geom:area_square_m":29731772973.000683,
+    "geom:area_square_m":29731770612.051571,
     "geom:bbox":"13.81818,-2.02645,15.27296,1.392461",
     "geom:latitude":-0.1801,
     "geom:longitude":14.648604,
@@ -295,17 +295,19 @@
         "gn:id":2593118,
         "gp:id":55998384,
         "hasc:id":"CG.CO",
+        "iso:code":"CG-15",
         "iso:id":"CG-15",
         "qs_pg:id":1024056,
         "unlc:id":"CG-15",
         "wd:id":"Q125711",
         "wk:page":"Cuvette-Ouest Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8d655b731c6dc4a686abb3b90f476fcd",
+    "wof:geomhash":"ba9c0e598fdd4ade2e4ca59ed8e96720",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865898,
+    "wof:lastmodified":1695884905,
     "wof:name":"Cuvette-Ouest",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

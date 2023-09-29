@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.578471,
-    "geom:area_square_m":7151479787.547089,
+    "geom:area_square_m":7151481001.074135,
     "geom:bbox":"17.56,-0.695171,18.079167,2.063848",
     "geom:latitude":0.893208,
     "geom:longitude":17.808968,
@@ -140,9 +140,10 @@
     "wof:concordances":{
         "hasc:id":"CG.LI.IM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897075,
-    "wof:geomhash":"bc18096f4359dbdd55dc5dad5dfeb218",
+    "wof:geomhash":"bc9333486d21d087dc1ec891fe8feddc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":1092013239,
-    "wof:lastmodified":1636501770,
+    "wof:lastmodified":1695886796,
     "wof:name":"Impfondo",
     "wof:parent_id":85670031,
     "wof:placetype":"county",

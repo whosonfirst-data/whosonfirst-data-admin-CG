@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.238696,
-    "geom:area_square_m":2944181329.01449,
+    "geom:area_square_m":2944182087.509246,
     "geom:bbox":"11.618303,-4.38,12.221769,-3.665969",
     "geom:latitude":-4.038589,
     "geom:longitude":11.94202,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"CG.KL.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897062,
-    "wof:geomhash":"b27bcd370fcf88b8f29100ebad9aeebb",
+    "wof:geomhash":"4bbd824daeb7f988043ef45258d12802",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092012875,
-    "wof:lastmodified":1627521988,
+    "wof:lastmodified":1695886459,
     "wof:name":"Kakamoeka",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

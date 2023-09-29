@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.343653,
-    "geom:area_square_m":4239102821.047575,
+    "geom:area_square_m":4239102821.047551,
     "geom:bbox":"11.1532420114,-4.42260631968,11.903251707,-3.493891",
     "geom:latitude":-3.97057,
     "geom:longitude":11.524021,
@@ -84,9 +84,10 @@
     "wof:concordances":{
         "hasc:id":"CG.KL.MK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897063,
-    "wof:geomhash":"1e6b31473965475c97bbe27bbd943029",
+    "wof:geomhash":"f7c4539a38ee6a82da295501c7044aca",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":1092012923,
-    "wof:lastmodified":1566638964,
+    "wof:lastmodified":1695886314,
     "wof:name":"Madingo-Kayes",
     "wof:parent_id":85670049,
     "wof:placetype":"county",

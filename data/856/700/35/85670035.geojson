@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":4.695393,
-    "geom:area_square_m":58039915315.890869,
+    "geom:area_square_m":58039914803.592636,
     "geom:bbox":"13.125131,0.0386,17.047082,2.721711",
     "geom:latitude":1.380927,
     "geom:longitude":15.382525,
@@ -295,17 +295,19 @@
         "gn:id":2255329,
         "gp:id":2344974,
         "hasc:id":"CG.SA",
+        "iso:code":"CG-13",
         "iso:id":"CG-13",
         "qs_pg:id":894868,
         "unlc:id":"CG-13",
         "wd:id":"Q775410",
         "wk:page":"Sangha Department (Republic of the Congo)"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7b22e1e0b58b4dc85cad35894274a7bb",
+    "wof:geomhash":"49b5db6e711ba2c641e34ae038f3fe06",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865895,
+    "wof:lastmodified":1695884904,
     "wof:name":"Sangha",
     "wof:parent_id":85632541,
     "wof:placetype":"region",

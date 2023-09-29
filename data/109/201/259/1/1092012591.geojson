@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.463071,
-    "geom:area_square_m":5725430456.262282,
+    "geom:area_square_m":5725430501.494494,
     "geom:bbox":"14.421162,-1.191253,15.184831,-0.217232",
     "geom:latitude":-0.74545,
     "geom:longitude":14.818676,
@@ -143,9 +143,10 @@
     "wof:concordances":{
         "hasc:id":"CG.CO.EW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897047,
-    "wof:geomhash":"f99135593f6846c0db4416ebe05317b9",
+    "wof:geomhash":"9fb3b6eb4fe199aa5dc0f64eba3e3e96",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":1092012591,
-    "wof:lastmodified":1636501770,
+    "wof:lastmodified":1695886796,
     "wof:name":"Ewo",
     "wof:parent_id":85670023,
     "wof:placetype":"county",

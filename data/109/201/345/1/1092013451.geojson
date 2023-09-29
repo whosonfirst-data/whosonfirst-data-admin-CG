@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.535496,
-    "geom:area_square_m":6612364414.938438,
+    "geom:area_square_m":6612364684.779228,
     "geom:bbox":"12.264996,-3.52635,13.132908,-2.559498",
     "geom:latitude":-3.004032,
     "geom:longitude":12.675767,
@@ -131,9 +131,10 @@
     "wof:concordances":{
         "hasc:id":"CG.NI.MO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"CG",
     "wof:created":1473897082,
-    "wof:geomhash":"da8ad8b6fcfe776bbf6e6e7d0c5acaf8",
+    "wof:geomhash":"5d09266a505f02074f5772f25cbed585",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":1092013451,
-    "wof:lastmodified":1636501771,
+    "wof:lastmodified":1695886796,
     "wof:name":"Mossendjo",
     "wof:parent_id":85670059,
     "wof:placetype":"county",

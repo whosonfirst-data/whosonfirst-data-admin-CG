@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.250066,
-    "geom:area_square_m":27778928057.433453,
+    "geom:area_square_m":27778927646.502632,
     "geom:bbox":"11.518748,-4.916207,13.58,-1.812376",
     "geom:latitude":-3.135053,
     "geom:longitude":12.460717,
@@ -296,17 +296,19 @@
         "gn:id":2256175,
         "gp:id":2344972,
         "hasc:id":"CG.NI",
+        "iso:code":"CG-9",
         "iso:id":"CG-9",
         "qs_pg:id":235570,
         "unlc:id":"CG-9",
         "wd:id":"Q969317",
         "wk:page":"Niari Department"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"CG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2873e184412288e3981d900d3af080b4",
+    "wof:geomhash":"7b16ee99c62a94b01615ad99f1393a0c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -321,7 +323,7 @@
     "wof:lang_x_spoken":[
         "fra"
     ],
-    "wof:lastmodified":1690865894,
+    "wof:lastmodified":1695884903,
     "wof:name":"Niari",
     "wof:parent_id":85632541,
     "wof:placetype":"region",
